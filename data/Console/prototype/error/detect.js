@@ -1,0 +1,1 @@
+'error' in Console.prototype

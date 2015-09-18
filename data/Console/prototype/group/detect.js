@@ -1,0 +1,1 @@
+'group' in Console.prototype

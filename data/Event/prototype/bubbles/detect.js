@@ -1,0 +1,1 @@
+'bubbles' in Event.prototype

@@ -1,0 +1,1 @@
+'webkitGetUserMedia' in Navigator.prototype

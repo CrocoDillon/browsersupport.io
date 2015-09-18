@@ -1,0 +1,1 @@
+'dirxml' in Console.prototype

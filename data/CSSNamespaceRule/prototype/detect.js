@@ -1,1 +1,1 @@
-'prototype' in CSSNameSpaceRule
+'prototype' in CSSNamespaceRule

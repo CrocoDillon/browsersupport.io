@@ -1,1 +1,1 @@
-'IDLE' in ApplicationCache
+'IDLE' in applicationCache

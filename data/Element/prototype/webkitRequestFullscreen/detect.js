@@ -1,0 +1,1 @@
+'webkitRequestFullscreen' in Element.prototype

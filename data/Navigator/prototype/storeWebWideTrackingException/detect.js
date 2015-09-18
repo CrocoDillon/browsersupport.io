@@ -1,0 +1,1 @@
+'storeWebWideTrackingException' in Navigator.prototype

@@ -1,0 +1,1 @@
+'appName' in Navigator.prototype

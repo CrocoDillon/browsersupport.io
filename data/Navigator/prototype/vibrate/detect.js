@@ -1,0 +1,1 @@
+'vibrate' in Navigator.prototype

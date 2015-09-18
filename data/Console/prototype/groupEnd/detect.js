@@ -1,0 +1,1 @@
+'groupEnd' in Console.prototype

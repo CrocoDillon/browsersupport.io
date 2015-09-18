@@ -1,0 +1,1 @@
+'oscpu' in Navigator.prototype

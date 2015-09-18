@@ -1,0 +1,1 @@
+'msLockOrientation' in Screen.prototype

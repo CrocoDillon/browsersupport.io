@@ -1,0 +1,1 @@
+'deviceYDPI' in Screen.prototype

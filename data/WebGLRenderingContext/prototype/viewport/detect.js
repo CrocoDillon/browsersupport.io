@@ -1,1 +1,1 @@
-'VIEWPORT' in WebGLRenderingContext.prototype
+'viewport' in WebGLRenderingContext.prototype

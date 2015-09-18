@@ -1,1 +1,1 @@
-'OBSOLETE' in ApplicationCache
+'OBSOLETE' in applicationCache

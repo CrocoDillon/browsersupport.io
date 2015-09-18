@@ -1,0 +1,1 @@
+'groupCollapsed' in Console.prototype

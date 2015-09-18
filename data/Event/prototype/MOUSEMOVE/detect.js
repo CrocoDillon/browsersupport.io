@@ -1,0 +1,1 @@
+'MOUSEMOVE' in Event.prototype

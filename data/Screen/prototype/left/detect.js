@@ -1,0 +1,1 @@
+'left' in Screen.prototype

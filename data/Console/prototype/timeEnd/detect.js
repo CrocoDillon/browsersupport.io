@@ -1,0 +1,1 @@
+'timeEnd' in Console.prototype

@@ -1,1 +1,1 @@
-'webkitRequestFullscreen' in Element.prototype
+'webkitRequestFullScreen' in Element.prototype

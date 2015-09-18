@@ -1,0 +1,1 @@
+'isTrusted' in Event.prototype

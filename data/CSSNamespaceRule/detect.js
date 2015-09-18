@@ -1,1 +1,1 @@
-'CSSNameSpaceRule' in this
+'CSSNamespaceRule' in this

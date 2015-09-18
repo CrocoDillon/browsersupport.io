@@ -1,0 +1,1 @@
+'permissions' in Navigator.prototype

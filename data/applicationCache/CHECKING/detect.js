@@ -1,1 +1,1 @@
-'CHECKING' in ApplicationCache
+'CHECKING' in applicationCache
