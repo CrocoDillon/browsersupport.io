@@ -1,0 +1,1 @@
+'toUTCString' in Date.prototype

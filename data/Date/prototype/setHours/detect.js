@@ -1,0 +1,1 @@
+'setHours' in Date.prototype

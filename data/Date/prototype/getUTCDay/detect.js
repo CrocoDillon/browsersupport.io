@@ -1,0 +1,1 @@
+'getUTCDay' in Date.prototype

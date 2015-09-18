@@ -1,0 +1,1 @@
+'setFullYear' in Date.prototype

@@ -1,0 +1,1 @@
+'toDateString' in Date.prototype
