@@ -1,0 +1,1 @@
+'text' in Response.prototype

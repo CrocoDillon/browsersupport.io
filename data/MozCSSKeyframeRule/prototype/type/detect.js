@@ -1,0 +1,1 @@
+'type' in MozCSSKeyframeRule.prototype

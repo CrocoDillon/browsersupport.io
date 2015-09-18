@@ -1,0 +1,1 @@
+'localName' in Attr.prototype

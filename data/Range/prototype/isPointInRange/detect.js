@@ -1,0 +1,1 @@
+'isPointInRange' in Range.prototype

@@ -1,0 +1,1 @@
+'QueryInterface' in CSSStyleRule.prototype

@@ -1,0 +1,1 @@
+'sizes' in HTMLSourceElement.prototype

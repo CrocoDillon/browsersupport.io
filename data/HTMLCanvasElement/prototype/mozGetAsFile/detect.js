@@ -1,0 +1,1 @@
+'mozGetAsFile' in HTMLCanvasElement.prototype

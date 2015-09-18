@@ -1,0 +1,1 @@
+'continue' in DOMCursor.prototype

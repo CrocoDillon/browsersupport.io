@@ -1,0 +1,1 @@
+'getDistributedNodes' in HTMLContentElement.prototype

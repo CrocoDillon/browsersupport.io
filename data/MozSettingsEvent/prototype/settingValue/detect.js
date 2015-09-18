@@ -1,0 +1,1 @@
+'settingValue' in MozSettingsEvent.prototype

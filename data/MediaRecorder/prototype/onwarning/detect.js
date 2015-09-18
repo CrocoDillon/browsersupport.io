@@ -1,0 +1,1 @@
+'onwarning' in MediaRecorder.prototype

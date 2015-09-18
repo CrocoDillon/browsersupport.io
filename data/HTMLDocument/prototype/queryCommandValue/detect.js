@@ -1,0 +1,1 @@
+'queryCommandValue' in HTMLDocument.prototype

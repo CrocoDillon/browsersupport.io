@@ -1,0 +1,1 @@
+'UNCACHED' in OfflineResourceList

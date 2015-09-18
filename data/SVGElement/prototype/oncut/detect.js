@@ -1,0 +1,1 @@
+'oncut' in SVGElement.prototype

@@ -1,0 +1,1 @@
+'contactID' in MozContactChangeEvent.prototype

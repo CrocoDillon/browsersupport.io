@@ -1,0 +1,1 @@
+'close' in BroadcastChannel.prototype

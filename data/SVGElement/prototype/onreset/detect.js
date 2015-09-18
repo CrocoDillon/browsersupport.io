@@ -1,0 +1,1 @@
+'onreset' in SVGElement.prototype

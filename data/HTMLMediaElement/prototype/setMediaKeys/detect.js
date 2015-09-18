@@ -1,0 +1,1 @@
+'setMediaKeys' in HTMLMediaElement.prototype

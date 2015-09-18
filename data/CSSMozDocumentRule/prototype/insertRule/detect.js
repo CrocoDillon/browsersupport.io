@@ -1,0 +1,1 @@
+'insertRule' in CSSMozDocumentRule.prototype

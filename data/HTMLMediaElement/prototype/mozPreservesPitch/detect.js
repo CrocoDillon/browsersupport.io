@@ -1,0 +1,1 @@
+'mozPreservesPitch' in HTMLMediaElement.prototype

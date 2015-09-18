@@ -1,0 +1,1 @@
+'olderShadowRoot' in HTMLShadowElement.prototype

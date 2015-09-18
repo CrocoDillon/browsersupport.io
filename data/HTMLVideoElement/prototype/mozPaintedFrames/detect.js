@@ -1,0 +1,1 @@
+'mozPaintedFrames' in HTMLVideoElement.prototype

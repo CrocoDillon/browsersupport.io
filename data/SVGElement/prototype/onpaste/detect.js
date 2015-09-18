@@ -1,0 +1,1 @@
+'onpaste' in SVGElement.prototype

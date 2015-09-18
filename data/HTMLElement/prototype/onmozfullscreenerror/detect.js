@@ -1,0 +1,1 @@
+'onmozfullscreenerror' in HTMLElement.prototype

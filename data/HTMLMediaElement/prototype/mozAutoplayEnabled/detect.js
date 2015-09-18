@@ -1,0 +1,1 @@
+'mozAutoplayEnabled' in HTMLMediaElement.prototype

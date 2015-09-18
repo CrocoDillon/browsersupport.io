@@ -1,0 +1,1 @@
+'scoped' in SVGStyleElement.prototype

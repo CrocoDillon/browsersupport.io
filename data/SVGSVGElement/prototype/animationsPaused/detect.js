@@ -1,0 +1,1 @@
+'animationsPaused' in SVGSVGElement.prototype

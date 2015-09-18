@@ -1,0 +1,1 @@
+'snapToLines' in VTTCue.prototype

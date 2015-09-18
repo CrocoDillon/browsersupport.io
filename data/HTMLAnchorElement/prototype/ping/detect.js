@@ -1,0 +1,1 @@
+'ping' in HTMLAnchorElement.prototype

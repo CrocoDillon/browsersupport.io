@@ -1,0 +1,1 @@
+'stdDeviationX' in SVGFEDropShadowElement.prototype

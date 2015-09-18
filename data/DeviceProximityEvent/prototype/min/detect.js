@@ -1,0 +1,1 @@
+'min' in DeviceProximityEvent.prototype

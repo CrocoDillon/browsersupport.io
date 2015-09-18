@@ -1,0 +1,1 @@
+'ok' in Response.prototype

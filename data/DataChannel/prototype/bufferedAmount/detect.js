@@ -1,0 +1,1 @@
+'bufferedAmount' in DataChannel.prototype

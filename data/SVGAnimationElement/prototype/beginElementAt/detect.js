@@ -1,0 +1,1 @@
+'beginElementAt' in SVGAnimationElement.prototype

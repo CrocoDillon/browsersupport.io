@@ -1,0 +1,1 @@
+'threadId' in MozSmsMessage.prototype

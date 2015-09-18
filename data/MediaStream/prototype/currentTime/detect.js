@@ -1,0 +1,1 @@
+'currentTime' in MediaStream.prototype

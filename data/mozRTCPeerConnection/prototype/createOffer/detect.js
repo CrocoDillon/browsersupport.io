@@ -1,0 +1,1 @@
+'createOffer' in mozRTCPeerConnection.prototype

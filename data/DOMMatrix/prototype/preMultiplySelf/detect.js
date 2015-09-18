@@ -1,0 +1,1 @@
+'preMultiplySelf' in DOMMatrix.prototype

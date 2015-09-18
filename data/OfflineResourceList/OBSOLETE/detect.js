@@ -1,0 +1,1 @@
+'OBSOLETE' in OfflineResourceList

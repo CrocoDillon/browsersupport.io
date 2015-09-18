@@ -1,0 +1,1 @@
+'hasExtension' in SVGGraphicsElement.prototype

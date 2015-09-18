@@ -1,0 +1,1 @@
+'onlevelchange' in BatteryManager.prototype

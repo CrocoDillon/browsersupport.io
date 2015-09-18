@@ -1,0 +1,1 @@
+'resume' in AudioContext.prototype

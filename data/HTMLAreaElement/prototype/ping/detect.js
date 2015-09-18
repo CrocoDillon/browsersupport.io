@@ -1,0 +1,1 @@
+'ping' in HTMLAreaElement.prototype

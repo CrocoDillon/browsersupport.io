@@ -1,0 +1,1 @@
+'name' in mozContact.prototype

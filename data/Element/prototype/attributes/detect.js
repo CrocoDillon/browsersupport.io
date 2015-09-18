@@ -1,0 +1,1 @@
+'attributes' in Element.prototype

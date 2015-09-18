@@ -1,0 +1,1 @@
+'fileName' in RangeError.prototype

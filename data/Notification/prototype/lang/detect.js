@@ -1,0 +1,1 @@
+'lang' in Notification.prototype

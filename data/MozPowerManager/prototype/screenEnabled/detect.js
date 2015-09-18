@@ -1,0 +1,1 @@
+'screenEnabled' in MozPowerManager.prototype

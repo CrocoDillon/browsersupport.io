@@ -1,0 +1,1 @@
+'onscroll' in SVGElement.prototype

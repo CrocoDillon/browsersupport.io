@@ -1,0 +1,1 @@
+'abort' in IDBFileHandle.prototype

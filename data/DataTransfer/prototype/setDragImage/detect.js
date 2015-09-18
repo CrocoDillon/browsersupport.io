@@ -1,0 +1,1 @@
+'setDragImage' in DataTransfer.prototype

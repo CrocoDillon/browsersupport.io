@@ -1,0 +1,1 @@
+'domain' in SVGDocument.prototype

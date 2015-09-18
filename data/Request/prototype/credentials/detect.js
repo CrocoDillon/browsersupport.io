@@ -1,0 +1,1 @@
+'credentials' in Request.prototype

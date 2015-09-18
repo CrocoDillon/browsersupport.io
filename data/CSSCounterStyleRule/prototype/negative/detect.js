@@ -1,0 +1,1 @@
+'negative' in CSSCounterStyleRule.prototype

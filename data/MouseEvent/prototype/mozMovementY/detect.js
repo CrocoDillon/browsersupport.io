@@ -1,0 +1,1 @@
+'mozMovementY' in MouseEvent.prototype

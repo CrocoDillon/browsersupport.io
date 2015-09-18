@@ -1,0 +1,1 @@
+'isGenerator' in Function.prototype

@@ -1,0 +1,1 @@
+'database' in IDBMutableFile.prototype

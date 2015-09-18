@@ -1,0 +1,1 @@
+'onnegotiationneeded' in mozRTCPeerConnection.prototype

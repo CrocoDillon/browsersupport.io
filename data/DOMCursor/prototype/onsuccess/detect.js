@@ -1,0 +1,1 @@
+'onsuccess' in DOMCursor.prototype

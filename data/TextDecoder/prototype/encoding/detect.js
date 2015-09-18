@@ -1,0 +1,1 @@
+'encoding' in TextDecoder.prototype

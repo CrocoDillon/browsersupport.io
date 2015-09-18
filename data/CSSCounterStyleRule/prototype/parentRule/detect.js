@@ -1,0 +1,1 @@
+'parentRule' in CSSCounterStyleRule.prototype

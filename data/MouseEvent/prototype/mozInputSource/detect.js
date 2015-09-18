@@ -1,0 +1,1 @@
+'mozInputSource' in MouseEvent.prototype

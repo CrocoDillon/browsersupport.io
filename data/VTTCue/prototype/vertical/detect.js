@@ -1,0 +1,1 @@
+'vertical' in VTTCue.prototype

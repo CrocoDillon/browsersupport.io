@@ -1,0 +1,1 @@
+'onmozfullscreenchange' in Document.prototype

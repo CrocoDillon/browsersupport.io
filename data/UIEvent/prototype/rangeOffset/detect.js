@@ -1,0 +1,1 @@
+'rangeOffset' in UIEvent.prototype

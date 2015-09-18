@@ -1,0 +1,1 @@
+'createMutableFile' in IDBDatabase.prototype

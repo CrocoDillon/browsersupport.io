@@ -1,0 +1,1 @@
+'cssText' in CSSStyleRule.prototype

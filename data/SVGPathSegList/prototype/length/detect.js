@@ -1,0 +1,1 @@
+'length' in SVGPathSegList.prototype

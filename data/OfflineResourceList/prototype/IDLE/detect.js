@@ -1,0 +1,1 @@
+'IDLE' in OfflineResourceList.prototype

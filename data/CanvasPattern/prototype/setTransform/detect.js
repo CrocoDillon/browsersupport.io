@@ -1,0 +1,1 @@
+'setTransform' in CanvasPattern.prototype

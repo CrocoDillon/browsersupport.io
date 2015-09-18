@@ -1,0 +1,1 @@
+'initMouseScrollEvent' in MouseScrollEvent.prototype

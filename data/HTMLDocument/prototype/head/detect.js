@@ -1,0 +1,1 @@
+'head' in HTMLDocument.prototype

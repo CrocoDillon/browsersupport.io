@@ -1,0 +1,1 @@
+'multiEntry' in IDBIndex.prototype

@@ -1,0 +1,1 @@
+'mozHasAudio' in HTMLVideoElement.prototype

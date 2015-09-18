@@ -1,0 +1,1 @@
+'primitiveType' in CSSPrimitiveValue.prototype

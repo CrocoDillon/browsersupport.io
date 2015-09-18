@@ -1,0 +1,1 @@
+'getIdentityAssertion' in mozRTCPeerConnection.prototype

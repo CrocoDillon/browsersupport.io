@@ -1,0 +1,1 @@
+'mozTypesAt' in DataTransfer.prototype

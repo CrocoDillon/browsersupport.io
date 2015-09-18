@@ -1,0 +1,1 @@
+'reliable' in DataChannel.prototype

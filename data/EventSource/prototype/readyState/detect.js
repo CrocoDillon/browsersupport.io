@@ -1,0 +1,1 @@
+'readyState' in EventSource.prototype

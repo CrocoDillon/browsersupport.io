@@ -1,0 +1,1 @@
+'bounds' in DOMQuad.prototype

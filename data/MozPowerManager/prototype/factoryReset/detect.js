@@ -1,0 +1,1 @@
+'factoryReset' in MozPowerManager.prototype

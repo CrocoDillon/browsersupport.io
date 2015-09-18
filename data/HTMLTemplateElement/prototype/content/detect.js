@@ -1,0 +1,1 @@
+'content' in HTMLTemplateElement.prototype

@@ -1,0 +1,1 @@
+'itemType' in HTMLElement.prototype

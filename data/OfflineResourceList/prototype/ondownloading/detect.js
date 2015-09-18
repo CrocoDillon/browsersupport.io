@@ -1,0 +1,1 @@
+'ondownloading' in OfflineResourceList.prototype

@@ -1,0 +1,1 @@
+'clear' in WeakSet.prototype

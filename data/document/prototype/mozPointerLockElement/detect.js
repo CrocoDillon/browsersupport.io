@@ -1,0 +1,1 @@
+'mozPointerLockElement' in Document.prototype

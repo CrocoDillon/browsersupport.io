@@ -1,0 +1,1 @@
+'allowedDirections' in SimpleGestureEvent.prototype

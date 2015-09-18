@@ -1,0 +1,1 @@
+'buildID' in Navigator.prototype

@@ -1,0 +1,1 @@
+'close' in mozRTCPeerConnection.prototype

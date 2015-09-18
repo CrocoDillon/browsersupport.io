@@ -1,0 +1,1 @@
+'binaryType' in DataChannel.prototype

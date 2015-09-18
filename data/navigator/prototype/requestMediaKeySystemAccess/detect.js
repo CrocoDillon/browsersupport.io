@@ -1,0 +1,1 @@
+'requestMediaKeySystemAccess' in Navigator.prototype

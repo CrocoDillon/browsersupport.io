@@ -1,0 +1,1 @@
+'arrayBuffer' in Response.prototype

@@ -1,0 +1,1 @@
+'deliveryTimestamp' in MozSmsMessage.prototype

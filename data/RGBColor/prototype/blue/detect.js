@@ -1,0 +1,1 @@
+'blue' in RGBColor.prototype

@@ -1,0 +1,1 @@
+'itemProp' in HTMLElement.prototype

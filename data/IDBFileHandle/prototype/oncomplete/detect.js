@@ -1,0 +1,1 @@
+'oncomplete' in IDBFileHandle.prototype

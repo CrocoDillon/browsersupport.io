@@ -1,0 +1,1 @@
+'names' in HTMLPropertiesCollection.prototype

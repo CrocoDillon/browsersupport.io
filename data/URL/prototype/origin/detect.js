@@ -1,0 +1,1 @@
+'origin' in URL.prototype

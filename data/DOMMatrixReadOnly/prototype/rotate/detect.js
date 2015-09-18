@@ -1,0 +1,1 @@
+'rotate' in DOMMatrixReadOnly.prototype

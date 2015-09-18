@@ -1,0 +1,1 @@
+'srcset' in HTMLSourceElement.prototype

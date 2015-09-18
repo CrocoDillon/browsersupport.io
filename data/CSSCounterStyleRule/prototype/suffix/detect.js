@@ -1,0 +1,1 @@
+'suffix' in CSSCounterStyleRule.prototype

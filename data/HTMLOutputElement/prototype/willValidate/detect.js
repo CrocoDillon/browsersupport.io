@@ -1,0 +1,1 @@
+'willValidate' in HTMLOutputElement.prototype

@@ -1,0 +1,1 @@
+'popupWindowFeatures' in PopupBlockedEvent.prototype

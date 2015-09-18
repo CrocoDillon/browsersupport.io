@@ -1,0 +1,1 @@
+'org' in mozContact.prototype

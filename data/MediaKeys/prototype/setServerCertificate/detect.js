@@ -1,0 +1,1 @@
+'setServerCertificate' in MediaKeys.prototype

@@ -1,0 +1,1 @@
+'mozFullScreenEnabled' in Document.prototype

@@ -1,0 +1,1 @@
+'mozRequestPointerLock' in Element.prototype

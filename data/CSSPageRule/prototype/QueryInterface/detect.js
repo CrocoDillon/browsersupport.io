@@ -1,0 +1,1 @@
+'QueryInterface' in CSSPageRule.prototype

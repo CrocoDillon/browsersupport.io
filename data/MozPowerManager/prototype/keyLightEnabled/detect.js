@@ -1,0 +1,1 @@
+'keyLightEnabled' in MozPowerManager.prototype

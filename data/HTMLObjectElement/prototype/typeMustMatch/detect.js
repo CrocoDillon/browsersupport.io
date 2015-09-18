@@ -1,0 +1,1 @@
+'typeMustMatch' in HTMLObjectElement.prototype

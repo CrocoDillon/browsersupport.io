@@ -1,0 +1,1 @@
+'parentStyleSheet' in CSSPageRule.prototype

@@ -1,0 +1,1 @@
+'designMode' in HTMLDocument.prototype

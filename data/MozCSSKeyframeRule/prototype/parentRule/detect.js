@@ -1,0 +1,1 @@
+'parentRule' in MozCSSKeyframeRule.prototype

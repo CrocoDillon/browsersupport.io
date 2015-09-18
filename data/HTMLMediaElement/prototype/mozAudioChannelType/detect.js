@@ -1,0 +1,1 @@
+'mozAudioChannelType' in HTMLMediaElement.prototype

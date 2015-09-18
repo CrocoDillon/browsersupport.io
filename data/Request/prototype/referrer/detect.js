@@ -1,0 +1,1 @@
+'referrer' in Request.prototype

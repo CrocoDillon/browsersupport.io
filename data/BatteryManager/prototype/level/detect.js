@@ -1,0 +1,1 @@
+'level' in BatteryManager.prototype

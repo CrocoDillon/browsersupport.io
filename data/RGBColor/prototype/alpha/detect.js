@@ -1,0 +1,1 @@
+'alpha' in RGBColor.prototype

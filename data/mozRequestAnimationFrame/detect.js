@@ -1,0 +1,1 @@
+'mozRequestAnimationFrame' in this

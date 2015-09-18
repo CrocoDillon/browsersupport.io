@@ -1,0 +1,1 @@
+'oncontextmenu' in SVGElement.prototype

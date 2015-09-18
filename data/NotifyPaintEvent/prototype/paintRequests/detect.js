@@ -1,0 +1,1 @@
+'paintRequests' in NotifyPaintEvent.prototype

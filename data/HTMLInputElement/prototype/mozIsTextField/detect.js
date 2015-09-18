@@ -1,0 +1,1 @@
+'mozIsTextField' in HTMLInputElement.prototype

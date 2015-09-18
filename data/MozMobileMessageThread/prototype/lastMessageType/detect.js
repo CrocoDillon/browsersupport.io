@@ -1,0 +1,1 @@
+'lastMessageType' in MozMobileMessageThread.prototype

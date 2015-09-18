@@ -1,0 +1,1 @@
+'onnoupdate' in OfflineResourceList.prototype

@@ -1,0 +1,1 @@
+'remove' in MediaKeySession.prototype

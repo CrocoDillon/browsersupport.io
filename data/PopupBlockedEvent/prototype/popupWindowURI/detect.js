@@ -1,0 +1,1 @@
+'popupWindowURI' in PopupBlockedEvent.prototype

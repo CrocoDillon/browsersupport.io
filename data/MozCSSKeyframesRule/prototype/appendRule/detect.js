@@ -1,0 +1,1 @@
+'appendRule' in MozCSSKeyframesRule.prototype

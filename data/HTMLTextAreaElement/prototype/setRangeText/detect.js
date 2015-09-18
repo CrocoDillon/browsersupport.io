@@ -1,0 +1,1 @@
+'setRangeText' in HTMLTextAreaElement.prototype

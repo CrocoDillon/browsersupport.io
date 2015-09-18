@@ -1,0 +1,1 @@
+'nickname' in mozContact.prototype

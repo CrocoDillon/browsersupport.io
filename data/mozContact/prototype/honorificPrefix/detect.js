@@ -1,0 +1,1 @@
+'honorificPrefix' in mozContact.prototype

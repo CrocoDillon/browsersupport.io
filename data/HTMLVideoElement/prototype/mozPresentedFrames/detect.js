@@ -1,0 +1,1 @@
+'mozPresentedFrames' in HTMLVideoElement.prototype

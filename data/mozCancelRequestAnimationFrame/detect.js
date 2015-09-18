@@ -1,0 +1,1 @@
+'mozCancelRequestAnimationFrame' in this

@@ -1,0 +1,1 @@
+'getCounterValue' in CSSPrimitiveValue.prototype

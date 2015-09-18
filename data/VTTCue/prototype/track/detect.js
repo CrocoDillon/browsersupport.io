@@ -1,0 +1,1 @@
+'track' in VTTCue.prototype

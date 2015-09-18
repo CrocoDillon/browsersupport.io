@@ -1,0 +1,1 @@
+'animatedPathSegList' in SVGPathElement.prototype
