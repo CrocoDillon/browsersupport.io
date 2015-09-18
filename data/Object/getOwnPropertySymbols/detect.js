@@ -1,0 +1,1 @@
+'getOwnPropertySymbols' in Object

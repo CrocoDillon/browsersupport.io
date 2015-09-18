@@ -1,0 +1,1 @@
+'rightContext' in RegExp

@@ -1,0 +1,1 @@
+'type' in SyntaxError.prototype

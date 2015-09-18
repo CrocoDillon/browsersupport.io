@@ -1,0 +1,1 @@
+'getOwnPropertyDescriptor' in Object

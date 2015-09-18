@@ -1,0 +1,1 @@
+'splice' in Array.prototype

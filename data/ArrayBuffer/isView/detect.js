@@ -1,0 +1,1 @@
+'isView' in ArrayBuffer

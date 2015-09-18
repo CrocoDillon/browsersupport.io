@@ -1,0 +1,1 @@
+'has' in Map.prototype

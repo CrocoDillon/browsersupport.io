@@ -1,0 +1,1 @@
+'byteOffset' in DataView.prototype

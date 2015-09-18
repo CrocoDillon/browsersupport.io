@@ -1,0 +1,1 @@
+'setMilliseconds' in Date.prototype

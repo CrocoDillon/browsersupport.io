@@ -1,0 +1,1 @@
+'sub' in String.prototype
