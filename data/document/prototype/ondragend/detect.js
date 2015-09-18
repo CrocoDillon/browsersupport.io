@@ -1,0 +1,1 @@
+'ondragend' in Document.prototype

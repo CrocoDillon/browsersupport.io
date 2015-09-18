@@ -1,0 +1,1 @@
+'enctype' in HTMLFormElement.prototype

@@ -1,0 +1,1 @@
+'setStdDeviation' in SVGFEGaussianBlurElement.prototype

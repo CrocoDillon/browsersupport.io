@@ -1,0 +1,1 @@
+'bottom' in ClientRect.prototype

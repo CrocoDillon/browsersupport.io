@@ -1,0 +1,1 @@
+'backgroundPosition' in CSSStyleDeclaration.prototype

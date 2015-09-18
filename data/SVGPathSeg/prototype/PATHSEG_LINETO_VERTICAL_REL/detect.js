@@ -1,0 +1,1 @@
+'PATHSEG_LINETO_VERTICAL_REL' in SVGPathSeg.prototype

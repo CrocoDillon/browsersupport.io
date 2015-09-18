@@ -1,0 +1,1 @@
+'target' in SVGAElement.prototype

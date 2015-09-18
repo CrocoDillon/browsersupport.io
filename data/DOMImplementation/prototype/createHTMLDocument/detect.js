@@ -1,0 +1,1 @@
+'createHTMLDocument' in DOMImplementation.prototype

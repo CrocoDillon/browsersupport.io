@@ -1,0 +1,1 @@
+'pressure' in PointerEvent.prototype

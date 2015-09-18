@@ -1,0 +1,1 @@
+'ondblclick' in Document.prototype

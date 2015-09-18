@@ -1,0 +1,1 @@
+'checkFramebufferStatus' in WebGLRenderingContext.prototype

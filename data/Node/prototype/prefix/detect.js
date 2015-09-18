@@ -1,0 +1,1 @@
+'prefix' in Node.prototype

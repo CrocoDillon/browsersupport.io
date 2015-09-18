@@ -1,0 +1,1 @@
+'detune' in BiquadFilterNode.prototype

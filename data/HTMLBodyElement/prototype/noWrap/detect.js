@@ -1,0 +1,1 @@
+'noWrap' in HTMLBodyElement.prototype

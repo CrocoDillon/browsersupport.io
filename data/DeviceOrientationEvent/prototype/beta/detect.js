@@ -1,0 +1,1 @@
+'beta' in DeviceOrientationEvent.prototype

@@ -1,0 +1,1 @@
+'onnoupdate' in ApplicationCache.prototype

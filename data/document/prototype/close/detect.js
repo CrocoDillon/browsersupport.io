@@ -1,0 +1,1 @@
+'close' in Document.prototype

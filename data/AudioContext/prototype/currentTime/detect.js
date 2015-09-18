@@ -1,0 +1,1 @@
+'currentTime' in AudioContext.prototype

@@ -1,0 +1,1 @@
+'distanceModel' in PannerNode.prototype

@@ -1,0 +1,1 @@
+'initPopStateEvent' in PopStateEvent.prototype

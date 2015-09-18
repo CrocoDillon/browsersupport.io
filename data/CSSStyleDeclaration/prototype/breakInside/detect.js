@@ -1,0 +1,1 @@
+'breakInside' in CSSStyleDeclaration.prototype

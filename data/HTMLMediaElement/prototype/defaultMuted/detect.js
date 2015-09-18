@@ -1,0 +1,1 @@
+'defaultMuted' in HTMLMediaElement.prototype

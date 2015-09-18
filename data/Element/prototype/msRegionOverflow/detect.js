@@ -1,0 +1,1 @@
+'msRegionOverflow' in Element.prototype

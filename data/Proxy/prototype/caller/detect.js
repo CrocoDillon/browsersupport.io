@@ -1,0 +1,1 @@
+'caller' in Proxy.prototype

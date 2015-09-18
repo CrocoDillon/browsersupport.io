@@ -1,0 +1,1 @@
+'farthestViewportElement' in SVGDefsElement.prototype

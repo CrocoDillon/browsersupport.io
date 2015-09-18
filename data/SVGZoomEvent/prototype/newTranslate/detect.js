@@ -1,0 +1,1 @@
+'newTranslate' in SVGZoomEvent.prototype

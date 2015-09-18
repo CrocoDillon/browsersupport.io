@@ -1,0 +1,1 @@
+'extend' in Selection.prototype

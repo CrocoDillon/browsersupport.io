@@ -1,0 +1,1 @@
+'diffuseConstant' in SVGFEDiffuseLightingElement.prototype

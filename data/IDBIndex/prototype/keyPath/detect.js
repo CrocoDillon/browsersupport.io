@@ -1,0 +1,1 @@
+'keyPath' in IDBIndex.prototype

@@ -1,0 +1,1 @@
+'webkitBoxOrient' in CSSStyleDeclaration.prototype

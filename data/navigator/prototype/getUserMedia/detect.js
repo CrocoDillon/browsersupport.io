@@ -1,0 +1,1 @@
+'getUserMedia' in Navigator.prototype

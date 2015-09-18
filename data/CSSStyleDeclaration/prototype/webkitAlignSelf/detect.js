@@ -1,0 +1,1 @@
+'webkitAlignSelf' in CSSStyleDeclaration.prototype

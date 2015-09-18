@@ -1,0 +1,1 @@
+'getCompositionAlternatives' in MSInputMethodContext.prototype

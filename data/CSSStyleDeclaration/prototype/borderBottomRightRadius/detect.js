@@ -1,0 +1,1 @@
+'borderBottomRightRadius' in CSSStyleDeclaration.prototype

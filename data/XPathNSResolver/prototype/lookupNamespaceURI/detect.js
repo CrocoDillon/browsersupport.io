@@ -1,0 +1,1 @@
+'lookupNamespaceURI' in XPathNSResolver.prototype

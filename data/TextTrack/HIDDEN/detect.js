@@ -1,0 +1,1 @@
+'HIDDEN' in TextTrack

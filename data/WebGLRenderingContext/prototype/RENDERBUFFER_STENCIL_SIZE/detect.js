@@ -1,0 +1,1 @@
+'RENDERBUFFER_STENCIL_SIZE' in WebGLRenderingContext.prototype

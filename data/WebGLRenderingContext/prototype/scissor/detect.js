@@ -1,0 +1,1 @@
+'scissor' in WebGLRenderingContext.prototype

@@ -1,0 +1,1 @@
+'onmsmanipulationstatechanged' in HTMLElement.prototype

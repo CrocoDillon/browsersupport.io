@@ -1,0 +1,1 @@
+'RENDERBUFFER_BLUE_SIZE' in WebGLRenderingContext

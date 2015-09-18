@@ -1,0 +1,1 @@
+'deltaZ' in WheelEvent.prototype

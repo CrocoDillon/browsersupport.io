@@ -1,0 +1,1 @@
+'MS_MANIPULATION_STATE_INERTIA' in MSManipulationEvent

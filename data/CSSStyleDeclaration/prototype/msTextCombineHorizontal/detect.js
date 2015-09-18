@@ -1,0 +1,1 @@
+'msTextCombineHorizontal' in CSSStyleDeclaration.prototype

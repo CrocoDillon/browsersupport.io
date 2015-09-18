@@ -1,0 +1,1 @@
+'requiredExtensions' in SVGUseElement.prototype

@@ -1,0 +1,1 @@
+'VERTEX_ATTRIB_ARRAY_NORMALIZED' in WebGLRenderingContext.prototype

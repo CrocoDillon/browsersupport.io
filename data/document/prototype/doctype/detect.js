@@ -1,0 +1,1 @@
+'doctype' in Document.prototype

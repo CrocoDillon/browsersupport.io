@@ -1,0 +1,1 @@
+'rotation' in PointerEvent.prototype

@@ -1,0 +1,1 @@
+'chOff' in HTMLTableColElement.prototype

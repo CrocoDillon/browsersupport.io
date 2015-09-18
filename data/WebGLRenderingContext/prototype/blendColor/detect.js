@@ -1,0 +1,1 @@
+'blendColor' in WebGLRenderingContext.prototype

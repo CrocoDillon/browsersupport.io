@@ -1,0 +1,1 @@
+'clearStencil' in WebGLRenderingContext.prototype

@@ -1,0 +1,1 @@
+'gamma' in DeviceRotationRate.prototype

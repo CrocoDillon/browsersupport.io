@@ -1,0 +1,1 @@
+'inputMethod' in TextEvent.prototype

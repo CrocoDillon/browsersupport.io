@@ -1,0 +1,1 @@
+'breakAfter' in CSSStyleDeclaration.prototype

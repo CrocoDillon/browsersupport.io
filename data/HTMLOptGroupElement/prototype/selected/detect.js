@@ -1,0 +1,1 @@
+'selected' in HTMLOptGroupElement.prototype

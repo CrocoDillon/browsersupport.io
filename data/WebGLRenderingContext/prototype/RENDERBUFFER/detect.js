@@ -1,0 +1,1 @@
+'RENDERBUFFER' in WebGLRenderingContext.prototype

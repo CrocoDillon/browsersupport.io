@@ -1,0 +1,1 @@
+'deleteTFoot' in HTMLTableElement.prototype

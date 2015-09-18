@@ -1,0 +1,1 @@
+'close' in MSMediaKeySession.prototype

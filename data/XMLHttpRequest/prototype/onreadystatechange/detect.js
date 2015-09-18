@@ -1,0 +1,1 @@
+'onreadystatechange' in XMLHttpRequest.prototype

@@ -1,0 +1,1 @@
+'removeItem' in SVGPathSegList.prototype

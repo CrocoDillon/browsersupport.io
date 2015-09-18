@@ -1,0 +1,1 @@
+'webkitFlexGrow' in CSSStyleDeclaration.prototype

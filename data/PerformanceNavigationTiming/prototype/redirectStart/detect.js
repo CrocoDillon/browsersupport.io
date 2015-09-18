@@ -1,0 +1,1 @@
+'redirectStart' in PerformanceNavigationTiming.prototype

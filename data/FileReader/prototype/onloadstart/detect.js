@@ -1,0 +1,1 @@
+'onloadstart' in FileReader.prototype

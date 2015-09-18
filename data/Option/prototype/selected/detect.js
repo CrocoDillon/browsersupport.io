@@ -1,0 +1,1 @@
+'selected' in Option.prototype

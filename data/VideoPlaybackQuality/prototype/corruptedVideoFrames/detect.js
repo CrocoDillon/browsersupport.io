@@ -1,0 +1,1 @@
+'corruptedVideoFrames' in VideoPlaybackQuality.prototype

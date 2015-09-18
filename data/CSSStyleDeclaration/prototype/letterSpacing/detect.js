@@ -1,0 +1,1 @@
+'letterSpacing' in CSSStyleDeclaration.prototype

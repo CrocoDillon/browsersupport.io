@@ -1,0 +1,1 @@
+'deleteShader' in WebGLRenderingContext.prototype

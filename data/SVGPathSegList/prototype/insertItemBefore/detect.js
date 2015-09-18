@@ -1,0 +1,1 @@
+'insertItemBefore' in SVGPathSegList.prototype

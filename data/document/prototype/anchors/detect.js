@@ -1,0 +1,1 @@
+'anchors' in Document.prototype

@@ -1,0 +1,1 @@
+'hasFocus' in Document.prototype

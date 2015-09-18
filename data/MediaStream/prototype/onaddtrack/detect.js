@@ -1,0 +1,1 @@
+'onaddtrack' in MediaStream.prototype

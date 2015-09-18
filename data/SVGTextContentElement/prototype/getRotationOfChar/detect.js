@@ -1,0 +1,1 @@
+'getRotationOfChar' in SVGTextContentElement.prototype

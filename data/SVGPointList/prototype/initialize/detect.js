@@ -1,0 +1,1 @@
+'initialize' in SVGPointList.prototype

@@ -1,0 +1,1 @@
+'webkitMatchesSelector' in Element.prototype

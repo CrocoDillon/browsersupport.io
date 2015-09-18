@@ -1,0 +1,1 @@
+'backgroundImage' in CSSStyleDeclaration.prototype

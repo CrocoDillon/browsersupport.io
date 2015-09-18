@@ -1,0 +1,1 @@
+'hideFocus' in HTMLElement.prototype

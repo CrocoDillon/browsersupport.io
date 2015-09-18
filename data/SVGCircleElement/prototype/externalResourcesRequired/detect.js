@@ -1,0 +1,1 @@
+'externalResourcesRequired' in SVGCircleElement.prototype

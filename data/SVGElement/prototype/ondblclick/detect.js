@@ -1,0 +1,1 @@
+'ondblclick' in SVGElement.prototype

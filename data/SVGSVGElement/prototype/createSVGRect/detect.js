@@ -1,0 +1,1 @@
+'createSVGRect' in SVGSVGElement.prototype

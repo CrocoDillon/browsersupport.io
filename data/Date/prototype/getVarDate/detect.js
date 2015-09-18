@@ -1,0 +1,1 @@
+'getVarDate' in Date.prototype

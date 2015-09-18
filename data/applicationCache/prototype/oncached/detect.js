@@ -1,0 +1,1 @@
+'oncached' in ApplicationCache.prototype

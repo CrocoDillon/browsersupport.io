@@ -1,0 +1,1 @@
+'clear' in Document.prototype

@@ -1,0 +1,1 @@
+'getElementById' in SVGSVGElement.prototype

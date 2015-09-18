@@ -1,0 +1,1 @@
+'rowSpan' in HTMLTableCellElement.prototype

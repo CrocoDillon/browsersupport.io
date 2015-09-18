@@ -1,0 +1,1 @@
+'backfaceVisibility' in CSSStyleDeclaration.prototype

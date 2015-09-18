@@ -1,0 +1,1 @@
+'confirmSiteSpecificTrackingException' in Navigator.prototype

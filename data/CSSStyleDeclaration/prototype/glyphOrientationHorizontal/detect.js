@@ -1,0 +1,1 @@
+'glyphOrientationHorizontal' in CSSStyleDeclaration.prototype

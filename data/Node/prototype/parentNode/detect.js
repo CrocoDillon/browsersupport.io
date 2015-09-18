@@ -1,0 +1,1 @@
+'parentNode' in Node.prototype

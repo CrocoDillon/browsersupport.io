@@ -1,0 +1,1 @@
+'align' in HTMLTableCellElement.prototype

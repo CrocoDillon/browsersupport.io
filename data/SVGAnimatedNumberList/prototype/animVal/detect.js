@@ -1,0 +1,1 @@
+'animVal' in SVGAnimatedNumberList.prototype

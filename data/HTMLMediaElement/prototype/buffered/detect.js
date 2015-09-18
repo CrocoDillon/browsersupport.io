@@ -1,0 +1,1 @@
+'buffered' in HTMLMediaElement.prototype

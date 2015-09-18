@@ -1,0 +1,1 @@
+'getAttachedShaders' in WebGLRenderingContext.prototype

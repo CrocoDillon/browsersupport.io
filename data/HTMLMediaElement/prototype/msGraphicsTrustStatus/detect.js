@@ -1,0 +1,1 @@
+'msGraphicsTrustStatus' in HTMLMediaElement.prototype

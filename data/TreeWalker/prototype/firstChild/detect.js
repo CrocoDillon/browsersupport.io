@@ -1,0 +1,1 @@
+'firstChild' in TreeWalker.prototype

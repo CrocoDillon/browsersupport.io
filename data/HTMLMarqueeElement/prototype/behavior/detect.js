@@ -1,0 +1,1 @@
+'behavior' in HTMLMarqueeElement.prototype

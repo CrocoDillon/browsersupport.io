@@ -1,0 +1,1 @@
+'getContextAttributes' in WebGLRenderingContext.prototype

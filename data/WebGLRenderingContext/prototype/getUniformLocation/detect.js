@@ -1,0 +1,1 @@
+'getUniformLocation' in WebGLRenderingContext.prototype

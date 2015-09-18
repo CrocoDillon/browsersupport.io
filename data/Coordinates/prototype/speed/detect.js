@@ -1,0 +1,1 @@
+'speed' in Coordinates.prototype

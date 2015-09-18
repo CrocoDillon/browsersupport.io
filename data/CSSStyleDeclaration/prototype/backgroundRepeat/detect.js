@@ -1,0 +1,1 @@
+'backgroundRepeat' in CSSStyleDeclaration.prototype

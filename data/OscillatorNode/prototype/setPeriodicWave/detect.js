@@ -1,0 +1,1 @@
+'setPeriodicWave' in OscillatorNode.prototype

@@ -1,0 +1,1 @@
+'Methods' in HTMLAnchorElement.prototype

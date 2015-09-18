@@ -1,0 +1,1 @@
+'elapsedTime' in TransitionEvent.prototype

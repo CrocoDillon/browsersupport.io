@@ -1,0 +1,1 @@
+'clear' in SVGPointList.prototype

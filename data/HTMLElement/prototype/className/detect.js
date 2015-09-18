@@ -1,0 +1,1 @@
+'className' in HTMLElement.prototype

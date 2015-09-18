@@ -1,0 +1,1 @@
+'nextSibling' in Node.prototype

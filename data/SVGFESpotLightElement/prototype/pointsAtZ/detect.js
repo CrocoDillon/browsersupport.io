@@ -1,0 +1,1 @@
+'pointsAtZ' in SVGFESpotLightElement.prototype

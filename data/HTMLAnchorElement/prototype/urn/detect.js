@@ -1,0 +1,1 @@
+'urn' in HTMLAnchorElement.prototype

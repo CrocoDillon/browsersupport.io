@@ -1,0 +1,1 @@
+'addColorStop' in CanvasGradient.prototype

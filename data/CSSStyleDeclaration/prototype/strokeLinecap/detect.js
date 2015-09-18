@@ -1,0 +1,1 @@
+'strokeLinecap' in CSSStyleDeclaration.prototype

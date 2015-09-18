@@ -1,0 +1,1 @@
+'borderBottom' in CSSStyleDeclaration.prototype

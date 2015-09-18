@@ -1,0 +1,1 @@
+'getShaderParameter' in WebGLRenderingContext.prototype

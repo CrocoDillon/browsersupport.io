@@ -1,0 +1,1 @@
+'activeSourceBuffers' in MediaSource.prototype

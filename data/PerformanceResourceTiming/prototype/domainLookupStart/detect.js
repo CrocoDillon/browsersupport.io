@@ -1,0 +1,1 @@
+'domainLookupStart' in PerformanceResourceTiming.prototype

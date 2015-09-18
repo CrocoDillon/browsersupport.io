@@ -1,0 +1,1 @@
+'addCue' in TextTrack.prototype

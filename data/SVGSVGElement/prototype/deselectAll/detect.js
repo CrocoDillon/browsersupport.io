@@ -1,0 +1,1 @@
+'deselectAll' in SVGSVGElement.prototype

@@ -1,0 +1,1 @@
+'contentScriptType' in SVGSVGElement.prototype

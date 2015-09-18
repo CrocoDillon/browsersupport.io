@@ -1,0 +1,1 @@
+'webkitColumnRuleWidth' in CSSStyleDeclaration.prototype

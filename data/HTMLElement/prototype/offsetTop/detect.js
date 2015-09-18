@@ -1,0 +1,1 @@
+'offsetTop' in HTMLElement.prototype

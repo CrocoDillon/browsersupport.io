@@ -1,0 +1,1 @@
+'absolute' in DeviceOrientationEvent.prototype

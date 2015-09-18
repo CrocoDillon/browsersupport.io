@@ -1,0 +1,1 @@
+'getCandidateWindowClientRect' in MSInputMethodContext.prototype

@@ -1,0 +1,1 @@
+'webkitUserModify' in CSSStyleDeclaration.prototype

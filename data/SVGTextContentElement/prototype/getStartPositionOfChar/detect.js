@@ -1,0 +1,1 @@
+'getStartPositionOfChar' in SVGTextContentElement.prototype

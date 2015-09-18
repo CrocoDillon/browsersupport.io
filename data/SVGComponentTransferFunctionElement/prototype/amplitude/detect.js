@@ -1,0 +1,1 @@
+'amplitude' in SVGComponentTransferFunctionElement.prototype

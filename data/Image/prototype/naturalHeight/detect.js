@@ -1,0 +1,1 @@
+'naturalHeight' in Image.prototype

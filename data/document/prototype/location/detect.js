@@ -1,0 +1,1 @@
+'location' in Document.prototype

@@ -1,0 +1,1 @@
+'clearMarks' in Performance.prototype

@@ -1,0 +1,1 @@
+'initMutationEvent' in MutationEvent.prototype

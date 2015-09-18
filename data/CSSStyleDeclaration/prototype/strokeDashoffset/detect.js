@@ -1,0 +1,1 @@
+'strokeDashoffset' in CSSStyleDeclaration.prototype

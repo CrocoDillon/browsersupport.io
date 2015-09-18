@@ -1,0 +1,1 @@
+'preserveAspectRatio' in SVGMarkerElement.prototype

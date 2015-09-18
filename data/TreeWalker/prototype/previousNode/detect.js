@@ -1,0 +1,1 @@
+'previousNode' in TreeWalker.prototype

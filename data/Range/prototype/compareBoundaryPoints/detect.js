@@ -1,0 +1,1 @@
+'compareBoundaryPoints' in Range.prototype

@@ -1,0 +1,1 @@
+'deleteTexture' in WebGLRenderingContext.prototype

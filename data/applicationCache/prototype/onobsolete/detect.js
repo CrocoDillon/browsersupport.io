@@ -1,0 +1,1 @@
+'onobsolete' in ApplicationCache.prototype

@@ -1,0 +1,1 @@
+'prototype' in MouseEvent

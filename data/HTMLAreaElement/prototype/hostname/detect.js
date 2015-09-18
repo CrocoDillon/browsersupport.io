@@ -1,0 +1,1 @@
+'hostname' in HTMLAreaElement.prototype

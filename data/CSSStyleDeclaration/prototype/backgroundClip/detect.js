@@ -1,0 +1,1 @@
+'backgroundClip' in CSSStyleDeclaration.prototype

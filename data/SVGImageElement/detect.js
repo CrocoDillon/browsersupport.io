@@ -1,0 +1,1 @@
+'SVGImageElement' in this

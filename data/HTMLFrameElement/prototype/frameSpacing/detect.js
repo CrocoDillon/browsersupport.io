@@ -1,0 +1,1 @@
+'frameSpacing' in HTMLFrameElement.prototype

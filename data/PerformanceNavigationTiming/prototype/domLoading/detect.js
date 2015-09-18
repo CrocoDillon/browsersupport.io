@@ -1,0 +1,1 @@
+'domLoading' in PerformanceNavigationTiming.prototype

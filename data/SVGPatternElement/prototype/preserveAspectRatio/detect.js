@@ -1,0 +1,1 @@
+'preserveAspectRatio' in SVGPatternElement.prototype

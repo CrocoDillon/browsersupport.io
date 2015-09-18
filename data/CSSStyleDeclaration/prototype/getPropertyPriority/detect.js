@@ -1,0 +1,1 @@
+'getPropertyPriority' in CSSStyleDeclaration.prototype

@@ -1,0 +1,1 @@
+'onselectionchange' in Document.prototype

@@ -1,0 +1,1 @@
+'preserveAlpha' in SVGFEConvolveMatrixElement.prototype

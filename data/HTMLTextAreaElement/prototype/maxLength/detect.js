@@ -1,0 +1,1 @@
+'maxLength' in HTMLTextAreaElement.prototype

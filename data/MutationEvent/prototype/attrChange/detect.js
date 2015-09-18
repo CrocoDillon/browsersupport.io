@@ -1,0 +1,1 @@
+'attrChange' in MutationEvent.prototype

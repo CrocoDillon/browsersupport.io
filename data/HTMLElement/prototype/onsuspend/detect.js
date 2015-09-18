@@ -1,0 +1,1 @@
+'onsuspend' in HTMLElement.prototype

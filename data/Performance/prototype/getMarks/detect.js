@@ -1,0 +1,1 @@
+'getMarks' in Performance.prototype

@@ -1,0 +1,1 @@
+'currentState' in MSManipulationEvent.prototype

@@ -1,0 +1,1 @@
+'UNSIGNED_INT_24_8_WEBGL' in WEBGL_depth_texture.prototype

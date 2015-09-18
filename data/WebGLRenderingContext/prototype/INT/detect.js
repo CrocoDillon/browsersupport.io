@@ -1,0 +1,1 @@
+'INT' in WebGLRenderingContext.prototype

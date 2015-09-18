@@ -1,0 +1,1 @@
+'collapseToEnd' in Selection.prototype

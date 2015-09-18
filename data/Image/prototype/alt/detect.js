@@ -1,0 +1,1 @@
+'alt' in Image.prototype

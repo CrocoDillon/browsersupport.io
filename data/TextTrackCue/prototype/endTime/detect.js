@@ -1,0 +1,1 @@
+'endTime' in TextTrackCue.prototype

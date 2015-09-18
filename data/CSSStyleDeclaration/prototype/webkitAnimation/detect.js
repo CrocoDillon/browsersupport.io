@@ -1,0 +1,1 @@
+'webkitAnimation' in CSSStyleDeclaration.prototype

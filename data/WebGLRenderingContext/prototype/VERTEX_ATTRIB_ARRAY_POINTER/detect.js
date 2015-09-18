@@ -1,0 +1,1 @@
+'VERTEX_ATTRIB_ARRAY_POINTER' in WebGLRenderingContext.prototype

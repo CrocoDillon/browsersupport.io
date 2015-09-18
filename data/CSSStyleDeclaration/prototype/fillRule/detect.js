@@ -1,0 +1,1 @@
+'fillRule' in CSSStyleDeclaration.prototype

@@ -1,0 +1,1 @@
+'ownerSVGElement' in SVGElement.prototype

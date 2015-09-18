@@ -1,0 +1,1 @@
+'classList' in Element.prototype

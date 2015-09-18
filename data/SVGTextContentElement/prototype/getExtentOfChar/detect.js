@@ -1,0 +1,1 @@
+'getExtentOfChar' in SVGTextContentElement.prototype

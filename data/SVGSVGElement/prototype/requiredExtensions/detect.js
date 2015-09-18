@@ -1,0 +1,1 @@
+'requiredExtensions' in SVGSVGElement.prototype

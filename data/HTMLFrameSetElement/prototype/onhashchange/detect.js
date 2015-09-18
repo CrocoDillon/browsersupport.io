@@ -1,0 +1,1 @@
+'onhashchange' in HTMLFrameSetElement.prototype

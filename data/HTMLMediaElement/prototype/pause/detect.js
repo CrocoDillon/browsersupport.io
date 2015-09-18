@@ -1,0 +1,1 @@
+'pause' in HTMLMediaElement.prototype

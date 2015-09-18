@@ -1,0 +1,1 @@
+'designMode' in Document.prototype

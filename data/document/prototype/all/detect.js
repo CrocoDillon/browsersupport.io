@@ -1,0 +1,1 @@
+'all' in Document.prototype

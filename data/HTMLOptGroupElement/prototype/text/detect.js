@@ -1,0 +1,1 @@
+'text' in HTMLOptGroupElement.prototype

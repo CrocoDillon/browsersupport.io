@@ -1,0 +1,1 @@
+'unitType' in SVGLength.prototype

@@ -1,0 +1,1 @@
+'CanvasPattern' in this

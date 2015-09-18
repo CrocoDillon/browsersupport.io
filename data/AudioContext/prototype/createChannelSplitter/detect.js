@@ -1,0 +1,1 @@
+'createChannelSplitter' in AudioContext.prototype

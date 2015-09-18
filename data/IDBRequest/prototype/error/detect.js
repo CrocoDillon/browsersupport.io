@@ -1,0 +1,1 @@
+'error' in IDBRequest.prototype

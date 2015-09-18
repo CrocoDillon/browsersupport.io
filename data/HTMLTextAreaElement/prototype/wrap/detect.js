@@ -1,0 +1,1 @@
+'wrap' in HTMLTextAreaElement.prototype

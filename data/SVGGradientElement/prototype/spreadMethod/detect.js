@@ -1,0 +1,1 @@
+'spreadMethod' in SVGGradientElement.prototype

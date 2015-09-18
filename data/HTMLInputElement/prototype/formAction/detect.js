@@ -1,0 +1,1 @@
+'formAction' in HTMLInputElement.prototype

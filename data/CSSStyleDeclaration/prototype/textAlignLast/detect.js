@@ -1,0 +1,1 @@
+'textAlignLast' in CSSStyleDeclaration.prototype

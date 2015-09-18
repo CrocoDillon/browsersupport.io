@@ -1,0 +1,1 @@
+'margin' in CSSStyleDeclaration.prototype

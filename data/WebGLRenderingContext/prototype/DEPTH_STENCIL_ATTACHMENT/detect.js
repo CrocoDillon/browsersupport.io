@@ -1,0 +1,1 @@
+'DEPTH_STENCIL_ATTACHMENT' in WebGLRenderingContext.prototype

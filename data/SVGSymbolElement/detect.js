@@ -1,0 +1,1 @@
+'SVGSymbolElement' in this

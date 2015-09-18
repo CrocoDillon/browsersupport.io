@@ -1,0 +1,1 @@
+'matrixTransform' in SVGPoint.prototype

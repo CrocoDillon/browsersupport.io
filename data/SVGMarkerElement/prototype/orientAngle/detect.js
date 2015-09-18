@@ -1,0 +1,1 @@
+'orientAngle' in SVGMarkerElement.prototype

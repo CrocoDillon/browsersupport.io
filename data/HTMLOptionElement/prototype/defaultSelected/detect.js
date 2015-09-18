@@ -1,0 +1,1 @@
+'defaultSelected' in HTMLOptionElement.prototype

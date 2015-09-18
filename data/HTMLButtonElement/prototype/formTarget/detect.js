@@ -1,0 +1,1 @@
+'formTarget' in HTMLButtonElement.prototype

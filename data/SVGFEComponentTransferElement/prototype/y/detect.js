@@ -1,0 +1,1 @@
+'y' in SVGFEComponentTransferElement.prototype

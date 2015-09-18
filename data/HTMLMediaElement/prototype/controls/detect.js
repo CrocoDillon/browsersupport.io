@@ -1,0 +1,1 @@
+'controls' in HTMLMediaElement.prototype

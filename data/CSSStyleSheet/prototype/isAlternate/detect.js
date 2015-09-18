@@ -1,0 +1,1 @@
+'isAlternate' in CSSStyleSheet.prototype

@@ -1,0 +1,1 @@
+'internalSubset' in DocumentType.prototype

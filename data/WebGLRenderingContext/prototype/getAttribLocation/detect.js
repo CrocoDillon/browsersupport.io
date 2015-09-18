@@ -1,0 +1,1 @@
+'getAttribLocation' in WebGLRenderingContext.prototype

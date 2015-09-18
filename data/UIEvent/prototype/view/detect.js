@@ -1,0 +1,1 @@
+'view' in UIEvent.prototype

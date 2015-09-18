@@ -1,0 +1,1 @@
+'createDynamicsCompressor' in AudioContext.prototype

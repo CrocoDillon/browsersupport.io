@@ -1,0 +1,1 @@
+'onblur' in HTMLElement.prototype

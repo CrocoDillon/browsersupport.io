@@ -1,0 +1,1 @@
+'ry' in SVGRectElement.prototype

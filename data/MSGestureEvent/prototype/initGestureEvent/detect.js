@@ -1,0 +1,1 @@
+'initGestureEvent' in MSGestureEvent.prototype

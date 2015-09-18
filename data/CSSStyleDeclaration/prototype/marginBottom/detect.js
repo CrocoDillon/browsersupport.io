@@ -1,0 +1,1 @@
+'marginBottom' in CSSStyleDeclaration.prototype

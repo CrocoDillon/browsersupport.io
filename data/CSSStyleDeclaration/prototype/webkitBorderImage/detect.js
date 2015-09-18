@@ -1,0 +1,1 @@
+'webkitBorderImage' in CSSStyleDeclaration.prototype

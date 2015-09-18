@@ -1,0 +1,1 @@
+'getSupportedConstraints' in MediaDevices.prototype

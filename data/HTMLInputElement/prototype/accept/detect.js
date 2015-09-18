@@ -1,0 +1,1 @@
+'accept' in HTMLInputElement.prototype

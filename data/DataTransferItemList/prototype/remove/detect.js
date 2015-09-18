@@ -1,0 +1,1 @@
+'remove' in DataTransferItemList.prototype

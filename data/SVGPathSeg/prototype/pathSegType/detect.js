@@ -1,0 +1,1 @@
+'pathSegType' in SVGPathSeg.prototype

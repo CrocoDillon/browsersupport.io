@@ -1,0 +1,1 @@
+'clientHeight' in Element.prototype

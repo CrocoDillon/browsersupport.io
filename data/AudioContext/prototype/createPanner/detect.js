@@ -1,0 +1,1 @@
+'createPanner' in AudioContext.prototype

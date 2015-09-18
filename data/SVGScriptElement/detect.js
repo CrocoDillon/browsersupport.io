@@ -1,0 +1,1 @@
+'SVGScriptElement' in this

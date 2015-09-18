@@ -1,0 +1,1 @@
+'sourceBuffer' in VideoTrack.prototype

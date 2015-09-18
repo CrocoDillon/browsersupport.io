@@ -1,0 +1,1 @@
+'getCTM' in SVGPolygonElement.prototype

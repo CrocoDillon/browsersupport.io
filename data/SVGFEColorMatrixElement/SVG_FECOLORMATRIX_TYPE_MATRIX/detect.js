@@ -1,0 +1,1 @@
+'SVG_FECOLORMATRIX_TYPE_MATRIX' in SVGFEColorMatrixElement

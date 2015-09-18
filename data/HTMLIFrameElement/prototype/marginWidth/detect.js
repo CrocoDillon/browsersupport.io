@@ -1,0 +1,1 @@
+'marginWidth' in HTMLIFrameElement.prototype

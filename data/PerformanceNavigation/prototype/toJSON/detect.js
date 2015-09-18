@@ -1,0 +1,1 @@
+'toJSON' in PerformanceNavigation.prototype

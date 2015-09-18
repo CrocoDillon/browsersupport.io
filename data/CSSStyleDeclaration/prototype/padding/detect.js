@@ -1,0 +1,1 @@
+'padding' in CSSStyleDeclaration.prototype

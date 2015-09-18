@@ -1,0 +1,1 @@
+'totalVideoFrames' in VideoPlaybackQuality.prototype

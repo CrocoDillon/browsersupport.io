@@ -1,0 +1,1 @@
+'onfocus' in HTMLFrameSetElement.prototype

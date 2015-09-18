@@ -1,0 +1,1 @@
+'face' in HTMLFontElement.prototype

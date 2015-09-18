@@ -1,0 +1,1 @@
+'preload' in HTMLMediaElement.prototype

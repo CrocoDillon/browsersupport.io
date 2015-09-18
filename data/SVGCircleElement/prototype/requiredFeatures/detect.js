@@ -1,0 +1,1 @@
+'requiredFeatures' in SVGCircleElement.prototype

@@ -1,0 +1,1 @@
+'listStylePosition' in CSSStyleDeclaration.prototype

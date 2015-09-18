@@ -1,0 +1,1 @@
+'shaderSource' in WebGLRenderingContext.prototype

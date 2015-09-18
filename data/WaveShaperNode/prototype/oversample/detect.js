@@ -1,0 +1,1 @@
+'oversample' in WaveShaperNode.prototype

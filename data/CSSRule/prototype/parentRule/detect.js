@@ -1,0 +1,1 @@
+'parentRule' in CSSRule.prototype

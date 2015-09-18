@@ -1,0 +1,1 @@
+'direction' in HTMLMarqueeElement.prototype

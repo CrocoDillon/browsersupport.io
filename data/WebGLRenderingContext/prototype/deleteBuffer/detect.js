@@ -1,0 +1,1 @@
+'deleteBuffer' in WebGLRenderingContext.prototype

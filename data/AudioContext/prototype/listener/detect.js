@@ -1,0 +1,1 @@
+'listener' in AudioContext.prototype

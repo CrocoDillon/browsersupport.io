@@ -1,0 +1,1 @@
+'floodOpacity' in CSSStyleDeclaration.prototype

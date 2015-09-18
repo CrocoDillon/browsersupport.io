@@ -1,0 +1,1 @@
+'inBandMetadataTrackDispatchType' in TextTrack.prototype

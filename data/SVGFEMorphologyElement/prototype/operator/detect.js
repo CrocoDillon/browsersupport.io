@@ -1,0 +1,1 @@
+'operator' in SVGFEMorphologyElement.prototype

@@ -1,0 +1,1 @@
+'getEntriesByName' in Performance.prototype

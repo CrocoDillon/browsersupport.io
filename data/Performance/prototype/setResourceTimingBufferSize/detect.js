@@ -1,0 +1,1 @@
+'setResourceTimingBufferSize' in Performance.prototype

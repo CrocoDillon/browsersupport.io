@@ -1,0 +1,1 @@
+'HTMLAppletElement' in this

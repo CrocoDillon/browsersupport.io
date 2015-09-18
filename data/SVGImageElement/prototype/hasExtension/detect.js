@@ -1,0 +1,1 @@
+'hasExtension' in SVGImageElement.prototype

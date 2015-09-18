@@ -1,0 +1,1 @@
+'audioTracks' in HTMLMediaElement.prototype

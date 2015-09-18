@@ -1,0 +1,1 @@
+'isCandidateWindowVisible' in MSInputMethodContext.prototype

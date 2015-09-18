@@ -1,0 +1,1 @@
+'hasExtension' in SVGMaskElement.prototype

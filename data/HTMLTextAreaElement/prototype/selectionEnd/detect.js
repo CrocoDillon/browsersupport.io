@@ -1,0 +1,1 @@
+'selectionEnd' in HTMLTextAreaElement.prototype

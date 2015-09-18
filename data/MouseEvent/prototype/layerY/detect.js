@@ -1,0 +1,1 @@
+'layerY' in MouseEvent.prototype

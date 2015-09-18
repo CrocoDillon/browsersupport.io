@@ -1,0 +1,1 @@
+'namespaceURI' in CSSNamespaceRule.prototype

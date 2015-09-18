@@ -1,0 +1,1 @@
+'frequencyBinCount' in AnalyserNode.prototype

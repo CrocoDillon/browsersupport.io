@@ -1,0 +1,1 @@
+'getSubStringLength' in SVGTextContentElement.prototype

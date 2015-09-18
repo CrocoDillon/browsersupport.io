@@ -1,0 +1,1 @@
+'placeholder' in HTMLTextAreaElement.prototype

@@ -1,0 +1,1 @@
+'correspondingElement' in SVGElementInstance.prototype

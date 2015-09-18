@@ -1,0 +1,1 @@
+'background' in HTMLBodyElement.prototype

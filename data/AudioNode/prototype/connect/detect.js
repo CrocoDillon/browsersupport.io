@@ -1,0 +1,1 @@
+'connect' in AudioNode.prototype

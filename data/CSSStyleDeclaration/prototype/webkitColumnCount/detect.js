@@ -1,0 +1,1 @@
+'webkitColumnCount' in CSSStyleDeclaration.prototype

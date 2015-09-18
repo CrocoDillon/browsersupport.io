@@ -1,0 +1,1 @@
+'color' in CSSStyleDeclaration.prototype

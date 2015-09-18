@@ -1,0 +1,1 @@
+'onkeydown' in Document.prototype

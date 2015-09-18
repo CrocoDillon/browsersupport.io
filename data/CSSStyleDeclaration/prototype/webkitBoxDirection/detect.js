@@ -1,0 +1,1 @@
+'webkitBoxDirection' in CSSStyleDeclaration.prototype

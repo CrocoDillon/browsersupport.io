@@ -1,0 +1,1 @@
+'contentWindow' in HTMLIFrameElement.prototype

@@ -1,0 +1,1 @@
+'fontFamily' in CSSStyleDeclaration.prototype

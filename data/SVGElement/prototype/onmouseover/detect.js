@@ -1,0 +1,1 @@
+'onmouseover' in SVGElement.prototype

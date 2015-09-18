@@ -1,0 +1,1 @@
+'msHyphenateLimitZone' in CSSStyleDeclaration.prototype

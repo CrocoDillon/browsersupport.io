@@ -1,0 +1,1 @@
+'span' in HTMLTableColElement.prototype

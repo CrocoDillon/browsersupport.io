@@ -1,0 +1,1 @@
+'createSVGPathSegMovetoAbs' in SVGPathElement.prototype

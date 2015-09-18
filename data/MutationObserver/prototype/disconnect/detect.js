@@ -1,0 +1,1 @@
+'disconnect' in MutationObserver.prototype

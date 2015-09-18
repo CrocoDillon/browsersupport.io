@@ -1,0 +1,1 @@
+'onabort' in XMLHttpRequest.prototype

@@ -1,0 +1,1 @@
+'disabled' in StyleSheet.prototype

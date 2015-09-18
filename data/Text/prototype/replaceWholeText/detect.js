@@ -1,0 +1,1 @@
+'replaceWholeText' in Text.prototype

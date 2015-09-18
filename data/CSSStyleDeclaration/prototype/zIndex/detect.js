@@ -1,0 +1,1 @@
+'zIndex' in CSSStyleDeclaration.prototype

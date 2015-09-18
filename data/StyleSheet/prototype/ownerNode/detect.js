@@ -1,0 +1,1 @@
+'ownerNode' in StyleSheet.prototype

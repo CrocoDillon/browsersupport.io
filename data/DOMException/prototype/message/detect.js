@@ -1,0 +1,1 @@
+'message' in DOMException.prototype

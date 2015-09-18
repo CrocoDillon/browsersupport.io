@@ -1,0 +1,1 @@
+'perspective' in CSSStyleDeclaration.prototype

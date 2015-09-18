@@ -1,0 +1,1 @@
+'removeNamedItem' in NamedNodeMap.prototype

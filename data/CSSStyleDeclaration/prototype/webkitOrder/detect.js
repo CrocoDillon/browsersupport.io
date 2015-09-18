@@ -1,0 +1,1 @@
+'webkitOrder' in CSSStyleDeclaration.prototype

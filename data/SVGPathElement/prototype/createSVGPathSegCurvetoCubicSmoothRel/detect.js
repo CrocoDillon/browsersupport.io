@@ -1,0 +1,1 @@
+'createSVGPathSegCurvetoCubicSmoothRel' in SVGPathElement.prototype

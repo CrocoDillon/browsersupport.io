@@ -1,0 +1,1 @@
+'isFramebuffer' in WebGLRenderingContext.prototype

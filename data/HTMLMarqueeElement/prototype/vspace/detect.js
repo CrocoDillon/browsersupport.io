@@ -1,0 +1,1 @@
+'vspace' in HTMLMarqueeElement.prototype

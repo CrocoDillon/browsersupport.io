@@ -1,0 +1,1 @@
+'onbeforeactivate' in Document.prototype

@@ -1,0 +1,1 @@
+'clipRule' in CSSStyleDeclaration.prototype

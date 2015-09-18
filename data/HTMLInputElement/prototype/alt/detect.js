@@ -1,0 +1,1 @@
+'alt' in HTMLInputElement.prototype

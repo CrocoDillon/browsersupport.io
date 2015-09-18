@@ -1,0 +1,1 @@
+'emptyCells' in CSSStyleDeclaration.prototype

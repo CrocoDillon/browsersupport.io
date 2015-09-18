@@ -1,0 +1,1 @@
+'UNSIGNED_SHORT_4_4_4_4' in WebGLRenderingContext.prototype

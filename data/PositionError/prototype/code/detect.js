@@ -1,0 +1,1 @@
+'code' in PositionError.prototype

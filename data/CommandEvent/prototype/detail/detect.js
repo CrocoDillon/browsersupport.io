@@ -1,0 +1,1 @@
+'detail' in CommandEvent.prototype

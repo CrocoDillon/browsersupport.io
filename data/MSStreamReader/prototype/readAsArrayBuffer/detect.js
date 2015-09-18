@@ -1,0 +1,1 @@
+'readAsArrayBuffer' in MSStreamReader.prototype

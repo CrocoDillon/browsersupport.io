@@ -1,0 +1,1 @@
+'selectionStart' in HTMLInputElement.prototype

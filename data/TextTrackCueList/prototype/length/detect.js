@@ -1,0 +1,1 @@
+'length' in TextTrackCueList.prototype

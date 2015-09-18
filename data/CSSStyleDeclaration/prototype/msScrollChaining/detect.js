@@ -1,0 +1,1 @@
+'msScrollChaining' in CSSStyleDeclaration.prototype

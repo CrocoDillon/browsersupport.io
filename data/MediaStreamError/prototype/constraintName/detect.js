@@ -1,0 +1,1 @@
+'constraintName' in MediaStreamError.prototype

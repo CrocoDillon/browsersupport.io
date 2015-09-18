@@ -1,0 +1,1 @@
+'onpointerleave' in Document.prototype

@@ -1,0 +1,1 @@
+'webkitFlexFlow' in CSSStyleDeclaration.prototype

@@ -1,0 +1,1 @@
+'webkitAnimationDelay' in CSSStyleDeclaration.prototype

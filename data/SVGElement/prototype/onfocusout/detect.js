@@ -1,0 +1,1 @@
+'onfocusout' in SVGElement.prototype

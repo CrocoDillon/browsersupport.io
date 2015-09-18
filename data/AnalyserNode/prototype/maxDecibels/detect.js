@@ -1,0 +1,1 @@
+'maxDecibels' in AnalyserNode.prototype

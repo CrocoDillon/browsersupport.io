@@ -1,0 +1,1 @@
+'webkitFlexDirection' in CSSStyleDeclaration.prototype

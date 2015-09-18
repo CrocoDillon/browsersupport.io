@@ -1,0 +1,1 @@
+'animationIterationCount' in CSSStyleDeclaration.prototype

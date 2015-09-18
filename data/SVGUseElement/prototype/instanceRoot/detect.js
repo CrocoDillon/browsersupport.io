@@ -1,0 +1,1 @@
+'instanceRoot' in SVGUseElement.prototype

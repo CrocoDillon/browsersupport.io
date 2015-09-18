@@ -1,0 +1,1 @@
+'stencilFunc' in WebGLRenderingContext.prototype

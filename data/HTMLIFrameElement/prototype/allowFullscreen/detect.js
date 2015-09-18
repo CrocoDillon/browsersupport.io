@@ -1,0 +1,1 @@
+'allowFullscreen' in HTMLIFrameElement.prototype

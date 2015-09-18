@@ -1,0 +1,1 @@
+'loopStart' in AudioBufferSourceNode.prototype

@@ -1,0 +1,1 @@
+'webkitAnimationFillMode' in CSSStyleDeclaration.prototype

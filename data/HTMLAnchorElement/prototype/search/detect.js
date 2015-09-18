@@ -1,0 +1,1 @@
+'search' in HTMLAnchorElement.prototype

@@ -1,0 +1,1 @@
+'drawElements' in WebGLRenderingContext.prototype

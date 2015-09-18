@@ -1,0 +1,1 @@
+'selectSubString' in SVGTextContentElement.prototype

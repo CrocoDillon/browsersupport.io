@@ -1,0 +1,1 @@
+'maxDistance' in PannerNode.prototype

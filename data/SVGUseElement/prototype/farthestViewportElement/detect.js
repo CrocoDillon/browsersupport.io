@@ -1,0 +1,1 @@
+'farthestViewportElement' in SVGUseElement.prototype

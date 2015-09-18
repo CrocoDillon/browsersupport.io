@@ -1,0 +1,1 @@
+'oncandidatewindowhide' in MSInputMethodContext.prototype

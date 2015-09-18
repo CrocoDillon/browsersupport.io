@@ -1,0 +1,1 @@
+'x' in SVGMaskElement.prototype

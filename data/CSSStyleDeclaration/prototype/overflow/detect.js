@@ -1,0 +1,1 @@
+'overflow' in CSSStyleDeclaration.prototype

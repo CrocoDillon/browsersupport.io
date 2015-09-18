@@ -1,0 +1,1 @@
+'children' in HTMLElement.prototype

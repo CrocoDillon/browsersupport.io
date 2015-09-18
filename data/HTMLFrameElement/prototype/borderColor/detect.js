@@ -1,0 +1,1 @@
+'borderColor' in HTMLFrameElement.prototype

@@ -1,0 +1,1 @@
+'detail' in UIEvent.prototype

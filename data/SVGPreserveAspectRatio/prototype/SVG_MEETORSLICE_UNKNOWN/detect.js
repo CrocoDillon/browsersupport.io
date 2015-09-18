@@ -1,0 +1,1 @@
+'SVG_MEETORSLICE_UNKNOWN' in SVGPreserveAspectRatio.prototype

@@ -1,0 +1,1 @@
+'mark' in Performance.prototype

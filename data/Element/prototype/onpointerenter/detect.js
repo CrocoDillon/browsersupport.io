@@ -1,0 +1,1 @@
+'onpointerenter' in Element.prototype

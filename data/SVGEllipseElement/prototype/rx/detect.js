@@ -1,0 +1,1 @@
+'rx' in SVGEllipseElement.prototype

@@ -1,0 +1,1 @@
+'animVal' in SVGAnimatedPreserveAspectRatio.prototype

@@ -1,0 +1,1 @@
+'abort' in IDBTransaction.prototype

@@ -1,0 +1,1 @@
+'MAX_FRAGMENT_UNIFORM_VECTORS' in WebGLRenderingContext.prototype

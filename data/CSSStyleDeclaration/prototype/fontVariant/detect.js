@@ -1,0 +1,1 @@
+'fontVariant' in CSSStyleDeclaration.prototype

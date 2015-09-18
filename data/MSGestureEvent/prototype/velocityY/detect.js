@@ -1,0 +1,1 @@
+'velocityY' in MSGestureEvent.prototype

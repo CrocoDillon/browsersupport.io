@@ -1,0 +1,1 @@
+'createAnalyser' in AudioContext.prototype

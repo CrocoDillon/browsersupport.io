@@ -1,0 +1,1 @@
+'eventPhase' in Event.prototype

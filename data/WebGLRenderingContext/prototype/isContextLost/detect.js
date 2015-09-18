@@ -1,0 +1,1 @@
+'isContextLost' in WebGLRenderingContext.prototype

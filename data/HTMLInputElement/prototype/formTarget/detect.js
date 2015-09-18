@@ -1,0 +1,1 @@
+'formTarget' in HTMLInputElement.prototype

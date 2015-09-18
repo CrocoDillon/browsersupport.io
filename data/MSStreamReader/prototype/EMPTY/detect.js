@@ -1,0 +1,1 @@
+'EMPTY' in MSStreamReader.prototype

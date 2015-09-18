@@ -1,0 +1,1 @@
+'onprogress' in FileReader.prototype

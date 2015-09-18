@@ -1,0 +1,1 @@
+'hint' in WebGLRenderingContext.prototype

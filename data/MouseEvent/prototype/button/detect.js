@@ -1,0 +1,1 @@
+'button' in MouseEvent.prototype

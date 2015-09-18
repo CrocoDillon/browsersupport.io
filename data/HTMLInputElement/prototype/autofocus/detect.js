@@ -1,0 +1,1 @@
+'autofocus' in HTMLInputElement.prototype

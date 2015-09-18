@@ -1,0 +1,1 @@
+'compact' in HTMLUListElement.prototype

@@ -1,0 +1,1 @@
+'scrollHeight' in Element.prototype

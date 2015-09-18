@@ -1,0 +1,1 @@
+'getScreenCTM' in SVGTextElement.prototype

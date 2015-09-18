@@ -1,0 +1,1 @@
+'webkitExitFullscreen' in HTMLVideoElement.prototype

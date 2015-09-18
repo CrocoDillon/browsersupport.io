@@ -1,0 +1,1 @@
+'getEnclosureList' in SVGSVGElement.prototype

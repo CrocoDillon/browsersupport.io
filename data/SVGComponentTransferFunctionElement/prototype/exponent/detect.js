@@ -1,0 +1,1 @@
+'exponent' in SVGComponentTransferFunctionElement.prototype

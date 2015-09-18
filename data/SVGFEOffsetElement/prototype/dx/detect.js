@@ -1,0 +1,1 @@
+'dx' in SVGFEOffsetElement.prototype

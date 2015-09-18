@@ -1,0 +1,1 @@
+'strokeLinejoin' in CSSStyleDeclaration.prototype

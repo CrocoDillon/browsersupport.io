@@ -1,0 +1,1 @@
+'toDataURL' in HTMLCanvasElement.prototype

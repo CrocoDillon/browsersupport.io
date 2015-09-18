@@ -1,0 +1,1 @@
+'visibility' in CSSStyleDeclaration.prototype

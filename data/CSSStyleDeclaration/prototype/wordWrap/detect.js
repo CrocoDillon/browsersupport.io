@@ -1,0 +1,1 @@
+'wordWrap' in CSSStyleDeclaration.prototype

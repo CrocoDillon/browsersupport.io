@@ -1,0 +1,1 @@
+'hostname' in Location.prototype

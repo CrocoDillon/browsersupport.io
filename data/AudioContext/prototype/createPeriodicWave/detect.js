@@ -1,0 +1,1 @@
+'createPeriodicWave' in AudioContext.prototype

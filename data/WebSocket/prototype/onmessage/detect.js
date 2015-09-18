@@ -1,0 +1,1 @@
+'onmessage' in WebSocket.prototype

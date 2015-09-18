@@ -1,0 +1,1 @@
+'deleteRow' in HTMLTableSectionElement.prototype

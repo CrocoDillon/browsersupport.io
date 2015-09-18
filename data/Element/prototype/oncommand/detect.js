@@ -1,0 +1,1 @@
+'oncommand' in Element.prototype

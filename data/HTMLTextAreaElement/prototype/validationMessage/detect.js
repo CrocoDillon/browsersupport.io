@@ -1,0 +1,1 @@
+'validationMessage' in HTMLTextAreaElement.prototype

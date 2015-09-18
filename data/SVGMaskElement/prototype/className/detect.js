@@ -1,0 +1,1 @@
+'className' in SVGMaskElement.prototype

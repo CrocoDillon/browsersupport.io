@@ -1,0 +1,1 @@
+'setProperty' in CSSStyleDeclaration.prototype

@@ -1,0 +1,1 @@
+'unloadEventStart' in PerformanceTiming.prototype

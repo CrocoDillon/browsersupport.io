@@ -1,0 +1,1 @@
+'polygonOffset' in WebGLRenderingContext.prototype

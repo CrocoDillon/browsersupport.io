@@ -1,0 +1,1 @@
+'singleNodeValue' in XPathResult.prototype

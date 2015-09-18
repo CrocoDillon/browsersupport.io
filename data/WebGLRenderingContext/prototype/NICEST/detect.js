@@ -1,0 +1,1 @@
+'NICEST' in WebGLRenderingContext.prototype

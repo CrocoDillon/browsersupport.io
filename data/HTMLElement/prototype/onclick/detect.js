@@ -1,0 +1,1 @@
+'onclick' in HTMLElement.prototype

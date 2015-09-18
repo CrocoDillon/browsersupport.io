@@ -1,0 +1,1 @@
+'noValidate' in HTMLFormElement.prototype

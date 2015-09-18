@@ -1,0 +1,1 @@
+'FASTEST' in WebGLRenderingContext.prototype

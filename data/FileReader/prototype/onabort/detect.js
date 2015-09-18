@@ -1,0 +1,1 @@
+'onabort' in FileReader.prototype

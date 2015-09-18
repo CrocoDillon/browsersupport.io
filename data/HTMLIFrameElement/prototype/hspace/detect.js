@@ -1,0 +1,1 @@
+'hspace' in HTMLIFrameElement.prototype

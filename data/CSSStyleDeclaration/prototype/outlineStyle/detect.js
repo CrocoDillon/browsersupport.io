@@ -1,0 +1,1 @@
+'outlineStyle' in CSSStyleDeclaration.prototype

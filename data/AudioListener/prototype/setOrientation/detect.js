@@ -1,0 +1,1 @@
+'setOrientation' in AudioListener.prototype

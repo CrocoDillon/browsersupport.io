@@ -1,0 +1,1 @@
+'bgColor' in HTMLTableCellElement.prototype

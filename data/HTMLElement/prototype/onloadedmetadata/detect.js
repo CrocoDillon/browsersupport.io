@@ -1,0 +1,1 @@
+'onloadedmetadata' in HTMLElement.prototype

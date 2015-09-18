@@ -1,0 +1,1 @@
+'replaceItem' in SVGPointList.prototype

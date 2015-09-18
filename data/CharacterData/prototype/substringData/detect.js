@@ -1,0 +1,1 @@
+'substringData' in CharacterData.prototype

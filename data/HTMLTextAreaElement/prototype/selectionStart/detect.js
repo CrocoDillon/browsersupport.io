@@ -1,0 +1,1 @@
+'selectionStart' in HTMLTextAreaElement.prototype

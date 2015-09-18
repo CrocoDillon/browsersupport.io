@@ -1,0 +1,1 @@
+'focusNode' in Selection.prototype

@@ -1,0 +1,1 @@
+'encrypt' in SubtleCrypto.prototype

@@ -1,0 +1,1 @@
+'groupId' in MediaDeviceInfo.prototype

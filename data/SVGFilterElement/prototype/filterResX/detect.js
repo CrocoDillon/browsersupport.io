@@ -1,0 +1,1 @@
+'filterResX' in SVGFilterElement.prototype

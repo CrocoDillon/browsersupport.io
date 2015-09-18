@@ -1,0 +1,1 @@
+'surroundContents' in Range.prototype

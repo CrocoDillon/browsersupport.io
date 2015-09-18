@@ -1,0 +1,1 @@
+'codeType' in HTMLObjectElement.prototype

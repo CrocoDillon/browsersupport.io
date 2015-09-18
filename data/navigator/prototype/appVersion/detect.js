@@ -1,0 +1,1 @@
+'appVersion' in Navigator.prototype

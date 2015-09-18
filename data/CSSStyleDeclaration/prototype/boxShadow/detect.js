@@ -1,0 +1,1 @@
+'boxShadow' in CSSStyleDeclaration.prototype

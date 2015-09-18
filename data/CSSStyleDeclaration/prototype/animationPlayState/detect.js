@@ -1,0 +1,1 @@
+'animationPlayState' in CSSStyleDeclaration.prototype

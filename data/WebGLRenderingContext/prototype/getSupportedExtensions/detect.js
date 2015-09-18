@@ -1,0 +1,1 @@
+'getSupportedExtensions' in WebGLRenderingContext.prototype

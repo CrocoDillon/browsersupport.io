@@ -1,0 +1,1 @@
+'onpointercancel' in Document.prototype

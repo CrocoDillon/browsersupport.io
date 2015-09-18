@@ -1,0 +1,1 @@
+'removeWebWideTrackingException' in Navigator.prototype

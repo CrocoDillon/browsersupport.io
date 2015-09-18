@@ -1,0 +1,1 @@
+'coneOuterGain' in PannerNode.prototype

@@ -1,0 +1,1 @@
+'requiredFeatures' in SVGUseElement.prototype

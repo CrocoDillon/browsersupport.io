@@ -1,0 +1,1 @@
+'accelerationIncludingGravity' in DeviceMotionEvent.prototype

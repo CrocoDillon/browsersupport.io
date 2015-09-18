@@ -1,0 +1,1 @@
+'borderImage' in CSSStyleDeclaration.prototype

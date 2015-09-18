@@ -1,0 +1,1 @@
+'listStyleImage' in CSSStyleDeclaration.prototype

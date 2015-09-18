@@ -1,0 +1,1 @@
+'collapse' in Range.prototype

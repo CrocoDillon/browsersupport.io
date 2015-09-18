@@ -1,0 +1,1 @@
+'onmousedown' in Document.prototype

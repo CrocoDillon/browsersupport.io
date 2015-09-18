@@ -1,0 +1,1 @@
+'webkitSupportsFullscreen' in HTMLVideoElement.prototype

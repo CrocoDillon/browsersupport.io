@@ -1,0 +1,1 @@
+'codeBase' in HTMLAppletElement.prototype

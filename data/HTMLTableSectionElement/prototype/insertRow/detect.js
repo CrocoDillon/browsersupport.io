@@ -1,0 +1,1 @@
+'insertRow' in HTMLTableSectionElement.prototype

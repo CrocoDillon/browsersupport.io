@@ -1,0 +1,1 @@
+'webkitTransitionDuration' in CSSStyleDeclaration.prototype

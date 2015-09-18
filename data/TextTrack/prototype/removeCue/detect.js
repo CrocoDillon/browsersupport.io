@@ -1,0 +1,1 @@
+'removeCue' in TextTrack.prototype

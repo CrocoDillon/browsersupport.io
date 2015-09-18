@@ -1,0 +1,1 @@
+'constrictionActive' in MSGraphicsTrust.prototype

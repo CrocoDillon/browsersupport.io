@@ -1,0 +1,1 @@
+'TRIANGLES' in WebGLRenderingContext

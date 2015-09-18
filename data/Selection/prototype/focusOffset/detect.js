@@ -1,0 +1,1 @@
+'focusOffset' in Selection.prototype

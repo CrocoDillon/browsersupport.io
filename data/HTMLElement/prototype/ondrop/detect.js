@@ -1,0 +1,1 @@
+'ondrop' in HTMLElement.prototype

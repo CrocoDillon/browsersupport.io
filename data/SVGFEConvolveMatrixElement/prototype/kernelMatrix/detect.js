@@ -1,0 +1,1 @@
+'kernelMatrix' in SVGFEConvolveMatrixElement.prototype

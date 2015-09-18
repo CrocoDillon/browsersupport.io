@@ -1,0 +1,1 @@
+'getData' in DataTransfer.prototype

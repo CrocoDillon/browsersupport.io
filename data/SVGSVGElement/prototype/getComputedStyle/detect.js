@@ -1,0 +1,1 @@
+'getComputedStyle' in SVGSVGElement.prototype

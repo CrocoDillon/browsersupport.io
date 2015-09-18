@@ -1,0 +1,1 @@
+'cells' in HTMLTableRowElement.prototype

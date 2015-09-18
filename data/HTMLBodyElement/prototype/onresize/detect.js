@@ -1,0 +1,1 @@
+'onresize' in HTMLBodyElement.prototype

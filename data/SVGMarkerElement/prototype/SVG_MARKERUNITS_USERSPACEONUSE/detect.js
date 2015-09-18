@@ -1,0 +1,1 @@
+'SVG_MARKERUNITS_USERSPACEONUSE' in SVGMarkerElement.prototype

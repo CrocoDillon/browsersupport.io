@@ -1,0 +1,1 @@
+'vAlign' in HTMLTableCaptionElement.prototype

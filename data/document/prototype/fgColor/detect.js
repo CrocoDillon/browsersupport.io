@@ -1,0 +1,1 @@
+'fgColor' in Document.prototype

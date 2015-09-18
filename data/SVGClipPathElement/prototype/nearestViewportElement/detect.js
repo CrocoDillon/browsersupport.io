@@ -1,0 +1,1 @@
+'nearestViewportElement' in SVGClipPathElement.prototype

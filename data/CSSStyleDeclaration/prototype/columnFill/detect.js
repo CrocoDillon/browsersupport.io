@@ -1,0 +1,1 @@
+'columnFill' in CSSStyleDeclaration.prototype

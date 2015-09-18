@@ -1,0 +1,1 @@
+'stroke' in CSSStyleDeclaration.prototype

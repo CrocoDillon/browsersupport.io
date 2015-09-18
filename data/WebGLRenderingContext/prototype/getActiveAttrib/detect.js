@@ -1,0 +1,1 @@
+'getActiveAttrib' in WebGLRenderingContext.prototype

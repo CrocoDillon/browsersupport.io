@@ -1,0 +1,1 @@
+'getProgramParameter' in WebGLRenderingContext.prototype

@@ -1,0 +1,1 @@
+'getEndPositionOfChar' in SVGTextContentElement.prototype

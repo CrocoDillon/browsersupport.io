@@ -1,0 +1,1 @@
+'media' in HTMLStyleElement.prototype

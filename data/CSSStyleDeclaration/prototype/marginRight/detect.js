@@ -1,0 +1,1 @@
+'marginRight' in CSSStyleDeclaration.prototype

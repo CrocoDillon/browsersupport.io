@@ -1,0 +1,1 @@
+'isPrimary' in PointerEvent.prototype

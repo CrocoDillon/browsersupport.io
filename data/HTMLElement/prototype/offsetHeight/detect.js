@@ -1,0 +1,1 @@
+'offsetHeight' in HTMLElement.prototype

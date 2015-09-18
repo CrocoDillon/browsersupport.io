@@ -1,0 +1,1 @@
+'initCompositionEvent' in CompositionEvent.prototype

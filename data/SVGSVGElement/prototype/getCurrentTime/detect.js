@@ -1,0 +1,1 @@
+'getCurrentTime' in SVGSVGElement.prototype

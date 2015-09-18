@@ -1,0 +1,1 @@
+'SVGClipPathElement' in this

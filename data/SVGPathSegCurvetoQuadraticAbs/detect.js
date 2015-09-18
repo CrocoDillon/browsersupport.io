@@ -1,0 +1,1 @@
+'SVGPathSegCurvetoQuadraticAbs' in this

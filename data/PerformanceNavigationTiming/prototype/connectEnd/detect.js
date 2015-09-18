@@ -1,0 +1,1 @@
+'connectEnd' in PerformanceNavigationTiming.prototype

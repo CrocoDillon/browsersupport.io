@@ -1,0 +1,1 @@
+'search' in Location.prototype

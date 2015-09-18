@@ -1,0 +1,1 @@
+'initFocusEvent' in FocusEvent.prototype

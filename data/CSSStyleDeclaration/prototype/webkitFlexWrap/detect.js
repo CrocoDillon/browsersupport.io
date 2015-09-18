@@ -1,0 +1,1 @@
+'webkitFlexWrap' in CSSStyleDeclaration.prototype

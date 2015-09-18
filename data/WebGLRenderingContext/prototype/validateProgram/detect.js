@@ -1,0 +1,1 @@
+'validateProgram' in WebGLRenderingContext.prototype

@@ -1,0 +1,1 @@
+'POINTS' in WebGLRenderingContext

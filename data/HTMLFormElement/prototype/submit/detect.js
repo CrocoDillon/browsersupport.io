@@ -1,0 +1,1 @@
+'submit' in HTMLFormElement.prototype

@@ -1,0 +1,1 @@
+'relatedNode' in MutationEvent.prototype

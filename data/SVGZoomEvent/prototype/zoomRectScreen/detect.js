@@ -1,0 +1,1 @@
+'zoomRectScreen' in SVGZoomEvent.prototype

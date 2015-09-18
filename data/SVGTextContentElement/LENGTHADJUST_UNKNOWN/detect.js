@@ -1,0 +1,1 @@
+'LENGTHADJUST_UNKNOWN' in SVGTextContentElement

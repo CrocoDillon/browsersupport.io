@@ -1,0 +1,1 @@
+'connected' in Gamepad.prototype

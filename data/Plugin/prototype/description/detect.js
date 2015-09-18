@@ -1,0 +1,1 @@
+'description' in Plugin.prototype

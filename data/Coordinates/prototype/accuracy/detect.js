@@ -1,0 +1,1 @@
+'accuracy' in Coordinates.prototype

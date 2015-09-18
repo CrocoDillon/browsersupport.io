@@ -1,0 +1,1 @@
+'digest' in SubtleCrypto.prototype

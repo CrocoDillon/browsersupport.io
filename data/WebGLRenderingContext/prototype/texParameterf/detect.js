@@ -1,0 +1,1 @@
+'texParameterf' in WebGLRenderingContext.prototype

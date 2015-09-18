@@ -1,0 +1,1 @@
+'rotationRate' in DeviceMotionEvent.prototype

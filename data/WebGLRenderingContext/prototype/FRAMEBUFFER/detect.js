@@ -1,0 +1,1 @@
+'FRAMEBUFFER' in WebGLRenderingContext.prototype

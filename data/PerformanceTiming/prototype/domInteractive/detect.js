@@ -1,0 +1,1 @@
+'domInteractive' in PerformanceTiming.prototype

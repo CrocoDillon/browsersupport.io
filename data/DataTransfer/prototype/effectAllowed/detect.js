@@ -1,0 +1,1 @@
+'effectAllowed' in DataTransfer.prototype

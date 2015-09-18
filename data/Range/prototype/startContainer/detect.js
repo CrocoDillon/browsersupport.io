@@ -1,0 +1,1 @@
+'startContainer' in Range.prototype

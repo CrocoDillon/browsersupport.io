@@ -1,0 +1,1 @@
+'codeBase' in HTMLObjectElement.prototype

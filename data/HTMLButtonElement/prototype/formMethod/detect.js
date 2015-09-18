@@ -1,0 +1,1 @@
+'formMethod' in HTMLButtonElement.prototype

@@ -1,0 +1,1 @@
+'getByteFrequencyData' in AnalyserNode.prototype

@@ -1,0 +1,1 @@
+'SVG_MORPHOLOGY_OPERATOR_ERODE' in SVGFEMorphologyElement.prototype

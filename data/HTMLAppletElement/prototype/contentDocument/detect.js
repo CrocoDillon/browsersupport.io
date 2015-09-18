@@ -1,0 +1,1 @@
+'contentDocument' in HTMLAppletElement.prototype

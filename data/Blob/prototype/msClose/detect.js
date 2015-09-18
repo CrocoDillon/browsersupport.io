@@ -1,0 +1,1 @@
+'msClose' in Blob.prototype

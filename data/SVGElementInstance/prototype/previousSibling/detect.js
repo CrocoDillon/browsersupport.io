@@ -1,0 +1,1 @@
+'previousSibling' in SVGElementInstance.prototype

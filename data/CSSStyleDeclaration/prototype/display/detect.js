@@ -1,0 +1,1 @@
+'display' in CSSStyleDeclaration.prototype

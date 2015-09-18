@@ -1,0 +1,1 @@
+'ctrlKey' in MouseEvent.prototype

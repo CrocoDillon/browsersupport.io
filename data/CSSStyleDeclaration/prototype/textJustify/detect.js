@@ -1,0 +1,1 @@
+'textJustify' in CSSStyleDeclaration.prototype

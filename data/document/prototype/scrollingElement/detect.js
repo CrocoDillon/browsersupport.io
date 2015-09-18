@@ -1,0 +1,1 @@
+'scrollingElement' in Document.prototype

@@ -1,0 +1,1 @@
+'right' in ClientRect.prototype

@@ -1,0 +1,1 @@
+'left' in CSSStyleDeclaration.prototype

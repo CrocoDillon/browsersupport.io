@@ -1,0 +1,1 @@
+'responseEnd' in PerformanceResourceTiming.prototype

@@ -1,0 +1,1 @@
+'charset' in HTMLLinkElement.prototype

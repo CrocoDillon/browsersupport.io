@@ -1,0 +1,1 @@
+'msContentZoomSnapPoints' in CSSStyleDeclaration.prototype

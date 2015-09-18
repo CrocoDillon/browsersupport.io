@@ -1,0 +1,1 @@
+'suspendRedraw' in SVGSVGElement.prototype

@@ -1,0 +1,1 @@
+'xmllang' in SVGSymbolElement.prototype

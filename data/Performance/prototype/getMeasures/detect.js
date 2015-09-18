@@ -1,0 +1,1 @@
+'getMeasures' in Performance.prototype

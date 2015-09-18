@@ -1,0 +1,1 @@
+'rangeMax' in WebGLShaderPrecisionFormat.prototype

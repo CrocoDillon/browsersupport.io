@@ -1,0 +1,1 @@
+'persisted' in PageTransitionEvent.prototype

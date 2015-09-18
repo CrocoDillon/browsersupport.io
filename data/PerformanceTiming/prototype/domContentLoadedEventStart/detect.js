@@ -1,0 +1,1 @@
+'domContentLoadedEventStart' in PerformanceTiming.prototype

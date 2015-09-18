@@ -1,0 +1,1 @@
+'getFloatTimeDomainData' in AnalyserNode.prototype

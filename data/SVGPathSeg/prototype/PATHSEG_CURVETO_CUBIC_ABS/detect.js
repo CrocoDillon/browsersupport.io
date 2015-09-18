@@ -1,0 +1,1 @@
+'PATHSEG_CURVETO_CUBIC_ABS' in SVGPathSeg.prototype

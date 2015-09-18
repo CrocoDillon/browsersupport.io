@@ -1,0 +1,1 @@
+'SVGTextPathElement' in this

@@ -1,0 +1,1 @@
+'onresize' in SVGSVGElement.prototype

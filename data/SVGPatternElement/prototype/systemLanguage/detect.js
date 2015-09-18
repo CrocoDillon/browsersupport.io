@@ -1,0 +1,1 @@
+'systemLanguage' in SVGPatternElement.prototype

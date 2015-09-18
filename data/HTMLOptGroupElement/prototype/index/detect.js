@@ -1,0 +1,1 @@
+'index' in HTMLOptGroupElement.prototype

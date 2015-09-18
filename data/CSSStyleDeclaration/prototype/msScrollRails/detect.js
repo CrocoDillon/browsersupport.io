@@ -1,0 +1,1 @@
+'msScrollRails' in CSSStyleDeclaration.prototype

@@ -1,0 +1,1 @@
+'RENDERBUFFER_DEPTH_SIZE' in WebGLRenderingContext

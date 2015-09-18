@@ -1,0 +1,1 @@
+'onpointerdown' in Document.prototype

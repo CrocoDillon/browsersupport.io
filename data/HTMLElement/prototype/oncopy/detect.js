@@ -1,0 +1,1 @@
+'oncopy' in HTMLElement.prototype

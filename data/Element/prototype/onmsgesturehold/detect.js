@@ -1,0 +1,1 @@
+'onmsgesturehold' in Element.prototype

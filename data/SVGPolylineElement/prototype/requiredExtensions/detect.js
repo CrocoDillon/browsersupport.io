@@ -1,0 +1,1 @@
+'requiredExtensions' in SVGPolylineElement.prototype

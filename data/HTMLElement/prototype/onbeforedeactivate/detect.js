@@ -1,0 +1,1 @@
+'onbeforedeactivate' in HTMLElement.prototype

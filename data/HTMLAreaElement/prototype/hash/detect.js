@@ -1,0 +1,1 @@
+'hash' in HTMLAreaElement.prototype

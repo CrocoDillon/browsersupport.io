@@ -1,0 +1,1 @@
+'readyState' in IDBRequest.prototype

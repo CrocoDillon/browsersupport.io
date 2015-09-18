@@ -1,0 +1,1 @@
+'SVGPathSeg' in this

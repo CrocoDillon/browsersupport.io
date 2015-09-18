@@ -1,0 +1,1 @@
+'farthestViewportElement' in SVGLineElement.prototype

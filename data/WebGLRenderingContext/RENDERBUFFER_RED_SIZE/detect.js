@@ -1,0 +1,1 @@
+'RENDERBUFFER_RED_SIZE' in WebGLRenderingContext

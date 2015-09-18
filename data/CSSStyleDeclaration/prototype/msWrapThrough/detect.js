@@ -1,0 +1,1 @@
+'msWrapThrough' in CSSStyleDeclaration.prototype

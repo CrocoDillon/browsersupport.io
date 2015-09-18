@@ -1,0 +1,1 @@
+'onbeforeprint' in HTMLBodyElement.prototype

@@ -1,0 +1,1 @@
+'NEVER' in WebGLRenderingContext.prototype

@@ -1,0 +1,1 @@
+'VIEWPORT' in WebGLRenderingContext.prototype

@@ -1,0 +1,1 @@
+'SVG_PRESERVEASPECTRATIO_XMIDYMID' in SVGPreserveAspectRatio.prototype

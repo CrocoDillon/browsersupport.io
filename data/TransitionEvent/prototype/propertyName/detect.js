@@ -1,0 +1,1 @@
+'propertyName' in TransitionEvent.prototype

@@ -1,0 +1,1 @@
+'velocityExpansion' in MSGestureEvent.prototype

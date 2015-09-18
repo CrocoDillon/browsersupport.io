@@ -1,0 +1,1 @@
+'onplaying' in HTMLElement.prototype

@@ -1,0 +1,1 @@
+'webkitIsFullScreen' in Document.prototype

@@ -1,0 +1,1 @@
+'HTMLAreaElement' in this

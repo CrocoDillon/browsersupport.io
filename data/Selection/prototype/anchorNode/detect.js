@@ -1,0 +1,1 @@
+'anchorNode' in Selection.prototype

@@ -1,0 +1,1 @@
+'msCachingEnabled' in XMLHttpRequest.prototype

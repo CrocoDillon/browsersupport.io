@@ -1,0 +1,1 @@
+'onloadeddata' in HTMLElement.prototype

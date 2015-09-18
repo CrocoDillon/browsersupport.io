@@ -1,0 +1,1 @@
+'previousScale' in SVGZoomEvent.prototype

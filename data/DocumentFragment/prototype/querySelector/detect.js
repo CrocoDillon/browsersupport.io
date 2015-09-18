@@ -1,0 +1,1 @@
+'querySelector' in DocumentFragment.prototype

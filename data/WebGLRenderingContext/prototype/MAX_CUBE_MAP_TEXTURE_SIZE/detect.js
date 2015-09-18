@@ -1,0 +1,1 @@
+'MAX_CUBE_MAP_TEXTURE_SIZE' in WebGLRenderingContext.prototype

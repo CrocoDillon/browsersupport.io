@@ -1,1 +1,1 @@
-'ApplicationCache' in this
+'applicationCache' in this

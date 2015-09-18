@@ -1,0 +1,1 @@
+'EQUAL' in WebGLRenderingContext.prototype

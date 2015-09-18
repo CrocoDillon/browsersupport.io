@@ -1,0 +1,1 @@
+'borderTopLeftRadius' in CSSStyleDeclaration.prototype

@@ -1,0 +1,1 @@
+'vspace' in HTMLAppletElement.prototype

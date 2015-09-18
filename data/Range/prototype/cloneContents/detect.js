@@ -1,0 +1,1 @@
+'cloneContents' in Range.prototype

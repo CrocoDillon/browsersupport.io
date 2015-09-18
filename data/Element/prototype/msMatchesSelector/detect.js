@@ -1,0 +1,1 @@
+'msMatchesSelector' in Element.prototype

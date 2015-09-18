@@ -1,0 +1,1 @@
+'outlineColor' in CSSStyleDeclaration.prototype

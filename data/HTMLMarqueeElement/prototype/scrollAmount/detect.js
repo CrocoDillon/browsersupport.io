@@ -1,0 +1,1 @@
+'scrollAmount' in HTMLMarqueeElement.prototype

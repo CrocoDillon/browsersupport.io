@@ -1,0 +1,1 @@
+'nextSibling' in SVGElementInstance.prototype

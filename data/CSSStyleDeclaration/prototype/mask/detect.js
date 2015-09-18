@@ -1,0 +1,1 @@
+'mask' in CSSStyleDeclaration.prototype

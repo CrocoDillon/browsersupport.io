@@ -1,0 +1,1 @@
+'isMap' in HTMLImageElement.prototype

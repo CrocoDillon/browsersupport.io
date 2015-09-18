@@ -1,0 +1,1 @@
+'checkIntersection' in SVGSVGElement.prototype

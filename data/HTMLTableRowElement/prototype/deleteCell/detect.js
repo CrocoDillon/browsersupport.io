@@ -1,0 +1,1 @@
+'deleteCell' in HTMLTableRowElement.prototype

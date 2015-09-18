@@ -1,0 +1,1 @@
+'readyState' in MediaStreamTrack.prototype

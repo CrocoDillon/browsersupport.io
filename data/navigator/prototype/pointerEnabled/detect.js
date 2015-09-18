@@ -1,0 +1,1 @@
+'pointerEnabled' in Navigator.prototype
