@@ -1,0 +1,1 @@
+'valueOf' in Number.prototype

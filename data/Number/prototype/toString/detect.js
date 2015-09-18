@@ -1,0 +1,1 @@
+'toString' in Number.prototype
