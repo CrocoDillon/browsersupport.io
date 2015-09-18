@@ -1,0 +1,1 @@
+'lastMatch' in RegExp

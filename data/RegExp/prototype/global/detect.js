@@ -1,0 +1,1 @@
+'global' in RegExp.prototype
