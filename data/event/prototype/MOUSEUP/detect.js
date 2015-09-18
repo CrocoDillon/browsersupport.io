@@ -1,0 +1,1 @@
+'MOUSEUP' in Event.prototype

@@ -1,0 +1,1 @@
+'cancel' in ReadableStream.prototype

@@ -1,0 +1,1 @@
+'elapsedTime' in WebKitTransitionEvent.prototype

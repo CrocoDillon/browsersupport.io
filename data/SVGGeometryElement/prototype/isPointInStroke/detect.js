@@ -1,0 +1,1 @@
+'isPointInStroke' in SVGGeometryElement.prototype

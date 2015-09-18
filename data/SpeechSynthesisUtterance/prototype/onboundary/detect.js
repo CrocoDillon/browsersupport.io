@@ -1,0 +1,1 @@
+'onboundary' in SpeechSynthesisUtterance.prototype

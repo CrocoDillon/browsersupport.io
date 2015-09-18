@@ -1,0 +1,1 @@
+'userChoice' in BeforeInstallPromptEvent.prototype

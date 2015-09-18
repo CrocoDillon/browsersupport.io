@@ -1,0 +1,1 @@
+'onmouseover' in Window.prototype

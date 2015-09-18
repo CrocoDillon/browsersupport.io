@@ -1,0 +1,1 @@
+'origin' in webkitURL.prototype

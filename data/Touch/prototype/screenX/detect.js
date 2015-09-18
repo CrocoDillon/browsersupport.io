@@ -1,0 +1,1 @@
+'screenX' in Touch.prototype

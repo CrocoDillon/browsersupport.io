@@ -1,0 +1,1 @@
+'elementsFromPoint' in Document.prototype

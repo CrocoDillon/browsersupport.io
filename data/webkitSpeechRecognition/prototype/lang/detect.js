@@ -1,0 +1,1 @@
+'lang' in webkitSpeechRecognition.prototype

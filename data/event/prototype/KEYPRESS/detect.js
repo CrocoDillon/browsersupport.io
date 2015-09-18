@@ -1,0 +1,1 @@
+'KEYPRESS' in Event.prototype

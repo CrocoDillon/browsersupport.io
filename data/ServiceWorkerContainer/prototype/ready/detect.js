@@ -1,0 +1,1 @@
+'ready' in ServiceWorkerContainer.prototype

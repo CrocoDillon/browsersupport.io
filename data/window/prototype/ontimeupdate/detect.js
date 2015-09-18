@@ -1,0 +1,1 @@
+'ontimeupdate' in Window.prototype

@@ -1,0 +1,1 @@
+'unicodeRange' in FontFace.prototype

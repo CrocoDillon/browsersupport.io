@@ -1,0 +1,1 @@
+'load' in FontFace.prototype

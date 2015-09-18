@@ -1,0 +1,1 @@
+'onpointerlockerror' in Document.prototype

@@ -1,0 +1,1 @@
+'onmouseenter' in Window.prototype

@@ -1,0 +1,1 @@
+'unsubscribe' in PushSubscription.prototype

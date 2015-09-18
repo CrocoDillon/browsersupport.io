@@ -1,0 +1,1 @@
+'webkitVideoDecodedByteCount' in HTMLMediaElement.prototype

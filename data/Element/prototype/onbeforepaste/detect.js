@@ -1,0 +1,1 @@
+'onbeforepaste' in Element.prototype

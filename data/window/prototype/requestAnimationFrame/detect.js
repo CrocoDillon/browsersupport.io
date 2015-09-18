@@ -1,0 +1,1 @@
+'requestAnimationFrame' in Window.prototype

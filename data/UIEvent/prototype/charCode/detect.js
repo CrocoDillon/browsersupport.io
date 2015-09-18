@@ -1,0 +1,1 @@
+'charCode' in UIEvent.prototype

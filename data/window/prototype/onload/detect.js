@@ -1,0 +1,1 @@
+'onload' in Window.prototype

@@ -1,0 +1,1 @@
+'webkitCancelAnimationFrame' in Window.prototype

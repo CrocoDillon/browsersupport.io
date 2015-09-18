@@ -1,0 +1,1 @@
+'registerElement' in Document.prototype

@@ -1,1 +1,1 @@
-'webkitEnterFullscreen' in HTMLVideoElement.prototype
+'webkitEnterFullScreen' in HTMLVideoElement.prototype

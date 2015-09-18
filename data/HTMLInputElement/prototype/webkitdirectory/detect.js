@@ -1,0 +1,1 @@
+'webkitdirectory' in HTMLInputElement.prototype

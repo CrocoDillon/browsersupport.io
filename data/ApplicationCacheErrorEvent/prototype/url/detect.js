@@ -1,0 +1,1 @@
+'url' in ApplicationCacheErrorEvent.prototype

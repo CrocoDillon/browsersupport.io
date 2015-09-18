@@ -1,0 +1,1 @@
+'showNotification' in ServiceWorkerRegistration.prototype

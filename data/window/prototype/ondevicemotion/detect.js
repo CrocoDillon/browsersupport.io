@@ -1,0 +1,1 @@
+'ondevicemotion' in Window.prototype

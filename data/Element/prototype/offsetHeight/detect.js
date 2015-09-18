@@ -1,0 +1,1 @@
+'offsetHeight' in Element.prototype

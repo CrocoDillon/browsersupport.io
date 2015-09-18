@@ -1,0 +1,1 @@
+'createScriptProcessor' in webkitAudioContext.prototype

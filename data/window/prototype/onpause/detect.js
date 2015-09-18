@@ -1,0 +1,1 @@
+'onpause' in Window.prototype

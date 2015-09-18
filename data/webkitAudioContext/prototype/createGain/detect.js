@@ -1,0 +1,1 @@
+'createGain' in webkitAudioContext.prototype

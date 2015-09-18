@@ -1,0 +1,1 @@
+'olderShadowRoot' in ShadowRoot.prototype

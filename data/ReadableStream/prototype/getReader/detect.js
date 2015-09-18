@@ -1,0 +1,1 @@
+'getReader' in ReadableStream.prototype

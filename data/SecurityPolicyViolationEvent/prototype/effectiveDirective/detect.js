@@ -1,0 +1,1 @@
+'effectiveDirective' in SecurityPolicyViolationEvent.prototype

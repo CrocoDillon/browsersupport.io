@@ -1,0 +1,1 @@
+'scroll' in Window.prototype

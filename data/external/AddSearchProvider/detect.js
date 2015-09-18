@@ -1,0 +1,1 @@
+'AddSearchProvider' in external

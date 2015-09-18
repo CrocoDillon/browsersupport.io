@@ -1,0 +1,1 @@
+'outputs' in MIDIAccess.prototype

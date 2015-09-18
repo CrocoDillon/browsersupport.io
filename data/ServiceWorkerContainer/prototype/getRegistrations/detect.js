@@ -1,0 +1,1 @@
+'getRegistrations' in ServiceWorkerContainer.prototype

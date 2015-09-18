@@ -1,0 +1,1 @@
+'WebKitMutationObserver' in this

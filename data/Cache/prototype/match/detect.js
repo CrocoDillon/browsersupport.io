@@ -1,0 +1,1 @@
+'match' in Cache.prototype

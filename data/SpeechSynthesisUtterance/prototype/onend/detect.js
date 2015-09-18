@@ -1,0 +1,1 @@
+'onend' in SpeechSynthesisUtterance.prototype

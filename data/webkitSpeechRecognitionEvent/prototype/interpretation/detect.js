@@ -1,0 +1,1 @@
+'interpretation' in webkitSpeechRecognitionEvent.prototype

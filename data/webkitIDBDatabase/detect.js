@@ -1,0 +1,1 @@
+'webkitIDBDatabase' in this

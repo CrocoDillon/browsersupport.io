@@ -1,0 +1,1 @@
+'onchange' in Window.prototype

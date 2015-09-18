@@ -1,0 +1,1 @@
+'originalPolicy' in SecurityPolicyViolationEvent.prototype

@@ -1,0 +1,1 @@
+'blockedURI' in SecurityPolicyViolationEvent.prototype

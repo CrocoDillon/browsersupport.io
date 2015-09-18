@@ -1,0 +1,1 @@
+'totalSize' in XMLHttpRequestProgressEvent.prototype

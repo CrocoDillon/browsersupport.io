@@ -1,0 +1,1 @@
+'onremovestream' in webkitRTCPeerConnection.prototype

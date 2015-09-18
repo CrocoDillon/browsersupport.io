@@ -1,0 +1,1 @@
+'onbeforecut' in Document.prototype

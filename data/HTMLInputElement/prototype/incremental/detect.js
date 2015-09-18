@@ -1,0 +1,1 @@
+'incremental' in HTMLInputElement.prototype

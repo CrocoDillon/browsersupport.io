@@ -1,0 +1,1 @@
+'keySystem' in MediaKeyEvent.prototype

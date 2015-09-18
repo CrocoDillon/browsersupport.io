@@ -1,0 +1,1 @@
+'confirm' in Window.prototype

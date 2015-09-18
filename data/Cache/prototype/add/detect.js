@@ -1,0 +1,1 @@
+'add' in Cache.prototype

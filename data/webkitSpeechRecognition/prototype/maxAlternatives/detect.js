@@ -1,0 +1,1 @@
+'maxAlternatives' in webkitSpeechRecognition.prototype

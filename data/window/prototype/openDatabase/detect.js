@@ -1,0 +1,1 @@
+'openDatabase' in Window.prototype

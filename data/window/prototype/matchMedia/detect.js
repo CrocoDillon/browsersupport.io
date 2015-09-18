@@ -1,0 +1,1 @@
+'matchMedia' in Window.prototype

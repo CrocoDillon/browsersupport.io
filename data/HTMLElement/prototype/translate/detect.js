@@ -1,0 +1,1 @@
+'translate' in HTMLElement.prototype

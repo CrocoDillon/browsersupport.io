@@ -1,0 +1,1 @@
+'onoffline' in Window.prototype

@@ -1,0 +1,1 @@
+'errorCode' in MediaKeyEvent.prototype

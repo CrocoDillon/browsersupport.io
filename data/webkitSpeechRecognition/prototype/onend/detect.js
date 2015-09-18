@@ -1,0 +1,1 @@
+'onend' in webkitSpeechRecognition.prototype

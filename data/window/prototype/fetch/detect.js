@@ -1,0 +1,1 @@
+'fetch' in Window.prototype

@@ -1,0 +1,1 @@
+'oncancel' in Document.prototype

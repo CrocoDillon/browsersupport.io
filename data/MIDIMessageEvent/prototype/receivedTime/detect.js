@@ -1,0 +1,1 @@
+'receivedTime' in MIDIMessageEvent.prototype

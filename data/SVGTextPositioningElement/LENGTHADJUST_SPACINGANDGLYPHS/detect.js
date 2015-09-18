@@ -1,0 +1,1 @@
+'LENGTHADJUST_SPACINGANDGLYPHS' in SVGTextPositioningElement

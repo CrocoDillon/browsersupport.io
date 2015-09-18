@@ -1,0 +1,1 @@
+'grammars' in webkitSpeechRecognition.prototype

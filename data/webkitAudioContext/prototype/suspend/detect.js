@@ -1,0 +1,1 @@
+'suspend' in webkitAudioContext.prototype

@@ -1,0 +1,1 @@
+'animate' in Element.prototype

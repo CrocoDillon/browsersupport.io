@@ -1,0 +1,1 @@
+'takeRecords' in WebKitMutationObserver.prototype

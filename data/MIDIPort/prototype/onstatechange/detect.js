@@ -1,0 +1,1 @@
+'onstatechange' in MIDIPort.prototype

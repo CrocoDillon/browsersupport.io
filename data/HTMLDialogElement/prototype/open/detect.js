@@ -1,0 +1,1 @@
+'open' in HTMLDialogElement.prototype

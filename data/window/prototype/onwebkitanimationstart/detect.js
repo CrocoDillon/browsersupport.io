@@ -1,0 +1,1 @@
+'onwebkitanimationstart' in Window.prototype

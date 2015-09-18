@@ -1,0 +1,1 @@
+'moveBy' in Window.prototype

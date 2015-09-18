@@ -1,0 +1,1 @@
+'onstorage' in Window.prototype

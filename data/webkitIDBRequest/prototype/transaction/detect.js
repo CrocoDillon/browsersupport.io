@@ -1,0 +1,1 @@
+'transaction' in webkitIDBRequest.prototype

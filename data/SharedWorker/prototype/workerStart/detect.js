@@ -1,0 +1,1 @@
+'workerStart' in SharedWorker.prototype

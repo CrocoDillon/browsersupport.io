@@ -1,0 +1,1 @@
+'stop' in webkitMediaStream.prototype

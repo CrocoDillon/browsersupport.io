@@ -1,0 +1,1 @@
+'preserveAspectRatioString' in SVGViewSpec.prototype

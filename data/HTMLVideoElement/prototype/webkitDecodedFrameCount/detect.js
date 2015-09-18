@@ -1,0 +1,1 @@
+'webkitDecodedFrameCount' in HTMLVideoElement.prototype

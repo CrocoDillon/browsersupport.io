@@ -1,0 +1,1 @@
+'onbeforecopy' in Element.prototype

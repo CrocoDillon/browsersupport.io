@@ -1,0 +1,1 @@
+'webkitHidden' in Document.prototype

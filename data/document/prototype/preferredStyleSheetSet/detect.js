@@ -1,1 +1,1 @@
-'preferredStyleSheetSet' in Document.prototype
+'preferredStylesheetSet' in Document.prototype

@@ -1,0 +1,1 @@
+'sampleRate' in webkitAudioContext.prototype

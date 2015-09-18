@@ -1,0 +1,1 @@
+'webkitdropzone' in HTMLElement.prototype

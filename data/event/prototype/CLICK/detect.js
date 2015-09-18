@@ -1,0 +1,1 @@
+'CLICK' in Event.prototype

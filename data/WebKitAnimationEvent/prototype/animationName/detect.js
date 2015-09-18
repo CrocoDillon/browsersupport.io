@@ -1,0 +1,1 @@
+'animationName' in WebKitAnimationEvent.prototype

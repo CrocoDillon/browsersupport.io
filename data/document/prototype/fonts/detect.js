@@ -1,0 +1,1 @@
+'fonts' in Document.prototype

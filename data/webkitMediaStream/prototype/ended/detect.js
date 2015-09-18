@@ -1,0 +1,1 @@
+'ended' in webkitMediaStream.prototype

@@ -1,0 +1,1 @@
+'addStream' in webkitRTCPeerConnection.prototype

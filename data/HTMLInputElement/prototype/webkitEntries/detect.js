@@ -1,0 +1,1 @@
+'webkitEntries' in HTMLInputElement.prototype

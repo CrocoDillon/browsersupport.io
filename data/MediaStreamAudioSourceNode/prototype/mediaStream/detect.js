@@ -1,0 +1,1 @@
+'mediaStream' in MediaStreamAudioSourceNode.prototype

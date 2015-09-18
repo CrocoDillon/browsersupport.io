@@ -1,0 +1,1 @@
+'systemCode' in MediaKeyEvent.prototype

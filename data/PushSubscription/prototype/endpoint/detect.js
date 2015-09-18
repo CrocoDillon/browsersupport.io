@@ -1,0 +1,1 @@
+'endpoint' in PushSubscription.prototype

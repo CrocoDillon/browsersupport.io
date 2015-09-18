@@ -1,0 +1,1 @@
+'delete' in Cache.prototype

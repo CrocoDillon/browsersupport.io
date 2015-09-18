@@ -1,0 +1,1 @@
+'has' in MediaKeyStatusMap.prototype

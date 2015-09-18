@@ -1,0 +1,1 @@
+'onlanguagechange' in Window.prototype

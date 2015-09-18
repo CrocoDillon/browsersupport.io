@@ -1,0 +1,1 @@
+'put' in webkitIDBObjectStore.prototype
