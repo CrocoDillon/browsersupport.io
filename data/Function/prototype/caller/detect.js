@@ -1,0 +1,1 @@
+'caller' in Function.prototype

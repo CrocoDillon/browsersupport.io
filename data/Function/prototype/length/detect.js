@@ -1,0 +1,1 @@
+'length' in Function.prototype

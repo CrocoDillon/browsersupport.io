@@ -1,0 +1,1 @@
+'arguments' in RangeError.prototype
