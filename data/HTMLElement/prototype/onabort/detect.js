@@ -1,0 +1,1 @@
+'onabort' in HTMLElement.prototype

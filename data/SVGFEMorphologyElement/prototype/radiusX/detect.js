@@ -1,0 +1,1 @@
+'radiusX' in SVGFEMorphologyElement.prototype

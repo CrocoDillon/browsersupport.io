@@ -1,0 +1,1 @@
+'onerror' in FileReader.prototype

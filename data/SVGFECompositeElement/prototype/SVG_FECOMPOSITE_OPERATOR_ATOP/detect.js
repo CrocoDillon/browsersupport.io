@@ -1,0 +1,1 @@
+'SVG_FECOMPOSITE_OPERATOR_ATOP' in SVGFECompositeElement.prototype

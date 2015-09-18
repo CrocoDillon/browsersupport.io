@@ -1,0 +1,1 @@
+'createSVGNumber' in SVGSVGElement.prototype

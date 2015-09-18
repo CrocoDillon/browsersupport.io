@@ -1,0 +1,1 @@
+'setTranslate' in SVGTransform.prototype

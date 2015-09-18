@@ -1,0 +1,1 @@
+'createConvolver' in AudioContext.prototype

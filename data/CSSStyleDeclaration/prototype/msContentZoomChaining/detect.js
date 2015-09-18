@@ -1,0 +1,1 @@
+'msContentZoomChaining' in CSSStyleDeclaration.prototype

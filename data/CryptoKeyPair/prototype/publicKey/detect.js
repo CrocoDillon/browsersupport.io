@@ -1,0 +1,1 @@
+'publicKey' in CryptoKeyPair.prototype

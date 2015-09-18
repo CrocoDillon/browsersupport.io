@@ -1,0 +1,1 @@
+'cssFloat' in CSSStyleDeclaration.prototype

@@ -1,0 +1,1 @@
+'queryCommandText' in Document.prototype

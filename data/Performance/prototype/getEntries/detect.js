@@ -1,0 +1,1 @@
+'getEntries' in Performance.prototype

@@ -1,0 +1,1 @@
+'valueAsString' in SVGAngle.prototype

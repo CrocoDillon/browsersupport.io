@@ -1,0 +1,1 @@
+'clearData' in DataTransfer.prototype

@@ -1,0 +1,1 @@
+'verticalAlign' in CSSStyleDeclaration.prototype

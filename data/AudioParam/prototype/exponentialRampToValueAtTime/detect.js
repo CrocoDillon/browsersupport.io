@@ -1,0 +1,1 @@
+'exponentialRampToValueAtTime' in AudioParam.prototype

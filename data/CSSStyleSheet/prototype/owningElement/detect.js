@@ -1,0 +1,1 @@
+'owningElement' in CSSStyleSheet.prototype

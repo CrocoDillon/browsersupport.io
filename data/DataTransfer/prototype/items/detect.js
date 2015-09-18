@@ -1,0 +1,1 @@
+'items' in DataTransfer.prototype

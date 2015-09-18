@@ -1,0 +1,1 @@
+'currentNode' in TreeWalker.prototype

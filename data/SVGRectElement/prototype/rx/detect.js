@@ -1,0 +1,1 @@
+'rx' in SVGRectElement.prototype

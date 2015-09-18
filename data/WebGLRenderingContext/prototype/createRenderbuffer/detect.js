@@ -1,0 +1,1 @@
+'createRenderbuffer' in WebGLRenderingContext.prototype

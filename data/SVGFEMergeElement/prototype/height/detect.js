@@ -1,0 +1,1 @@
+'height' in SVGFEMergeElement.prototype

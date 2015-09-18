@@ -1,0 +1,1 @@
+'textDecoration' in CSSStyleDeclaration.prototype

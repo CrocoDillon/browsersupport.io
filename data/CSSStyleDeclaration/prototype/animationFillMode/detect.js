@@ -1,0 +1,1 @@
+'animationFillMode' in CSSStyleDeclaration.prototype

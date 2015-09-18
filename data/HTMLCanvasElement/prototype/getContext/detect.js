@@ -1,0 +1,1 @@
+'getContext' in HTMLCanvasElement.prototype

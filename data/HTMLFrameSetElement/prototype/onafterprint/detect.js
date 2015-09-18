@@ -1,0 +1,1 @@
+'onafterprint' in HTMLFrameSetElement.prototype

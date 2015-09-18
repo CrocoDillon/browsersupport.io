@@ -1,0 +1,1 @@
+'border' in HTMLAppletElement.prototype

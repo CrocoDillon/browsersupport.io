@@ -1,0 +1,1 @@
+'onemptied' in HTMLElement.prototype

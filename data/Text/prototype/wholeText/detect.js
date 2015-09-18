@@ -1,0 +1,1 @@
+'wholeText' in Text.prototype

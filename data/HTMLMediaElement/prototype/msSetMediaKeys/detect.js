@@ -1,0 +1,1 @@
+'msSetMediaKeys' in HTMLMediaElement.prototype

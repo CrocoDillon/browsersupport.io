@@ -1,0 +1,1 @@
+'baseFrequencyY' in SVGFETurbulenceElement.prototype

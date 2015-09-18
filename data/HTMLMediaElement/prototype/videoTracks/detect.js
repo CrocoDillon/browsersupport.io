@@ -1,0 +1,1 @@
+'videoTracks' in HTMLMediaElement.prototype

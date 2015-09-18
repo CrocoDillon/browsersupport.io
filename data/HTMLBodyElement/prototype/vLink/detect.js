@@ -1,0 +1,1 @@
+'vLink' in HTMLBodyElement.prototype

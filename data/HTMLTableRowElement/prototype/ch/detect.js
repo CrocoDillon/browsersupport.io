@@ -1,0 +1,1 @@
+'ch' in HTMLTableRowElement.prototype

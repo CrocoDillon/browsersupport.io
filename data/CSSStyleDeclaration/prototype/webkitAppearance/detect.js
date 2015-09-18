@@ -1,0 +1,1 @@
+'webkitAppearance' in CSSStyleDeclaration.prototype

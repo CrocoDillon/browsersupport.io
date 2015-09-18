@@ -1,0 +1,1 @@
+'onaddtrack' in VideoTrackList.prototype

@@ -1,0 +1,1 @@
+'FRAGMENT_SHADER_DERIVATIVE_HINT_OES' in OES_standard_derivatives.prototype

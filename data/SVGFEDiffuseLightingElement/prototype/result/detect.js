@@ -1,0 +1,1 @@
+'result' in SVGFEDiffuseLightingElement.prototype

@@ -1,0 +1,1 @@
+'offsetParent' in HTMLElement.prototype

@@ -1,0 +1,1 @@
+'isTypeSupportedWithFeatures' in MSMediaKeys

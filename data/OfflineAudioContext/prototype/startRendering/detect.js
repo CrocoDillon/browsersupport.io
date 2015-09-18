@@ -1,0 +1,1 @@
+'startRendering' in OfflineAudioContext.prototype

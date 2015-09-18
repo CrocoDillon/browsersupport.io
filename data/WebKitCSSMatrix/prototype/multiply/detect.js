@@ -1,0 +1,1 @@
+'multiply' in WebKitCSSMatrix.prototype

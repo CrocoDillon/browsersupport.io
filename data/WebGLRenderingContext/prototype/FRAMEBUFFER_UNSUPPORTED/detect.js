@@ -1,0 +1,1 @@
+'FRAMEBUFFER_UNSUPPORTED' in WebGLRenderingContext.prototype

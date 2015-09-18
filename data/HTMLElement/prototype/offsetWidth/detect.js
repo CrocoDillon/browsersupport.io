@@ -1,0 +1,1 @@
+'offsetWidth' in HTMLElement.prototype

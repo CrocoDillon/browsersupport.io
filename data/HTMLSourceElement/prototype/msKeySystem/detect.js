@@ -1,0 +1,1 @@
+'msKeySystem' in HTMLSourceElement.prototype

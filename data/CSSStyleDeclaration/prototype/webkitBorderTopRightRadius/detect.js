@@ -1,0 +1,1 @@
+'webkitBorderTopRightRadius' in CSSStyleDeclaration.prototype

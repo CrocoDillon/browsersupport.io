@@ -1,0 +1,1 @@
+'depthMask' in WebGLRenderingContext.prototype

@@ -1,0 +1,1 @@
+'pageBreakAfter' in CSSStyleDeclaration.prototype

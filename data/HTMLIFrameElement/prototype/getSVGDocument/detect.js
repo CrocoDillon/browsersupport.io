@@ -1,0 +1,1 @@
+'getSVGDocument' in HTMLIFrameElement.prototype

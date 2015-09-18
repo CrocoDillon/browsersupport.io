@@ -1,0 +1,1 @@
+'result' in SVGFECompositeElement.prototype

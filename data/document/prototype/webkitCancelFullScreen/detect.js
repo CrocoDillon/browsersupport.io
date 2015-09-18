@@ -1,0 +1,1 @@
+'webkitCancelFullScreen' in Document.prototype

@@ -1,0 +1,1 @@
+'INCR' in WebGLRenderingContext.prototype

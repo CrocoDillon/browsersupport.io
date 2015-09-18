@@ -1,0 +1,1 @@
+'offset' in SVGComponentTransferFunctionElement.prototype

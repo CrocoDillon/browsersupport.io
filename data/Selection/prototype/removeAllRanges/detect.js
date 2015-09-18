@@ -1,0 +1,1 @@
+'removeAllRanges' in Selection.prototype

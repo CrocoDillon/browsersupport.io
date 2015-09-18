@@ -1,0 +1,1 @@
+'webkitColumnBreakBefore' in CSSStyleDeclaration.prototype

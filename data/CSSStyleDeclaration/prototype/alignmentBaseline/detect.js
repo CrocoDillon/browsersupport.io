@@ -1,0 +1,1 @@
+'alignmentBaseline' in CSSStyleDeclaration.prototype

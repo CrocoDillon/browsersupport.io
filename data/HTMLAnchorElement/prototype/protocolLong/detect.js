@@ -1,0 +1,1 @@
+'protocolLong' in HTMLAnchorElement.prototype

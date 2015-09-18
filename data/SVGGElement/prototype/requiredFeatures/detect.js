@@ -1,0 +1,1 @@
+'requiredFeatures' in SVGGElement.prototype

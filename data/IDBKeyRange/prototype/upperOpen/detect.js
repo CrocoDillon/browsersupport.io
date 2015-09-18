@@ -1,0 +1,1 @@
+'upperOpen' in IDBKeyRange.prototype

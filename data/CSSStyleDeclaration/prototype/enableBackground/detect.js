@@ -1,0 +1,1 @@
+'enableBackground' in CSSStyleDeclaration.prototype

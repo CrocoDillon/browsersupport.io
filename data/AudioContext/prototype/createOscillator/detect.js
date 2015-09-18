@@ -1,0 +1,1 @@
+'createOscillator' in AudioContext.prototype

@@ -1,0 +1,1 @@
+'booleanValue' in XPathResult.prototype

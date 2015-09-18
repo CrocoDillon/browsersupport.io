@@ -1,0 +1,1 @@
+'REPEAT' in WebGLRenderingContext.prototype

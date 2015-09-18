@@ -1,0 +1,1 @@
+'getBufferParameter' in WebGLRenderingContext.prototype

@@ -1,0 +1,1 @@
+'ALIASED_LINE_WIDTH_RANGE' in WebGLRenderingContext

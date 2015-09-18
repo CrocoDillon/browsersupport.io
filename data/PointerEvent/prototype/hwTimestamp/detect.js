@@ -1,0 +1,1 @@
+'hwTimestamp' in PointerEvent.prototype

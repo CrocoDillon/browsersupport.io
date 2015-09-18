@@ -1,0 +1,1 @@
+'get' in IDBIndex.prototype

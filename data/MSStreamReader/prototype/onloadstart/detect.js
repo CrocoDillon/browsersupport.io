@@ -1,0 +1,1 @@
+'onloadstart' in MSStreamReader.prototype

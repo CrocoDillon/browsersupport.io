@@ -1,0 +1,1 @@
+'writingMode' in CSSStyleDeclaration.prototype

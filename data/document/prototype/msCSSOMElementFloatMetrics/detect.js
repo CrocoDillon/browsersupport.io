@@ -1,0 +1,1 @@
+'msCSSOMElementFloatMetrics' in Document.prototype

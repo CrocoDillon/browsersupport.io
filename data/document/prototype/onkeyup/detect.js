@@ -1,0 +1,1 @@
+'onkeyup' in Document.prototype

@@ -1,0 +1,1 @@
+'contentDocument' in HTMLIFrameElement.prototype

@@ -1,0 +1,1 @@
+'finish' in WebGLRenderingContext.prototype

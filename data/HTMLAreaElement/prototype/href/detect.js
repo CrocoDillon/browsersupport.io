@@ -1,0 +1,1 @@
+'href' in HTMLAreaElement.prototype

@@ -1,0 +1,1 @@
+'ondblclick' in HTMLElement.prototype

@@ -1,0 +1,1 @@
+'duration' in AudioBuffer.prototype

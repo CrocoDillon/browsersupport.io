@@ -1,0 +1,1 @@
+'bufferSubData' in WebGLRenderingContext.prototype

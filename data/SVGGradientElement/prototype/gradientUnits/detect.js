@@ -1,0 +1,1 @@
+'gradientUnits' in SVGGradientElement.prototype

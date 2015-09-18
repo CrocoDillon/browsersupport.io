@@ -1,0 +1,1 @@
+'onsubmit' in HTMLElement.prototype

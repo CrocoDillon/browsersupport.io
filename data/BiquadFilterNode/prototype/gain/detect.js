@@ -1,0 +1,1 @@
+'gain' in BiquadFilterNode.prototype

@@ -1,0 +1,1 @@
+'releaseEvents' in Document.prototype

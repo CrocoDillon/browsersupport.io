@@ -1,0 +1,1 @@
+'MS_MANIPULATION_STATE_STOPPED' in MSManipulationEvent.prototype

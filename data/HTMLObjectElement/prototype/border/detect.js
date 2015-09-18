@@ -1,0 +1,1 @@
+'border' in HTMLObjectElement.prototype

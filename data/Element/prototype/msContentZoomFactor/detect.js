@@ -1,0 +1,1 @@
+'msContentZoomFactor' in Element.prototype

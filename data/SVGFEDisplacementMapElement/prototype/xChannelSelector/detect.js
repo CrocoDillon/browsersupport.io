@@ -1,0 +1,1 @@
+'xChannelSelector' in SVGFEDisplacementMapElement.prototype

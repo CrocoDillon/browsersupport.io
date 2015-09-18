@@ -1,0 +1,1 @@
+'getConstraints' in MediaStreamTrack.prototype

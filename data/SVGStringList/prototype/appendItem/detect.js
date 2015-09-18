@@ -1,0 +1,1 @@
+'appendItem' in SVGStringList.prototype

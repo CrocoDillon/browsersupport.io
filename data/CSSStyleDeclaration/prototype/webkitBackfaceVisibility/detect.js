@@ -1,0 +1,1 @@
+'webkitBackfaceVisibility' in CSSStyleDeclaration.prototype

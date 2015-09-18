@@ -1,0 +1,1 @@
+'onpointerenter' in Document.prototype

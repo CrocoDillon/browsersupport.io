@@ -1,0 +1,1 @@
+'HORIZONTAL' in OverflowEvent.prototype

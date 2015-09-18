@@ -1,0 +1,1 @@
+'defaultValue' in HTMLTextAreaElement.prototype

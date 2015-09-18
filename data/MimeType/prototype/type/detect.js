@@ -1,0 +1,1 @@
+'type' in MimeType.prototype

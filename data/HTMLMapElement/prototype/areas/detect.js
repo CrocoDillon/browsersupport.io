@@ -1,0 +1,1 @@
+'areas' in HTMLMapElement.prototype

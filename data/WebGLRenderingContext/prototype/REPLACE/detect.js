@@ -1,0 +1,1 @@
+'REPLACE' in WebGLRenderingContext.prototype

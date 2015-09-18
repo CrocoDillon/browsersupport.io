@@ -1,0 +1,1 @@
+'startOffset' in SVGTextPathElement.prototype

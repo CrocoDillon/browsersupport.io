@@ -1,0 +1,1 @@
+'webkitBoxFlex' in CSSStyleDeclaration.prototype

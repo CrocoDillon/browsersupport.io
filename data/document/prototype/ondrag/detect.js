@@ -1,0 +1,1 @@
+'ondrag' in Document.prototype

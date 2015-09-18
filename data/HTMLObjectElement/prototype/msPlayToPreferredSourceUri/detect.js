@@ -1,0 +1,1 @@
+'msPlayToPreferredSourceUri' in HTMLObjectElement.prototype

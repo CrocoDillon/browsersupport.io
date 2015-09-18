@@ -1,0 +1,1 @@
+'shiftKey' in MouseEvent.prototype

@@ -1,0 +1,1 @@
+'autofocus' in HTMLButtonElement.prototype

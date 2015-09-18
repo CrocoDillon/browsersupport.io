@@ -1,0 +1,1 @@
+'sandbox' in HTMLIFrameElement.prototype

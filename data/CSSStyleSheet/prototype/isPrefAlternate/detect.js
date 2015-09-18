@@ -1,0 +1,1 @@
+'isPrefAlternate' in CSSStyleSheet.prototype

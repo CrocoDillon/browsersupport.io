@@ -1,0 +1,1 @@
+'ondragstart' in Document.prototype

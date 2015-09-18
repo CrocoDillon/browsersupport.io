@@ -1,0 +1,1 @@
+'rotate' in WebKitCSSMatrix.prototype

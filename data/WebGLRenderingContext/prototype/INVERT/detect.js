@@ -1,0 +1,1 @@
+'INVERT' in WebGLRenderingContext.prototype

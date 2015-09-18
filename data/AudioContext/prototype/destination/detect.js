@@ -1,0 +1,1 @@
+'destination' in AudioContext.prototype

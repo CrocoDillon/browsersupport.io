@@ -1,0 +1,1 @@
+'result' in SVGFEComponentTransferElement.prototype

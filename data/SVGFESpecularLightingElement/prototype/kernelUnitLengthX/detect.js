@@ -1,0 +1,1 @@
+'kernelUnitLengthX' in SVGFESpecularLightingElement.prototype

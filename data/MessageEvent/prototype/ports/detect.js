@@ -1,0 +1,1 @@
+'ports' in MessageEvent.prototype

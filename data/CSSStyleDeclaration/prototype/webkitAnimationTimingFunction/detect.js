@@ -1,0 +1,1 @@
+'webkitAnimationTimingFunction' in CSSStyleDeclaration.prototype

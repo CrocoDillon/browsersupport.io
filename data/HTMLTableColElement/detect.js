@@ -1,0 +1,1 @@
+'HTMLTableColElement' in this

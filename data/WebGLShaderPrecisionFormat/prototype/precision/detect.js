@@ -1,0 +1,1 @@
+'precision' in WebGLShaderPrecisionFormat.prototype

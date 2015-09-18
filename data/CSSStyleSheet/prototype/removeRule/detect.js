@@ -1,0 +1,1 @@
+'removeRule' in CSSStyleSheet.prototype

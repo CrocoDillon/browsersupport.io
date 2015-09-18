@@ -1,0 +1,1 @@
+'getRandomValues' in Crypto.prototype

@@ -1,0 +1,1 @@
+'msZoomTo' in Element.prototype

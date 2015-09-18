@@ -1,0 +1,1 @@
+'horizontalOverflow' in OverflowEvent.prototype

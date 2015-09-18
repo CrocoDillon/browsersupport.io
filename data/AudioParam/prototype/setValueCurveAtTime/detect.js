@@ -1,0 +1,1 @@
+'setValueCurveAtTime' in AudioParam.prototype

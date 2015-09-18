@@ -1,0 +1,1 @@
+'createBuffer' in AudioContext.prototype

@@ -1,0 +1,1 @@
+'fetchStart' in PerformanceResourceTiming.prototype

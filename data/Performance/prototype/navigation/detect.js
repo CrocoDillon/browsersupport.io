@@ -1,0 +1,1 @@
+'navigation' in Performance.prototype

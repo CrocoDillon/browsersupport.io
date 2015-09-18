@@ -1,0 +1,1 @@
+'async' in HTMLScriptElement.prototype

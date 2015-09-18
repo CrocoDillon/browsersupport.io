@@ -1,0 +1,1 @@
+'removeImport' in CSSStyleSheet.prototype

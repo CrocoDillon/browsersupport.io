@@ -1,0 +1,1 @@
+'complete' in HTMLImageElement.prototype

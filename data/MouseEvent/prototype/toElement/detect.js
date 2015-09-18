@@ -1,0 +1,1 @@
+'toElement' in MouseEvent.prototype

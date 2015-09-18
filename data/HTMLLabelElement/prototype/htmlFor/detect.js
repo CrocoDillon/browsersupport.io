@@ -1,0 +1,1 @@
+'htmlFor' in HTMLLabelElement.prototype

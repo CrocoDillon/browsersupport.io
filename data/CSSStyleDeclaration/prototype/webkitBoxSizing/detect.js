@@ -1,0 +1,1 @@
+'webkitBoxSizing' in CSSStyleDeclaration.prototype

@@ -1,0 +1,1 @@
+'type' in SVGFEColorMatrixElement.prototype

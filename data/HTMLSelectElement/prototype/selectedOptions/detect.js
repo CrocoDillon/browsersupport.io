@@ -1,0 +1,1 @@
+'selectedOptions' in HTMLSelectElement.prototype

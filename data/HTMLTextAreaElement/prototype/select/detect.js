@@ -1,0 +1,1 @@
+'select' in HTMLTextAreaElement.prototype

@@ -1,0 +1,1 @@
+'frameBorder' in HTMLIFrameElement.prototype

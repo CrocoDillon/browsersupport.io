@@ -1,0 +1,1 @@
+'createSession' in MSMediaKeys.prototype

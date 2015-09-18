@@ -1,0 +1,1 @@
+'getAsFile' in DataTransferItem.prototype

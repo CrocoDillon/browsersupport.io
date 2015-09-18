@@ -1,0 +1,1 @@
+'COMPRESSED_TEXTURE_FORMATS' in WebGLRenderingContext

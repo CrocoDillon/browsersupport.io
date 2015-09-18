@@ -1,0 +1,1 @@
+'borderWidth' in CSSStyleDeclaration.prototype

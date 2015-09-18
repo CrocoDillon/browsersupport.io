@@ -1,0 +1,1 @@
+'pathSegList' in SVGPathElement.prototype

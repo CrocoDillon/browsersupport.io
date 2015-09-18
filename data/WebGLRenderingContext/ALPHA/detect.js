@@ -1,0 +1,1 @@
+'ALPHA' in WebGLRenderingContext

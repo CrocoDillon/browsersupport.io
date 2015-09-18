@@ -1,0 +1,1 @@
+'cellPadding' in HTMLTableElement.prototype

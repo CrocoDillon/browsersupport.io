@@ -1,0 +1,1 @@
+'onpointermove' in Document.prototype

@@ -1,0 +1,1 @@
+'selectNodeContents' in Range.prototype

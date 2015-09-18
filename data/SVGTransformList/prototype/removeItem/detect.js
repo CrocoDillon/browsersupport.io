@@ -1,0 +1,1 @@
+'removeItem' in SVGTransformList.prototype

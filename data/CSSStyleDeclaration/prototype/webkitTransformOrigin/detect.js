@@ -1,0 +1,1 @@
+'webkitTransformOrigin' in CSSStyleDeclaration.prototype

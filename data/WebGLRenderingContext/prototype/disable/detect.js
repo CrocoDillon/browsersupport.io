@@ -1,0 +1,1 @@
+'disable' in WebGLRenderingContext.prototype

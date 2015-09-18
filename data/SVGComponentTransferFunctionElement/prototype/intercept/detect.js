@@ -1,0 +1,1 @@
+'intercept' in SVGComponentTransferFunctionElement.prototype

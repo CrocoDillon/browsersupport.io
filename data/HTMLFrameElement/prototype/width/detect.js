@@ -1,0 +1,1 @@
+'width' in HTMLFrameElement.prototype

@@ -1,0 +1,1 @@
+'validationMessage' in HTMLInputElement.prototype

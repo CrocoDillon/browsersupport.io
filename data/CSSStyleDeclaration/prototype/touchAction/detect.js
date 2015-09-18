@@ -1,0 +1,1 @@
+'touchAction' in CSSStyleDeclaration.prototype

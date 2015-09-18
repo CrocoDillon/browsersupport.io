@@ -1,0 +1,1 @@
+'floodColor' in CSSStyleDeclaration.prototype

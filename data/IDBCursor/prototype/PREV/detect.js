@@ -1,0 +1,1 @@
+'PREV' in IDBCursor.prototype

@@ -1,0 +1,1 @@
+'imeMode' in CSSStyleDeclaration.prototype

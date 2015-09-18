@@ -1,0 +1,1 @@
+'onpointerout' in Element.prototype

@@ -1,0 +1,1 @@
+'onmsorientationchange' in Screen.prototype

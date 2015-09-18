@@ -1,0 +1,1 @@
+'msImageSmoothingEnabled' in CanvasRenderingContext2D.prototype

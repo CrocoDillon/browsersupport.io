@@ -1,0 +1,1 @@
+'angle' in SVGTransform.prototype

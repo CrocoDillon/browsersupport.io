@@ -1,0 +1,1 @@
+'CURRENT_VERTEX_ATTRIB' in WebGLRenderingContext

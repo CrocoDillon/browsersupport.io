@@ -1,0 +1,1 @@
+'numberOfInputs' in AudioNode.prototype

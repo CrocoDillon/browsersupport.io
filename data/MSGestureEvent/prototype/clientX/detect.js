@@ -1,0 +1,1 @@
+'clientX' in MSGestureEvent.prototype

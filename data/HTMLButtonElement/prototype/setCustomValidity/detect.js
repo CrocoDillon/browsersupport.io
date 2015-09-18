@@ -1,0 +1,1 @@
+'setCustomValidity' in HTMLButtonElement.prototype

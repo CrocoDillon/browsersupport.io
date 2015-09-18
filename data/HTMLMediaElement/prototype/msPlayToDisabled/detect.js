@@ -1,0 +1,1 @@
+'msPlayToDisabled' in HTMLMediaElement.prototype

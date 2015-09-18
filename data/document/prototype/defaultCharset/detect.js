@@ -1,0 +1,1 @@
+'defaultCharset' in Document.prototype

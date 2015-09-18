@@ -1,0 +1,1 @@
+'divisor' in SVGFEConvolveMatrixElement.prototype

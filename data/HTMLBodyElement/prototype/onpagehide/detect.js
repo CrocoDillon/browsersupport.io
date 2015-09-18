@@ -1,0 +1,1 @@
+'onpagehide' in HTMLBodyElement.prototype

@@ -1,0 +1,1 @@
+'offsetLeft' in HTMLElement.prototype

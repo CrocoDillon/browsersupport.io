@@ -1,0 +1,1 @@
+'linkColor' in Document.prototype

@@ -1,0 +1,1 @@
+'hreflang' in HTMLLinkElement.prototype

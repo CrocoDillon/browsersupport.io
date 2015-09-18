@@ -1,0 +1,1 @@
+'SVGLinearGradientElement' in this

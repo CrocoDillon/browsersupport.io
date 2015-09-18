@@ -1,0 +1,1 @@
+'altitude' in Coordinates.prototype

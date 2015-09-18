@@ -1,0 +1,1 @@
+'webkitColumnGap' in CSSStyleDeclaration.prototype

@@ -1,0 +1,1 @@
+'panningModel' in PannerNode.prototype

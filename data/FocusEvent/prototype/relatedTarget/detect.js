@@ -1,0 +1,1 @@
+'relatedTarget' in FocusEvent.prototype

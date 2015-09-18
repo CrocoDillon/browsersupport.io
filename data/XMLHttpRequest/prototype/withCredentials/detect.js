@@ -1,0 +1,1 @@
+'withCredentials' in XMLHttpRequest.prototype

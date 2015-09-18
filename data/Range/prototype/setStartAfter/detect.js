@@ -1,0 +1,1 @@
+'setStartAfter' in Range.prototype

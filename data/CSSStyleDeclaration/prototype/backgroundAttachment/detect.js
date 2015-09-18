@@ -1,0 +1,1 @@
+'backgroundAttachment' in CSSStyleDeclaration.prototype

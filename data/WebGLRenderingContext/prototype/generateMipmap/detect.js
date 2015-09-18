@@ -1,0 +1,1 @@
+'generateMipmap' in WebGLRenderingContext.prototype

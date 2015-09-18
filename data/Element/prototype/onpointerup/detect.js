@@ -1,0 +1,1 @@
+'onpointerup' in Element.prototype

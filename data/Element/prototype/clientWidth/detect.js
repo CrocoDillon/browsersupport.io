@@ -1,0 +1,1 @@
+'clientWidth' in Element.prototype

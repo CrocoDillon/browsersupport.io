@@ -1,0 +1,1 @@
+'xmllang' in SVGImageElement.prototype

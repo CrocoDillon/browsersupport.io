@@ -1,0 +1,1 @@
+'baseURI' in Node.prototype

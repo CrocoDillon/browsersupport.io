@@ -1,0 +1,1 @@
+'unicodeBidi' in CSSStyleDeclaration.prototype

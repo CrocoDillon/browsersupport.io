@@ -1,0 +1,1 @@
+'ondragleave' in HTMLElement.prototype

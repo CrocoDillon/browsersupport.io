@@ -1,0 +1,1 @@
+'drawArrays' in WebGLRenderingContext.prototype

@@ -1,0 +1,1 @@
+'viewBox' in SVGMarkerElement.prototype

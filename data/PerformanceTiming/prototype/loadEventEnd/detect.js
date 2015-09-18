@@ -1,0 +1,1 @@
+'loadEventEnd' in PerformanceTiming.prototype

@@ -1,0 +1,1 @@
+'z' in DeviceAcceleration.prototype

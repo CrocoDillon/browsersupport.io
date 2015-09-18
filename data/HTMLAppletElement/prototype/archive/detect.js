@@ -1,0 +1,1 @@
+'archive' in HTMLAppletElement.prototype

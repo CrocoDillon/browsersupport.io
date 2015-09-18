@@ -1,0 +1,1 @@
+'threshold' in DynamicsCompressorNode.prototype

@@ -1,0 +1,1 @@
+'duration' in HTMLMediaElement.prototype

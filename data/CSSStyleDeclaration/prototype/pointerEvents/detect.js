@@ -1,0 +1,1 @@
+'pointerEvents' in CSSStyleDeclaration.prototype

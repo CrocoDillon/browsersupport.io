@@ -1,0 +1,1 @@
+'msGridColumnSpan' in CSSStyleDeclaration.prototype

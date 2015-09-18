@@ -1,0 +1,1 @@
+'vAlign' in HTMLTableSectionElement.prototype

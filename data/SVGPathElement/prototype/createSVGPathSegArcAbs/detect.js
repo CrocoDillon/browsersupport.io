@@ -1,0 +1,1 @@
+'createSVGPathSegArcAbs' in SVGPathElement.prototype

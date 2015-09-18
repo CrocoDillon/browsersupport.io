@@ -1,0 +1,1 @@
+'SVGAnimatedRect' in this

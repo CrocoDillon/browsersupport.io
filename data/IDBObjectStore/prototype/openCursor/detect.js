@@ -1,0 +1,1 @@
+'openCursor' in IDBObjectStore.prototype

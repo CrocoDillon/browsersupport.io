@@ -1,0 +1,1 @@
+'sectionRowIndex' in HTMLTableRowElement.prototype

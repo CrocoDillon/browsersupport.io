@@ -1,0 +1,1 @@
+'initTransitionEvent' in TransitionEvent.prototype

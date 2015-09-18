@@ -1,0 +1,1 @@
+'dx' in SVGTextPositioningElement.prototype

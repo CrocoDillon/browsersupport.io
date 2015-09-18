@@ -1,0 +1,1 @@
+'createScriptProcessor' in AudioContext.prototype

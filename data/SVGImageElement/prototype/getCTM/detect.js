@@ -1,0 +1,1 @@
+'getCTM' in SVGImageElement.prototype

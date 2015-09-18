@@ -1,0 +1,1 @@
+'oldValue' in MutationRecord.prototype

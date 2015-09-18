@@ -1,0 +1,1 @@
+'TIMEOUT' in PositionError.prototype

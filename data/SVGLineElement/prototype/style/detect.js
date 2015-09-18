@@ -1,0 +1,1 @@
+'style' in SVGLineElement.prototype

@@ -1,0 +1,1 @@
+'compileShader' in WebGLRenderingContext.prototype

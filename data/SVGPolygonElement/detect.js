@@ -1,0 +1,1 @@
+'SVGPolygonElement' in this

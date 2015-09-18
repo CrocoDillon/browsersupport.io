@@ -1,0 +1,1 @@
+'RGB' in WebGLRenderingContext.prototype

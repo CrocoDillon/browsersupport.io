@@ -1,0 +1,1 @@
+'disabled' in HTMLTextAreaElement.prototype

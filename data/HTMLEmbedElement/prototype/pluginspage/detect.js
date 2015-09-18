@@ -1,0 +1,1 @@
+'pluginspage' in HTMLEmbedElement.prototype

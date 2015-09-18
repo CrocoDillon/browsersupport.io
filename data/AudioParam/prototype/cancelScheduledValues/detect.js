@@ -1,0 +1,1 @@
+'cancelScheduledValues' in AudioParam.prototype

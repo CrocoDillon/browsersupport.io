@@ -1,0 +1,1 @@
+'metaKey' in KeyboardEvent.prototype

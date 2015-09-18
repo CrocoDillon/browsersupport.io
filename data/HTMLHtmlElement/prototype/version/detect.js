@@ -1,0 +1,1 @@
+'version' in HTMLHtmlElement.prototype

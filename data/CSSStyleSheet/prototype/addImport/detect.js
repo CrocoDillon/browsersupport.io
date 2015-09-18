@@ -1,0 +1,1 @@
+'addImport' in CSSStyleSheet.prototype

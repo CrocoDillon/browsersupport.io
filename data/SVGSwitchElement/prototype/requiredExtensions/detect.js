@@ -1,0 +1,1 @@
+'requiredExtensions' in SVGSwitchElement.prototype

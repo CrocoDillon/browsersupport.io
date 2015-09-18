@@ -1,0 +1,1 @@
+'bias' in SVGFEConvolveMatrixElement.prototype

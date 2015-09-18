@@ -1,0 +1,1 @@
+'timestampOffset' in SourceBuffer.prototype

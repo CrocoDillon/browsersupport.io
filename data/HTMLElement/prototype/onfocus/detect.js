@@ -1,0 +1,1 @@
+'onfocus' in HTMLElement.prototype

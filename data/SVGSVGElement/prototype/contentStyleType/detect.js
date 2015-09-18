@@ -1,0 +1,1 @@
+'contentStyleType' in SVGSVGElement.prototype

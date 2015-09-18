@@ -1,0 +1,1 @@
+'onprogress' in MSStreamReader.prototype

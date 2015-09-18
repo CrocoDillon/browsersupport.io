@@ -1,0 +1,1 @@
+'edgeMode' in SVGFEConvolveMatrixElement.prototype

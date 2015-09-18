@@ -1,0 +1,1 @@
+'useMap' in HTMLAppletElement.prototype

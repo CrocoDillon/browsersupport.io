@@ -1,0 +1,1 @@
+'SVG_ZOOMANDPAN_MAGNIFY' in SVGSVGElement.prototype

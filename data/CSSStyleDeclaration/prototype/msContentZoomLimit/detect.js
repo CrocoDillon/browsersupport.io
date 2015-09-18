@@ -1,0 +1,1 @@
+'msContentZoomLimit' in CSSStyleDeclaration.prototype

@@ -1,0 +1,1 @@
+'deltaMode' in WheelEvent.prototype

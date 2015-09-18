@@ -1,0 +1,1 @@
+'orient' in OverflowEvent.prototype

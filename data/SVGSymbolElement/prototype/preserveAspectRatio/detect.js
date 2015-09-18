@@ -1,0 +1,1 @@
+'preserveAspectRatio' in SVGSymbolElement.prototype

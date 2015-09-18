@@ -1,0 +1,1 @@
+'vertexAttribPointer' in WebGLRenderingContext.prototype

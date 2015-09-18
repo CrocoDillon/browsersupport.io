@@ -1,0 +1,1 @@
+'counterReset' in CSSStyleDeclaration.prototype

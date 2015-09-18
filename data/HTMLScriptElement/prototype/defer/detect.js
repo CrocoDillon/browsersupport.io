@@ -1,0 +1,1 @@
+'defer' in HTMLScriptElement.prototype

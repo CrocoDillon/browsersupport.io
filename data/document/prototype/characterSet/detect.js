@@ -1,0 +1,1 @@
+'characterSet' in Document.prototype

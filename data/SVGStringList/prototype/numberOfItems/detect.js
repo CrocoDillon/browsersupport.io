@@ -1,0 +1,1 @@
+'numberOfItems' in SVGStringList.prototype

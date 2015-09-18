@@ -1,0 +1,1 @@
+'blendFunc' in WebGLRenderingContext.prototype

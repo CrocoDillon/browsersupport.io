@@ -1,0 +1,1 @@
+'offsetX' in MSGestureEvent.prototype

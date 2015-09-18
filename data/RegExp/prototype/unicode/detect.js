@@ -1,0 +1,1 @@
+'unicode' in RegExp.prototype

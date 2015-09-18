@@ -1,0 +1,1 @@
+'webkitAlignContent' in CSSStyleDeclaration.prototype

@@ -1,0 +1,1 @@
+'protocol' in Location.prototype

@@ -1,0 +1,1 @@
+'nodeType' in Node.prototype

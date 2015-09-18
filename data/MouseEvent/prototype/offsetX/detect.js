@@ -1,0 +1,1 @@
+'offsetX' in MouseEvent.prototype

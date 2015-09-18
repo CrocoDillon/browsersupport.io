@@ -1,0 +1,1 @@
+'removeEventListener' in EventTarget.prototype

@@ -1,0 +1,1 @@
+'upperBound' in IDBKeyRange

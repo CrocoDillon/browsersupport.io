@@ -1,0 +1,1 @@
+'slope' in SVGComponentTransferFunctionElement.prototype

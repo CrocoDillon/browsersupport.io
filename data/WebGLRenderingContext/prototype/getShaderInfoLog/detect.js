@@ -1,0 +1,1 @@
+'getShaderInfoLog' in WebGLRenderingContext.prototype

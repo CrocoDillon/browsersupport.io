@@ -1,0 +1,1 @@
+'fx' in SVGRadialGradientElement.prototype

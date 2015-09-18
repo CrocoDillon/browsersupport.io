@@ -1,0 +1,1 @@
+'msUserSelect' in CSSStyleDeclaration.prototype

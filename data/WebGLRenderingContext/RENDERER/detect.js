@@ -1,0 +1,1 @@
+'RENDERER' in WebGLRenderingContext

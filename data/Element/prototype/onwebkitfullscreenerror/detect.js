@@ -1,0 +1,1 @@
+'onwebkitfullscreenerror' in Element.prototype

@@ -1,0 +1,1 @@
+'borderRight' in CSSStyleDeclaration.prototype

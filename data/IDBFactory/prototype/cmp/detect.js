@@ -1,0 +1,1 @@
+'cmp' in IDBFactory.prototype

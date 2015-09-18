@@ -1,0 +1,1 @@
+'length' in PluginArray.prototype

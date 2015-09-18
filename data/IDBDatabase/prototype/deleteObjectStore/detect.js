@@ -1,0 +1,1 @@
+'deleteObjectStore' in IDBDatabase.prototype

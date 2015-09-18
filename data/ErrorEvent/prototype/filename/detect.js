@@ -1,0 +1,1 @@
+'filename' in ErrorEvent.prototype

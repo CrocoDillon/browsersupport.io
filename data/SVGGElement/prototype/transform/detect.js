@@ -1,0 +1,1 @@
+'transform' in SVGGElement.prototype

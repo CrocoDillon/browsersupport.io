@@ -1,0 +1,1 @@
+'border' in Image.prototype

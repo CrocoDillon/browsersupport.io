@@ -1,0 +1,1 @@
+'toggle' in DOMTokenList.prototype

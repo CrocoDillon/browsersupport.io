@@ -1,0 +1,1 @@
+'STENCIL_PASS_DEPTH_PASS' in WebGLRenderingContext.prototype

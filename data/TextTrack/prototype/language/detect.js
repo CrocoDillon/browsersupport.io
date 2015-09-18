@@ -1,0 +1,1 @@
+'language' in TextTrack.prototype

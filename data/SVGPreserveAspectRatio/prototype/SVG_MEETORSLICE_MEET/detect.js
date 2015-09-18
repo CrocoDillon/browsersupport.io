@@ -1,0 +1,1 @@
+'SVG_MEETORSLICE_MEET' in SVGPreserveAspectRatio.prototype

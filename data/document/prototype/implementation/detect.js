@@ -1,0 +1,1 @@
+'implementation' in Document.prototype

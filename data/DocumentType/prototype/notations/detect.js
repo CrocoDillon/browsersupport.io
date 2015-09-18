@@ -1,0 +1,1 @@
+'notations' in DocumentType.prototype

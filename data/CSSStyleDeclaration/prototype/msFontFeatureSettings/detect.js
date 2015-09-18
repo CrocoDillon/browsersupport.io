@@ -1,0 +1,1 @@
+'msFontFeatureSettings' in CSSStyleDeclaration.prototype

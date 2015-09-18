@@ -1,0 +1,1 @@
+'KEEP' in WebGLRenderingContext.prototype

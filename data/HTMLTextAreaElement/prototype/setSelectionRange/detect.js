@@ -1,0 +1,1 @@
+'setSelectionRange' in HTMLTextAreaElement.prototype

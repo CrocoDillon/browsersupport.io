@@ -1,0 +1,1 @@
+'systemLanguage' in SVGImageElement.prototype

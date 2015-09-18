@@ -1,0 +1,1 @@
+'SVG_PRESERVEASPECTRATIO_UNKNOWN' in SVGPreserveAspectRatio.prototype

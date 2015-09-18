@@ -1,0 +1,1 @@
+'code' in MediaError.prototype

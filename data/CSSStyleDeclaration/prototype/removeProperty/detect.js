@@ -1,0 +1,1 @@
+'removeProperty' in CSSStyleDeclaration.prototype

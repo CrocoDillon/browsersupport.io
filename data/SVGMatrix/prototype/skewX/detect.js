@@ -1,0 +1,1 @@
+'skewX' in SVGMatrix.prototype

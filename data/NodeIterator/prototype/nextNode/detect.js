@@ -1,0 +1,1 @@
+'nextNode' in NodeIterator.prototype

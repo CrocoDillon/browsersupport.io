@@ -1,0 +1,1 @@
+'setItem' in Storage.prototype

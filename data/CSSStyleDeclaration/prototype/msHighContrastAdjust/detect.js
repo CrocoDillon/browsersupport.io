@@ -1,0 +1,1 @@
+'msHighContrastAdjust' in CSSStyleDeclaration.prototype

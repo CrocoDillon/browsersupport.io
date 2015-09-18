@@ -1,0 +1,1 @@
+'tiltY' in PointerEvent.prototype

@@ -1,0 +1,1 @@
+'longDesc' in Image.prototype

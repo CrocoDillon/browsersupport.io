@@ -1,0 +1,1 @@
+'getCTM' in SVGClipPathElement.prototype

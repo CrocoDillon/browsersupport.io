@@ -1,0 +1,1 @@
+'ONE_MINUS_CONSTANT_ALPHA' in WebGLRenderingContext

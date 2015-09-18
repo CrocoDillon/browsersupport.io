@@ -1,0 +1,1 @@
+'CanvasGradient' in this

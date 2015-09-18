@@ -1,0 +1,1 @@
+'tagName' in Element.prototype

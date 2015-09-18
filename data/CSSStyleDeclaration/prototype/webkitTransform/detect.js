@@ -1,0 +1,1 @@
+'webkitTransform' in CSSStyleDeclaration.prototype

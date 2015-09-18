@@ -1,0 +1,1 @@
+'rows' in HTMLTableSectionElement.prototype

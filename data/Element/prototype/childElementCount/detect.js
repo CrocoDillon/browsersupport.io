@@ -1,0 +1,1 @@
+'childElementCount' in Element.prototype

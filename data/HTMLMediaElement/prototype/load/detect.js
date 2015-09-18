@@ -1,0 +1,1 @@
+'load' in HTMLMediaElement.prototype

@@ -1,0 +1,1 @@
+'form' in HTMLLabelElement.prototype

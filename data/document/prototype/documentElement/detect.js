@@ -1,0 +1,1 @@
+'documentElement' in Document.prototype

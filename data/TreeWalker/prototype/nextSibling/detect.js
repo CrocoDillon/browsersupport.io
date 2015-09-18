@@ -1,0 +1,1 @@
+'nextSibling' in TreeWalker.prototype

@@ -1,0 +1,1 @@
+'buffer' in AudioBufferSourceNode.prototype

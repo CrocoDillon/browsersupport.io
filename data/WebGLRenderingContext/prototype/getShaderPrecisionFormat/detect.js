@@ -1,0 +1,1 @@
+'getShaderPrecisionFormat' in WebGLRenderingContext.prototype

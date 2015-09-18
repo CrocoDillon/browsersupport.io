@@ -1,0 +1,1 @@
+'VERTEX_ATTRIB_ARRAY_BUFFER_BINDING' in WebGLRenderingContext

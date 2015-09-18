@@ -1,0 +1,1 @@
+'getTransformToElement' in SVGForeignObjectElement.prototype

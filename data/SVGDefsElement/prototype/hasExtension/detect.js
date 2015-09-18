@@ -1,0 +1,1 @@
+'hasExtension' in SVGDefsElement.prototype

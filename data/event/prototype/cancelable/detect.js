@@ -1,0 +1,1 @@
+'cancelable' in Event.prototype

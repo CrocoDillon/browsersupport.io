@@ -1,0 +1,1 @@
+'rel' in HTMLAreaElement.prototype

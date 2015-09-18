@@ -1,0 +1,1 @@
+'disabled' in HTMLButtonElement.prototype

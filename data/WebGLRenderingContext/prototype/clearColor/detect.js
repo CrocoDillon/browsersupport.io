@@ -1,0 +1,1 @@
+'clearColor' in WebGLRenderingContext.prototype

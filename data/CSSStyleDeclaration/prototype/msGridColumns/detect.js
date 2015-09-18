@@ -1,0 +1,1 @@
+'msGridColumns' in CSSStyleDeclaration.prototype

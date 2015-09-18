@@ -1,0 +1,1 @@
+'canPlayType' in HTMLMediaElement.prototype

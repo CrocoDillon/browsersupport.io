@@ -1,0 +1,1 @@
+'indexNames' in IDBObjectStore.prototype

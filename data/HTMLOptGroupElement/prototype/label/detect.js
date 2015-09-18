@@ -1,0 +1,1 @@
+'label' in HTMLOptGroupElement.prototype

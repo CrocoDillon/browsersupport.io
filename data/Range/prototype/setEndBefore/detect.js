@@ -1,0 +1,1 @@
+'setEndBefore' in Range.prototype

@@ -1,0 +1,1 @@
+'msGetUntransformedBounds' in Element.prototype

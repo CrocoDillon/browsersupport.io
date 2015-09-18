@@ -1,0 +1,1 @@
+'noHref' in HTMLAreaElement.prototype

@@ -1,0 +1,1 @@
+'webkitColumnBreakAfter' in CSSStyleDeclaration.prototype

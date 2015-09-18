@@ -1,0 +1,1 @@
+'msConvertURL' in DragEvent.prototype

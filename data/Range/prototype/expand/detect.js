@@ -1,0 +1,1 @@
+'expand' in Range.prototype

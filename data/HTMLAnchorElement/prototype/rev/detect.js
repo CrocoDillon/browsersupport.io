@@ -1,0 +1,1 @@
+'rev' in HTMLAnchorElement.prototype

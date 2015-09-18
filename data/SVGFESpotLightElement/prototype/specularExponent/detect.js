@@ -1,0 +1,1 @@
+'specularExponent' in SVGFESpotLightElement.prototype

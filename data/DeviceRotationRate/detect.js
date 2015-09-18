@@ -1,0 +1,1 @@
+'DeviceRotationRate' in this

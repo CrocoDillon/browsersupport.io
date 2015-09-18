@@ -1,0 +1,1 @@
+'xmlspace' in SVGTitleElement.prototype

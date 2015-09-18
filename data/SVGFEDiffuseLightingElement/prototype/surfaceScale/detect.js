@@ -1,0 +1,1 @@
+'surfaceScale' in SVGFEDiffuseLightingElement.prototype

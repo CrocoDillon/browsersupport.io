@@ -1,0 +1,1 @@
+'compatMode' in Document.prototype

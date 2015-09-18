@@ -1,0 +1,1 @@
+'columnRule' in CSSStyleDeclaration.prototype

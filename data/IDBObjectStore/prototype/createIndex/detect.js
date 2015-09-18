@@ -1,0 +1,1 @@
+'createIndex' in IDBObjectStore.prototype

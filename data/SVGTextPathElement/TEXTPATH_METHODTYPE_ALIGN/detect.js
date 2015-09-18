@@ -1,0 +1,1 @@
+'TEXTPATH_METHODTYPE_ALIGN' in SVGTextPathElement

@@ -1,0 +1,1 @@
+'onpointerout' in Document.prototype

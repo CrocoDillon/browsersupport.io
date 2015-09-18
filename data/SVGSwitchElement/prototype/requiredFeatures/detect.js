@@ -1,0 +1,1 @@
+'requiredFeatures' in SVGSwitchElement.prototype

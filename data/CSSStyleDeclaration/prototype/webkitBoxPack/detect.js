@@ -1,0 +1,1 @@
+'webkitBoxPack' in CSSStyleDeclaration.prototype

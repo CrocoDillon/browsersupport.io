@@ -1,0 +1,1 @@
+'LOADING' in TextTrack.prototype

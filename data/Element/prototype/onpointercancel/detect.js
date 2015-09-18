@@ -1,0 +1,1 @@
+'onpointercancel' in Element.prototype

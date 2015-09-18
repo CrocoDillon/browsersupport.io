@@ -1,0 +1,1 @@
+'msGridRowAlign' in CSSStyleDeclaration.prototype

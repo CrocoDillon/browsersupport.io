@@ -1,0 +1,1 @@
+'removedNodes' in MutationRecord.prototype

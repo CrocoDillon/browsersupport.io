@@ -1,0 +1,1 @@
+'timeout' in XMLHttpRequest.prototype

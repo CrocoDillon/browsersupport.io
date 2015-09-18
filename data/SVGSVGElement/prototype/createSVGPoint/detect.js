@@ -1,0 +1,1 @@
+'createSVGPoint' in SVGSVGElement.prototype

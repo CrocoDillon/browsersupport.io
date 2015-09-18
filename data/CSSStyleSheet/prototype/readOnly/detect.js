@@ -1,0 +1,1 @@
+'readOnly' in CSSStyleSheet.prototype

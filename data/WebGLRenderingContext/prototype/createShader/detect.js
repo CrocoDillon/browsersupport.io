@@ -1,0 +1,1 @@
+'createShader' in WebGLRenderingContext.prototype

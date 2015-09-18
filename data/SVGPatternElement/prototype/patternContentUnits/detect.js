@@ -1,0 +1,1 @@
+'patternContentUnits' in SVGPatternElement.prototype

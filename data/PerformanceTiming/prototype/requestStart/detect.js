@@ -1,0 +1,1 @@
+'requestStart' in PerformanceTiming.prototype

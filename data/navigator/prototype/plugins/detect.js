@@ -1,0 +1,1 @@
+'plugins' in Navigator.prototype

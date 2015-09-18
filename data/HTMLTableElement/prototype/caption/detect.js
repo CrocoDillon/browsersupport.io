@@ -1,0 +1,1 @@
+'caption' in HTMLTableElement.prototype

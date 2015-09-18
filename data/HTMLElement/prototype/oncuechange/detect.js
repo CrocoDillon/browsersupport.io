@@ -1,0 +1,1 @@
+'oncuechange' in HTMLElement.prototype

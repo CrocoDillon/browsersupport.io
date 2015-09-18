@@ -1,0 +1,1 @@
+'addedNodes' in MutationRecord.prototype

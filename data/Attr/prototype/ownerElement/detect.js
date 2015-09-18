@@ -1,0 +1,1 @@
+'ownerElement' in Attr.prototype

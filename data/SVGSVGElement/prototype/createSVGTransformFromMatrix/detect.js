@@ -1,0 +1,1 @@
+'createSVGTransformFromMatrix' in SVGSVGElement.prototype

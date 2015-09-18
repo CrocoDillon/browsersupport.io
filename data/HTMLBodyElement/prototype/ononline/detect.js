@@ -1,0 +1,1 @@
+'ononline' in HTMLBodyElement.prototype

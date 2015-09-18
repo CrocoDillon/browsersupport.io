@@ -1,0 +1,1 @@
+'lengthComputable' in ProgressEvent.prototype

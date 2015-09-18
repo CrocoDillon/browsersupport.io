@@ -1,0 +1,1 @@
+'visibilityState' in Document.prototype

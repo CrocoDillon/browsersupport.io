@@ -1,0 +1,1 @@
+'pathname' in Location.prototype

@@ -1,0 +1,1 @@
+'href' in SVGScriptElement.prototype

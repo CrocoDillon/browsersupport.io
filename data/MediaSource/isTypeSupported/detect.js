@@ -1,0 +1,1 @@
+'isTypeSupported' in MediaSource

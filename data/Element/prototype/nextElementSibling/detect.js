@@ -1,0 +1,1 @@
+'nextElementSibling' in Element.prototype

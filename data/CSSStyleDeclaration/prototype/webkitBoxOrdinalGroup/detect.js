@@ -1,0 +1,1 @@
+'webkitBoxOrdinalGroup' in CSSStyleDeclaration.prototype

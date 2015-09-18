@@ -1,0 +1,1 @@
+'onpointermove' in Element.prototype

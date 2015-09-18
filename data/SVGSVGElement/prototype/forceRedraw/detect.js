@@ -1,0 +1,1 @@
+'forceRedraw' in SVGSVGElement.prototype

@@ -1,0 +1,1 @@
+'codeType' in HTMLAppletElement.prototype

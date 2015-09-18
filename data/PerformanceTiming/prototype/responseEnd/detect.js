@@ -1,0 +1,1 @@
+'responseEnd' in PerformanceTiming.prototype

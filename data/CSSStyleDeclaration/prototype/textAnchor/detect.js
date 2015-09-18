@@ -1,0 +1,1 @@
+'textAnchor' in CSSStyleDeclaration.prototype

@@ -1,0 +1,1 @@
+'webkitAnimationPlayState' in CSSStyleDeclaration.prototype

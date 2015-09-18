@@ -1,0 +1,1 @@
+'error' in MSMediaKeySession.prototype

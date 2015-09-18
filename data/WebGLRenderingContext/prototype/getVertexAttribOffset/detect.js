@@ -1,0 +1,1 @@
+'getVertexAttribOffset' in WebGLRenderingContext.prototype

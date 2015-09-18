@@ -1,0 +1,1 @@
+'playbackRate' in AudioBufferSourceNode.prototype

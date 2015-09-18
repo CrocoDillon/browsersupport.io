@@ -1,0 +1,1 @@
+'min' in HTMLInputElement.prototype

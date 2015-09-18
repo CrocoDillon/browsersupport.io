@@ -1,0 +1,1 @@
+'frame' in HTMLTableElement.prototype

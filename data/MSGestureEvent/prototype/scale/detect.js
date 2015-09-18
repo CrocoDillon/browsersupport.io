@@ -1,0 +1,1 @@
+'scale' in MSGestureEvent.prototype

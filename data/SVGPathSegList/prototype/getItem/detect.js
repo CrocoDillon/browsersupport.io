@@ -1,0 +1,1 @@
+'getItem' in SVGPathSegList.prototype

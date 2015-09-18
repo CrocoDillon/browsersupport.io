@@ -1,0 +1,1 @@
+'msGridColumnAlign' in CSSStyleDeclaration.prototype

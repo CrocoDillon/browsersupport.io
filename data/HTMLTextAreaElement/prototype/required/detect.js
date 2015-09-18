@@ -1,0 +1,1 @@
+'required' in HTMLTextAreaElement.prototype

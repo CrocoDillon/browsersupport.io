@@ -1,0 +1,1 @@
+'update' in IDBCursor.prototype

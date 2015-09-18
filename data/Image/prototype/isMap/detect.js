@@ -1,0 +1,1 @@
+'isMap' in Image.prototype

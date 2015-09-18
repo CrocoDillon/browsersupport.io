@@ -1,0 +1,1 @@
+'ondragover' in Document.prototype

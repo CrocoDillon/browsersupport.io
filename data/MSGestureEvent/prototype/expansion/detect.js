@@ -1,0 +1,1 @@
+'expansion' in MSGestureEvent.prototype

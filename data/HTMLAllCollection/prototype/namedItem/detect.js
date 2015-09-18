@@ -1,0 +1,1 @@
+'namedItem' in HTMLAllCollection.prototype

@@ -1,0 +1,1 @@
+'hwTimestamp' in MSGestureEvent.prototype

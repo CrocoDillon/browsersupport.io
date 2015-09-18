@@ -1,0 +1,1 @@
+'headers' in HTMLTableCellElement.prototype

@@ -1,0 +1,1 @@
+'lastModifiedDate' in File.prototype

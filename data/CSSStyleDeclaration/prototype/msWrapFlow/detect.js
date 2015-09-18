@@ -1,0 +1,1 @@
+'msWrapFlow' in CSSStyleDeclaration.prototype

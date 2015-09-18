@@ -1,0 +1,1 @@
+'sourceBuffer' in AudioTrack.prototype

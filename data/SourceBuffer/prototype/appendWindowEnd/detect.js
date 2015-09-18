@@ -1,0 +1,1 @@
+'appendWindowEnd' in SourceBuffer.prototype

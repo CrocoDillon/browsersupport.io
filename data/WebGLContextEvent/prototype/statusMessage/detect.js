@@ -1,0 +1,1 @@
+'statusMessage' in WebGLContextEvent.prototype

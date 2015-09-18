@@ -1,0 +1,1 @@
+'onmsgesturedoubletap' in Element.prototype

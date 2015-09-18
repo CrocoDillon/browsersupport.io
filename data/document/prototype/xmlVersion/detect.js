@@ -1,0 +1,1 @@
+'xmlVersion' in Document.prototype

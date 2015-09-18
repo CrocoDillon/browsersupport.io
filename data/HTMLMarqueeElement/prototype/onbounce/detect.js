@@ -1,0 +1,1 @@
+'onbounce' in HTMLMarqueeElement.prototype

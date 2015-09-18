@@ -1,0 +1,1 @@
+'textUnderlinePosition' in CSSStyleDeclaration.prototype

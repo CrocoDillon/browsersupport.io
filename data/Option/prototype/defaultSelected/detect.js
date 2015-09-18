@@ -1,0 +1,1 @@
+'defaultSelected' in Option.prototype

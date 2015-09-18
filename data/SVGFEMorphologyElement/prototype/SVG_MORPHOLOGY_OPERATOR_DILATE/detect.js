@@ -1,0 +1,1 @@
+'SVG_MORPHOLOGY_OPERATOR_DILATE' in SVGFEMorphologyElement.prototype

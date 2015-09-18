@@ -1,0 +1,1 @@
+'entryType' in PerformanceEntry.prototype

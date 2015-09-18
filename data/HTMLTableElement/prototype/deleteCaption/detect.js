@@ -1,0 +1,1 @@
+'deleteCaption' in HTMLTableElement.prototype

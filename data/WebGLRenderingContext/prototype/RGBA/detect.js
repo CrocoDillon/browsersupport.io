@@ -1,0 +1,1 @@
+'RGBA' in WebGLRenderingContext.prototype

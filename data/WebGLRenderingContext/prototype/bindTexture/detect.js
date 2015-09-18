@@ -1,0 +1,1 @@
+'bindTexture' in WebGLRenderingContext.prototype

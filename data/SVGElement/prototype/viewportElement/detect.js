@@ -1,0 +1,1 @@
+'viewportElement' in SVGElement.prototype

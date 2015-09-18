@@ -1,0 +1,1 @@
+'declare' in HTMLObjectElement.prototype

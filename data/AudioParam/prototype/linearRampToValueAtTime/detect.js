@@ -1,0 +1,1 @@
+'linearRampToValueAtTime' in AudioParam.prototype

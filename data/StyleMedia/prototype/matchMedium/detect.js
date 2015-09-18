@@ -1,0 +1,1 @@
+'matchMedium' in StyleMedia.prototype

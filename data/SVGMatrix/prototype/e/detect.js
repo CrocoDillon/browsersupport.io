@@ -1,0 +1,1 @@
+'e' in SVGMatrix.prototype

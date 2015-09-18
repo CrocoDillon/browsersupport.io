@@ -1,0 +1,1 @@
+'clearResourceTimings' in Performance.prototype

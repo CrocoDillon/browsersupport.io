@@ -1,0 +1,1 @@
+'lastElementChild' in Element.prototype

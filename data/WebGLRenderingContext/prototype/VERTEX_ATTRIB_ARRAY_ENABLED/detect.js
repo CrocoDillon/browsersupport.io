@@ -1,0 +1,1 @@
+'VERTEX_ATTRIB_ARRAY_ENABLED' in WebGLRenderingContext.prototype

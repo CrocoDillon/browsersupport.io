@@ -1,0 +1,1 @@
+'checkValidity' in HTMLFormElement.prototype

@@ -1,0 +1,1 @@
+'lineHeight' in CSSStyleDeclaration.prototype

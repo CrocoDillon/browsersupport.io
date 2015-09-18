@@ -1,0 +1,1 @@
+'SHORT' in WebGLRenderingContext

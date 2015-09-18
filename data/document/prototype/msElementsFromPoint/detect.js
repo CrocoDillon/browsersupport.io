@@ -1,0 +1,1 @@
+'msElementsFromPoint' in Document.prototype

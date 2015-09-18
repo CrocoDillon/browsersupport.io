@@ -1,0 +1,1 @@
+'inertiaDestinationX' in MSManipulationEvent.prototype

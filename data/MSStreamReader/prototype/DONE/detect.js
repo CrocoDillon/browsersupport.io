@@ -1,0 +1,1 @@
+'DONE' in MSStreamReader.prototype

@@ -1,0 +1,1 @@
+'name' in Proxy.prototype

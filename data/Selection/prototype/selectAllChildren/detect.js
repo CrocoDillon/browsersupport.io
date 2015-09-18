@@ -1,0 +1,1 @@
+'selectAllChildren' in Selection.prototype

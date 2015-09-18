@@ -1,0 +1,1 @@
+'animatedPoints' in SVGPolygonElement.prototype

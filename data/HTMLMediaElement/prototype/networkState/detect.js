@@ -1,0 +1,1 @@
+'networkState' in HTMLMediaElement.prototype

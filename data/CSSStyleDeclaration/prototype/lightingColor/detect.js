@@ -1,0 +1,1 @@
+'lightingColor' in CSSStyleDeclaration.prototype

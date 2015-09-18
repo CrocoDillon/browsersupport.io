@@ -1,0 +1,1 @@
+'angle' in SVGPathSegArcRel.prototype

@@ -1,0 +1,1 @@
+'acceptCharset' in HTMLFormElement.prototype

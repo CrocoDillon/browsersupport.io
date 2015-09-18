@@ -1,0 +1,1 @@
+'webkitAnimationIterationCount' in CSSStyleDeclaration.prototype

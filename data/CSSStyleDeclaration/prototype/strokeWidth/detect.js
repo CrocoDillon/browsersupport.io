@@ -1,0 +1,1 @@
+'strokeWidth' in CSSStyleDeclaration.prototype

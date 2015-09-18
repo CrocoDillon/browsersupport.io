@@ -1,0 +1,1 @@
+'onended' in MediaStreamTrack.prototype

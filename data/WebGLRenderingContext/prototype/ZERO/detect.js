@@ -1,0 +1,1 @@
+'ZERO' in WebGLRenderingContext.prototype

@@ -1,0 +1,1 @@
+'UNPACK_COLORSPACE_CONVERSION_WEBGL' in WebGLRenderingContext.prototype

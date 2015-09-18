@@ -1,0 +1,1 @@
+'unsuspendRedrawAll' in SVGSVGElement.prototype

@@ -1,0 +1,1 @@
+'stopOpacity' in CSSStyleDeclaration.prototype

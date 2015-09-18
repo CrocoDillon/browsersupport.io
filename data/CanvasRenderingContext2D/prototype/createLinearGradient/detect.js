@@ -1,0 +1,1 @@
+'createLinearGradient' in CanvasRenderingContext2D.prototype

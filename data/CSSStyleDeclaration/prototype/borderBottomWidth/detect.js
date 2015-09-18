@@ -1,0 +1,1 @@
+'borderBottomWidth' in CSSStyleDeclaration.prototype

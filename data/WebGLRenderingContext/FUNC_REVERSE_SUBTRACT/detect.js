@@ -1,0 +1,1 @@
+'FUNC_REVERSE_SUBTRACT' in WebGLRenderingContext

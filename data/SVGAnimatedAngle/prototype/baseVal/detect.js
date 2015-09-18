@@ -1,0 +1,1 @@
+'baseVal' in SVGAnimatedAngle.prototype

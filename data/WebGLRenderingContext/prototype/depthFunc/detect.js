@@ -1,0 +1,1 @@
+'depthFunc' in WebGLRenderingContext.prototype

@@ -1,0 +1,1 @@
+'domainLookupEnd' in PerformanceNavigationTiming.prototype

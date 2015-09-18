@@ -1,0 +1,1 @@
+'bindFramebuffer' in WebGLRenderingContext.prototype

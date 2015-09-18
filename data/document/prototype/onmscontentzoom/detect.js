@@ -1,0 +1,1 @@
+'onmscontentzoom' in Document.prototype

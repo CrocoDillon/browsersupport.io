@@ -1,0 +1,1 @@
+'getItem' in SVGStringList.prototype

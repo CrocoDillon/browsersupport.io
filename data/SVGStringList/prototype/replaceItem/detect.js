@@ -1,0 +1,1 @@
+'replaceItem' in SVGStringList.prototype

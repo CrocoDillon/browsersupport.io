@@ -1,0 +1,1 @@
+'altHtml' in HTMLAppletElement.prototype

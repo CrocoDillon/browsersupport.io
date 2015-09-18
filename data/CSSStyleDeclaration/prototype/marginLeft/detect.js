@@ -1,0 +1,1 @@
+'marginLeft' in CSSStyleDeclaration.prototype

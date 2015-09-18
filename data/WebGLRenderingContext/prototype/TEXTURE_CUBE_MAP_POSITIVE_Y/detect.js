@@ -1,0 +1,1 @@
+'TEXTURE_CUBE_MAP_POSITIVE_Y' in WebGLRenderingContext.prototype

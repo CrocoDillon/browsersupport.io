@@ -1,0 +1,1 @@
+'SVGAnimatedNumber' in this

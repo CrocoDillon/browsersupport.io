@@ -1,0 +1,1 @@
+'INVALID_FRAMEBUFFER_OPERATION' in WebGLRenderingContext

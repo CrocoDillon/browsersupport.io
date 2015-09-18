@@ -1,0 +1,1 @@
+'alt' in HTMLImageElement.prototype

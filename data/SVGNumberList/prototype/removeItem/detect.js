@@ -1,0 +1,1 @@
+'removeItem' in SVGNumberList.prototype

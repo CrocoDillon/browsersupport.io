@@ -1,0 +1,1 @@
+'extractable' in CryptoKey.prototype

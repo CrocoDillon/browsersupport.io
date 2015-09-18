@@ -1,0 +1,1 @@
+'borderTop' in CSSStyleDeclaration.prototype

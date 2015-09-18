@@ -1,0 +1,1 @@
+'paused' in HTMLMediaElement.prototype

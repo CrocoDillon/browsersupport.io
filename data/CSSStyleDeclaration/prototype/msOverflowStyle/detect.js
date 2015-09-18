@@ -1,0 +1,1 @@
+'msOverflowStyle' in CSSStyleDeclaration.prototype

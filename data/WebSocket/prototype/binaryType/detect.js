@@ -1,0 +1,1 @@
+'binaryType' in WebSocket.prototype

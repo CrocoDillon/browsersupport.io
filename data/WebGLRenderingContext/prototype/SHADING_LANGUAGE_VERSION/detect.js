@@ -1,0 +1,1 @@
+'SHADING_LANGUAGE_VERSION' in WebGLRenderingContext.prototype

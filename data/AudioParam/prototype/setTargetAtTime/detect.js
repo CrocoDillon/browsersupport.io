@@ -1,0 +1,1 @@
+'setTargetAtTime' in AudioParam.prototype

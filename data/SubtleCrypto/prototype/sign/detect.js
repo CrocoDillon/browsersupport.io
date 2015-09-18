@@ -1,0 +1,1 @@
+'sign' in SubtleCrypto.prototype

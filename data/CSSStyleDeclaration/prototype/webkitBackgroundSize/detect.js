@@ -1,0 +1,1 @@
+'webkitBackgroundSize' in CSSStyleDeclaration.prototype

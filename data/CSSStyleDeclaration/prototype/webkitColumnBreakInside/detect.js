@@ -1,0 +1,1 @@
+'webkitColumnBreakInside' in CSSStyleDeclaration.prototype

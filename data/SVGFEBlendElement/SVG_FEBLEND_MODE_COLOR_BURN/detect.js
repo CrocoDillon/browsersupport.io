@@ -1,0 +1,1 @@
+'SVG_FEBLEND_MODE_COLOR_BURN' in SVGFEBlendElement

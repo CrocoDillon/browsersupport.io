@@ -1,0 +1,1 @@
+'formEnctype' in HTMLButtonElement.prototype

@@ -1,0 +1,1 @@
+'getAudioTracks' in MediaStream.prototype

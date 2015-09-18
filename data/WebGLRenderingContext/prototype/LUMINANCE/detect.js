@@ -1,0 +1,1 @@
+'LUMINANCE' in WebGLRenderingContext.prototype

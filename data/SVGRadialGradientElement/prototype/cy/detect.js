@@ -1,0 +1,1 @@
+'cy' in SVGRadialGradientElement.prototype

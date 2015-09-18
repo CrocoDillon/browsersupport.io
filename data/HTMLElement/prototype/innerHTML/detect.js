@@ -1,0 +1,1 @@
+'innerHTML' in HTMLElement.prototype

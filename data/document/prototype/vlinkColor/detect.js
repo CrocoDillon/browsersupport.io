@@ -1,0 +1,1 @@
+'vlinkColor' in Document.prototype

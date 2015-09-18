@@ -1,0 +1,1 @@
+'oninactive' in MediaStream.prototype

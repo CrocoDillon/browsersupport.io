@@ -1,0 +1,1 @@
+'specularConstant' in SVGFESpecularLightingElement.prototype

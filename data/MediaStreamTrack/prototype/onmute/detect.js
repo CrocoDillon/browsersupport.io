@@ -1,0 +1,1 @@
+'onmute' in MediaStreamTrack.prototype

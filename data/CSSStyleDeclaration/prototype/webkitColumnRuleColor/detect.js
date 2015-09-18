@@ -1,0 +1,1 @@
+'webkitColumnRuleColor' in CSSStyleDeclaration.prototype

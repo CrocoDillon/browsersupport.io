@@ -1,0 +1,1 @@
+'tabIndex' in HTMLElement.prototype

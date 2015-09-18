@@ -1,0 +1,1 @@
+'onpointerleave' in Element.prototype

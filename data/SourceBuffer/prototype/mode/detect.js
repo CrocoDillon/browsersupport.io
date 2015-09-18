@@ -1,0 +1,1 @@
+'mode' in SourceBuffer.prototype

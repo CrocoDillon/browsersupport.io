@@ -1,0 +1,1 @@
+'RENDERBUFFER_INTERNAL_FORMAT' in WebGLRenderingContext.prototype

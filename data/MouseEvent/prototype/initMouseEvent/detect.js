@@ -1,0 +1,1 @@
+'initMouseEvent' in MouseEvent.prototype

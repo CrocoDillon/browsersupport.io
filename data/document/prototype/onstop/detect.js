@@ -1,0 +1,1 @@
+'onstop' in Document.prototype

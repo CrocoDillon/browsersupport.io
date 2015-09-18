@@ -1,0 +1,1 @@
+'animationName' in AnimationEvent.prototype

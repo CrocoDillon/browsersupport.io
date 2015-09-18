@@ -1,0 +1,1 @@
+'systemLanguage' in SVGLineElement.prototype

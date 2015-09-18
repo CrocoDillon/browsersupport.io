@@ -1,0 +1,1 @@
+'webkitBackgroundClip' in CSSStyleDeclaration.prototype

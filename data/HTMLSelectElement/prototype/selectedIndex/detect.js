@@ -1,0 +1,1 @@
+'selectedIndex' in HTMLSelectElement.prototype

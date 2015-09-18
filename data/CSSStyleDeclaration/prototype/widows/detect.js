@@ -1,0 +1,1 @@
+'widows' in CSSStyleDeclaration.prototype

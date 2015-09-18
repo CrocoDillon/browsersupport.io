@@ -1,0 +1,1 @@
+'buttons' in Gamepad.prototype

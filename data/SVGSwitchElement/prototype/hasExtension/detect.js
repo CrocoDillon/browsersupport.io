@@ -1,0 +1,1 @@
+'hasExtension' in SVGSwitchElement.prototype

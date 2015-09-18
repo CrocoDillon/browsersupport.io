@@ -1,0 +1,1 @@
+'width' in SVGRectElement.prototype

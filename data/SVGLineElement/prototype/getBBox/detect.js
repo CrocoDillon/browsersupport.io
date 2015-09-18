@@ -1,0 +1,1 @@
+'getBBox' in SVGLineElement.prototype

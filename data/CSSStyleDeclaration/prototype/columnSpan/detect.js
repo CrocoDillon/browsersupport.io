@@ -1,0 +1,1 @@
+'columnSpan' in CSSStyleDeclaration.prototype

@@ -1,0 +1,1 @@
+'initStorageEvent' in StorageEvent.prototype

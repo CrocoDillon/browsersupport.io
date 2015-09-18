@@ -1,0 +1,1 @@
+'decodeAudioData' in AudioContext.prototype

@@ -1,0 +1,1 @@
+'b' in SVGMatrix.prototype

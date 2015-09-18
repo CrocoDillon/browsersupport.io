@@ -1,0 +1,1 @@
+'coords' in HTMLAreaElement.prototype

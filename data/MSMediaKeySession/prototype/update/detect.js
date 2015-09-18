@@ -1,0 +1,1 @@
+'update' in MSMediaKeySession.prototype

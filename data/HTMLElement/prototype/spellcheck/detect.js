@@ -1,0 +1,1 @@
+'spellcheck' in HTMLElement.prototype

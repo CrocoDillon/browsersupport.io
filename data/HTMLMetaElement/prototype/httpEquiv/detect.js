@@ -1,0 +1,1 @@
+'httpEquiv' in HTMLMetaElement.prototype

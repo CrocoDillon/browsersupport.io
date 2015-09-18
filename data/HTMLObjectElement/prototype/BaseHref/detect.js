@@ -1,0 +1,1 @@
+'BaseHref' in HTMLObjectElement.prototype

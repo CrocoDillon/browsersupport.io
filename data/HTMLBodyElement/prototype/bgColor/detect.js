@@ -1,0 +1,1 @@
+'bgColor' in HTMLBodyElement.prototype

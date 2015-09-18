@@ -1,0 +1,1 @@
+'oncandidatewindowupdate' in MSInputMethodContext.prototype

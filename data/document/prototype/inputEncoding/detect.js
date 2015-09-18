@@ -1,0 +1,1 @@
+'inputEncoding' in Document.prototype

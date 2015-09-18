@@ -1,0 +1,1 @@
+'deleteIndex' in IDBObjectStore.prototype
