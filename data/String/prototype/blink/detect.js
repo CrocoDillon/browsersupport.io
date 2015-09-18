@@ -1,0 +1,1 @@
+'blink' in String.prototype

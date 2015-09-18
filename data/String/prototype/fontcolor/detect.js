@@ -1,0 +1,1 @@
+'fontcolor' in String.prototype

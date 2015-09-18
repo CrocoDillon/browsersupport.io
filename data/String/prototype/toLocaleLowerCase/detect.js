@@ -1,0 +1,1 @@
+'toLocaleLowerCase' in String.prototype
