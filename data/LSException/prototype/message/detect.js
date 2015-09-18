@@ -1,0 +1,1 @@
+'message' in LSException.prototype

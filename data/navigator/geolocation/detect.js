@@ -1,0 +1,1 @@
+'geolocation' in navigator

@@ -1,0 +1,1 @@
+'registerContentHandler' in Navigator.prototype

@@ -1,0 +1,1 @@
+'EventSource' in this

@@ -1,0 +1,1 @@
+'getBoundingClientRect' in Element.prototype

@@ -1,0 +1,1 @@
+'fullscreenElement' in document

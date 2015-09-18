@@ -1,0 +1,1 @@
+'hasAttributes' in Node.prototype

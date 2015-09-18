@@ -1,0 +1,1 @@
+'getAllResponseHeaders' in XMLHttpRequest.prototype

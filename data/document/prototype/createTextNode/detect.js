@@ -1,0 +1,1 @@
+'createTextNode' in Document.prototype

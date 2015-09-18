@@ -1,0 +1,1 @@
+'FeedEntry' in opera

@@ -1,0 +1,1 @@
+'STYLE_RULE' in CSSRule

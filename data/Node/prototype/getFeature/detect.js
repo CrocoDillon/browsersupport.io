@@ -1,0 +1,1 @@
+'getFeature' in Node.prototype

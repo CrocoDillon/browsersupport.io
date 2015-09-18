@@ -1,0 +1,1 @@
+'getElementsByTagName' in Element.prototype

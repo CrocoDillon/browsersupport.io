@@ -1,0 +1,1 @@
+'cookieEnabled' in navigator

@@ -1,0 +1,1 @@
+'createAttributeNS' in Document.prototype

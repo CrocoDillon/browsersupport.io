@@ -1,0 +1,1 @@
+'DOCUMENT_POSITION_PRECEDING' in Node.prototype

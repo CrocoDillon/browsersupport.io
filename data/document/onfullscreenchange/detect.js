@@ -1,0 +1,1 @@
+'onfullscreenchange' in document

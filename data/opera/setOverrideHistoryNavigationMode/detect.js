@@ -1,0 +1,1 @@
+'setOverrideHistoryNavigationMode' in opera

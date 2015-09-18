@@ -1,0 +1,1 @@
+'collect' in opera

@@ -1,0 +1,1 @@
+'ontouchend' in document

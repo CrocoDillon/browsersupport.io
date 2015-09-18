@@ -1,0 +1,1 @@
+'deleteDatabase' in opera

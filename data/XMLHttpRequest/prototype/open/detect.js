@@ -1,0 +1,1 @@
+'open' in XMLHttpRequest.prototype

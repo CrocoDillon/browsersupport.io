@@ -1,0 +1,1 @@
+'assign' in Location.prototype

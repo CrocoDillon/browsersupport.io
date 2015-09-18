@@ -1,0 +1,1 @@
+'UNSENT' in XMLHttpRequest.prototype

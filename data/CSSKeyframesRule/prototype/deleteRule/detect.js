@@ -1,0 +1,1 @@
+'deleteRule' in CSSKeyframesRule.prototype

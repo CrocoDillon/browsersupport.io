@@ -1,0 +1,1 @@
+'querySelectorAll' in Document.prototype

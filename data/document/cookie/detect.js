@@ -1,0 +1,1 @@
+'cookie' in document

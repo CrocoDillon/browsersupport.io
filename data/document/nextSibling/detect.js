@@ -1,0 +1,1 @@
+'nextSibling' in document

@@ -1,0 +1,1 @@
+'getPreference' in opera

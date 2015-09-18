@@ -1,0 +1,1 @@
+'getUserMedia' in navigator

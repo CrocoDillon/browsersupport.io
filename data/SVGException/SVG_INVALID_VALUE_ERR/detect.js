@@ -1,0 +1,1 @@
+'SVG_INVALID_VALUE_ERR' in SVGException

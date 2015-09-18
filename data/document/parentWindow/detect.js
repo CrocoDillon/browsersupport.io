@@ -1,0 +1,1 @@
+'parentWindow' in document

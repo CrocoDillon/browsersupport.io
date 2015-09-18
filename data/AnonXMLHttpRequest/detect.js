@@ -1,0 +1,1 @@
+'AnonXMLHttpRequest' in this

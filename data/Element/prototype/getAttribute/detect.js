@@ -1,0 +1,1 @@
+'getAttribute' in Element.prototype

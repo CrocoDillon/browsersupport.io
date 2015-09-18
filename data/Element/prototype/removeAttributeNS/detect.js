@@ -1,0 +1,1 @@
+'removeAttributeNS' in Element.prototype

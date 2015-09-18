@@ -1,0 +1,1 @@
+'parseFromString' in DOMParser.prototype

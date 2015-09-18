@@ -1,0 +1,1 @@
+'message' in EvalError.prototype

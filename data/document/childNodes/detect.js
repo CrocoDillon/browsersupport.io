@@ -1,0 +1,1 @@
+'childNodes' in document

@@ -1,0 +1,1 @@
+'onLine' in navigator

@@ -1,0 +1,1 @@
+'moveFocusDown' in HTMLDocument.prototype

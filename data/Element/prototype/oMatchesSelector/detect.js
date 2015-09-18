@@ -1,0 +1,1 @@
+'oMatchesSelector' in Element.prototype

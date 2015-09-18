@@ -1,0 +1,1 @@
+'nodeValue' in document

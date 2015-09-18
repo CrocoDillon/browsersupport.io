@@ -1,0 +1,1 @@
+'getAttributeNode' in Element.prototype

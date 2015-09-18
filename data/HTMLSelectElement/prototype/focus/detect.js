@@ -1,0 +1,1 @@
+'focus' in HTMLSelectElement.prototype

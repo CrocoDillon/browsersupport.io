@@ -1,0 +1,1 @@
+'getClientRects' in Element.prototype

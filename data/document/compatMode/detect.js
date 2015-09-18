@@ -1,0 +1,1 @@
+'compatMode' in document

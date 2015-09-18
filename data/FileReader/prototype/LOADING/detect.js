@@ -1,0 +1,1 @@
+'LOADING' in FileReader.prototype

@@ -1,0 +1,1 @@
+'reload' in Location.prototype

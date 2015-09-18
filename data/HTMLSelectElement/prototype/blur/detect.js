@@ -1,0 +1,1 @@
+'blur' in HTMLSelectElement.prototype

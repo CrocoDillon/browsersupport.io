@@ -1,0 +1,1 @@
+'setParameter' in XSLTProcessor.prototype

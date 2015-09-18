@@ -1,0 +1,1 @@
+'getElementById' in Document.prototype

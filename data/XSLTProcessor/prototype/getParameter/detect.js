@@ -1,0 +1,1 @@
+'getParameter' in XSLTProcessor.prototype

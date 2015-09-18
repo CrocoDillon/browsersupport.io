@@ -1,0 +1,1 @@
+'evaluate' in Document.prototype

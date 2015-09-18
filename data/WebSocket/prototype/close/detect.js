@@ -1,0 +1,1 @@
+'close' in WebSocket.prototype

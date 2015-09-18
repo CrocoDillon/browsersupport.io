@@ -1,0 +1,1 @@
+'importNode' in Document.prototype

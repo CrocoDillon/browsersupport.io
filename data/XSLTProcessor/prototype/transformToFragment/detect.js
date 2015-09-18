@@ -1,0 +1,1 @@
+'transformToFragment' in XSLTProcessor.prototype

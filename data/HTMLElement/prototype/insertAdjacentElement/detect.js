@@ -1,0 +1,1 @@
+'insertAdjacentElement' in HTMLElement.prototype

@@ -1,0 +1,1 @@
+'removeParameter' in XSLTProcessor.prototype

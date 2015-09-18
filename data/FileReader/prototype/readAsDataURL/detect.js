@@ -1,0 +1,1 @@
+'readAsDataURL' in FileReader.prototype
