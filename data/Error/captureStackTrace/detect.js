@@ -1,0 +1,1 @@
+'captureStackTrace' in Error
