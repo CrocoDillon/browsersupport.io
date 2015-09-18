@@ -1,0 +1,1 @@
+'byteLength' in ArrayBuffer.prototype
