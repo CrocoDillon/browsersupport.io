@@ -1,0 +1,1 @@
+'updateIce' in webkitRTCPeerConnection.prototype

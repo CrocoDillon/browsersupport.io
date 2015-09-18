@@ -1,0 +1,1 @@
+'lowerOpen' in webkitIDBKeyRange.prototype

@@ -1,0 +1,1 @@
+'onpopstate' in Window.prototype

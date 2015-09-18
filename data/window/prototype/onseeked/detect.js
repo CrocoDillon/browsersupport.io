@@ -1,0 +1,1 @@
+'onseeked' in Window.prototype

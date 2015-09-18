@@ -1,0 +1,1 @@
+'webkitCancelKeyRequest' in HTMLMediaElement.prototype

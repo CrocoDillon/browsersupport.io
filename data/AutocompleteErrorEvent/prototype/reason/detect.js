@@ -1,0 +1,1 @@
+'reason' in AutocompleteErrorEvent.prototype

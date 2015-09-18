@@ -1,0 +1,1 @@
+'dataLoss' in IDBVersionChangeEvent.prototype

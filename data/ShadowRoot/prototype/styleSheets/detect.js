@@ -1,0 +1,1 @@
+'styleSheets' in ShadowRoot.prototype

@@ -1,0 +1,1 @@
+'onreset' in Window.prototype

@@ -1,0 +1,1 @@
+'ontoggle' in Document.prototype

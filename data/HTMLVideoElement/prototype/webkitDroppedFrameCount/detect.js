@@ -1,0 +1,1 @@
+'webkitDroppedFrameCount' in HTMLVideoElement.prototype

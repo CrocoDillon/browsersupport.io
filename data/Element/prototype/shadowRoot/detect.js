@@ -1,0 +1,1 @@
+'shadowRoot' in Element.prototype

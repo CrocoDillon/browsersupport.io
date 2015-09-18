@@ -1,0 +1,1 @@
+'currentTime' in webkitAudioContext.prototype

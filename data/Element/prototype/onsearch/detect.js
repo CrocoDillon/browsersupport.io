@@ -1,0 +1,1 @@
+'onsearch' in Element.prototype

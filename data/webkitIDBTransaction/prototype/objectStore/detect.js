@@ -1,0 +1,1 @@
+'objectStore' in webkitIDBTransaction.prototype

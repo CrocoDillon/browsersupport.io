@@ -1,0 +1,1 @@
+'webkitVisibilityState' in Document.prototype

@@ -1,0 +1,1 @@
+'onmousedown' in Window.prototype

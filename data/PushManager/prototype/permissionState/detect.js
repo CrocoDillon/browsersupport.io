@@ -1,0 +1,1 @@
+'permissionState' in PushManager.prototype

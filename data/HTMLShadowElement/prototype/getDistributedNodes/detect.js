@@ -1,0 +1,1 @@
+'getDistributedNodes' in HTMLShadowElement.prototype

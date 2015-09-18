@@ -1,0 +1,1 @@
+'clearInterval' in Window.prototype

@@ -1,0 +1,1 @@
+'initTouchEvent' in TouchEvent.prototype

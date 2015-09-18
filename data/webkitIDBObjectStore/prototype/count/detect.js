@@ -1,0 +1,1 @@
+'count' in webkitIDBObjectStore.prototype

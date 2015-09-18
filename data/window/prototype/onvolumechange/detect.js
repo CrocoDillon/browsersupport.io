@@ -1,0 +1,1 @@
+'onvolumechange' in Window.prototype

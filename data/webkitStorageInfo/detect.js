@@ -1,0 +1,1 @@
+'webkitStorageInfo' in this

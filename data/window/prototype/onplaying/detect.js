@@ -1,0 +1,1 @@
+'onplaying' in Window.prototype

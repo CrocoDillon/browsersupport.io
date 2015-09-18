@@ -1,0 +1,1 @@
+'objectStoreNames' in webkitIDBDatabase.prototype

@@ -1,0 +1,1 @@
+'extentNode' in Selection.prototype

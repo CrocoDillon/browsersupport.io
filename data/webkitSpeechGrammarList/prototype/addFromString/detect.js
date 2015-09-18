@@ -1,0 +1,1 @@
+'addFromString' in webkitSpeechGrammarList.prototype

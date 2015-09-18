@@ -1,0 +1,1 @@
+'onpageshow' in Window.prototype

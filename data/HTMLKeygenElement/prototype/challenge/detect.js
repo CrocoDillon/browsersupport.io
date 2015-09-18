@@ -1,0 +1,1 @@
+'challenge' in HTMLKeygenElement.prototype

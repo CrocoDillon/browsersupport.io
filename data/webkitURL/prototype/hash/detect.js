@@ -1,0 +1,1 @@
+'hash' in webkitURL.prototype

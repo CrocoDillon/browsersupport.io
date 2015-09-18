@@ -1,0 +1,1 @@
+'onselectstart' in Element.prototype

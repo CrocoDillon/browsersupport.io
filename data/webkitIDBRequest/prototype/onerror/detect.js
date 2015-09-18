@@ -1,0 +1,1 @@
+'onerror' in webkitIDBRequest.prototype

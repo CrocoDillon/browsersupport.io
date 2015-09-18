@@ -1,0 +1,1 @@
+'disconnect' in WebKitMutationObserver.prototype

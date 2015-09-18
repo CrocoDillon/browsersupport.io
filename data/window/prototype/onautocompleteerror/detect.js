@@ -1,0 +1,1 @@
+'onautocompleteerror' in Window.prototype

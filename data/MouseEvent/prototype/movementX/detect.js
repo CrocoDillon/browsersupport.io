@@ -1,0 +1,1 @@
+'movementX' in MouseEvent.prototype

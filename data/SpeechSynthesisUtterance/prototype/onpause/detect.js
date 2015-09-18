@@ -1,0 +1,1 @@
+'onpause' in SpeechSynthesisUtterance.prototype

@@ -1,0 +1,1 @@
+'featureSettings' in FontFace.prototype

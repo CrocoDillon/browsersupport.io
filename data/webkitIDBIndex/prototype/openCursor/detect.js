@@ -1,0 +1,1 @@
+'openCursor' in webkitIDBIndex.prototype

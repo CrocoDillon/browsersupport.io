@@ -1,0 +1,1 @@
+'webkitForce' in Touch.prototype

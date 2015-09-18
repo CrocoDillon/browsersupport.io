@@ -1,0 +1,1 @@
+'query' in Permissions.prototype

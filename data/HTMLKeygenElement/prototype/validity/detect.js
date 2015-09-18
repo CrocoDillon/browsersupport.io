@@ -1,0 +1,1 @@
+'validity' in HTMLKeygenElement.prototype

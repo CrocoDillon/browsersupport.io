@@ -1,0 +1,1 @@
+'createDelay' in webkitAudioContext.prototype

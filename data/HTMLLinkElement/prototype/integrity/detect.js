@@ -1,0 +1,1 @@
+'integrity' in HTMLLinkElement.prototype

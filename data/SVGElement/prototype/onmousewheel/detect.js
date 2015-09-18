@@ -1,0 +1,1 @@
+'onmousewheel' in SVGElement.prototype

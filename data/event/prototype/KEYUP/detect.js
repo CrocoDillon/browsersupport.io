@@ -1,0 +1,1 @@
+'KEYUP' in Event.prototype

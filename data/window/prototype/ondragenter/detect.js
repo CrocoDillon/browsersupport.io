@@ -1,0 +1,1 @@
+'ondragenter' in Window.prototype

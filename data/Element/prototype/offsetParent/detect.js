@@ -1,0 +1,1 @@
+'offsetParent' in Element.prototype

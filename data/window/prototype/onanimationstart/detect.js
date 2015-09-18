@@ -1,0 +1,1 @@
+'onanimationstart' in Window.prototype

@@ -1,0 +1,1 @@
+'willValidate' in HTMLKeygenElement.prototype

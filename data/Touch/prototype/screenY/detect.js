@@ -1,0 +1,1 @@
+'screenY' in Touch.prototype

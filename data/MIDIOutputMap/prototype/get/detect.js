@@ -1,0 +1,1 @@
+'get' in MIDIOutputMap.prototype

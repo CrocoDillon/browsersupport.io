@@ -1,0 +1,1 @@
+'postMessage' in Window.prototype

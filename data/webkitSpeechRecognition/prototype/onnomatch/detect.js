@@ -1,0 +1,1 @@
+'onnomatch' in webkitSpeechRecognition.prototype

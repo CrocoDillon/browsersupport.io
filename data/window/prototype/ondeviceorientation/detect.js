@@ -1,0 +1,1 @@
+'ondeviceorientation' in Window.prototype

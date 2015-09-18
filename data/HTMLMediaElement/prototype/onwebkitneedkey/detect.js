@@ -1,0 +1,1 @@
+'onwebkitneedkey' in HTMLMediaElement.prototype

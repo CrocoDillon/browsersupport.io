@@ -1,0 +1,1 @@
+'style' in FontFace.prototype

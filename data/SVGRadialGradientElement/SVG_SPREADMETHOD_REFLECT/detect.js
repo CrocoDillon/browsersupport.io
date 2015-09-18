@@ -1,0 +1,1 @@
+'SVG_SPREADMETHOD_REFLECT' in SVGRadialGradientElement

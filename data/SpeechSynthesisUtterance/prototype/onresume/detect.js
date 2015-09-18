@@ -1,0 +1,1 @@
+'onresume' in SpeechSynthesisUtterance.prototype

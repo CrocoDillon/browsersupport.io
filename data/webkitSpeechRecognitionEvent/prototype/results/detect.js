@@ -1,0 +1,1 @@
+'results' in webkitSpeechRecognitionEvent.prototype

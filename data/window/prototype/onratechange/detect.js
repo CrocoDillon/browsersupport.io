@@ -1,0 +1,1 @@
+'onratechange' in Window.prototype

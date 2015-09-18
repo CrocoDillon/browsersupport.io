@@ -1,0 +1,1 @@
+'webkitMediaStream' in this

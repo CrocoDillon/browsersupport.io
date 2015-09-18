@@ -1,0 +1,1 @@
+'webkitRotationAngle' in Touch.prototype

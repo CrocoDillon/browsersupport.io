@@ -1,0 +1,1 @@
+'TEMPORARY' in Window.prototype

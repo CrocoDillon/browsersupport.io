@@ -1,0 +1,1 @@
+'onanimationiteration' in Window.prototype

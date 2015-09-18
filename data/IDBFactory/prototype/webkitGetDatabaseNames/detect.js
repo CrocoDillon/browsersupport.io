@@ -1,0 +1,1 @@
+'webkitGetDatabaseNames' in IDBFactory.prototype

@@ -1,0 +1,1 @@
+'setPosition' in Selection.prototype

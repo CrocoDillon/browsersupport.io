@@ -1,0 +1,1 @@
+'getStats' in webkitRTCPeerConnection.prototype

@@ -1,0 +1,1 @@
+'onmousemove' in Window.prototype

@@ -1,0 +1,1 @@
+'createObjectURL' in webkitURL

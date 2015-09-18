@@ -1,0 +1,1 @@
+'onwebkitkeyerror' in HTMLMediaElement.prototype

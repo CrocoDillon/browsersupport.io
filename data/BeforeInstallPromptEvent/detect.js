@@ -1,0 +1,1 @@
+'BeforeInstallPromptEvent' in this

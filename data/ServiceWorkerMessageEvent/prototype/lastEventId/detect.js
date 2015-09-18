@@ -1,0 +1,1 @@
+'lastEventId' in ServiceWorkerMessageEvent.prototype

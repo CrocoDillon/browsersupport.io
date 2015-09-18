@@ -1,0 +1,1 @@
+'onupdatefound' in ServiceWorkerRegistration.prototype

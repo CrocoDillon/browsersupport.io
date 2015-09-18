@@ -1,0 +1,1 @@
+'sourceFile' in SecurityPolicyViolationEvent.prototype

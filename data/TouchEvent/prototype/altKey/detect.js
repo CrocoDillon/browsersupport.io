@@ -1,0 +1,1 @@
+'altKey' in TouchEvent.prototype

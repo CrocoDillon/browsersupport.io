@@ -1,0 +1,1 @@
+'webkitGenerateKeyRequest' in HTMLMediaElement.prototype

@@ -1,0 +1,1 @@
+'setRemoteDescription' in webkitRTCPeerConnection.prototype

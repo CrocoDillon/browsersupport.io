@@ -1,0 +1,1 @@
+'clearTimeout' in Window.prototype

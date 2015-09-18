@@ -1,0 +1,1 @@
+'onwebkitkeymessage' in HTMLMediaElement.prototype

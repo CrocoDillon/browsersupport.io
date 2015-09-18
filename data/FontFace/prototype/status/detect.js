@@ -1,0 +1,1 @@
+'status' in FontFace.prototype

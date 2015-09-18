@@ -1,0 +1,1 @@
+'changedTouches' in TouchEvent.prototype

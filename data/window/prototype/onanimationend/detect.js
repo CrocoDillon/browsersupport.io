@@ -1,0 +1,1 @@
+'onanimationend' in Window.prototype

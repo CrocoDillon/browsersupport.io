@@ -1,0 +1,1 @@
+'onmidimessage' in MIDIInput.prototype

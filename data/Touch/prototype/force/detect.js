@@ -1,0 +1,1 @@
+'force' in Touch.prototype

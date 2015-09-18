@@ -1,0 +1,1 @@
+'origin' in ServiceWorkerMessageEvent.prototype

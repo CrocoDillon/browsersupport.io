@@ -1,0 +1,1 @@
+'match' in CacheStorage.prototype

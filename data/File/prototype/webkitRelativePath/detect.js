@@ -1,0 +1,1 @@
+'webkitRelativePath' in File.prototype

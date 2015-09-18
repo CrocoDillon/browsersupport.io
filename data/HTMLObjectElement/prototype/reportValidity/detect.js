@@ -1,0 +1,1 @@
+'reportValidity' in HTMLObjectElement.prototype

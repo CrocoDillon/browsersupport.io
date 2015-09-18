@@ -1,0 +1,1 @@
+'resume' in webkitAudioContext.prototype

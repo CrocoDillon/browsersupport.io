@@ -1,0 +1,1 @@
+'getTrackById' in webkitMediaStream.prototype

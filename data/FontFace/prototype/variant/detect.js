@@ -1,0 +1,1 @@
+'variant' in FontFace.prototype

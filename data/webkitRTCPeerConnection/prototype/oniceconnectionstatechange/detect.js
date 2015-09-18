@@ -1,0 +1,1 @@
+'oniceconnectionstatechange' in webkitRTCPeerConnection.prototype

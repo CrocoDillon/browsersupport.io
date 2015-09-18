@@ -1,0 +1,1 @@
+'onended' in Window.prototype

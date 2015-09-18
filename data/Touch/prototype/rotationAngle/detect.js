@@ -1,0 +1,1 @@
+'rotationAngle' in Touch.prototype

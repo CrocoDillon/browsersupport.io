@@ -1,0 +1,1 @@
+'tabIndex' in SVGElement.prototype

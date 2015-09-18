@@ -1,0 +1,1 @@
+'primaryKey' in webkitIDBCursor.prototype

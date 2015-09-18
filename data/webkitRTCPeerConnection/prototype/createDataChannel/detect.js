@@ -1,0 +1,1 @@
+'createDataChannel' in webkitRTCPeerConnection.prototype

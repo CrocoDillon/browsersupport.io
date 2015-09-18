@@ -1,0 +1,1 @@
+'labels' in HTMLOutputElement.prototype
