@@ -1,0 +1,1 @@
+'resolve' in Promise
