@@ -1,1 +1,0 @@
-'profile' in Console.prototype

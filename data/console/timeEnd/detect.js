@@ -1,1 +1,0 @@
-'timeEnd' in console

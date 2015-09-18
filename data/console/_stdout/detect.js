@@ -1,1 +1,0 @@
-'_stdout' in console

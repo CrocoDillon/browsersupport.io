@@ -1,1 +1,0 @@
-'trace' in console

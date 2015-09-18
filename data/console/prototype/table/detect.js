@@ -1,1 +1,0 @@
-'table' in Console.prototype
