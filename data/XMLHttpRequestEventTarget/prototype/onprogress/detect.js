@@ -1,0 +1,1 @@
+'onprogress' in XMLHttpRequestEventTarget.prototype

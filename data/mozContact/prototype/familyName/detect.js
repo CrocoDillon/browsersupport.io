@@ -1,0 +1,1 @@
+'familyName' in mozContact.prototype

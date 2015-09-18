@@ -1,0 +1,1 @@
+'addSearchEngine' in External.prototype

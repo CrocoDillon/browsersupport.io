@@ -1,0 +1,1 @@
+'mozGetAll' in IDBObjectStore.prototype

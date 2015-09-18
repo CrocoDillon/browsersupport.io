@@ -1,0 +1,1 @@
+'mozAdd' in OfflineResourceList.prototype

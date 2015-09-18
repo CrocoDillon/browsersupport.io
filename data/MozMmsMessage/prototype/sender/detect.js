@@ -1,0 +1,1 @@
+'sender' in MozMmsMessage.prototype

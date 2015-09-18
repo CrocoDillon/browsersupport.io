@@ -1,0 +1,1 @@
+'onchargingtimechange' in BatteryManager.prototype

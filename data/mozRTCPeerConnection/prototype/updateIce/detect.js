@@ -1,0 +1,1 @@
+'updateIce' in mozRTCPeerConnection.prototype

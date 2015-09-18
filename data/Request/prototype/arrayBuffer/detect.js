@@ -1,0 +1,1 @@
+'arrayBuffer' in Request.prototype

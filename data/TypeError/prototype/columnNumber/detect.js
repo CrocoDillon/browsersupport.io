@@ -1,0 +1,1 @@
+'columnNumber' in TypeError.prototype

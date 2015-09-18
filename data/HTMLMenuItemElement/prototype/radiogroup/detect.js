@@ -1,0 +1,1 @@
+'radiogroup' in HTMLMenuItemElement.prototype

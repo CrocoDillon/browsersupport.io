@@ -1,0 +1,1 @@
+'body' in MozSmsMessage.prototype

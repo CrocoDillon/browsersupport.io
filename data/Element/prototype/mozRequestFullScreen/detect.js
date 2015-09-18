@@ -1,0 +1,1 @@
+'mozRequestFullScreen' in Element.prototype

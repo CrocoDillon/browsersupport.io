@@ -1,0 +1,1 @@
+'mozSrcObject' in HTMLMediaElement.prototype

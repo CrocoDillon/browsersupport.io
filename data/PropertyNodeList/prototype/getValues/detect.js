@@ -1,0 +1,1 @@
+'getValues' in PropertyNodeList.prototype

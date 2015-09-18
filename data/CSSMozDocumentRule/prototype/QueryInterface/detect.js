@@ -1,0 +1,1 @@
+'QueryInterface' in CSSMozDocumentRule.prototype

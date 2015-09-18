@@ -1,0 +1,1 @@
+'lockedFile' in IDBFileRequest.prototype

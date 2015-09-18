@@ -1,0 +1,1 @@
+'createDataChannel' in mozRTCPeerConnection.prototype

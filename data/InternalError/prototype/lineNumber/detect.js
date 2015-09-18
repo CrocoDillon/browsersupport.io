@@ -1,0 +1,1 @@
+'lineNumber' in InternalError.prototype

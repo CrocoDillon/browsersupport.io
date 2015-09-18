@@ -1,0 +1,1 @@
+'additionalName' in mozContact.prototype

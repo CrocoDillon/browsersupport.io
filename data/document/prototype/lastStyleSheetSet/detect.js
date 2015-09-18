@@ -1,0 +1,1 @@
+'lastStyleSheetSet' in Document.prototype

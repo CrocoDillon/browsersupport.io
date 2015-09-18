@@ -1,0 +1,1 @@
+'onclose' in DataChannel.prototype

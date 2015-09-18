@@ -1,0 +1,1 @@
+'onselect' in SVGElement.prototype

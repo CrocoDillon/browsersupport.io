@@ -1,0 +1,1 @@
+'QueryInterface' in CSSCounterStyleRule.prototype

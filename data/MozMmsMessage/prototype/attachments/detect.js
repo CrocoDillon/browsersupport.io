@@ -1,0 +1,1 @@
+'attachments' in MozMmsMessage.prototype

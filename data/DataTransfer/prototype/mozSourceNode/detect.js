@@ -1,0 +1,1 @@
+'mozSourceNode' in DataTransfer.prototype

@@ -1,0 +1,1 @@
+'append' in Headers.prototype

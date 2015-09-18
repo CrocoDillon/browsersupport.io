@@ -1,0 +1,1 @@
+'statusText' in Response.prototype

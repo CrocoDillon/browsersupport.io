@@ -1,0 +1,1 @@
+'mozCurrentTransformInverse' in CanvasRenderingContext2D.prototype

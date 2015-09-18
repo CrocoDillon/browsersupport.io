@@ -1,0 +1,1 @@
+'lowsrc' in HTMLImageElement.prototype

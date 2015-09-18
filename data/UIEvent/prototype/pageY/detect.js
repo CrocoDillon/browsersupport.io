@@ -1,0 +1,1 @@
+'pageY' in UIEvent.prototype

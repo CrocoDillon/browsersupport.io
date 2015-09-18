@@ -1,0 +1,1 @@
+'ondragstart' in SVGElement.prototype

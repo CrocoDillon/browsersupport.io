@@ -1,0 +1,1 @@
+'selectionDirection' in HTMLInputElement.prototype

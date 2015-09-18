@@ -1,0 +1,1 @@
+'getPropertyCSSValue' in CSSStyleDeclaration.prototype

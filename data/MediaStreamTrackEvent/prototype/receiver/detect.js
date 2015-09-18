@@ -1,0 +1,1 @@
+'receiver' in MediaStreamTrackEvent.prototype

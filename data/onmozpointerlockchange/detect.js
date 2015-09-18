@@ -1,0 +1,1 @@
+'onmozpointerlockchange' in this

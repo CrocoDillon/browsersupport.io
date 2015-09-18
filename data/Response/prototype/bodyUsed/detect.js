@@ -1,0 +1,1 @@
+'bodyUsed' in Response.prototype

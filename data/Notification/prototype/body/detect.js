@@ -1,0 +1,1 @@
+'body' in Notification.prototype

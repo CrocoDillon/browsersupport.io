@@ -1,0 +1,1 @@
+'getWakeLockState' in MozPowerManager.prototype

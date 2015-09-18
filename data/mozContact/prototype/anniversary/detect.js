@@ -1,0 +1,1 @@
+'anniversary' in mozContact.prototype

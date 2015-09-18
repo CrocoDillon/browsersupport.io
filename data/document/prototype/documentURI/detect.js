@@ -1,0 +1,1 @@
+'documentURI' in Document.prototype

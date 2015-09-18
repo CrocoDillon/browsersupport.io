@@ -1,0 +1,1 @@
+'initTimeEvent' in TimeEvent.prototype

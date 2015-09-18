@@ -1,0 +1,1 @@
+'onopen' in EventSource.prototype

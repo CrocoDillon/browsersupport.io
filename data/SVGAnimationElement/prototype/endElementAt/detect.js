@@ -1,0 +1,1 @@
+'endElementAt' in SVGAnimationElement.prototype

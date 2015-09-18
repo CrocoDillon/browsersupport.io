@@ -1,0 +1,1 @@
+'useCurrentView' in SVGSVGElement.prototype

@@ -1,0 +1,1 @@
+'getCueAsHTML' in VTTCue.prototype

@@ -1,0 +1,1 @@
+'itemScope' in HTMLElement.prototype

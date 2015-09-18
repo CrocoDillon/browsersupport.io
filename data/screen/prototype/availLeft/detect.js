@@ -1,0 +1,1 @@
+'availLeft' in Screen.prototype

@@ -1,0 +1,1 @@
+'smil' in MozMmsMessage.prototype

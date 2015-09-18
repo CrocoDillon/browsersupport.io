@@ -1,0 +1,1 @@
+'initHashChangeEvent' in HashChangeEvent.prototype

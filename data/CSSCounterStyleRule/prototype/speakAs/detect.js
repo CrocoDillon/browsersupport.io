@@ -1,0 +1,1 @@
+'speakAs' in CSSCounterStyleRule.prototype

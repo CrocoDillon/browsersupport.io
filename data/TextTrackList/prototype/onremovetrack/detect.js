@@ -1,0 +1,1 @@
+'onremovetrack' in TextTrackList.prototype

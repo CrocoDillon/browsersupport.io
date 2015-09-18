@@ -1,0 +1,1 @@
+'mozInnerScreenX' in this

@@ -1,0 +1,1 @@
+'fatal' in TextDecoder.prototype

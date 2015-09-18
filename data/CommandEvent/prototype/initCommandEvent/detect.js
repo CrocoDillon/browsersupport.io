@@ -1,0 +1,1 @@
+'initCommandEvent' in CommandEvent.prototype

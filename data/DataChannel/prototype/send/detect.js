@@ -1,0 +1,1 @@
+'send' in DataChannel.prototype

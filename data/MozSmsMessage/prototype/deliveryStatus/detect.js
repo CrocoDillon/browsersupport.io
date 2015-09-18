@@ -1,0 +1,1 @@
+'deliveryStatus' in MozSmsMessage.prototype

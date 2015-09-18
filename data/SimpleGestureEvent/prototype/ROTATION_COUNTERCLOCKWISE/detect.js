@@ -1,0 +1,1 @@
+'ROTATION_COUNTERCLOCKWISE' in SimpleGestureEvent.prototype

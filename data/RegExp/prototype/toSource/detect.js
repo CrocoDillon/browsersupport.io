@@ -1,0 +1,1 @@
+'toSource' in RegExp.prototype

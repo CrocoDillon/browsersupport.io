@@ -1,0 +1,1 @@
+'show' in DesktopNotification.prototype

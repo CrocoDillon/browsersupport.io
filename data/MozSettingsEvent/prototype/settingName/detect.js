@@ -1,0 +1,1 @@
+'settingName' in MozSettingsEvent.prototype

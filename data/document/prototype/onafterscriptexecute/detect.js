@@ -1,0 +1,1 @@
+'onafterscriptexecute' in Document.prototype

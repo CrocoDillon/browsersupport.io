@@ -1,0 +1,1 @@
+'getStreamById' in mozRTCPeerConnection.prototype

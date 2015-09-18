@@ -1,0 +1,1 @@
+'lineNumber' in TypeError.prototype

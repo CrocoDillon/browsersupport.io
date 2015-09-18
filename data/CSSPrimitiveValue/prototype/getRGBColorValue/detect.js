@@ -1,0 +1,1 @@
+'getRGBColorValue' in CSSPrimitiveValue.prototype

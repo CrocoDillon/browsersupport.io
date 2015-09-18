@@ -1,0 +1,1 @@
+'high' in HTMLMeterElement.prototype

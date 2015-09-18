@@ -1,0 +1,1 @@
+'json' in Request.prototype

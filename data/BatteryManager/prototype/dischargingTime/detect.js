@@ -1,0 +1,1 @@
+'dischargingTime' in BatteryManager.prototype

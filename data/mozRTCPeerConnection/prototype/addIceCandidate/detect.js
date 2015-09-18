@@ -1,0 +1,1 @@
+'addIceCandidate' in mozRTCPeerConnection.prototype

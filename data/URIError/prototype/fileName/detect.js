@@ -1,0 +1,1 @@
+'fileName' in URIError.prototype

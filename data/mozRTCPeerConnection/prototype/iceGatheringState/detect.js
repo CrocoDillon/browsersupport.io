@@ -1,0 +1,1 @@
+'iceGatheringState' in mozRTCPeerConnection.prototype

@@ -1,0 +1,1 @@
+'onchecking' in OfflineResourceList.prototype

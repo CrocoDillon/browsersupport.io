@@ -1,0 +1,1 @@
+'isChar' in UIEvent.prototype

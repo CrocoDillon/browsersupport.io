@@ -1,0 +1,1 @@
+'requestingWindow' in PopupBlockedEvent.prototype

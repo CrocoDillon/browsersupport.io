@@ -1,0 +1,1 @@
+'mode' in IDBFileHandle.prototype

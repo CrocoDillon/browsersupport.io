@@ -1,0 +1,1 @@
+'download' in HTMLAnchorElement.prototype

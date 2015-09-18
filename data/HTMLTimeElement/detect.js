@@ -1,0 +1,1 @@
+'HTMLTimeElement' in this

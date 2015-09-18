@@ -1,0 +1,1 @@
+'scrollLeftMax' in Element.prototype

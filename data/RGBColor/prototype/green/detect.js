@@ -1,0 +1,1 @@
+'green' in RGBColor.prototype

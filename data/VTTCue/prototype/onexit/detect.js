@@ -1,0 +1,1 @@
+'onexit' in VTTCue.prototype

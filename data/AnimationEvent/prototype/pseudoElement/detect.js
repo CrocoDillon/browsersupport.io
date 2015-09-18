@@ -1,0 +1,1 @@
+'pseudoElement' in AnimationEvent.prototype

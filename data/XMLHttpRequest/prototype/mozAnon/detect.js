@@ -1,0 +1,1 @@
+'mozAnon' in XMLHttpRequest.prototype

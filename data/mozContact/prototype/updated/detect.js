@@ -1,0 +1,1 @@
+'updated' in mozContact.prototype

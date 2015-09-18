@@ -1,1 +1,1 @@
-'navigator' in this
+'Navigator' in this

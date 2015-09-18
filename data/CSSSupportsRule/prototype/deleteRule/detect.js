@@ -1,0 +1,1 @@
+'deleteRule' in CSSSupportsRule.prototype

@@ -1,0 +1,1 @@
+'validationMessage' in HTMLOutputElement.prototype

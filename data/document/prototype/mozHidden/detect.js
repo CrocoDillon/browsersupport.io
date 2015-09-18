@@ -1,0 +1,1 @@
+'mozHidden' in Document.prototype

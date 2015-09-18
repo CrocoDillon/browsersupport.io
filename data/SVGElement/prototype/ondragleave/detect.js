@@ -1,0 +1,1 @@
+'ondragleave' in SVGElement.prototype

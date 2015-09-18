@@ -1,0 +1,1 @@
+'resume' in MediaRecorder.prototype

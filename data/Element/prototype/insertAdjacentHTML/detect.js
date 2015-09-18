@@ -1,0 +1,1 @@
+'insertAdjacentHTML' in Element.prototype

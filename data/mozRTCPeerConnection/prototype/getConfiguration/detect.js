@@ -1,0 +1,1 @@
+'getConfiguration' in mozRTCPeerConnection.prototype

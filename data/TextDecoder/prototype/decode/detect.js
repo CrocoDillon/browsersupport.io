@@ -1,0 +1,1 @@
+'decode' in TextDecoder.prototype

@@ -1,0 +1,1 @@
+'detune' in AudioBufferSourceNode.prototype

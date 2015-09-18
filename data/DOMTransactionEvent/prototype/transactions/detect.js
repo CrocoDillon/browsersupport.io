@@ -1,0 +1,1 @@
+'transactions' in DOMTransactionEvent.prototype

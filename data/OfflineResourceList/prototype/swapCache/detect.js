@@ -1,0 +1,1 @@
+'swapCache' in OfflineResourceList.prototype

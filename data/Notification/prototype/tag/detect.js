@@ -1,0 +1,1 @@
+'tag' in Notification.prototype

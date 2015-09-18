@@ -1,0 +1,1 @@
+'axis' in MouseScrollEvent.prototype

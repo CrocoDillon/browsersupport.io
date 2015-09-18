@@ -1,0 +1,1 @@
+'mozCurrentTransform' in CanvasRenderingContext2D.prototype

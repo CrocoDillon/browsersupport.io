@@ -1,0 +1,1 @@
+'messageType' in MediaKeyMessageEvent.prototype

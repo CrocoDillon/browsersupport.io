@@ -1,0 +1,1 @@
+'autoIncrement' in IDBObjectStore.prototype

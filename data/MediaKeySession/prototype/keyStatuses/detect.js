@@ -1,0 +1,1 @@
+'keyStatuses' in MediaKeySession.prototype

@@ -1,0 +1,1 @@
+'subject' in MozMmsMessage.prototype

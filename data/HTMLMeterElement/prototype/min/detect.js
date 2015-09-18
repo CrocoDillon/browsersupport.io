@@ -1,0 +1,1 @@
+'min' in HTMLMeterElement.prototype

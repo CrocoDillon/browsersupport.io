@@ -1,0 +1,1 @@
+'trimRight' in String

@@ -1,0 +1,1 @@
+'pathname' in URL.prototype

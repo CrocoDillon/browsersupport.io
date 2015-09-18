@@ -1,0 +1,1 @@
+'rotateSelf' in DOMMatrix.prototype

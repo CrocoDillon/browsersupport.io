@@ -1,0 +1,1 @@
+'initDataType' in MediaEncryptedEvent.prototype

@@ -1,0 +1,1 @@
+'active' in IDBFileHandle.prototype

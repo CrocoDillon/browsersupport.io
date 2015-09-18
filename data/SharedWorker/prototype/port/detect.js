@@ -1,0 +1,1 @@
+'port' in SharedWorker.prototype

@@ -1,0 +1,1 @@
+'ondragover' in SVGElement.prototype

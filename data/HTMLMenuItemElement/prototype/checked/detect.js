@@ -1,0 +1,1 @@
+'checked' in HTMLMenuItemElement.prototype

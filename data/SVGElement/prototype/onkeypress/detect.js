@@ -1,0 +1,1 @@
+'onkeypress' in SVGElement.prototype

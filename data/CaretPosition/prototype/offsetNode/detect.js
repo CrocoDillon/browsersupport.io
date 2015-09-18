@@ -1,0 +1,1 @@
+'offsetNode' in CaretPosition.prototype

@@ -1,0 +1,1 @@
+'alinkColor' in HTMLDocument.prototype

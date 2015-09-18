@@ -1,0 +1,1 @@
+'accessKeyLabel' in HTMLElement.prototype

@@ -1,0 +1,1 @@
+'onsuccess' in DOMRequest.prototype

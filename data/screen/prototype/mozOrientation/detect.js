@@ -1,0 +1,1 @@
+'mozOrientation' in Screen.prototype

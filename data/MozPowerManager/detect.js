@@ -1,0 +1,1 @@
+'MozPowerManager' in this

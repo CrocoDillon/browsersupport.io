@@ -1,0 +1,1 @@
+'mozMatchesSelector' in Element.prototype

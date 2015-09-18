@@ -1,0 +1,1 @@
+'startTime' in VTTCue.prototype

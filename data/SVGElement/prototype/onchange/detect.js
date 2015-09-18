@@ -1,0 +1,1 @@
+'onchange' in SVGElement.prototype

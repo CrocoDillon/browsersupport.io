@@ -1,0 +1,1 @@
+'direction' in SimpleGestureEvent.prototype

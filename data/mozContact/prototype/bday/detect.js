@@ -1,0 +1,1 @@
+'bday' in mozContact.prototype

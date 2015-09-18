@@ -1,0 +1,1 @@
+'crossOrigin' in HTMLScriptElement.prototype

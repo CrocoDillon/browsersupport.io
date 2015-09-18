@@ -1,0 +1,1 @@
+'onenter' in VTTCue.prototype

@@ -1,0 +1,1 @@
+'referenceNode' in NodeIterator.prototype

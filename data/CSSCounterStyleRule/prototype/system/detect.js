@@ -1,0 +1,1 @@
+'system' in CSSCounterStyleRule.prototype

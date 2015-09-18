@@ -1,0 +1,1 @@
+'mozPay' in navigator

@@ -1,0 +1,1 @@
+'onmessage' in BroadcastChannel.prototype

@@ -1,0 +1,1 @@
+'onmouseleave' in Document.prototype

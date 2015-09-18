@@ -1,0 +1,1 @@
+'IsSearchProviderInstalled' in External.prototype

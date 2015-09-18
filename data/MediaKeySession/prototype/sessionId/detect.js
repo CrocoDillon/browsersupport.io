@@ -1,0 +1,1 @@
+'sessionId' in MediaKeySession.prototype

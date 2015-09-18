@@ -1,0 +1,1 @@
+'deliveryInfo' in MozMmsMessage.prototype

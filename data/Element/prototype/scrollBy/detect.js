@@ -1,0 +1,1 @@
+'scrollBy' in Element.prototype

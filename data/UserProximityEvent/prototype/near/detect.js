@@ -1,0 +1,1 @@
+'near' in UserProximityEvent.prototype

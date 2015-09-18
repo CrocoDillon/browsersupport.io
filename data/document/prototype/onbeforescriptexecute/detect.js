@@ -1,0 +1,1 @@
+'onbeforescriptexecute' in Document.prototype

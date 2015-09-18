@@ -1,0 +1,1 @@
+'oninvalid' in Document.prototype

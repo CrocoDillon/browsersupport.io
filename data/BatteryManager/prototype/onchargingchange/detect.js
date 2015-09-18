@@ -1,0 +1,1 @@
+'onchargingchange' in BatteryManager.prototype

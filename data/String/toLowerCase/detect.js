@@ -1,0 +1,1 @@
+'toLowerCase' in String

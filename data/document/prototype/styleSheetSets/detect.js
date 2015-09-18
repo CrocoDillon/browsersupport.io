@@ -1,0 +1,1 @@
+'styleSheetSets' in Document.prototype

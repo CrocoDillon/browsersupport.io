@@ -1,0 +1,1 @@
+'stream' in MediaStreamAudioDestinationNode.prototype

@@ -1,0 +1,1 @@
+'id' in MozMobileMessageThread.prototype

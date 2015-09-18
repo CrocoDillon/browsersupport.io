@@ -1,0 +1,1 @@
+'QueryInterface' in MozMmsMessage.prototype

@@ -1,0 +1,1 @@
+'getMetadata' in IDBFileHandle.prototype

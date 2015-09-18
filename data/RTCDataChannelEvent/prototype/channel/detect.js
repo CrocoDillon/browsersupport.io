@@ -1,0 +1,1 @@
+'channel' in RTCDataChannelEvent.prototype

@@ -1,0 +1,1 @@
+'fallback' in CSSCounterStyleRule.prototype

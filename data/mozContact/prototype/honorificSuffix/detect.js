@@ -1,0 +1,1 @@
+'honorificSuffix' in mozContact.prototype

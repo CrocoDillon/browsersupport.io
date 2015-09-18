@@ -1,0 +1,1 @@
+'doNotTrack' in Navigator.prototype

@@ -1,0 +1,1 @@
+'rotateFromVector' in DOMMatrixReadOnly.prototype

@@ -1,0 +1,1 @@
+'mozContacts' in navigator

@@ -1,0 +1,1 @@
+'mozLength' in OfflineResourceList.prototype

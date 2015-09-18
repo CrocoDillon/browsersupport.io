@@ -1,0 +1,1 @@
+'caretPositionFromPoint' in Document.prototype

@@ -1,0 +1,1 @@
+'closest' in Element.prototype

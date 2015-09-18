@@ -1,0 +1,1 @@
+'iceConnectionState' in mozRTCPeerConnection.prototype
