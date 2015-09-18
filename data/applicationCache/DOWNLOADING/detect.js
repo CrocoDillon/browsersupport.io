@@ -1,1 +1,1 @@
-'DOWNLOADING' in ApplicationCache
+'DOWNLOADING' in applicationCache

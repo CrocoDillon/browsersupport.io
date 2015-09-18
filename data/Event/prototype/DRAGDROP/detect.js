@@ -1,0 +1,1 @@
+'DRAGDROP' in Event.prototype

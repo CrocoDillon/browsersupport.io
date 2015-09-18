@@ -1,0 +1,1 @@
+'userAgent' in Navigator.prototype

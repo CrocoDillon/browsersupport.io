@@ -1,0 +1,1 @@
+'msSaveBlob' in Navigator.prototype

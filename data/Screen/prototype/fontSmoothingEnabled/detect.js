@@ -1,0 +1,1 @@
+'fontSmoothingEnabled' in Screen.prototype

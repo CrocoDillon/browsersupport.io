@@ -1,0 +1,1 @@
+'preferredStyleSheetSet' in Document.prototype

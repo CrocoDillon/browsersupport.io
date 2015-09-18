@@ -1,1 +1,1 @@
-'UNCACHED' in ApplicationCache
+'UNCACHED' in applicationCache

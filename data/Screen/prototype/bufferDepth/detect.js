@@ -1,0 +1,1 @@
+'bufferDepth' in Screen.prototype

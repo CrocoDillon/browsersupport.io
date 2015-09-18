@@ -1,0 +1,1 @@
+'BLUR' in Event

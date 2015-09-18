@@ -1,0 +1,1 @@
+'confirmWebWideTrackingException' in Navigator.prototype

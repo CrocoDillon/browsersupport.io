@@ -1,0 +1,1 @@
+'assert' in Console.prototype

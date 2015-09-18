@@ -1,0 +1,1 @@
+'profileEnd' in Console.prototype

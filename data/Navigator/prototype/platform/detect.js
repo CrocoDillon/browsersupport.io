@@ -1,0 +1,1 @@
+'platform' in Navigator.prototype

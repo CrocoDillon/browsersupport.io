@@ -1,0 +1,1 @@
+'unregisterProtocolHandler' in Navigator.prototype

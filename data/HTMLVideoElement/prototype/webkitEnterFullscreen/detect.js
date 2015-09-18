@@ -1,0 +1,1 @@
+'webkitEnterFullscreen' in HTMLVideoElement.prototype

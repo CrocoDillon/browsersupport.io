@@ -1,1 +1,1 @@
-'UPDATEREADY' in ApplicationCache
+'UPDATEREADY' in applicationCache

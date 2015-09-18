@@ -1,0 +1,1 @@
+'mozLockOrientation' in Screen.prototype

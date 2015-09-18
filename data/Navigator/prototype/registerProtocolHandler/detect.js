@@ -1,0 +1,1 @@
+'registerProtocolHandler' in Navigator.prototype

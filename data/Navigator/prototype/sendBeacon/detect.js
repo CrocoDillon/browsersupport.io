@@ -1,0 +1,1 @@
+'sendBeacon' in Navigator.prototype

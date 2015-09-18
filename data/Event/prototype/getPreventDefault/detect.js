@@ -1,0 +1,1 @@
+'getPreventDefault' in Event.prototype

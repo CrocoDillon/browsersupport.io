@@ -1,0 +1,1 @@
+'availTop' in Screen.prototype

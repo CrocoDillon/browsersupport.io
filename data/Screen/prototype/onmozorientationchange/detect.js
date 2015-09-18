@@ -1,0 +1,1 @@
+'onmozorientationchange' in Screen.prototype
