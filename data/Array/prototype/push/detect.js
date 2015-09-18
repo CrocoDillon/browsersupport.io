@@ -1,0 +1,1 @@
+'push' in Array.prototype
