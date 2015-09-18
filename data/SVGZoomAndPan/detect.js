@@ -1,0 +1,1 @@
+'SVGZoomAndPan' in this

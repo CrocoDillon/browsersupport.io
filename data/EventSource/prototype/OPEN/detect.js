@@ -1,0 +1,1 @@
+'OPEN' in EventSource.prototype

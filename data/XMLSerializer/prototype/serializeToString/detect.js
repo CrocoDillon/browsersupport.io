@@ -1,0 +1,1 @@
+'serializeToString' in XMLSerializer.prototype

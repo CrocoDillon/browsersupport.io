@@ -1,0 +1,1 @@
+'hasAttributeNS' in Element.prototype

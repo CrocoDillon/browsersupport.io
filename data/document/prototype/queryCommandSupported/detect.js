@@ -1,0 +1,1 @@
+'queryCommandSupported' in Document.prototype

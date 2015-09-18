@@ -1,0 +1,1 @@
+'dispatchEvent' in TextTrackCue.prototype

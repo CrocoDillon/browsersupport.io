@@ -1,0 +1,1 @@
+'getAttributeNS' in Element.prototype

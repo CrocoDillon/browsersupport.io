@@ -1,0 +1,1 @@
+'ownerDocument' in document

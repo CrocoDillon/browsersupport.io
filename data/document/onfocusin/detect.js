@@ -1,0 +1,1 @@
+'onfocusin' in document

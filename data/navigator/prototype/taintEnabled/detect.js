@@ -1,0 +1,1 @@
+'taintEnabled' in Navigator.prototype

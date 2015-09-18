@@ -1,0 +1,1 @@
+'CHECKING' in ApplicationCache.prototype

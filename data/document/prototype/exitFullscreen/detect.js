@@ -1,0 +1,1 @@
+'exitFullscreen' in Document.prototype

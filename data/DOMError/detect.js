@@ -1,0 +1,1 @@
+'DOMError' in this

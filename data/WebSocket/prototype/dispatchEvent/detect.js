@@ -1,0 +1,1 @@
+'dispatchEvent' in WebSocket.prototype

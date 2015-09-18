@@ -1,0 +1,1 @@
+'defineMagicFunction' in opera

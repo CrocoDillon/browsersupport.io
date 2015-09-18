@@ -1,0 +1,1 @@
+'SharedWorker' in this

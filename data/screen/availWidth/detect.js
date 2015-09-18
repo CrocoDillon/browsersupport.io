@@ -1,0 +1,1 @@
+'availWidth' in screen

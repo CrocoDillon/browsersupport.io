@@ -1,0 +1,1 @@
+'DOWNLOADING' in ApplicationCache

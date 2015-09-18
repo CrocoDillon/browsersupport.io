@@ -1,0 +1,1 @@
+'createComment' in Document.prototype

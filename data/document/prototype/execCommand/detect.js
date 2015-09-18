@@ -1,0 +1,1 @@
+'execCommand' in Document.prototype

@@ -1,0 +1,1 @@
+'_browserjsran' in opera

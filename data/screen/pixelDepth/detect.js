@@ -1,0 +1,1 @@
+'pixelDepth' in screen

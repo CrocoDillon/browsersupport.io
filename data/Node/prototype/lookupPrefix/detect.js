@@ -1,0 +1,1 @@
+'lookupPrefix' in Node.prototype

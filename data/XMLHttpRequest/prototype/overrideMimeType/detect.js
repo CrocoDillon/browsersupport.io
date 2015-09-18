@@ -1,0 +1,1 @@
+'overrideMimeType' in XMLHttpRequest.prototype

@@ -1,0 +1,1 @@
+'slice' in Blob.prototype

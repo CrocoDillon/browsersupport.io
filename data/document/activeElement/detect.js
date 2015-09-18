@@ -1,0 +1,1 @@
+'activeElement' in document

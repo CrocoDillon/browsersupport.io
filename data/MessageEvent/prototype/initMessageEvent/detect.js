@@ -1,0 +1,1 @@
+'initMessageEvent' in MessageEvent.prototype

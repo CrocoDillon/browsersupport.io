@@ -1,0 +1,1 @@
+'removeAttributeNode' in Element.prototype

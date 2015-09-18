@@ -1,0 +1,1 @@
+'createRange' in Document.prototype

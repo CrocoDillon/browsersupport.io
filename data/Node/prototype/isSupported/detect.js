@@ -1,0 +1,1 @@
+'isSupported' in Node.prototype

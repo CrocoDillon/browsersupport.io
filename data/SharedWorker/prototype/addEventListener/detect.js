@@ -1,0 +1,1 @@
+'addEventListener' in SharedWorker.prototype

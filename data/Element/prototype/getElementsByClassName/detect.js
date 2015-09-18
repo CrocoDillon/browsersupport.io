@@ -1,0 +1,1 @@
+'getElementsByClassName' in Element.prototype

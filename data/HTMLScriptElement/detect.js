@@ -1,0 +1,1 @@
+'HTMLScriptElement' in this

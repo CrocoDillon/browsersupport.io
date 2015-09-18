@@ -1,0 +1,1 @@
+'queryCommandState' in Document.prototype

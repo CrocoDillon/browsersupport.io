@@ -1,0 +1,1 @@
+'initDragEvent' in DragEvent.prototype

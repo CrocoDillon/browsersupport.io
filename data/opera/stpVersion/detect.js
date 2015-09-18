@@ -1,0 +1,1 @@
+'stpVersion' in opera

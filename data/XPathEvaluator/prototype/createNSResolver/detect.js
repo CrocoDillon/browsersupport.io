@@ -1,0 +1,1 @@
+'createNSResolver' in XPathEvaluator.prototype

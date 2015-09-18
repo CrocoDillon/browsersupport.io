@@ -1,0 +1,1 @@
+'SUPPORTS_RULE' in CSSRule

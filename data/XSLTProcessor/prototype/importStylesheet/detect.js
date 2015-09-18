@@ -1,0 +1,1 @@
+'importStylesheet' in XSLTProcessor.prototype

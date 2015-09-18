@@ -1,0 +1,1 @@
+'SVG_WRONG_TYPE_ERR' in SVGException

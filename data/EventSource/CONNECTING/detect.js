@@ -1,0 +1,1 @@
+'CONNECTING' in EventSource

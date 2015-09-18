@@ -1,0 +1,1 @@
+'clearParameters' in XSLTProcessor.prototype

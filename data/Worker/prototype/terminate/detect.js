@@ -1,0 +1,1 @@
+'terminate' in Worker.prototype

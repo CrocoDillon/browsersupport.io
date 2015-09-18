@@ -1,0 +1,1 @@
+'readyState' in document

@@ -1,0 +1,1 @@
+'createExpression' in Document.prototype

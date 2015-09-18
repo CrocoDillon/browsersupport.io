@@ -1,0 +1,1 @@
+'selectSingleNode' in Node.prototype

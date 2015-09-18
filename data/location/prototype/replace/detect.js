@@ -1,0 +1,1 @@
+'replace' in Location.prototype

@@ -1,0 +1,1 @@
+'onreadystatechange' in document

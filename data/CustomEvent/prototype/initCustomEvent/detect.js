@@ -1,0 +1,1 @@
+'initCustomEvent' in CustomEvent.prototype

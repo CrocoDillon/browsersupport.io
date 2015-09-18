@@ -1,0 +1,1 @@
+'createEvent' in Document.prototype

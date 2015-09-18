@@ -1,0 +1,1 @@
+'send' in XMLHttpRequest.prototype

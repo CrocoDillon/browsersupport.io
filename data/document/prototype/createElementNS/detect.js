@@ -1,0 +1,1 @@
+'createElementNS' in Document.prototype

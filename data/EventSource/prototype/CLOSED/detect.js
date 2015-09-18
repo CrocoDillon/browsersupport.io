@@ -1,0 +1,1 @@
+'CLOSED' in EventSource.prototype

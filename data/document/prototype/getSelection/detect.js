@@ -1,0 +1,1 @@
+'getSelection' in Document.prototype

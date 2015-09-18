@@ -1,0 +1,1 @@
+'replaceState' in History.prototype

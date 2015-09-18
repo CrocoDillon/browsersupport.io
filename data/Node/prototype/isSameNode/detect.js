@@ -1,0 +1,1 @@
+'isSameNode' in Node.prototype

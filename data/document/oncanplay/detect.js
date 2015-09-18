@@ -1,0 +1,1 @@
+'oncanplay' in document
