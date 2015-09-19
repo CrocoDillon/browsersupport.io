@@ -1,1 +1,0 @@
-'pushState' in History.prototype
