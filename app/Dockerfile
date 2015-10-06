@@ -1,4 +1,4 @@
-FROM node:4.1
+FROM node:4.1.2
 ENV NODE_ENV="production"
 ENV PORT="3000"
 WORKDIR /app
