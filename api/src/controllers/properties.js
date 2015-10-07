@@ -26,15 +26,14 @@ exports.index = function *(next) {
 
 exports.create = function *(next) {
   yield new Promise((resolve, reject) => {
-    var names = this.request.body.names || [this.request.body.name],
-        properties = names.filter((name) => {
-          return typeof name === 'string' && name.length > 0;
-        }).map((name) => {
-          return { name };
-        }),
+    var properties = this.request.body,
         options = {
           ordered: false // gives us continue on (duplicate key) error
         };
+
+    if (Object.prototype.toString.call(properties) !== '[object Array]') {
+      properties = [properties];
+    }
 
     Property.collection.insertMany(properties, options, (err, result) => {
       var inserted,

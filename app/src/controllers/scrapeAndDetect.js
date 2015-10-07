@@ -17,6 +17,7 @@ exports.scrape = function *(next) {
   </head>
   <body>
     <script src="/js/scrape.js"></script>
+    <script src="/js/json2.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script>window.sendDataToServer();</script>
   </body>
@@ -24,8 +25,8 @@ exports.scrape = function *(next) {
 };
 
 exports.scrapePost = function *(next) {
-  var names = this.request.body.names || [],
-      data = JSON.stringify({ names });
+  var properties = this.request.body || [],
+      data = JSON.stringify(properties);
   yield new Promise((resolve, reject) => {
     var result = '',
         request = http.request({
