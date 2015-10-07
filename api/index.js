@@ -44,7 +44,7 @@ fs.readdirSync(models).forEach((file) => {
 app.port = config.port;
 
 // middleware
-app.use(koaBodyParser());
+app.use(koaBodyParser({ jsonLimit: '2mb' }));
 
 // bootstrap routes
 require('./config/routes')(app);
