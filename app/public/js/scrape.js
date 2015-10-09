@@ -1,7 +1,19 @@
 (function () {
   'use strict';
 
-  var getProperty = function (fullName, context, name) {
+  var forEach = function (array, fn) {
+        for (var i = 0; i < array.length; i++) {
+          fn(array[i]);
+        }
+      },
+      map = function (array, fn) {
+        var mappedArray = [];
+        forEach(array, function (element) {
+          mappedArray.push(fn(element));
+        });
+        return mappedArray;
+      },
+      getProperty = function (fullName, context, name) {
         var o = { name: fullName },
             parseDescriptor = function (value) {
               switch (typeof value) {
@@ -31,12 +43,11 @@
         if (Object.getOwnPropertyDescriptor) {
           var descriptor = Object.getOwnPropertyDescriptor(context, name),
               parsed = {};
-          if ('value' in descriptor) { parsed.value = parseDescriptor(descriptor.value); }
-          if ('writable' in descriptor) { parsed.writable = descriptor.writable; }
-          if ('get' in descriptor) { parsed.get = parseDescriptor(descriptor.get); }
-          if ('set' in descriptor) { parsed.set = parseDescriptor(descriptor.set); }
-          parsed.configurable = descriptor.configurable;
-          parsed.enumerable = descriptor.enumerable;
+          forEach(['value', 'writable', 'get', 'set', 'configurable', 'enumerable'], function (prop) {
+            if (prop in descriptor) {
+              parsed[prop] = parseDescriptor(descriptor[prop]);
+            }
+          });
           o.descriptor = parsed;
         }
         return o;
@@ -65,18 +76,6 @@
       symbolToString = function (symbol) {
         return symbol.toString().replace(/^Symbol\(Symbol\.|\)$/g, '');
       },
-      forEach = function (array, fn) {
-        for (var i = 0; i < array.length; i++) {
-          fn(array[i]);
-        }
-      },
-      map = function (array, fn) {
-        var mappedArray = [];
-        forEach(array, function (element) {
-          mappedArray.push(fn(element));
-        });
-        return mappedArray;
-      },
       scrapedProperties = [];
 
   // Scrape global properties
@@ -99,7 +98,7 @@
         scrapedProperties.push(getProperty(globalPropertyName + '.' + subProperty, globalProperty, subProperty));
       });
       // Sub-property symbols
-      getPropertySymbols(globalProperty).forEach(function (subProperty) {
+      forEach(getPropertySymbols(globalProperty), function (subProperty) {
         var subPropertyString = symbolToString(subProperty);
         scrapedProperties.push(getProperty(globalPropertyName + '[@@' + subPropertyString + ']', globalProperty, subProperty));
       });
