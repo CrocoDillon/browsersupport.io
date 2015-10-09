@@ -31,7 +31,7 @@ exports.create = function *(next) {
           ordered: false // gives us continue on (duplicate key) error
         };
 
-    if (Object.prototype.toString.call(properties) !== '[object Array]') {
+    if (!Array.isArray(properties)) {
       properties = [properties];
     }
 
