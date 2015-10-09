@@ -1,1 +1,0 @@
-'poster' in HTMLVideoElement.prototype

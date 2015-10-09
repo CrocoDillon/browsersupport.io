@@ -1,1 +1,0 @@
-'getHours' in Date.prototype

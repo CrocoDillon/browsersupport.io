@@ -1,1 +1,0 @@
-'rev' in HTMLLinkElement.prototype

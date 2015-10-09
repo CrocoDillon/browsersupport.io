@@ -1,1 +1,0 @@
-'shiftKey' in TouchEvent.prototype

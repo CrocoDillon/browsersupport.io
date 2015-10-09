@@ -1,1 +1,0 @@
-'enumerateDevices' in MediaDevices.prototype

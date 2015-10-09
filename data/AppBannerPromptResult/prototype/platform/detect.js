@@ -1,1 +1,0 @@
-'platform' in AppBannerPromptResult.prototype

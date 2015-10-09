@@ -1,1 +1,0 @@
-'DECR' in WebGLRenderingContext.prototype

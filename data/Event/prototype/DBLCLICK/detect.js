@@ -1,1 +1,0 @@
-'DBLCLICK' in Event.prototype

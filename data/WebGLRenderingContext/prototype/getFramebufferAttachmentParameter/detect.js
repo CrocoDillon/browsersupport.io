@@ -1,1 +1,0 @@
-'getFramebufferAttachmentParameter' in WebGLRenderingContext.prototype

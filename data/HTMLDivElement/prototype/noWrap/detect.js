@@ -1,1 +1,0 @@
-'noWrap' in HTMLDivElement.prototype

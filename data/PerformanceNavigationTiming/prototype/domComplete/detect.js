@@ -1,1 +1,0 @@
-'domComplete' in PerformanceNavigationTiming.prototype

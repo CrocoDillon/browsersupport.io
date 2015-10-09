@@ -1,1 +1,0 @@
-'oncontrollerchange' in ServiceWorkerContainer.prototype

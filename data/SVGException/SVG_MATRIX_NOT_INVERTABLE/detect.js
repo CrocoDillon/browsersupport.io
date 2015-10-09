@@ -1,1 +1,0 @@
-'SVG_MATRIX_NOT_INVERTABLE' in SVGException

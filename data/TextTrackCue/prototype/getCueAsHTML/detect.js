@@ -1,1 +1,0 @@
-'getCueAsHTML' in TextTrackCue.prototype

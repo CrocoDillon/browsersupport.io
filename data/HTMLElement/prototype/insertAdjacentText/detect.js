@@ -1,1 +1,0 @@
-'insertAdjacentText' in HTMLElement.prototype

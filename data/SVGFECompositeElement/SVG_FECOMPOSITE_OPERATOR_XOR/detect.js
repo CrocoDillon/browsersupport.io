@@ -1,1 +1,0 @@
-'SVG_FECOMPOSITE_OPERATOR_XOR' in SVGFECompositeElement

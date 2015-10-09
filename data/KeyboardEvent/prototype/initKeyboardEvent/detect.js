@@ -1,1 +1,0 @@
-'initKeyboardEvent' in KeyboardEvent.prototype

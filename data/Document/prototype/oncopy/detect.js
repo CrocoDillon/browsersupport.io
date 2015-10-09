@@ -1,1 +1,0 @@
-'oncopy' in Document.prototype

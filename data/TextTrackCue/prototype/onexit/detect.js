@@ -1,1 +1,0 @@
-'onexit' in TextTrackCue.prototype

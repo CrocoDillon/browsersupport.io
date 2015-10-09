@@ -1,1 +1,0 @@
-'locale' in TextEvent.prototype

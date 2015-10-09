@@ -1,1 +1,0 @@
-'anchor' in String.prototype

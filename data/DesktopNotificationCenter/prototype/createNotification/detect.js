@@ -1,1 +1,0 @@
-'createNotification' in DesktopNotificationCenter.prototype

@@ -1,1 +1,0 @@
-'bindBuffer' in WebGLRenderingContext.prototype

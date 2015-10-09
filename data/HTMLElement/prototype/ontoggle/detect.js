@@ -1,1 +1,0 @@
-'ontoggle' in HTMLElement.prototype

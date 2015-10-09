@@ -1,1 +1,0 @@
-'pageBreakInside' in CSSStyleDeclaration.prototype

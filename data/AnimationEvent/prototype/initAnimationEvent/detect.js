@@ -1,1 +1,0 @@
-'initAnimationEvent' in AnimationEvent.prototype

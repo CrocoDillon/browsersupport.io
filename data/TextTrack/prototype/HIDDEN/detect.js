@@ -1,1 +1,0 @@
-'HIDDEN' in TextTrack.prototype

@@ -1,1 +1,0 @@
-'storeSiteSpecificTrackingException' in Navigator.prototype

@@ -1,1 +1,0 @@
-'evaluate' in XPathEvaluator.prototype

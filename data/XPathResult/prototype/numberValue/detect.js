@@ -1,1 +1,0 @@
-'numberValue' in XPathResult.prototype

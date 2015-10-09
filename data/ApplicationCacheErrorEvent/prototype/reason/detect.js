@@ -1,1 +1,0 @@
-'reason' in ApplicationCacheErrorEvent.prototype

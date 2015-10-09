@@ -1,1 +1,0 @@
-'LINEAR_MIPMAP_NEAREST' in WebGLRenderingContext

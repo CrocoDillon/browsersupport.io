@@ -1,1 +1,0 @@
-'lastParen' in RegExp

@@ -1,1 +1,0 @@
-'createSVGTransformFromMatrix' in SVGTransformList.prototype

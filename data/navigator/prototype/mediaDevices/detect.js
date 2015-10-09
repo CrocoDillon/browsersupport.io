@@ -1,1 +1,0 @@
-'mediaDevices' in Navigator.prototype

@@ -1,1 +1,0 @@
-'webkitTransitionDelay' in CSSStyleDeclaration.prototype

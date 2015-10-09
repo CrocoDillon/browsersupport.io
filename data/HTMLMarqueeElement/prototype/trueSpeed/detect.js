@@ -1,1 +1,0 @@
-'trueSpeed' in HTMLMarqueeElement.prototype

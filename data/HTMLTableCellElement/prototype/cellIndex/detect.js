@@ -1,1 +1,0 @@
-'cellIndex' in HTMLTableCellElement.prototype

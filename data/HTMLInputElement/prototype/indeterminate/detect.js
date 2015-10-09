@@ -1,1 +1,0 @@
-'indeterminate' in HTMLInputElement.prototype

@@ -1,1 +1,0 @@
-'email' in mozContact.prototype

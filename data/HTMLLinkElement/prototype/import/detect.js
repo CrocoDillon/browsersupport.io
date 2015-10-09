@@ -1,1 +1,0 @@
-'import' in HTMLLinkElement.prototype

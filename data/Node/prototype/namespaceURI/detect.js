@@ -1,1 +1,0 @@
-'namespaceURI' in Node.prototype

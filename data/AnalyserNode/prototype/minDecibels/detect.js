@@ -1,1 +1,0 @@
-'minDecibels' in AnalyserNode.prototype

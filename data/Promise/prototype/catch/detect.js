@@ -1,1 +1,0 @@
-'catch' in Promise.prototype

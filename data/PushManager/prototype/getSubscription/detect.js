@@ -1,1 +1,0 @@
-'getSubscription' in PushManager.prototype

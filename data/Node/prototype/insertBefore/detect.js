@@ -1,1 +1,0 @@
-'insertBefore' in Node.prototype

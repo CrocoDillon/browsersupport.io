@@ -1,1 +1,0 @@
-'getChannelData' in AudioBuffer.prototype

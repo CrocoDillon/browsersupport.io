@@ -1,1 +1,0 @@
-'currentTime' in HTMLMediaElement.prototype

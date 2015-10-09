@@ -1,1 +1,0 @@
-'generateRequest' in MediaKeySession.prototype

@@ -1,1 +1,0 @@
-'onaddtrack' in mozRTCPeerConnection.prototype

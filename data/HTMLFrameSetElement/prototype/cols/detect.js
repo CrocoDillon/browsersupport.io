@@ -1,1 +1,0 @@
-'cols' in HTMLFrameSetElement.prototype

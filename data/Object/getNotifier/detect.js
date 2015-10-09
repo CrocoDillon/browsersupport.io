@@ -1,1 +1,0 @@
-'getNotifier' in Object

@@ -1,1 +1,0 @@
-'animationTimingFunction' in CSSStyleDeclaration.prototype

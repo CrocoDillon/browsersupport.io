@@ -1,1 +1,0 @@
-'height' in HTMLImageElement.prototype

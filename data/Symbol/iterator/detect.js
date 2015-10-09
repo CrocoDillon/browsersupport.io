@@ -1,1 +1,0 @@
-'iterator' in Symbol

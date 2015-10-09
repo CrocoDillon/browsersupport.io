@@ -1,1 +1,0 @@
-'onmsinertiastart' in Element.prototype

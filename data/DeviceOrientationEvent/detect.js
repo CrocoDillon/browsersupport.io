@@ -1,1 +1,0 @@
-'DeviceOrientationEvent' in this

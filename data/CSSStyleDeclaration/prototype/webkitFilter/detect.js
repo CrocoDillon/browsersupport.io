@@ -1,1 +1,0 @@
-'webkitFilter' in CSSStyleDeclaration.prototype

@@ -1,1 +1,0 @@
-'cmp' in webkitIDBFactory.prototype

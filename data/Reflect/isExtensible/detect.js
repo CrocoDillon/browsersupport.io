@@ -1,1 +1,0 @@
-'isExtensible' in Reflect

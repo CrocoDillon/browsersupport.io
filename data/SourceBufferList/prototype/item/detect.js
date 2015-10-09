@@ -1,1 +1,0 @@
-'item' in SourceBufferList.prototype

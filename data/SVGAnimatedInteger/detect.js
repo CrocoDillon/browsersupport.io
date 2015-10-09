@@ -1,1 +1,0 @@
-'SVGAnimatedInteger' in this

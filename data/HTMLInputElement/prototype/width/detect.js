@@ -1,1 +1,0 @@
-'width' in HTMLInputElement.prototype

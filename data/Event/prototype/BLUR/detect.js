@@ -1,1 +1,0 @@
-'BLUR' in Event.prototype

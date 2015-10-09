@@ -1,1 +1,0 @@
-'offsetLeft' in Element.prototype

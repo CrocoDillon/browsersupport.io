@@ -1,1 +1,0 @@
-'onloadstart' in SVGElement.prototype

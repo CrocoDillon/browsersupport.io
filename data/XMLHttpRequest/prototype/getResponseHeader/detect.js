@@ -1,1 +1,0 @@
-'getResponseHeader' in XMLHttpRequest.prototype

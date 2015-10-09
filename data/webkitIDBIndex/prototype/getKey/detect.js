@@ -1,1 +1,0 @@
-'getKey' in webkitIDBIndex.prototype

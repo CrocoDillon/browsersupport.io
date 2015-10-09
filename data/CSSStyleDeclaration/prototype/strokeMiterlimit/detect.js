@@ -1,1 +1,0 @@
-'strokeMiterlimit' in CSSStyleDeclaration.prototype

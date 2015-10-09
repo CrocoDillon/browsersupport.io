@@ -1,1 +1,0 @@
-'strokeOpacity' in CSSStyleDeclaration.prototype

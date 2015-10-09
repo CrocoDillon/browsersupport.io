@@ -1,1 +1,0 @@
-'apply' in Function.prototype

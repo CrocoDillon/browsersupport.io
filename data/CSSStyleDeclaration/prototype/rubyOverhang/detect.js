@@ -1,1 +1,0 @@
-'rubyOverhang' in CSSStyleDeclaration.prototype

@@ -1,1 +1,0 @@
-'location' in IDBFileHandle.prototype

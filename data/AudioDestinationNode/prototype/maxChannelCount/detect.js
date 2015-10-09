@@ -1,1 +1,0 @@
-'maxChannelCount' in AudioDestinationNode.prototype

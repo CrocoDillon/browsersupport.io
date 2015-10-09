@@ -1,1 +1,0 @@
-'webkitFlex' in CSSStyleDeclaration.prototype

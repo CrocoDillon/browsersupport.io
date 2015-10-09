@@ -1,1 +1,0 @@
-'webkitFlexShrink' in CSSStyleDeclaration.prototype

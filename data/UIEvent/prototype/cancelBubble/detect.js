@@ -1,1 +1,0 @@
-'cancelBubble' in UIEvent.prototype

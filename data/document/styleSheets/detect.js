@@ -1,1 +1,0 @@
-'styleSheets' in document

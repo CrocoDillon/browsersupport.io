@@ -1,1 +1,0 @@
-'intersectsNode' in Range.prototype

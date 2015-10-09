@@ -1,1 +1,0 @@
-'webkitTextFillColor' in CSSStyleDeclaration.prototype

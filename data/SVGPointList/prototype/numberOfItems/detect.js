@@ -1,1 +1,0 @@
-'numberOfItems' in SVGPointList.prototype

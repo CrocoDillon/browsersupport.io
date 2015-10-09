@@ -1,1 +1,0 @@
-'multiple' in HTMLSelectElement.prototype

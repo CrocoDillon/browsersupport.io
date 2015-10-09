@@ -1,1 +1,0 @@
-'sweepFlag' in SVGPathSegArcAbs.prototype

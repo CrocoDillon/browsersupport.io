@@ -1,1 +1,0 @@
-'children' in DocumentFragment.prototype

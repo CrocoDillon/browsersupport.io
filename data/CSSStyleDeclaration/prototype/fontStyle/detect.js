@@ -1,1 +1,0 @@
-'fontStyle' in CSSStyleDeclaration.prototype

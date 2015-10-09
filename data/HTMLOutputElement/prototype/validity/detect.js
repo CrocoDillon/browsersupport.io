@@ -1,1 +1,0 @@
-'validity' in HTMLOutputElement.prototype

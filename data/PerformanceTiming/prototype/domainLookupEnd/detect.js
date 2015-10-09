@@ -1,1 +1,0 @@
-'domainLookupEnd' in PerformanceTiming.prototype

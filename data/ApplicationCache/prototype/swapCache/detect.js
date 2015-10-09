@@ -1,1 +1,0 @@
-'swapCache' in ApplicationCache.prototype

@@ -1,1 +1,0 @@
-'MAX_VERTEX_UNIFORM_VECTORS' in WebGLRenderingContext

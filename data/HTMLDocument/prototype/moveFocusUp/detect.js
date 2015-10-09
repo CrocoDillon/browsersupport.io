@@ -1,1 +1,0 @@
-'moveFocusUp' in HTMLDocument.prototype

@@ -1,1 +1,0 @@
-'getVideoPlaybackQuality' in HTMLVideoElement.prototype

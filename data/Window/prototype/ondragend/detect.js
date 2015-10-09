@@ -1,1 +1,0 @@
-'ondragend' in Window.prototype

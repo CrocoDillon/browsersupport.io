@@ -1,1 +1,0 @@
-'activeTexture' in WebGLRenderingContext.prototype

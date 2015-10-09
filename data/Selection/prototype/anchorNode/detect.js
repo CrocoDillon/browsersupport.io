@@ -1,1 +1,0 @@
-'anchorNode' in Selection.prototype

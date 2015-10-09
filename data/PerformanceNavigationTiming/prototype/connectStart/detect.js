@@ -1,1 +1,0 @@
-'connectStart' in PerformanceNavigationTiming.prototype

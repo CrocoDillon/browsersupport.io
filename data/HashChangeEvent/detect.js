@@ -1,1 +1,0 @@
-'HashChangeEvent' in this

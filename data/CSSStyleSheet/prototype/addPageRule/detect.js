@@ -1,1 +1,0 @@
-'addPageRule' in CSSStyleSheet.prototype

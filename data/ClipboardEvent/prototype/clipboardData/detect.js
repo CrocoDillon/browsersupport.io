@@ -1,1 +1,0 @@
-'clipboardData' in ClipboardEvent.prototype

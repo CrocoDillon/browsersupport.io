@@ -1,1 +1,0 @@
-'adoptNode' in Document.prototype

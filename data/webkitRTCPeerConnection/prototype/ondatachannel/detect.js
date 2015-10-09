@@ -1,1 +1,0 @@
-'ondatachannel' in webkitRTCPeerConnection.prototype

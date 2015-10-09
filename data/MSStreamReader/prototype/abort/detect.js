@@ -1,1 +1,0 @@
-'abort' in MSStreamReader.prototype

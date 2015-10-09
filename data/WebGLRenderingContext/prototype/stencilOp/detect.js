@@ -1,1 +1,0 @@
-'stencilOp' in WebGLRenderingContext.prototype

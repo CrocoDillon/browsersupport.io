@@ -1,1 +1,0 @@
-'cellSpacing' in HTMLTableElement.prototype

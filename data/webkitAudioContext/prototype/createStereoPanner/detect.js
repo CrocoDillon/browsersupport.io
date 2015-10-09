@@ -1,1 +1,0 @@
-'createStereoPanner' in webkitAudioContext.prototype

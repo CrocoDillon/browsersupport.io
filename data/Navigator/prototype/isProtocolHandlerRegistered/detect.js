@@ -1,1 +1,0 @@
-'isProtocolHandlerRegistered' in Navigator.prototype

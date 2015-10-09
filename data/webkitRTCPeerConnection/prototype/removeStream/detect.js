@@ -1,1 +1,0 @@
-'removeStream' in webkitRTCPeerConnection.prototype

@@ -1,1 +1,0 @@
-'cssText' in CSSStyleSheet.prototype

@@ -1,1 +1,0 @@
-'mozOpaque' in HTMLCanvasElement.prototype

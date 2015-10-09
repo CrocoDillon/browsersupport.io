@@ -1,1 +1,0 @@
-'extractContents' in Range.prototype

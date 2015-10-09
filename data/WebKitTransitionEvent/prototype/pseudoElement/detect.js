@@ -1,1 +1,0 @@
-'pseudoElement' in WebKitTransitionEvent.prototype

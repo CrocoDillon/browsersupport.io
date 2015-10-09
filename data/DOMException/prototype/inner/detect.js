@@ -1,1 +1,0 @@
-'inner' in DOMException.prototype

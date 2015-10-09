@@ -1,1 +1,0 @@
-'readAsText' in FileReader.prototype

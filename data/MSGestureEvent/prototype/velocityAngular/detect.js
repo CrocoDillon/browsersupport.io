@@ -1,1 +1,0 @@
-'velocityAngular' in MSGestureEvent.prototype

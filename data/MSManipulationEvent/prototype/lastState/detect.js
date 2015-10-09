@@ -1,1 +1,0 @@
-'lastState' in MSManipulationEvent.prototype

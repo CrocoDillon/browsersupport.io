@@ -1,1 +1,0 @@
-'onaudioprocess' in ScriptProcessorNode.prototype

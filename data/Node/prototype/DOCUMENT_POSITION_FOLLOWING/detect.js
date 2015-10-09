@@ -1,1 +1,0 @@
-'DOCUMENT_POSITION_FOLLOWING' in Node.prototype

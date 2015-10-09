@@ -1,1 +1,0 @@
-'scaleNonUniform' in SVGMatrix.prototype

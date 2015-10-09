@@ -1,1 +1,0 @@
-'pointerBeforeReferenceNode' in NodeIterator.prototype

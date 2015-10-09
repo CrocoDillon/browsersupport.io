@@ -1,1 +1,0 @@
-'createSVGPathSegMovetoRel' in SVGPathElement.prototype

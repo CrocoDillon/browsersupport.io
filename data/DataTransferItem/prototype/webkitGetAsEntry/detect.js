@@ -1,1 +1,0 @@
-'webkitGetAsEntry' in DataTransferItem.prototype

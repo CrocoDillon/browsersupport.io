@@ -1,1 +1,0 @@
-'createDelay' in AudioContext.prototype

@@ -1,1 +1,0 @@
-'newValue' in StorageEvent.prototype

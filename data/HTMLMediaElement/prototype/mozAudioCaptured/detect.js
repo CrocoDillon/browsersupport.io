@@ -1,1 +1,0 @@
-'mozAudioCaptured' in HTMLMediaElement.prototype

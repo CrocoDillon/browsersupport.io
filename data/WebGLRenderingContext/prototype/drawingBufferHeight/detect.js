@@ -1,1 +1,0 @@
-'drawingBufferHeight' in WebGLRenderingContext.prototype

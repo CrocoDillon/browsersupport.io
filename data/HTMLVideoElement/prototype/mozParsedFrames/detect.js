@@ -1,1 +1,0 @@
-'mozParsedFrames' in HTMLVideoElement.prototype

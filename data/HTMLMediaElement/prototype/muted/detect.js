@@ -1,1 +1,0 @@
-'muted' in HTMLMediaElement.prototype

@@ -1,1 +1,0 @@
-'transform' in SVGClipPathElement.prototype

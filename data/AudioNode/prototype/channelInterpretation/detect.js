@@ -1,1 +1,0 @@
-'channelInterpretation' in AudioNode.prototype

@@ -1,1 +1,0 @@
-'onloadedmetadata' in Window.prototype

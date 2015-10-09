@@ -1,1 +1,0 @@
-'webkitTransitionTimingFunction' in CSSStyleDeclaration.prototype

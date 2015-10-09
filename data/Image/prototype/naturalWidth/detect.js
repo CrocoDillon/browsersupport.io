@@ -1,1 +1,0 @@
-'naturalWidth' in Image.prototype

@@ -1,1 +1,0 @@
-'onwheel' in Window.prototype

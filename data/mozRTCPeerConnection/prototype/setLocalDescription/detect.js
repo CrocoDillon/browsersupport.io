@@ -1,1 +1,0 @@
-'setLocalDescription' in mozRTCPeerConnection.prototype

@@ -1,1 +1,0 @@
-'detachEvent' in Node.prototype

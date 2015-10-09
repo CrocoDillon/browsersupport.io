@@ -1,1 +1,0 @@
-'animationDelay' in CSSStyleDeclaration.prototype

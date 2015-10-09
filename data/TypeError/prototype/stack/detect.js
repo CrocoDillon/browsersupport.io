@@ -1,1 +1,0 @@
-'stack' in TypeError.prototype

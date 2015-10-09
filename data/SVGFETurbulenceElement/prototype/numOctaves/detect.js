@@ -1,1 +1,0 @@
-'numOctaves' in SVGFETurbulenceElement.prototype

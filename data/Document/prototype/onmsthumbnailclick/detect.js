@@ -1,1 +1,0 @@
-'onmsthumbnailclick' in Document.prototype

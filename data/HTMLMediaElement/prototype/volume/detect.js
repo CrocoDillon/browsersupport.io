@@ -1,1 +1,0 @@
-'volume' in HTMLMediaElement.prototype

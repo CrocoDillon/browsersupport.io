@@ -1,1 +1,0 @@
-'setUTCHours' in Date.prototype

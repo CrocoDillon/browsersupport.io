@@ -1,1 +1,0 @@
-'contextMenu' in HTMLElement.prototype

@@ -1,1 +1,0 @@
-'getTracks' in webkitMediaStream.prototype

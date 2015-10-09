@@ -1,1 +1,0 @@
-'releaseEvents' in Window.prototype

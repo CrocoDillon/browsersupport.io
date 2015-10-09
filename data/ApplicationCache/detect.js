@@ -1,1 +1,0 @@
-'ApplicationCache' in this

@@ -1,1 +1,0 @@
-'msScrollSnapPointsX' in CSSStyleDeclaration.prototype

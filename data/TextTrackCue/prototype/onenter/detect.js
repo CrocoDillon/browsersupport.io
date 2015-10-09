@@ -1,1 +1,0 @@
-'onenter' in TextTrackCue.prototype

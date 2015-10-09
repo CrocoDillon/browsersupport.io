@@ -1,1 +1,0 @@
-'isContentEditable' in HTMLElement.prototype

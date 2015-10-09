@@ -1,1 +1,0 @@
-'SVG_LENGTHTYPE_PERCENTAGE' in SVGLength.prototype

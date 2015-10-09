@@ -1,1 +1,0 @@
-'initPointerEvent' in PointerEvent.prototype

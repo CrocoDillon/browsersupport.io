@@ -1,1 +1,0 @@
-'height' in SVGFEGaussianBlurElement.prototype

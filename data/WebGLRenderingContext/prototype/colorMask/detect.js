@@ -1,1 +1,0 @@
-'colorMask' in WebGLRenderingContext.prototype

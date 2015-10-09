@@ -1,1 +1,0 @@
-'exitPointerLock' in Document.prototype

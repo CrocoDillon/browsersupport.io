@@ -1,1 +1,0 @@
-'onbeforepaste' in Document.prototype

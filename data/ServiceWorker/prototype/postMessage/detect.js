@@ -1,1 +1,0 @@
-'postMessage' in ServiceWorker.prototype

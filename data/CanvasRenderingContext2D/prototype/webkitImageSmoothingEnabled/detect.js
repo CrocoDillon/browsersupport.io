@@ -1,1 +1,0 @@
-'webkitImageSmoothingEnabled' in CanvasRenderingContext2D.prototype

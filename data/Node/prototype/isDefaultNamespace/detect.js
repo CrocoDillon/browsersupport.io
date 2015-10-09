@@ -1,1 +1,0 @@
-'isDefaultNamespace' in Node.prototype

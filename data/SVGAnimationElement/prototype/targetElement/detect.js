@@ -1,1 +1,0 @@
-'targetElement' in SVGAnimationElement.prototype

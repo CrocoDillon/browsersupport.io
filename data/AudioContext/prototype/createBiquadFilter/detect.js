@@ -1,1 +1,0 @@
-'createBiquadFilter' in AudioContext.prototype

@@ -1,1 +1,0 @@
-'detail' in TimeEvent.prototype

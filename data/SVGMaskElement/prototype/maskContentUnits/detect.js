@@ -1,1 +1,0 @@
-'maskContentUnits' in SVGMaskElement.prototype

@@ -1,1 +1,0 @@
-'VERTICAL' in OverflowEvent

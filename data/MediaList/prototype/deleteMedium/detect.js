@@ -1,1 +1,0 @@
-'deleteMedium' in MediaList.prototype

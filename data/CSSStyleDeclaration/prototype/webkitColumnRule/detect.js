@@ -1,1 +1,0 @@
-'webkitColumnRule' in CSSStyleDeclaration.prototype

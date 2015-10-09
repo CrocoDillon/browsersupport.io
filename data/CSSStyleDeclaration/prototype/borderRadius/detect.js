@@ -1,1 +1,0 @@
-'borderRadius' in CSSStyleDeclaration.prototype

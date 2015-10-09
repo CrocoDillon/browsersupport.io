@@ -1,1 +1,0 @@
-'isContentHandlerRegistered' in Navigator.prototype

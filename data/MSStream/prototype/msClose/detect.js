@@ -1,1 +1,0 @@
-'msClose' in MSStream.prototype

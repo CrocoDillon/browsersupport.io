@@ -1,1 +1,0 @@
-'fileHandle' in IDBFileHandle.prototype

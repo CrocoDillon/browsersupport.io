@@ -1,1 +1,0 @@
-'SVGException' in this

@@ -1,1 +1,0 @@
-'LINEAR' in WebGLRenderingContext

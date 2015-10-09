@@ -1,1 +1,0 @@
-'adr' in mozContact.prototype

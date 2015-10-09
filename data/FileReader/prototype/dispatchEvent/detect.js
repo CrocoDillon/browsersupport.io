@@ -1,1 +1,0 @@
-'dispatchEvent' in FileReader.prototype

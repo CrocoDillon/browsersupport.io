@@ -1,1 +1,0 @@
-'glyphRef' in SVGAltGlyphElement.prototype

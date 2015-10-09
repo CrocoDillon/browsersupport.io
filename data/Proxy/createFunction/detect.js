@@ -1,1 +1,0 @@
-'createFunction' in Proxy

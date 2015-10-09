@@ -1,1 +1,0 @@
-'exec' in RegExp.prototype

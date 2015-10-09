@@ -1,1 +1,0 @@
-'formAction' in HTMLButtonElement.prototype

@@ -1,1 +1,0 @@
-'LEQUAL' in WebGLRenderingContext.prototype

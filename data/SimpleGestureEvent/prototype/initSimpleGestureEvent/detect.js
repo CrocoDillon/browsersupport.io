@@ -1,1 +1,0 @@
-'initSimpleGestureEvent' in SimpleGestureEvent.prototype

@@ -1,1 +1,0 @@
-'lastIndexOf' in String.prototype

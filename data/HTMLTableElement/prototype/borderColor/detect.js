@@ -1,1 +1,0 @@
-'borderColor' in HTMLTableElement.prototype

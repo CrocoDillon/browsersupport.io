@@ -1,1 +1,0 @@
-'forms' in HTMLDocument.prototype

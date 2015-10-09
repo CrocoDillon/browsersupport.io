@@ -1,1 +1,0 @@
-'animationDuration' in CSSStyleDeclaration.prototype

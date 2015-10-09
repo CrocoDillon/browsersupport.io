@@ -1,1 +1,0 @@
-'createObjectStore' in IDBDatabase.prototype

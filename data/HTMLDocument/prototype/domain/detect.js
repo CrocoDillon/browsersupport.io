@@ -1,1 +1,0 @@
-'domain' in HTMLDocument.prototype

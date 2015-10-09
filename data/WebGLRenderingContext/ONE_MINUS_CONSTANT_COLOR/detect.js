@@ -1,1 +1,0 @@
-'ONE_MINUS_CONSTANT_COLOR' in WebGLRenderingContext

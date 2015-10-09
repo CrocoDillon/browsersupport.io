@@ -1,1 +1,0 @@
-'dy' in SVGFEDropShadowElement.prototype

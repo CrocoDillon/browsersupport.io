@@ -1,1 +1,0 @@
-'mozTCPSocket' in navigator

@@ -1,1 +1,0 @@
-'pageY' in MouseEvent.prototype

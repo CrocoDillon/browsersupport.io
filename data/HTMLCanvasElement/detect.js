@@ -1,1 +1,0 @@
-'HTMLCanvasElement' in this

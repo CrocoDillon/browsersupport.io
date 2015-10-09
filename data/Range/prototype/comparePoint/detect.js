@@ -1,1 +1,0 @@
-'comparePoint' in Range.prototype

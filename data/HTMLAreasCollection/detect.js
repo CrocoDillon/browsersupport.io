@@ -1,1 +1,0 @@
-'HTMLAreasCollection' in this

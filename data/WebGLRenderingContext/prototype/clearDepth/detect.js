@@ -1,1 +1,0 @@
-'clearDepth' in WebGLRenderingContext.prototype

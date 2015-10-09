@@ -1,1 +1,0 @@
-'nodeName' in Node.prototype

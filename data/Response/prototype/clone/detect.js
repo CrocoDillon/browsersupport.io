@@ -1,1 +1,0 @@
-'clone' in Response.prototype

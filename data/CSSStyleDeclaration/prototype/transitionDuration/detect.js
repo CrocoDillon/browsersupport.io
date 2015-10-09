@@ -1,1 +1,0 @@
-'transitionDuration' in CSSStyleDeclaration.prototype

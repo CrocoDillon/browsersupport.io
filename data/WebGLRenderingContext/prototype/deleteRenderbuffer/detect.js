@@ -1,1 +1,0 @@
-'deleteRenderbuffer' in WebGLRenderingContext.prototype

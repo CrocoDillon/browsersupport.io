@@ -1,1 +1,0 @@
-'applyConstraints' in MediaStreamTrack.prototype

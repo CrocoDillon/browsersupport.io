@@ -1,1 +1,0 @@
-'htmlFor' in HTMLScriptElement.prototype

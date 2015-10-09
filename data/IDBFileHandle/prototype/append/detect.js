@@ -1,1 +1,0 @@
-'append' in IDBFileHandle.prototype

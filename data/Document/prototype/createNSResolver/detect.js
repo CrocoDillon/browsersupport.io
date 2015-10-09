@@ -1,1 +1,0 @@
-'createNSResolver' in Document.prototype

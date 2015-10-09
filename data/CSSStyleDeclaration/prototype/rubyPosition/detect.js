@@ -1,1 +1,0 @@
-'rubyPosition' in CSSStyleDeclaration.prototype

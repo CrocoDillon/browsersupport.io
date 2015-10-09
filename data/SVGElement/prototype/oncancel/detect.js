@@ -1,1 +1,0 @@
-'oncancel' in SVGElement.prototype

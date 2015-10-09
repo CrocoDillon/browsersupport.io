@@ -1,1 +1,0 @@
-'largeArcFlag' in SVGPathSegArcAbs.prototype

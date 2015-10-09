@@ -1,1 +1,0 @@
-'sdp' in mozRTCSessionDescription.prototype

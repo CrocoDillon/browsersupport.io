@@ -1,1 +1,0 @@
-'webkitClearResourceTimings' in Performance.prototype

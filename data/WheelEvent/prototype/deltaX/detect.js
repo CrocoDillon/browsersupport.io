@@ -1,1 +1,0 @@
-'deltaX' in WheelEvent.prototype

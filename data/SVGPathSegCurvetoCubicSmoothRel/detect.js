@@ -1,1 +1,0 @@
-'SVGPathSegCurvetoCubicSmoothRel' in this

@@ -1,1 +1,0 @@
-'insertNode' in Range.prototype

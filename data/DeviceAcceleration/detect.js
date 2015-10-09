@@ -1,1 +1,0 @@
-'DeviceAcceleration' in this

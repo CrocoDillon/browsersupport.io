@@ -1,1 +1,0 @@
-'textKashida' in CSSStyleDeclaration.prototype

@@ -1,1 +1,0 @@
-'pressed' in GamepadButton.prototype

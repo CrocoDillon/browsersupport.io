@@ -1,1 +1,0 @@
-'createSVGPathSegClosePath' in SVGPathElement.prototype

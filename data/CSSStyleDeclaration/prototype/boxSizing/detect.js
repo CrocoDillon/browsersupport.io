@@ -1,1 +1,0 @@
-'boxSizing' in CSSStyleDeclaration.prototype

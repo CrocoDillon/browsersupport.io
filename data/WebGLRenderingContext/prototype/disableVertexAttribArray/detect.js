@@ -1,1 +1,0 @@
-'disableVertexAttribArray' in WebGLRenderingContext.prototype

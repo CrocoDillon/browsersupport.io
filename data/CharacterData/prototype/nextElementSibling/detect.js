@@ -1,1 +1,0 @@
-'nextElementSibling' in CharacterData.prototype

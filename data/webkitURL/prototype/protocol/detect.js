@@ -1,1 +1,0 @@
-'protocol' in webkitURL.prototype

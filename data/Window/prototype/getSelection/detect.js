@@ -1,1 +1,0 @@
-'getSelection' in Window.prototype

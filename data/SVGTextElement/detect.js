@@ -1,1 +1,0 @@
-'SVGTextElement' in this

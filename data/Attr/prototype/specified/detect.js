@@ -1,1 +1,0 @@
-'specified' in Attr.prototype

@@ -1,1 +1,0 @@
-'add' in DataTransferItemList.prototype

@@ -1,1 +1,0 @@
-'loaded' in ProgressEvent.prototype

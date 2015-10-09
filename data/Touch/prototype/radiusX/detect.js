@@ -1,1 +1,0 @@
-'radiusX' in Touch.prototype

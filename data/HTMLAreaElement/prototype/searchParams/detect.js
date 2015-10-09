@@ -1,1 +1,0 @@
-'searchParams' in HTMLAreaElement.prototype

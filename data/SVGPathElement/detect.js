@@ -1,1 +1,0 @@
-'SVGPathElement' in this

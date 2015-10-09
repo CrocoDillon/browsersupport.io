@@ -1,1 +1,0 @@
-'lang' in HTMLElement.prototype

@@ -1,1 +1,0 @@
-'deleteFromDocument' in Selection.prototype

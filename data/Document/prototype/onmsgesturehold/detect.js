@@ -1,1 +1,0 @@
-'onmsgesturehold' in Document.prototype

@@ -1,1 +1,0 @@
-'clear' in Storage.prototype

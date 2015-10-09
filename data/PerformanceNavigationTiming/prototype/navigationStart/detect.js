@@ -1,1 +1,0 @@
-'navigationStart' in PerformanceNavigationTiming.prototype

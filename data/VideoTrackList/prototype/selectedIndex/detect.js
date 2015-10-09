@@ -1,1 +1,0 @@
-'selectedIndex' in VideoTrackList.prototype

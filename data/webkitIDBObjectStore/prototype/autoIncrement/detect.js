@@ -1,1 +1,0 @@
-'autoIncrement' in webkitIDBObjectStore.prototype

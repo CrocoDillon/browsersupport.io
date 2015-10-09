@@ -1,1 +1,0 @@
-'previousTranslate' in SVGZoomEvent.prototype

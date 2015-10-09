@@ -1,1 +1,0 @@
-'counterIncrement' in CSSStyleDeclaration.prototype

@@ -1,1 +1,0 @@
-'minLength' in HTMLTextAreaElement.prototype

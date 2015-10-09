@@ -1,1 +1,0 @@
-'ondeviceorientation' in this

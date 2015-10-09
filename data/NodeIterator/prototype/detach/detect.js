@@ -1,1 +1,0 @@
-'detach' in NodeIterator.prototype

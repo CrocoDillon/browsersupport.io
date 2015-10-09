@@ -1,1 +1,0 @@
-'xmlspace' in SVGForeignObjectElement.prototype

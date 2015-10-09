@@ -1,1 +1,0 @@
-'identifier' in Touch.prototype

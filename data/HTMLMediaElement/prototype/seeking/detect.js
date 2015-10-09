@@ -1,1 +1,0 @@
-'seeking' in HTMLMediaElement.prototype

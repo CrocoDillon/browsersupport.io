@@ -1,1 +1,0 @@
-'onsearch' in Document.prototype

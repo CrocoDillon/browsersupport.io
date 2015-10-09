@@ -1,1 +1,0 @@
-'valueAsNumber' in HTMLInputElement.prototype

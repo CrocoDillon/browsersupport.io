@@ -1,1 +1,0 @@
-'onabort' in webkitIDBDatabase.prototype

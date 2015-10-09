@@ -1,1 +1,0 @@
-'labels' in HTMLSelectElement.prototype

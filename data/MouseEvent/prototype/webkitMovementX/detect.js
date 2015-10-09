@@ -1,1 +1,0 @@
-'webkitMovementX' in MouseEvent.prototype

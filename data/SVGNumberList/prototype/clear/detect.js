@@ -1,1 +1,0 @@
-'clear' in SVGNumberList.prototype

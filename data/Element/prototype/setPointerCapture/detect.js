@@ -1,1 +1,0 @@
-'setPointerCapture' in Element.prototype

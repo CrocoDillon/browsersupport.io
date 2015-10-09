@@ -1,1 +1,0 @@
-'getGamepads' in Navigator.prototype

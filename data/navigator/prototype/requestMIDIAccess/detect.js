@@ -1,1 +1,0 @@
-'requestMIDIAccess' in Navigator.prototype

@@ -1,1 +1,0 @@
-'createSVGPathSegCurvetoQuadraticAbs' in SVGPathElement.prototype

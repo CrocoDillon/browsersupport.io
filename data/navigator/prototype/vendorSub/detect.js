@@ -1,1 +1,0 @@
-'vendorSub' in Navigator.prototype

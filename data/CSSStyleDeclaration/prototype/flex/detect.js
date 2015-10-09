@@ -1,1 +1,0 @@
-'flex' in CSSStyleDeclaration.prototype

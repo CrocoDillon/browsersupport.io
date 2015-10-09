@@ -1,1 +1,0 @@
-'getSources' in MediaStreamTrack

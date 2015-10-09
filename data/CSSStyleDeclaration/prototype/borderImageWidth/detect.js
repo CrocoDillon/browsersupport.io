@@ -1,1 +1,0 @@
-'borderImageWidth' in CSSStyleDeclaration.prototype

@@ -1,1 +1,0 @@
-'parentStyleSheet' in StyleSheet.prototype

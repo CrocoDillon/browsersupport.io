@@ -1,1 +1,0 @@
-'getBattery' in Navigator.prototype

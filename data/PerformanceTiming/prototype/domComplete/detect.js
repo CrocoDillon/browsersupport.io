@@ -1,1 +1,0 @@
-'domComplete' in PerformanceTiming.prototype

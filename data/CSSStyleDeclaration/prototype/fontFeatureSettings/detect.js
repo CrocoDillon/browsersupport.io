@@ -1,1 +1,0 @@
-'fontFeatureSettings' in CSSStyleDeclaration.prototype

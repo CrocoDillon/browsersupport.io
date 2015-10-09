@@ -1,1 +1,0 @@
-'onwebkitresourcetimingbufferfull' in Performance.prototype

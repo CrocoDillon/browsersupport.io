@@ -1,1 +1,0 @@
-'text' in TextTrackCue.prototype

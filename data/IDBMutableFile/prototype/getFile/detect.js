@@ -1,1 +1,0 @@
-'getFile' in IDBMutableFile.prototype

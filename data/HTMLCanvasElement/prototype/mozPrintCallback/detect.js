@@ -1,1 +1,0 @@
-'mozPrintCallback' in HTMLCanvasElement.prototype

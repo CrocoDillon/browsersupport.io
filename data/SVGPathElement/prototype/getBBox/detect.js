@@ -1,1 +1,0 @@
-'getBBox' in SVGPathElement.prototype

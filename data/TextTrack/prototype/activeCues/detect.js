@@ -1,1 +1,0 @@
-'activeCues' in TextTrack.prototype

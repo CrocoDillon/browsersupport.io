@@ -1,1 +1,0 @@
-'LENGTHADJUST_UNKNOWN' in SVGTextElement

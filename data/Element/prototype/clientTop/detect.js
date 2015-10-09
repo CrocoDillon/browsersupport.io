@@ -1,1 +1,0 @@
-'clientTop' in Element.prototype

@@ -1,1 +1,0 @@
-'layerX' in MouseEvent.prototype

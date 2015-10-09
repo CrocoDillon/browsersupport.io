@@ -1,1 +1,0 @@
-'small' in String.prototype

@@ -1,1 +1,0 @@
-'webkitColumnSpan' in CSSStyleDeclaration.prototype

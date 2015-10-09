@@ -1,1 +1,0 @@
-'disabled' in HTMLOptGroupElement.prototype

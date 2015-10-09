@@ -1,1 +1,0 @@
-'onkeyup' in HTMLElement.prototype

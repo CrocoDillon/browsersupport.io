@@ -1,1 +1,0 @@
-'scrolling' in HTMLFrameElement.prototype

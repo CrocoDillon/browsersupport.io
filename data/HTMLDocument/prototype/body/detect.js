@@ -1,1 +1,0 @@
-'body' in HTMLDocument.prototype

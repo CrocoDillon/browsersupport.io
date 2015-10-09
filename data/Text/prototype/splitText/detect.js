@@ -1,1 +1,0 @@
-'splitText' in Text.prototype

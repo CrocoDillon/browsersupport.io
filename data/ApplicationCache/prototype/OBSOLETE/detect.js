@@ -1,1 +1,0 @@
-'OBSOLETE' in ApplicationCache.prototype

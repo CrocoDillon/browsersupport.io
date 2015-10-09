@@ -1,1 +1,0 @@
-'onmousedown' in SVGElement.prototype

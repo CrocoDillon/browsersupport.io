@@ -1,1 +1,0 @@
-'deviceXDPI' in Screen.prototype

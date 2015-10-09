@@ -1,1 +1,0 @@
-'CCW' in WebGLRenderingContext.prototype

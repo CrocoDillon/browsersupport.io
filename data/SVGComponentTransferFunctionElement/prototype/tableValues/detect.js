@@ -1,1 +1,0 @@
-'tableValues' in SVGComponentTransferFunctionElement.prototype

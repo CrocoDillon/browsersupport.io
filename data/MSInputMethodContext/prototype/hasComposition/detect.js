@@ -1,1 +1,0 @@
-'hasComposition' in MSInputMethodContext.prototype

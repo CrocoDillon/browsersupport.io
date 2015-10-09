@@ -1,1 +1,0 @@
-'getTrackById' in VideoTrackList.prototype

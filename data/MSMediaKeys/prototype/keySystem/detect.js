@@ -1,1 +1,0 @@
-'keySystem' in MSMediaKeys.prototype

@@ -1,1 +1,0 @@
-'destination' in webkitAudioContext.prototype

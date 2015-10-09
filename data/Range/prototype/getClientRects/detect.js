@@ -1,1 +1,0 @@
-'getClientRects' in Range.prototype

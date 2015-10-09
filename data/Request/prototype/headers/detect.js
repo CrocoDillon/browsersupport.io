@@ -1,1 +1,0 @@
-'headers' in Request.prototype

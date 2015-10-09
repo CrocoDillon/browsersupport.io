@@ -1,1 +1,0 @@
-'fontStretch' in CSSStyleDeclaration.prototype

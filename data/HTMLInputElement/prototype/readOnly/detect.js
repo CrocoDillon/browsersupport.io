@@ -1,1 +1,0 @@
-'readOnly' in HTMLInputElement.prototype

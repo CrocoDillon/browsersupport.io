@@ -1,1 +1,0 @@
-'onplay' in SVGElement.prototype

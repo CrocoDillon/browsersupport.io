@@ -1,1 +1,0 @@
-'URL' in Document.prototype

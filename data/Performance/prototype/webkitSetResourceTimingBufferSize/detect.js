@@ -1,1 +1,0 @@
-'webkitSetResourceTimingBufferSize' in Performance.prototype

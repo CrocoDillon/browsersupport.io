@@ -1,1 +1,0 @@
-'standby' in HTMLAppletElement.prototype

@@ -1,1 +1,0 @@
-'scope' in HTMLTableCellElement.prototype

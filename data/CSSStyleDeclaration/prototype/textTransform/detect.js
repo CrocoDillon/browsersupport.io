@@ -1,1 +1,0 @@
-'textTransform' in CSSStyleDeclaration.prototype

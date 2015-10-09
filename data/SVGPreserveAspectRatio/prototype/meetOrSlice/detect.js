@@ -1,1 +1,0 @@
-'meetOrSlice' in SVGPreserveAspectRatio.prototype

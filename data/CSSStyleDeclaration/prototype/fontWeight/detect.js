@@ -1,1 +1,0 @@
-'fontWeight' in CSSStyleDeclaration.prototype

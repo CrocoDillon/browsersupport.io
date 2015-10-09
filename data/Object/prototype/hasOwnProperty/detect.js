@@ -1,1 +1,0 @@
-'hasOwnProperty' in Object.prototype

@@ -1,1 +1,0 @@
-'bottom' in Rect.prototype

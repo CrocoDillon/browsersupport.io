@@ -1,1 +1,0 @@
-'pageX' in Touch.prototype

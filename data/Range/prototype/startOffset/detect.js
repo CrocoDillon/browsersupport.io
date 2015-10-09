@@ -1,1 +1,0 @@
-'startOffset' in Range.prototype

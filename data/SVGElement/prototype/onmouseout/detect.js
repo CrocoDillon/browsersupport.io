@@ -1,1 +1,0 @@
-'onmouseout' in SVGElement.prototype

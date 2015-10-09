@@ -1,1 +1,0 @@
-'lineNumber' in URIError.prototype

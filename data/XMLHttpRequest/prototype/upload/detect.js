@@ -1,1 +1,0 @@
-'upload' in XMLHttpRequest.prototype

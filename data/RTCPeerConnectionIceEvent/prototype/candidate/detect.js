@@ -1,1 +1,0 @@
-'candidate' in RTCPeerConnectionIceEvent.prototype

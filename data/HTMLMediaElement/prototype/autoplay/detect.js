@@ -1,1 +1,0 @@
-'autoplay' in HTMLMediaElement.prototype

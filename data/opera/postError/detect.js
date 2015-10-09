@@ -1,1 +1,0 @@
-'postError' in opera

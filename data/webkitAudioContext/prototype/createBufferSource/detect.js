@@ -1,1 +1,0 @@
-'createBufferSource' in webkitAudioContext.prototype

@@ -1,1 +1,0 @@
-'overflowX' in CSSStyleDeclaration.prototype

@@ -1,1 +1,0 @@
-'tableLayout' in CSSStyleDeclaration.prototype

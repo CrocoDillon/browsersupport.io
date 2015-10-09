@@ -1,1 +1,0 @@
-'alignItems' in CSSStyleDeclaration.prototype

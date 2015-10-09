@@ -1,1 +1,0 @@
-'decodeAudioData' in webkitAudioContext.prototype

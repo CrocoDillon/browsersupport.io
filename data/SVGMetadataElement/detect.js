@@ -1,1 +1,0 @@
-'SVGMetadataElement' in this

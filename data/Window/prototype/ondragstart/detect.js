@@ -1,1 +1,0 @@
-'ondragstart' in Window.prototype

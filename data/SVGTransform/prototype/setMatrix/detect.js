@@ -1,1 +1,0 @@
-'setMatrix' in SVGTransform.prototype

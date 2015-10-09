@@ -1,1 +1,0 @@
-'rubyAlign' in CSSStyleDeclaration.prototype

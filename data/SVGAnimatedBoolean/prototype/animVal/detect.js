@@ -1,1 +1,0 @@
-'animVal' in SVGAnimatedBoolean.prototype

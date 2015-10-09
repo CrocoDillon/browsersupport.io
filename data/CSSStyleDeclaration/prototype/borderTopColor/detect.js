@@ -1,1 +1,0 @@
-'borderTopColor' in CSSStyleDeclaration.prototype

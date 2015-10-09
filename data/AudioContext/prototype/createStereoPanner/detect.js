@@ -1,1 +1,0 @@
-'createStereoPanner' in AudioContext.prototype

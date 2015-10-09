@@ -1,1 +1,0 @@
-'marginTop' in CSSStyleDeclaration.prototype

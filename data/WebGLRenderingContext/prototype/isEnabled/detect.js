@@ -1,1 +1,0 @@
-'isEnabled' in WebGLRenderingContext.prototype

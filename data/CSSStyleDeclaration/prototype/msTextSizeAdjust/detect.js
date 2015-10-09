@@ -1,1 +1,0 @@
-'msTextSizeAdjust' in CSSStyleDeclaration.prototype

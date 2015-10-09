@@ -1,1 +1,0 @@
-'name' in URIError.prototype

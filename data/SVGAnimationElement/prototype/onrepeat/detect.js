@@ -1,1 +1,0 @@
-'onrepeat' in SVGAnimationElement.prototype

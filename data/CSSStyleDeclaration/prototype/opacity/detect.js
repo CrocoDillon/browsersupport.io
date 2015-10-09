@@ -1,1 +1,0 @@
-'opacity' in CSSStyleDeclaration.prototype

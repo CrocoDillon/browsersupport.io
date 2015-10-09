@@ -1,1 +1,0 @@
-'ZERO' in WebGLRenderingContext

@@ -1,1 +1,0 @@
-'perspectiveOrigin' in CSSStyleDeclaration.prototype

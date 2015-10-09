@@ -1,1 +1,0 @@
-'skewY' in WebKitCSSMatrix.prototype

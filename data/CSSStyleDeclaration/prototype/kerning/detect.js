@@ -1,1 +1,0 @@
-'kerning' in CSSStyleDeclaration.prototype

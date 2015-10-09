@@ -1,1 +1,0 @@
-'transformPoint' in DOMMatrixReadOnly.prototype

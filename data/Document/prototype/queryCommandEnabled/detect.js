@@ -1,1 +1,0 @@
-'queryCommandEnabled' in Document.prototype

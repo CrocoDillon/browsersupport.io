@@ -1,1 +1,0 @@
-'screenBrightness' in MozPowerManager.prototype

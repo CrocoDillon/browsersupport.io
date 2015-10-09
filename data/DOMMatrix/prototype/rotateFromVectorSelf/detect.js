@@ -1,1 +1,0 @@
-'rotateFromVectorSelf' in DOMMatrix.prototype

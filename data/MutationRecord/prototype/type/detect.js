@@ -1,1 +1,0 @@
-'type' in MutationRecord.prototype

@@ -1,1 +1,0 @@
-'bgProperties' in HTMLBodyElement.prototype

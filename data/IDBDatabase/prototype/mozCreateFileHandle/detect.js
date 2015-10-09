@@ -1,1 +1,0 @@
-'mozCreateFileHandle' in IDBDatabase.prototype

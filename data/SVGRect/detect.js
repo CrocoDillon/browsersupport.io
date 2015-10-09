@@ -1,1 +1,0 @@
-'SVGRect' in this

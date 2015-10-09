@@ -1,1 +1,0 @@
-'markerHeight' in SVGMarkerElement.prototype

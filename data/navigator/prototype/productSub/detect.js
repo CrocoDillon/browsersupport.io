@@ -1,1 +1,0 @@
-'productSub' in Navigator.prototype

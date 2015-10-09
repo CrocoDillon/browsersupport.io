@@ -1,1 +1,0 @@
-'webkitColumns' in CSSStyleDeclaration.prototype

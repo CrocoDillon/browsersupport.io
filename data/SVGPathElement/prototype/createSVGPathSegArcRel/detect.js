@@ -1,1 +1,0 @@
-'createSVGPathSegArcRel' in SVGPathElement.prototype

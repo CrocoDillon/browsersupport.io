@@ -1,1 +1,0 @@
-'msFlowInto' in CSSStyleDeclaration.prototype

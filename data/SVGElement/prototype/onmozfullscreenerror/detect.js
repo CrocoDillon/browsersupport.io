@@ -1,1 +1,0 @@
-'onmozfullscreenerror' in SVGElement.prototype

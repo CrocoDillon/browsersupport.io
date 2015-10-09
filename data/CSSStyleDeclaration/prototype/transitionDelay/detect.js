@@ -1,1 +1,0 @@
-'transitionDelay' in CSSStyleDeclaration.prototype

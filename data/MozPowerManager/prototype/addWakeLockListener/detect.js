@@ -1,1 +1,0 @@
-'addWakeLockListener' in MozPowerManager.prototype

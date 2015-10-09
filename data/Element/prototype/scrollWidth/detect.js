@@ -1,1 +1,0 @@
-'scrollWidth' in Element.prototype

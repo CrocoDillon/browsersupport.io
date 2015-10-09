@@ -1,1 +1,0 @@
-'onLine' in Navigator.prototype

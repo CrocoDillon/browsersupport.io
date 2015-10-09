@@ -1,1 +1,0 @@
-'onprogress' in IDBFileRequest.prototype

@@ -1,1 +1,0 @@
-'onchange' in PermissionStatus.prototype

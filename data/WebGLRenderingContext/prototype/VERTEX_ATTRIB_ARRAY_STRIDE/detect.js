@@ -1,1 +1,0 @@
-'VERTEX_ATTRIB_ARRAY_STRIDE' in WebGLRenderingContext.prototype

@@ -1,1 +1,0 @@
-'systemLanguage' in SVGSwitchElement.prototype

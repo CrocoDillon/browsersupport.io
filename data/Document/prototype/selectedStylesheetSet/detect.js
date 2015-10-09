@@ -1,1 +1,0 @@
-'selectedStylesheetSet' in Document.prototype

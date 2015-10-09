@@ -1,1 +1,0 @@
-'onpagehide' in HTMLFrameSetElement.prototype

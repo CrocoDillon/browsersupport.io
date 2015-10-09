@@ -1,1 +1,0 @@
-'parentStyleSheet' in CSSStyleRule.prototype

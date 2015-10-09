@@ -1,1 +1,0 @@
-'ignoreCase' in RegExp.prototype

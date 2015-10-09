@@ -1,1 +1,0 @@
-'RGB' in WebGLRenderingContext

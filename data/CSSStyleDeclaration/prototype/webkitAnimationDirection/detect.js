@@ -1,1 +1,0 @@
-'webkitAnimationDirection' in CSSStyleDeclaration.prototype

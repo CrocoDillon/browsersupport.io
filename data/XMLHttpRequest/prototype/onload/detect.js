@@ -1,1 +1,0 @@
-'onload' in XMLHttpRequest.prototype

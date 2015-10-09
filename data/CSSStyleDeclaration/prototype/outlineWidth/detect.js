@@ -1,1 +1,0 @@
-'outlineWidth' in CSSStyleDeclaration.prototype

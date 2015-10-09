@@ -1,1 +1,0 @@
-'encode' in TextEncoder.prototype

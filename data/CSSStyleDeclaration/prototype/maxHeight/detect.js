@@ -1,1 +1,0 @@
-'maxHeight' in CSSStyleDeclaration.prototype

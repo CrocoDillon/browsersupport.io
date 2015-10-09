@@ -1,1 +1,0 @@
-'mutableFile' in IDBFileHandle.prototype

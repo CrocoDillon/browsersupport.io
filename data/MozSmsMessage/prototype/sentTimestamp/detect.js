@@ -1,1 +1,0 @@
-'sentTimestamp' in MozSmsMessage.prototype

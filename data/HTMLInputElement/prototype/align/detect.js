@@ -1,1 +1,0 @@
-'align' in HTMLInputElement.prototype

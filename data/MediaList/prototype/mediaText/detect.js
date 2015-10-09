@@ -1,1 +1,0 @@
-'mediaText' in MediaList.prototype

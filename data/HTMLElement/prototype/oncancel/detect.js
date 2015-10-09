@@ -1,1 +1,0 @@
-'oncancel' in HTMLElement.prototype

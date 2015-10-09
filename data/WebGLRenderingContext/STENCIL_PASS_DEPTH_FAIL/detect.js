@@ -1,1 +1,0 @@
-'STENCIL_PASS_DEPTH_FAIL' in WebGLRenderingContext

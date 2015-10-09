@@ -1,1 +1,0 @@
-'appCodeName' in Navigator.prototype

@@ -1,1 +1,0 @@
-'isTexture' in WebGLRenderingContext.prototype

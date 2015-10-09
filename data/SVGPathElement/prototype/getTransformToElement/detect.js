@@ -1,1 +1,0 @@
-'getTransformToElement' in SVGPathElement.prototype

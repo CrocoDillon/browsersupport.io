@@ -1,1 +1,0 @@
-'baseNode' in Selection.prototype

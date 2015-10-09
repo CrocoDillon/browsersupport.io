@@ -1,1 +1,0 @@
-'useProgram' in WebGLRenderingContext.prototype

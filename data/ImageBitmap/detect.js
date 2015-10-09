@@ -1,1 +1,0 @@
-'ImageBitmap' in this

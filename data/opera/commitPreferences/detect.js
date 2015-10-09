@@ -1,1 +1,0 @@
-'commitPreferences' in opera

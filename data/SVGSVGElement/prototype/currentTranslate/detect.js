@@ -1,1 +1,0 @@
-'currentTranslate' in SVGSVGElement.prototype

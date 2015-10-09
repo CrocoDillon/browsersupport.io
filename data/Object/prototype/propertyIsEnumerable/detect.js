@@ -1,1 +1,0 @@
-'propertyIsEnumerable' in Object.prototype

@@ -1,1 +1,0 @@
-'getPointAtLength' in SVGPathElement.prototype

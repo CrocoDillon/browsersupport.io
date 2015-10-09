@@ -1,1 +1,0 @@
-'getClientRect' in CaretPosition.prototype

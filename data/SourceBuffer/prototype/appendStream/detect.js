@@ -1,1 +1,0 @@
-'appendStream' in SourceBuffer.prototype

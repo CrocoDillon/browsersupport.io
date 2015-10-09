@@ -1,1 +1,0 @@
-'transformToDocument' in XSLTProcessor.prototype

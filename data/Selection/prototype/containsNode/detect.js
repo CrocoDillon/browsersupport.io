@@ -1,1 +1,0 @@
-'containsNode' in Selection.prototype

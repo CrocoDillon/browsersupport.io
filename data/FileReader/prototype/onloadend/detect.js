@@ -1,1 +1,0 @@
-'onloadend' in FileReader.prototype

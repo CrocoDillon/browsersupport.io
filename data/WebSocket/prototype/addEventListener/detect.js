@@ -1,1 +1,0 @@
-'addEventListener' in WebSocket.prototype

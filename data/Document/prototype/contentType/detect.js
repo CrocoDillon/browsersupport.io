@@ -1,1 +1,0 @@
-'contentType' in Document.prototype

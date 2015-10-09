@@ -1,1 +1,0 @@
-'applets' in Document.prototype

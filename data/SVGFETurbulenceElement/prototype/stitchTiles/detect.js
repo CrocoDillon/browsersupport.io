@@ -1,1 +1,0 @@
-'stitchTiles' in SVGFETurbulenceElement.prototype

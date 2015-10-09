@@ -1,1 +1,0 @@
-'onresult' in webkitSpeechRecognition.prototype

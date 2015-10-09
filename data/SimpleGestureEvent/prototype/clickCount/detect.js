@@ -1,1 +1,0 @@
-'clickCount' in SimpleGestureEvent.prototype

@@ -1,1 +1,0 @@
-'upper' in webkitIDBKeyRange.prototype

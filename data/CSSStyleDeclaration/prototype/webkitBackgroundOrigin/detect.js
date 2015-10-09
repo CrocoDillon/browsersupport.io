@@ -1,1 +1,0 @@
-'webkitBackgroundOrigin' in CSSStyleDeclaration.prototype

@@ -1,1 +1,0 @@
-'insertItemBefore' in SVGStringList.prototype

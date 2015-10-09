@@ -1,1 +1,0 @@
-'nameProp' in HTMLAnchorElement.prototype

@@ -1,1 +1,0 @@
-'clientY' in MSGestureEvent.prototype

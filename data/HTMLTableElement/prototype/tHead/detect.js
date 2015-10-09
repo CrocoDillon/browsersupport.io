@@ -1,1 +1,0 @@
-'tHead' in HTMLTableElement.prototype

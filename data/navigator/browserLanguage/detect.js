@@ -1,1 +1,0 @@
-'browserLanguage' in navigator

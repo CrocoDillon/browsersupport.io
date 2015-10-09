@@ -1,1 +1,0 @@
-'iterateNext' in XPathResult.prototype

@@ -1,1 +1,0 @@
-'getCTM' in SVGDefsElement.prototype

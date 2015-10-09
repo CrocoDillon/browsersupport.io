@@ -1,1 +1,0 @@
-'flexShrink' in CSSStyleDeclaration.prototype

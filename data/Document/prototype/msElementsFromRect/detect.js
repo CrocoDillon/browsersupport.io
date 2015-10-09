@@ -1,1 +1,0 @@
-'msElementsFromRect' in Document.prototype

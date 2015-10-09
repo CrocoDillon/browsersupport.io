@@ -1,1 +1,0 @@
-'setTime' in Date.prototype

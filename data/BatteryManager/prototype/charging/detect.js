@@ -1,1 +1,0 @@
-'charging' in BatteryManager.prototype

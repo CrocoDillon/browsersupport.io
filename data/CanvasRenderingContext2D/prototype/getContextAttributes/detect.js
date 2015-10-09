@@ -1,1 +1,0 @@
-'getContextAttributes' in CanvasRenderingContext2D.prototype

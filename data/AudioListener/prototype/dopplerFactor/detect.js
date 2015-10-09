@@ -1,1 +1,0 @@
-'dopplerFactor' in AudioListener.prototype

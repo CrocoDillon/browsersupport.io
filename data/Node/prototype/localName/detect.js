@@ -1,1 +1,0 @@
-'localName' in Node.prototype

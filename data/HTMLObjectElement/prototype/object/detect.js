@@ -1,1 +1,0 @@
-'object' in HTMLObjectElement.prototype

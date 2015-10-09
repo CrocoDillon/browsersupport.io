@@ -1,1 +1,0 @@
-'onmsinertiastart' in Document.prototype

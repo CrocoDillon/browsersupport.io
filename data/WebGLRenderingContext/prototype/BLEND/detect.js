@@ -1,1 +1,0 @@
-'BLEND' in WebGLRenderingContext.prototype

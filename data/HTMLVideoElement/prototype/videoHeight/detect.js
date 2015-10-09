@@ -1,1 +1,0 @@
-'videoHeight' in HTMLVideoElement.prototype

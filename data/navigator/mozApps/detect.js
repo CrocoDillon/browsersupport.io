@@ -1,1 +1,0 @@
-'mozApps' in navigator

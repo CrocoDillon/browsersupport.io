@@ -1,1 +1,0 @@
-'onratechange' in HTMLElement.prototype

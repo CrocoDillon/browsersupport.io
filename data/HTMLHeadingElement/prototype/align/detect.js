@@ -1,1 +1,0 @@
-'align' in HTMLHeadingElement.prototype

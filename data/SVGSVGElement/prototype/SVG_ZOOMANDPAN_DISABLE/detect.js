@@ -1,1 +1,0 @@
-'SVG_ZOOMANDPAN_DISABLE' in SVGSVGElement.prototype

@@ -1,1 +1,0 @@
-'webkitIDBCursor' in this

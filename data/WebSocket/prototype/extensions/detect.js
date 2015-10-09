@@ -1,1 +1,0 @@
-'extensions' in WebSocket.prototype

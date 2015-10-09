@@ -1,1 +1,0 @@
-'index' in HTMLOptionElement.prototype

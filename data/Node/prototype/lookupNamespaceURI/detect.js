@@ -1,1 +1,0 @@
-'lookupNamespaceURI' in Node.prototype

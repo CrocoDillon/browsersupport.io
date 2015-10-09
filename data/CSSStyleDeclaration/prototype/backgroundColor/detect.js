@@ -1,1 +1,0 @@
-'backgroundColor' in CSSStyleDeclaration.prototype

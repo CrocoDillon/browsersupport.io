@@ -1,1 +1,0 @@
-'sampleRate' in AudioContext.prototype

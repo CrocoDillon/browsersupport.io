@@ -1,1 +1,0 @@
-'getScreenCTM' in SVGSVGElement.prototype

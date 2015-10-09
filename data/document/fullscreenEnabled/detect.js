@@ -1,1 +1,0 @@
-'fullscreenEnabled' in document

@@ -1,1 +1,0 @@
-'cancel' in ReadableByteStream.prototype

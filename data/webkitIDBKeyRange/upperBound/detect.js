@@ -1,1 +1,0 @@
-'upperBound' in webkitIDBKeyRange

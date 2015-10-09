@@ -1,1 +1,0 @@
-'onwaiting' in Window.prototype

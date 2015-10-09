@@ -1,1 +1,0 @@
-'onshow' in Document.prototype

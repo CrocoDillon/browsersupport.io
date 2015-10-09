@@ -1,1 +1,0 @@
-'rel' in HTMLLinkElement.prototype

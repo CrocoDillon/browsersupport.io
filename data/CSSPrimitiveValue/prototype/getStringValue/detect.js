@@ -1,1 +1,0 @@
-'getStringValue' in CSSPrimitiveValue.prototype

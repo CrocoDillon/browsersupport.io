@@ -1,1 +1,0 @@
-'height' in SVGRect.prototype

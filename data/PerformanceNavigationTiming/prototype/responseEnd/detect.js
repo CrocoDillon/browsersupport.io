@@ -1,1 +1,0 @@
-'responseEnd' in PerformanceNavigationTiming.prototype

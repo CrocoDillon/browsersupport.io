@@ -1,1 +1,0 @@
-'valueAsDate' in HTMLInputElement.prototype

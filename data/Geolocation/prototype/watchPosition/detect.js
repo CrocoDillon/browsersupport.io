@@ -1,1 +1,0 @@
-'watchPosition' in Geolocation.prototype

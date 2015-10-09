@@ -1,1 +1,0 @@
-'clipPathUnits' in SVGClipPathElement.prototype

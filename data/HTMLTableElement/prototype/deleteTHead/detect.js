@@ -1,1 +1,0 @@
-'deleteTHead' in HTMLTableElement.prototype

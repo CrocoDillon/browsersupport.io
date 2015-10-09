@@ -1,1 +1,0 @@
-'consolidate' in SVGTransformList.prototype

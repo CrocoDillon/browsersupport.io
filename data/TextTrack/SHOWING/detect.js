@@ -1,1 +1,0 @@
-'SHOWING' in TextTrack

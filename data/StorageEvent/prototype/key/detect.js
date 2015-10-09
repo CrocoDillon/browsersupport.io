@@ -1,1 +1,0 @@
-'key' in StorageEvent.prototype

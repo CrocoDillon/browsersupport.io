@@ -1,1 +1,0 @@
-'webkitPerspective' in CSSStyleDeclaration.prototype

@@ -1,1 +1,0 @@
-'SVG_FECOMPOSITE_OPERATOR_ARITHMETIC' in SVGFECompositeElement.prototype

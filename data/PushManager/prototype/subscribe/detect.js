@@ -1,1 +1,0 @@
-'subscribe' in PushManager.prototype

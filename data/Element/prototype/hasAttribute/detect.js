@@ -1,1 +1,0 @@
-'hasAttribute' in Element.prototype

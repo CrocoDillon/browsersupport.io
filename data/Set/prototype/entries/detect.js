@@ -1,1 +1,0 @@
-'entries' in Set.prototype

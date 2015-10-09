@@ -1,1 +1,0 @@
-'addElement' in DataTransfer.prototype

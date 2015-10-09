@@ -1,1 +1,0 @@
-'origin' in Location.prototype

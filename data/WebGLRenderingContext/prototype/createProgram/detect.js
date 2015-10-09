@@ -1,1 +1,0 @@
-'createProgram' in WebGLRenderingContext.prototype

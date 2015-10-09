@@ -1,1 +1,0 @@
-'clear' in HTMLParagraphElement.prototype

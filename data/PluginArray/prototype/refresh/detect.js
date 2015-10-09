@@ -1,1 +1,0 @@
-'refresh' in PluginArray.prototype

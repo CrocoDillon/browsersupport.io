@@ -1,1 +1,0 @@
-'getDay' in Date.prototype

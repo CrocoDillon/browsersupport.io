@@ -1,1 +1,0 @@
-'onended' in webkitMediaStream.prototype

@@ -1,1 +1,0 @@
-'getStats' in mozRTCPeerConnection.prototype

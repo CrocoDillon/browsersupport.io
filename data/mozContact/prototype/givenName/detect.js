@@ -1,1 +1,0 @@
-'givenName' in mozContact.prototype

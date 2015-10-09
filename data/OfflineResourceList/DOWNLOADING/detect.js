@@ -1,1 +1,0 @@
-'DOWNLOADING' in OfflineResourceList

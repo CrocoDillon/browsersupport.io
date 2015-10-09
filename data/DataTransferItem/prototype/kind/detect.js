@@ -1,1 +1,0 @@
-'kind' in DataTransferItem.prototype

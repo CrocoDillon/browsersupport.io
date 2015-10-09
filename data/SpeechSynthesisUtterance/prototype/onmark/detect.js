@@ -1,1 +1,0 @@
-'onmark' in SpeechSynthesisUtterance.prototype

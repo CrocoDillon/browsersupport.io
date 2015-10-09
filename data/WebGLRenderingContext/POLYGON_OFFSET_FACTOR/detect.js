@@ -1,1 +1,0 @@
-'POLYGON_OFFSET_FACTOR' in WebGLRenderingContext

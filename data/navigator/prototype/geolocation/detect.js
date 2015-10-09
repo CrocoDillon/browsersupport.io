@@ -1,1 +1,0 @@
-'geolocation' in Navigator.prototype

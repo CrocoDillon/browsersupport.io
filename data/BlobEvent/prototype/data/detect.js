@@ -1,1 +1,0 @@
-'data' in BlobEvent.prototype

@@ -1,1 +1,0 @@
-'mozPaintCount' in this

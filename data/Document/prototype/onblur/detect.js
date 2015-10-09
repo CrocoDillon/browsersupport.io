@@ -1,1 +1,0 @@
-'onblur' in Document.prototype

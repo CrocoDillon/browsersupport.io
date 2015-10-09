@@ -1,1 +1,0 @@
-'pauseOnExit' in VTTCue.prototype

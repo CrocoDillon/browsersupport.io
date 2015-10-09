@@ -1,1 +1,0 @@
-'clear' in DataTransferItemList.prototype

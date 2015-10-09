@@ -1,1 +1,0 @@
-'fontSize' in CSSStyleDeclaration.prototype

@@ -1,1 +1,0 @@
-'bindAttribLocation' in WebGLRenderingContext.prototype

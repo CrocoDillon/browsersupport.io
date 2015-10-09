@@ -1,1 +1,0 @@
-'getSettings' in MediaStreamTrack.prototype

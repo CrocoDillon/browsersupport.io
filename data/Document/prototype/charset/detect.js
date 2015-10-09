@@ -1,1 +1,0 @@
-'charset' in Document.prototype

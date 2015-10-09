@@ -1,1 +1,0 @@
-'readAsBlob' in MSStreamReader.prototype

@@ -1,1 +1,0 @@
-'getPathSegAtLength' in SVGPathElement.prototype

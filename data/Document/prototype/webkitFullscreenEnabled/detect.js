@@ -1,1 +1,0 @@
-'webkitFullscreenEnabled' in Document.prototype

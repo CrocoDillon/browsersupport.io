@@ -1,1 +1,0 @@
-'outerText' in HTMLElement.prototype

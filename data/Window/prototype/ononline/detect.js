@@ -1,1 +1,0 @@
-'ononline' in Window.prototype

@@ -1,1 +1,0 @@
-'getCurrentPosition' in Geolocation.prototype

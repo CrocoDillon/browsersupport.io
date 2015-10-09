@@ -1,1 +1,0 @@
-'fgColor' in document

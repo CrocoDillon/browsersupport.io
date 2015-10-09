@@ -1,1 +1,0 @@
-'TEXTURE_BINDING_CUBE_MAP' in WebGLRenderingContext.prototype

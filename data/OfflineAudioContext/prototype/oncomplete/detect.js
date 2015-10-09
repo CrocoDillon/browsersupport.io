@@ -1,1 +1,0 @@
-'oncomplete' in OfflineAudioContext.prototype

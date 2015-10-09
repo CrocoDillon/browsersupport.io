@@ -1,1 +1,0 @@
-'getRangeAt' in Selection.prototype

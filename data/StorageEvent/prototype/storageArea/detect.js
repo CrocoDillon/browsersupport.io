@@ -1,1 +1,0 @@
-'storageArea' in StorageEvent.prototype

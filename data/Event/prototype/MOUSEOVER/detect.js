@@ -1,1 +1,0 @@
-'MOUSEOVER' in Event.prototype

@@ -1,1 +1,0 @@
-'baseURI' in document

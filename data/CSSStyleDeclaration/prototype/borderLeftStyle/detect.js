@@ -1,1 +1,0 @@
-'borderLeftStyle' in CSSStyleDeclaration.prototype

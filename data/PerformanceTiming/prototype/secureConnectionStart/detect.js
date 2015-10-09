@@ -1,1 +1,0 @@
-'secureConnectionStart' in PerformanceTiming.prototype

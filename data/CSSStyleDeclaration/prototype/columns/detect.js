@@ -1,1 +1,0 @@
-'columns' in CSSStyleDeclaration.prototype

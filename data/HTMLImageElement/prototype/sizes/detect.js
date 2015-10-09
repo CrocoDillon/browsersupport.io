@@ -1,1 +1,0 @@
-'sizes' in HTMLImageElement.prototype

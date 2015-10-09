@@ -1,1 +1,0 @@
-'flush' in WebGLRenderingContext.prototype

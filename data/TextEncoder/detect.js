@@ -1,1 +1,0 @@
-'TextEncoder' in this

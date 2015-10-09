@@ -1,1 +1,0 @@
-'has' in MIDIInputMap.prototype

@@ -1,1 +1,0 @@
-'onmsmanipulationstatechanged' in Document.prototype

@@ -1,1 +1,0 @@
-'type' in RTCSessionDescription.prototype

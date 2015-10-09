@@ -1,1 +1,0 @@
-'webstore' in chrome

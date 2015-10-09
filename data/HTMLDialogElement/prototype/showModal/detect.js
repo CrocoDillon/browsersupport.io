@@ -1,1 +1,0 @@
-'showModal' in HTMLDialogElement.prototype

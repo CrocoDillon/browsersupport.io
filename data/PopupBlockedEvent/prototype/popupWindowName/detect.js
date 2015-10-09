@@ -1,1 +1,0 @@
-'popupWindowName' in PopupBlockedEvent.prototype

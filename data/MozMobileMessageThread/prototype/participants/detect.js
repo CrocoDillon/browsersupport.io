@@ -1,1 +1,0 @@
-'participants' in MozMobileMessageThread.prototype

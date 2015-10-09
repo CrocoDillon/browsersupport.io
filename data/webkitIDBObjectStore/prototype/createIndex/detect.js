@@ -1,1 +1,0 @@
-'createIndex' in webkitIDBObjectStore.prototype

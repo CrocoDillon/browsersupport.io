@@ -1,1 +1,0 @@
-'iceConnectionState' in webkitRTCPeerConnection.prototype

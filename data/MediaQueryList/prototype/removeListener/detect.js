@@ -1,1 +1,0 @@
-'removeListener' in MediaQueryList.prototype

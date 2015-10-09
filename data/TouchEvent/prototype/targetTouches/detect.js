@@ -1,1 +1,0 @@
-'targetTouches' in TouchEvent.prototype

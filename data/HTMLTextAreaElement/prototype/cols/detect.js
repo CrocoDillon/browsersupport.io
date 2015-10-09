@@ -1,1 +1,0 @@
-'cols' in HTMLTextAreaElement.prototype

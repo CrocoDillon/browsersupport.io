@@ -1,1 +1,0 @@
-'track' in MediaStreamTrackEvent.prototype

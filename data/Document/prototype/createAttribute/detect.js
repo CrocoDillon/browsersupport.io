@@ -1,1 +1,0 @@
-'createAttribute' in Document.prototype

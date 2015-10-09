@@ -1,1 +1,0 @@
-'whatToShow' in TreeWalker.prototype

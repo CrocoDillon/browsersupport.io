@@ -1,1 +1,0 @@
-'webkitFullscreenElement' in Document.prototype

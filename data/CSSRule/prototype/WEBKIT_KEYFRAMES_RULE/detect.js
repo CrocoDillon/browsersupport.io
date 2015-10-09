@@ -1,1 +1,0 @@
-'WEBKIT_KEYFRAMES_RULE' in CSSRule.prototype

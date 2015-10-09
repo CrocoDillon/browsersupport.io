@@ -1,1 +1,0 @@
-'char' in KeyboardEvent.prototype

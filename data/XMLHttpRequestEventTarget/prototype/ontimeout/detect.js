@@ -1,1 +1,0 @@
-'ontimeout' in XMLHttpRequestEventTarget.prototype

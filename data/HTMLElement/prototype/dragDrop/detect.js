@@ -1,1 +1,0 @@
-'dragDrop' in HTMLElement.prototype

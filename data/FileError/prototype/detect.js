@@ -1,1 +1,0 @@
-'prototype' in FileError

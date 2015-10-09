@@ -1,1 +1,0 @@
-'valueInSpecifiedUnits' in SVGLength.prototype

@@ -1,1 +1,0 @@
-'crossOrigin' in HTMLLinkElement.prototype

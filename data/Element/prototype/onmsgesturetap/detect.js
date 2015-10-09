@@ -1,1 +1,0 @@
-'onmsgesturetap' in Element.prototype

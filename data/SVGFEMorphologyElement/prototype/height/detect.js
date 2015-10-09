@@ -1,1 +1,0 @@
-'height' in SVGFEMorphologyElement.prototype

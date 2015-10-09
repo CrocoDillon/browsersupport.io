@@ -1,1 +1,0 @@
-'createDocumentFragment' in Document.prototype

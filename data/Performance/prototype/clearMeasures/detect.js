@@ -1,1 +1,0 @@
-'clearMeasures' in Performance.prototype

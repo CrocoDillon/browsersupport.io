@@ -1,1 +1,0 @@
-'onstatechange' in webkitAudioContext.prototype

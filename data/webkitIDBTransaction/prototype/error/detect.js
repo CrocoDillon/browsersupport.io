@@ -1,1 +1,0 @@
-'error' in webkitIDBTransaction.prototype

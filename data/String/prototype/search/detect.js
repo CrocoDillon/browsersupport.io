@@ -1,1 +1,0 @@
-'search' in String.prototype

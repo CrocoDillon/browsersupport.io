@@ -1,1 +1,0 @@
-'msOrientation' in Screen.prototype

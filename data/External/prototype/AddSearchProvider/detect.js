@@ -1,1 +1,0 @@
-'AddSearchProvider' in External.prototype

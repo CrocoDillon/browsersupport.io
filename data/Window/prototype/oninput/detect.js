@@ -1,1 +1,0 @@
-'oninput' in Window.prototype

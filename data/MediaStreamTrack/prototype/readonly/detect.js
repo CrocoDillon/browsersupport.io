@@ -1,1 +1,0 @@
-'readonly' in MediaStreamTrack.prototype

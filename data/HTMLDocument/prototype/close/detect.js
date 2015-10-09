@@ -1,1 +1,0 @@
-'close' in HTMLDocument.prototype

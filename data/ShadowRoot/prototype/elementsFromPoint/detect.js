@@ -1,1 +1,0 @@
-'elementsFromPoint' in ShadowRoot.prototype

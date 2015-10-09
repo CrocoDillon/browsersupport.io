@@ -1,1 +1,0 @@
-'message' in InternalError.prototype

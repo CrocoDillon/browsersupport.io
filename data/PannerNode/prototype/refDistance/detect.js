@@ -1,1 +1,0 @@
-'refDistance' in PannerNode.prototype

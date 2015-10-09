@@ -1,1 +1,0 @@
-'msPlayToPreferredSourceUri' in Image.prototype

@@ -1,1 +1,0 @@
-'sheet' in HTMLLinkElement.prototype

@@ -1,1 +1,0 @@
-'onmousewheel' in HTMLElement.prototype

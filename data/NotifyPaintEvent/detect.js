@@ -1,1 +1,0 @@
-'NotifyPaintEvent' in this

@@ -1,1 +1,0 @@
-'suffixes' in MimeType.prototype

@@ -1,1 +1,0 @@
-'vspace' in HTMLIFrameElement.prototype

@@ -1,1 +1,0 @@
-'getStorageUpdates' in Navigator.prototype

@@ -1,1 +1,0 @@
-'onpaste' in document

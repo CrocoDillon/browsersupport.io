@@ -1,1 +1,0 @@
-'deleteIndex' in webkitIDBObjectStore.prototype

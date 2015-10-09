@@ -1,1 +1,0 @@
-'oncached' in OfflineResourceList.prototype

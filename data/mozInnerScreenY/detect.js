@@ -1,1 +1,0 @@
-'mozInnerScreenY' in this

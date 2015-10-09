@@ -1,1 +1,0 @@
-'initProgressEvent' in ProgressEvent.prototype

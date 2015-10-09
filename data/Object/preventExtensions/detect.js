@@ -1,1 +1,0 @@
-'preventExtensions' in Object

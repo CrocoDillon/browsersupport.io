@@ -1,1 +1,0 @@
-'interimResults' in webkitSpeechRecognition.prototype

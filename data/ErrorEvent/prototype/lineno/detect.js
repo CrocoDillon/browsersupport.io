@@ -1,1 +1,0 @@
-'lineno' in ErrorEvent.prototype

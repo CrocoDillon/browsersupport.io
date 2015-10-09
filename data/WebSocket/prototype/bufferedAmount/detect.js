@@ -1,1 +1,0 @@
-'bufferedAmount' in WebSocket.prototype

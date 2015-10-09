@@ -1,1 +1,0 @@
-'border' in HTMLImageElement.prototype

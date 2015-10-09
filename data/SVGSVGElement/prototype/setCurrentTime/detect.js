@@ -1,1 +1,0 @@
-'setCurrentTime' in SVGSVGElement.prototype

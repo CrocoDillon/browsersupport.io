@@ -1,1 +1,0 @@
-'documentElement' in document

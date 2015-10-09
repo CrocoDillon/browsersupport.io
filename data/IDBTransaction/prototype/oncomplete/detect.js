@@ -1,1 +1,0 @@
-'oncomplete' in IDBTransaction.prototype

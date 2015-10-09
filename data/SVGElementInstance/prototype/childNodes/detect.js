@@ -1,1 +1,0 @@
-'childNodes' in SVGElementInstance.prototype

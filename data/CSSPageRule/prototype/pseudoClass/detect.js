@@ -1,1 +1,0 @@
-'pseudoClass' in CSSPageRule.prototype

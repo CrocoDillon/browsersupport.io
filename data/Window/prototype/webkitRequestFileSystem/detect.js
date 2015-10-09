@@ -1,1 +1,0 @@
-'webkitRequestFileSystem' in Window.prototype

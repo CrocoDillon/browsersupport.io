@@ -1,1 +1,0 @@
-'remove' in DocumentType.prototype

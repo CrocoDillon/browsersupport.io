@@ -1,1 +1,0 @@
-'kind' in AudioTrack.prototype

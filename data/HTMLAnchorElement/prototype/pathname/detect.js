@@ -1,1 +1,0 @@
-'pathname' in HTMLAnchorElement.prototype

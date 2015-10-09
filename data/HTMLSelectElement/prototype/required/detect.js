@@ -1,1 +1,0 @@
-'required' in HTMLSelectElement.prototype

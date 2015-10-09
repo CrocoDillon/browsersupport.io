@@ -1,1 +1,0 @@
-'setScale' in SVGTransform.prototype

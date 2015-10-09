@@ -1,1 +1,0 @@
-'length' in FileList.prototype

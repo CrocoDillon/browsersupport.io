@@ -1,1 +1,0 @@
-'speechSynthesis' in this

@@ -1,1 +1,0 @@
-'SVGEllipseElement' in this

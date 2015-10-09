@@ -1,1 +1,0 @@
-'redirectCount' in PerformanceNavigation.prototype

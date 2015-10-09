@@ -1,1 +1,0 @@
-'BROWSER_DEFAULT_WEBGL' in WebGLRenderingContext.prototype

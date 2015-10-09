@@ -1,1 +1,0 @@
-'iceGatheringState' in webkitRTCPeerConnection.prototype

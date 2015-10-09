@@ -1,1 +1,0 @@
-'btoa' in Window.prototype

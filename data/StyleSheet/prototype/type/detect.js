@@ -1,1 +1,0 @@
-'type' in StyleSheet.prototype

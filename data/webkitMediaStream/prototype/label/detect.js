@@ -1,1 +1,0 @@
-'label' in webkitMediaStream.prototype

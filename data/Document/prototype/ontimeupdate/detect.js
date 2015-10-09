@@ -1,1 +1,0 @@
-'ontimeupdate' in Document.prototype

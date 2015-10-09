@@ -1,1 +1,0 @@
-'viewTarget' in SVGViewElement.prototype

@@ -1,1 +1,0 @@
-'webkitJustifyContent' in CSSStyleDeclaration.prototype

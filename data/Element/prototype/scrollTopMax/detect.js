@@ -1,1 +1,0 @@
-'scrollTopMax' in Element.prototype

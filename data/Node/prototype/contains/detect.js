@@ -1,1 +1,0 @@
-'contains' in Node.prototype

@@ -1,1 +1,0 @@
-'scrollLeft' in Element.prototype

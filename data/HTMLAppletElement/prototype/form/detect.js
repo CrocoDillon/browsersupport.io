@@ -1,1 +1,0 @@
-'form' in HTMLAppletElement.prototype

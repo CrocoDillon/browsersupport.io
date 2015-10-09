@@ -1,1 +1,0 @@
-'url' in mozContact.prototype

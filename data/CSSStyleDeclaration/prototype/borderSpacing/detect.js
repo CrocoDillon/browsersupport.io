@@ -1,1 +1,0 @@
-'borderSpacing' in CSSStyleDeclaration.prototype

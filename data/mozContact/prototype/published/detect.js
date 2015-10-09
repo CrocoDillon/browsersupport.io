@@ -1,1 +1,0 @@
-'published' in mozContact.prototype

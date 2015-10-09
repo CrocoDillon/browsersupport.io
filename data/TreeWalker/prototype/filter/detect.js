@@ -1,1 +1,0 @@
-'filter' in TreeWalker.prototype

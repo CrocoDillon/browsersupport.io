@@ -1,1 +1,0 @@
-'mozGetUserMedia' in Navigator.prototype

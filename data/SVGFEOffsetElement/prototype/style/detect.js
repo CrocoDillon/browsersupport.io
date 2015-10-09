@@ -1,1 +1,0 @@
-'style' in SVGFEOffsetElement.prototype

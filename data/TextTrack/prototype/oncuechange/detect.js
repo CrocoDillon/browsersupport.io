@@ -1,1 +1,0 @@
-'oncuechange' in TextTrack.prototype

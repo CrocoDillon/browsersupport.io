@@ -1,1 +1,0 @@
-'SVG_SPREADMETHOD_PAD' in SVGLinearGradientElement

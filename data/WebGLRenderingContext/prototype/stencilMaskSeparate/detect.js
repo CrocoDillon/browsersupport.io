@@ -1,1 +1,0 @@
-'stencilMaskSeparate' in WebGLRenderingContext.prototype

@@ -1,1 +1,0 @@
-'event' in HTMLScriptElement.prototype

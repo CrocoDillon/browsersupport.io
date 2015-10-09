@@ -1,1 +1,0 @@
-'onencrypted' in HTMLMediaElement.prototype

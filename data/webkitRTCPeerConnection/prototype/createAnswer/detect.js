@@ -1,1 +1,0 @@
-'createAnswer' in webkitRTCPeerConnection.prototype

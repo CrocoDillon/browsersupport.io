@@ -1,1 +1,0 @@
-'pageBreakBefore' in CSSStyleDeclaration.prototype

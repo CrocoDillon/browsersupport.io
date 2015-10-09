@@ -1,1 +1,0 @@
-'index' in Gamepad.prototype

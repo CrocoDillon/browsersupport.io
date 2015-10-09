@@ -1,1 +1,0 @@
-'upper' in IDBKeyRange.prototype

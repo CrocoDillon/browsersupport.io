@@ -1,1 +1,0 @@
-'borderCollapse' in CSSStyleDeclaration.prototype

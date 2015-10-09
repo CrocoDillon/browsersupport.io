@@ -1,1 +1,0 @@
-'SVGPathSegArcAbs' in this

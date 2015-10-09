@@ -1,1 +1,0 @@
-'BarProp' in this

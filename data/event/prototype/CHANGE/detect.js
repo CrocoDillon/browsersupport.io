@@ -1,1 +1,0 @@
-'CHANGE' in Event.prototype

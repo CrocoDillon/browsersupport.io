@@ -1,1 +1,0 @@
-'textTracks' in HTMLMediaElement.prototype

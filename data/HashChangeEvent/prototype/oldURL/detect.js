@@ -1,1 +1,0 @@
-'oldURL' in HashChangeEvent.prototype

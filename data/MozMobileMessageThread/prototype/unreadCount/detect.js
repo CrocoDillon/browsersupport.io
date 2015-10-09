@@ -1,1 +1,0 @@
-'unreadCount' in MozMobileMessageThread.prototype

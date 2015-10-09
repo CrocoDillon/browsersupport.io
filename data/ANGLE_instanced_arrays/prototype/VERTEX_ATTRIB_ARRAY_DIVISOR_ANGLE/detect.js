@@ -1,1 +1,0 @@
-'VERTEX_ATTRIB_ARRAY_DIVISOR_ANGLE' in ANGLE_instanced_arrays.prototype

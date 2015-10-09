@@ -1,1 +1,0 @@
-'webkitRequestAnimationFrame' in Window.prototype

@@ -1,1 +1,0 @@
-'viewTargetString' in SVGViewSpec.prototype

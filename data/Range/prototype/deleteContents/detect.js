@@ -1,1 +1,0 @@
-'deleteContents' in Range.prototype

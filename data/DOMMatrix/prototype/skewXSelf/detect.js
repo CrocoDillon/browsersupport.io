@@ -1,1 +1,0 @@
-'skewXSelf' in DOMMatrix.prototype

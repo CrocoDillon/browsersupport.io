@@ -1,1 +1,0 @@
-'onpause' in SVGElement.prototype

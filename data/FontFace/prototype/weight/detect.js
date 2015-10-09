@@ -1,1 +1,0 @@
-'weight' in FontFace.prototype

@@ -1,1 +1,0 @@
-'paddingRight' in CSSStyleDeclaration.prototype

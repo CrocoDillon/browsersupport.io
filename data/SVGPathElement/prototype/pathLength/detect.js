@@ -1,1 +1,0 @@
-'pathLength' in SVGPathElement.prototype

@@ -1,1 +1,0 @@
-'deleteProperty' in Reflect

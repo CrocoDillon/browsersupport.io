@@ -1,1 +1,0 @@
-'isRenderbuffer' in WebGLRenderingContext.prototype

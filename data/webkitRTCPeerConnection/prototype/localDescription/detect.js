@@ -1,1 +1,0 @@
-'localDescription' in webkitRTCPeerConnection.prototype

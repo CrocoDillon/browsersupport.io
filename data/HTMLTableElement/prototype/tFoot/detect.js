@@ -1,1 +1,0 @@
-'tFoot' in HTMLTableElement.prototype

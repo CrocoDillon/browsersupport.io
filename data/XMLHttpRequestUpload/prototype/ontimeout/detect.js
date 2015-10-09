@@ -1,1 +1,0 @@
-'ontimeout' in XMLHttpRequestUpload.prototype

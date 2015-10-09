@@ -1,1 +1,0 @@
-'filterUnits' in SVGFilterElement.prototype

@@ -1,1 +1,0 @@
-'ondeactivate' in Document.prototype

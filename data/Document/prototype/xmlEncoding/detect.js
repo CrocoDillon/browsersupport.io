@@ -1,1 +1,0 @@
-'xmlEncoding' in Document.prototype

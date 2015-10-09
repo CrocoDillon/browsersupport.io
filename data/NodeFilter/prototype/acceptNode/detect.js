@@ -1,1 +1,0 @@
-'acceptNode' in NodeFilter.prototype

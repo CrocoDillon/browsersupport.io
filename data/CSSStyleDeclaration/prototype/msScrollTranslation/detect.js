@@ -1,1 +1,0 @@
-'msScrollTranslation' in CSSStyleDeclaration.prototype

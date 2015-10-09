@@ -1,1 +1,0 @@
-'OPENED' in XMLHttpRequest

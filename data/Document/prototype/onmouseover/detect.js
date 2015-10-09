@@ -1,1 +1,0 @@
-'onmouseover' in Document.prototype

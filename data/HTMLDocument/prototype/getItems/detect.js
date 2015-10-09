@@ -1,1 +1,0 @@
-'getItems' in HTMLDocument.prototype

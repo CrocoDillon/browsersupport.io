@@ -1,1 +1,0 @@
-'SVGPathSegLinetoHorizontalAbs' in this

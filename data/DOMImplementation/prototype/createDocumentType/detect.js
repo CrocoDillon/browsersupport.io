@@ -1,1 +1,0 @@
-'createDocumentType' in DOMImplementation.prototype

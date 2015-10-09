@@ -1,1 +1,0 @@
-'insertRule' in CSSStyleSheet.prototype

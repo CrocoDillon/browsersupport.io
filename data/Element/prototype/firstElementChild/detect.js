@@ -1,1 +1,0 @@
-'firstElementChild' in Element.prototype

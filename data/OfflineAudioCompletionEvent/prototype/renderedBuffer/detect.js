@@ -1,1 +1,0 @@
-'renderedBuffer' in OfflineAudioCompletionEvent.prototype

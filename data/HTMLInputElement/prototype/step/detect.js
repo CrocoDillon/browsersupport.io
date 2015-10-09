@@ -1,1 +1,0 @@
-'step' in HTMLInputElement.prototype

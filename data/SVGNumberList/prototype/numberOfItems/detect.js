@@ -1,1 +1,0 @@
-'numberOfItems' in SVGNumberList.prototype

@@ -1,1 +1,0 @@
-'charCodeAt' in String.prototype

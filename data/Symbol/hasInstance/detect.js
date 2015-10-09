@@ -1,1 +1,0 @@
-'hasInstance' in Symbol

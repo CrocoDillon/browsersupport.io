@@ -1,1 +1,0 @@
-'emma' in webkitSpeechRecognitionEvent.prototype

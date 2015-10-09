@@ -1,1 +1,0 @@
-'cookie' in Document.prototype

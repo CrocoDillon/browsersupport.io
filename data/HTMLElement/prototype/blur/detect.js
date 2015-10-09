@@ -1,1 +1,0 @@
-'blur' in HTMLElement.prototype

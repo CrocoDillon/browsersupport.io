@@ -1,1 +1,0 @@
-'reboot' in MozPowerManager.prototype

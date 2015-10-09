@@ -1,1 +1,0 @@
-'toExponential' in Number.prototype

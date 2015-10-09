@@ -1,1 +1,0 @@
-'knee' in DynamicsCompressorNode.prototype

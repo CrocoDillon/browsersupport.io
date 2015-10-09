@@ -1,1 +1,0 @@
-'getDestinationInsertionPoints' in Element.prototype

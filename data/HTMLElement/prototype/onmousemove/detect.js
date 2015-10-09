@@ -1,1 +1,0 @@
-'onmousemove' in HTMLElement.prototype

@@ -1,1 +1,0 @@
-'mozClearDataAt' in DataTransfer.prototype

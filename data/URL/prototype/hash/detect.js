@@ -1,1 +1,0 @@
-'hash' in URL.prototype

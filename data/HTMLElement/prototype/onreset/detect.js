@@ -1,1 +1,0 @@
-'onreset' in HTMLElement.prototype

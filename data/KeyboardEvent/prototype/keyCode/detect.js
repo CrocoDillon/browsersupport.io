@@ -1,1 +1,0 @@
-'keyCode' in KeyboardEvent.prototype

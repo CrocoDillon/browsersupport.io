@@ -1,1 +1,0 @@
-'ry' in SVGEllipseElement.prototype

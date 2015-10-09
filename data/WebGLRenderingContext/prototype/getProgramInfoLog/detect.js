@@ -1,1 +1,0 @@
-'getProgramInfoLog' in WebGLRenderingContext.prototype

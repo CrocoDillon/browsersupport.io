@@ -1,1 +1,0 @@
-'silent' in Notification.prototype

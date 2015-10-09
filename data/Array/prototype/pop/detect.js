@@ -1,1 +1,0 @@
-'pop' in Array.prototype

@@ -1,1 +1,0 @@
-'delta' in SimpleGestureEvent.prototype

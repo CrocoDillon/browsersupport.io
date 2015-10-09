@@ -1,1 +1,0 @@
-'x' in SVGFESpecularLightingElement.prototype

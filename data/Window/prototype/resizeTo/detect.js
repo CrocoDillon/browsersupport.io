@@ -1,1 +1,0 @@
-'resizeTo' in Window.prototype

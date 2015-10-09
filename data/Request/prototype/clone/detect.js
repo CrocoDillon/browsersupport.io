@@ -1,1 +1,0 @@
-'clone' in Request.prototype

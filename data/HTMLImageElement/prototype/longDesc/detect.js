@@ -1,1 +1,0 @@
-'longDesc' in HTMLImageElement.prototype

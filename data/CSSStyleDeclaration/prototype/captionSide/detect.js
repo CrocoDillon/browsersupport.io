@@ -1,1 +1,0 @@
-'captionSide' in CSSStyleDeclaration.prototype

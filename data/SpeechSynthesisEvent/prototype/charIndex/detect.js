@@ -1,1 +1,0 @@
-'charIndex' in SpeechSynthesisEvent.prototype

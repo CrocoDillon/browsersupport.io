@@ -1,1 +1,0 @@
-'onerror' in XMLHttpRequestUpload.prototype

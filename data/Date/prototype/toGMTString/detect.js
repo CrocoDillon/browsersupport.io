@@ -1,1 +1,0 @@
-'toGMTString' in Date.prototype

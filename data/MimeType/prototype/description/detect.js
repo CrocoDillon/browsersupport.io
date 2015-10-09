@@ -1,1 +1,0 @@
-'description' in MimeType.prototype

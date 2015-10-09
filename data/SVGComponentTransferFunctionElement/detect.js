@@ -1,1 +1,0 @@
-'SVGComponentTransferFunctionElement' in this

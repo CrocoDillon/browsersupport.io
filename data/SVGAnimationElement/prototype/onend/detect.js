@@ -1,1 +1,0 @@
-'onend' in SVGAnimationElement.prototype

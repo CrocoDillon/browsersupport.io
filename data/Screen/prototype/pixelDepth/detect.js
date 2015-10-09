@@ -1,1 +1,0 @@
-'pixelDepth' in Screen.prototype

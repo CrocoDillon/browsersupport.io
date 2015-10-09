@@ -1,1 +1,0 @@
-'systemLanguage' in SVGPolylineElement.prototype

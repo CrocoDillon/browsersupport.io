@@ -1,1 +1,0 @@
-'animatedInstanceRoot' in SVGUseElement.prototype

@@ -1,1 +1,0 @@
-'TEXTURE_MAX_ANISOTROPY_EXT' in EXT_texture_filter_anisotropic

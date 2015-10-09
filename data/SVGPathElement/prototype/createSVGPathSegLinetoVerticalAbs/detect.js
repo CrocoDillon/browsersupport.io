@@ -1,1 +1,0 @@
-'createSVGPathSegLinetoVerticalAbs' in SVGPathElement.prototype

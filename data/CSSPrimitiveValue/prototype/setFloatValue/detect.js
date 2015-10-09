@@ -1,1 +1,0 @@
-'setFloatValue' in CSSPrimitiveValue.prototype

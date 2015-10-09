@@ -1,1 +1,0 @@
-'sampleCoverage' in WebGLRenderingContext.prototype

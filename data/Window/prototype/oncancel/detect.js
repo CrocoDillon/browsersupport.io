@@ -1,1 +1,0 @@
-'oncancel' in Window.prototype

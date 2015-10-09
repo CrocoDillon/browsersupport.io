@@ -1,1 +1,0 @@
-'UPDATEREADY' in OfflineResourceList.prototype

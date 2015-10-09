@@ -1,1 +1,0 @@
-'createFramebuffer' in WebGLRenderingContext.prototype

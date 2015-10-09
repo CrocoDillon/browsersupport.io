@@ -1,1 +1,0 @@
-'ORDERED_NODE_SNAPSHOT_TYPE' in XPathResult

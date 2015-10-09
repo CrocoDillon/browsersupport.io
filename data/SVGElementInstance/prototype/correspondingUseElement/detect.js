@@ -1,1 +1,0 @@
-'correspondingUseElement' in SVGElementInstance.prototype

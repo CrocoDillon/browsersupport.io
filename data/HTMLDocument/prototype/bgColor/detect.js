@@ -1,1 +1,0 @@
-'bgColor' in HTMLDocument.prototype

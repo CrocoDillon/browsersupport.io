@@ -1,1 +1,0 @@
-'onmscontentzoom' in HTMLElement.prototype

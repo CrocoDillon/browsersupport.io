@@ -1,1 +1,0 @@
-'lastChild' in document

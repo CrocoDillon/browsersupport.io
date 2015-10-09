@@ -1,1 +1,0 @@
-'vAlign' in HTMLTableColElement.prototype

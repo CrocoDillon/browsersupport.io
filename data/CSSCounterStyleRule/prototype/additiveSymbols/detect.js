@@ -1,1 +1,0 @@
-'additiveSymbols' in CSSCounterStyleRule.prototype

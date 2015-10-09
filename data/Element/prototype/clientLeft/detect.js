@@ -1,1 +1,0 @@
-'clientLeft' in Element.prototype

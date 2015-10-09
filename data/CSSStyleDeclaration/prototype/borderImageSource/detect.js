@@ -1,1 +1,0 @@
-'borderImageSource' in CSSStyleDeclaration.prototype

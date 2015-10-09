@@ -1,1 +1,0 @@
-'renderbufferStorage' in WebGLRenderingContext.prototype

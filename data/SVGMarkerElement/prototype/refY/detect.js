@@ -1,1 +1,0 @@
-'refY' in SVGMarkerElement.prototype

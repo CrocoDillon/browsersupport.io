@@ -1,1 +1,0 @@
-'msContentZooming' in CSSStyleDeclaration.prototype

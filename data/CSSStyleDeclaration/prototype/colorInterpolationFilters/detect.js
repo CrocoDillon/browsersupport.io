@@ -1,1 +1,0 @@
-'colorInterpolationFilters' in CSSStyleDeclaration.prototype

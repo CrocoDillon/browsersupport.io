@@ -1,1 +1,0 @@
-'getAsString' in DataTransferItem.prototype

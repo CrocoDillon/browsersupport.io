@@ -1,1 +1,0 @@
-'ALWAYS' in WebGLRenderingContext

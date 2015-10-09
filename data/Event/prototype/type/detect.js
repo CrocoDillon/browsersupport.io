@@ -1,1 +1,0 @@
-'type' in Event.prototype

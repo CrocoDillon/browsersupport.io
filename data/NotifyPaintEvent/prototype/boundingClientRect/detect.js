@@ -1,1 +1,0 @@
-'boundingClientRect' in NotifyPaintEvent.prototype

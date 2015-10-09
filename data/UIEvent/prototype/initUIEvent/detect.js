@@ -1,1 +1,0 @@
-'initUIEvent' in UIEvent.prototype

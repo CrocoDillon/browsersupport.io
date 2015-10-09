@@ -1,1 +1,0 @@
-'onchecking' in ApplicationCache.prototype

@@ -1,1 +1,0 @@
-'ondrag' in Window.prototype

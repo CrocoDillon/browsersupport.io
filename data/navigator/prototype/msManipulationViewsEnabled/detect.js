@@ -1,1 +1,0 @@
-'msManipulationViewsEnabled' in Navigator.prototype

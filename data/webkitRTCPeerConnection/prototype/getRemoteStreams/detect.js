@@ -1,1 +1,0 @@
-'getRemoteStreams' in webkitRTCPeerConnection.prototype

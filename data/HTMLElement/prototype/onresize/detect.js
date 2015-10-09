@@ -1,1 +1,0 @@
-'onresize' in HTMLElement.prototype

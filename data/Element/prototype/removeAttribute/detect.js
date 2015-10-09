@@ -1,1 +1,0 @@
-'removeAttribute' in Element.prototype

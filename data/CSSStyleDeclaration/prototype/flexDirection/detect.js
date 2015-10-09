@@ -1,1 +1,0 @@
-'flexDirection' in CSSStyleDeclaration.prototype

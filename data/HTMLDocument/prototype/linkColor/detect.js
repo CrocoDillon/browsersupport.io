@@ -1,1 +1,0 @@
-'linkColor' in HTMLDocument.prototype

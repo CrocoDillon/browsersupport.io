@@ -1,1 +1,0 @@
-'ondurationchange' in SVGElement.prototype

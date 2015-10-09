@@ -1,1 +1,0 @@
-'toJSON' in PushSubscription.prototype

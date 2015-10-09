@@ -1,1 +1,0 @@
-'SVGAnimatedBoolean' in this

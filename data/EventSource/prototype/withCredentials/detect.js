@@ -1,1 +1,0 @@
-'withCredentials' in EventSource.prototype

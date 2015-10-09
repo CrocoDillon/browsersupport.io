@@ -1,1 +1,0 @@
-'parentNode' in TreeWalker.prototype

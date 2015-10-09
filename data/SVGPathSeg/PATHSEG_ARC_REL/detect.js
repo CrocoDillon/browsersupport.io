@@ -1,1 +1,0 @@
-'PATHSEG_ARC_REL' in SVGPathSeg

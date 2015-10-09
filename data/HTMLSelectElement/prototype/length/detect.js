@@ -1,1 +1,0 @@
-'length' in HTMLSelectElement.prototype

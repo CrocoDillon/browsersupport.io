@@ -1,1 +1,0 @@
-'defaultPlaybackRate' in HTMLMediaElement.prototype

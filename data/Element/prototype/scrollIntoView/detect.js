@@ -1,1 +1,0 @@
-'scrollIntoView' in Element.prototype

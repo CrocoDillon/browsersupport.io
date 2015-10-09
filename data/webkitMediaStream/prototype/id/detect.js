@@ -1,1 +1,0 @@
-'id' in webkitMediaStream.prototype

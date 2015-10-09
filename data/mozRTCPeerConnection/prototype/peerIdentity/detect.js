@@ -1,1 +1,0 @@
-'peerIdentity' in mozRTCPeerConnection.prototype

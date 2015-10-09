@@ -1,1 +1,0 @@
-'axis' in HTMLTableCellElement.prototype

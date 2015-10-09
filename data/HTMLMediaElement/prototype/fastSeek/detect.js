@@ -1,1 +1,0 @@
-'fastSeek' in HTMLMediaElement.prototype

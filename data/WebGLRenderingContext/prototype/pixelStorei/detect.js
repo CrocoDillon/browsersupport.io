@@ -1,1 +1,0 @@
-'pixelStorei' in WebGLRenderingContext.prototype

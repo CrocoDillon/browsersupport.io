@@ -1,1 +1,0 @@
-'initClipboardEvent' in ClipboardEvent.prototype

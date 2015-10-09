@@ -1,1 +1,0 @@
-'pointerId' in PointerEvent.prototype

@@ -1,1 +1,0 @@
-'mozGetAllKeys' in IDBIndex.prototype

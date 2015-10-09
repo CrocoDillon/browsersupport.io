@@ -1,1 +1,0 @@
-'oncanplaythrough' in Document.prototype

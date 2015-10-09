@@ -1,1 +1,0 @@
-'unscopables' in Symbol

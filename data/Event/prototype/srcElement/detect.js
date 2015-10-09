@@ -1,1 +1,0 @@
-'srcElement' in Event.prototype

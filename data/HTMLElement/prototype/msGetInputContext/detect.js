@@ -1,1 +1,0 @@
-'msGetInputContext' in HTMLElement.prototype

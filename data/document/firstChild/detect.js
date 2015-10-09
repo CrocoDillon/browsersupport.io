@@ -1,1 +1,0 @@
-'firstChild' in document

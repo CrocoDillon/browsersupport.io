@@ -1,1 +1,0 @@
-'onloadedmetadata' in SVGElement.prototype

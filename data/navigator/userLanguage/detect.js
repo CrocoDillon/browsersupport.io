@@ -1,1 +1,0 @@
-'userLanguage' in navigator

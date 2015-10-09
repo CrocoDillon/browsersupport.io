@@ -1,1 +1,0 @@
-'relList' in HTMLAreaElement.prototype

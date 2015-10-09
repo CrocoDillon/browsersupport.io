@@ -1,1 +1,0 @@
-'droppedVideoFrames' in VideoPlaybackQuality.prototype

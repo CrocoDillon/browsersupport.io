@@ -1,1 +1,0 @@
-'drawingBufferWidth' in WebGLRenderingContext.prototype

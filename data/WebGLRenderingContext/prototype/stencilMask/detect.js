@@ -1,1 +1,0 @@
-'stencilMask' in WebGLRenderingContext.prototype

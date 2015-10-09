@@ -1,1 +1,0 @@
-'onstalled' in SVGElement.prototype

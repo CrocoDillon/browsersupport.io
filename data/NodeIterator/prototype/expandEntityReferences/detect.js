@@ -1,1 +1,0 @@
-'expandEntityReferences' in NodeIterator.prototype

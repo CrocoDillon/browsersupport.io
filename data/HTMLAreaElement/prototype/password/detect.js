@@ -1,1 +1,0 @@
-'password' in HTMLAreaElement.prototype

@@ -1,1 +1,0 @@
-'toISOString' in Date.prototype

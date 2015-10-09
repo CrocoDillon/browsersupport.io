@@ -1,1 +1,0 @@
-'getMatchedCSSRules' in Window.prototype

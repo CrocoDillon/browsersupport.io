@@ -1,1 +1,0 @@
-'externalResourcesRequired' in SVGImageElement.prototype

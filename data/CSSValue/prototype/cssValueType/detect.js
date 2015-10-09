@@ -1,1 +1,0 @@
-'cssValueType' in CSSValue.prototype

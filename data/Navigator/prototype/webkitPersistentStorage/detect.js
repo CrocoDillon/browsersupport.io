@@ -1,1 +1,0 @@
-'webkitPersistentStorage' in Navigator.prototype

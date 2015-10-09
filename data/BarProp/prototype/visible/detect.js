@@ -1,1 +1,0 @@
-'visible' in BarProp.prototype

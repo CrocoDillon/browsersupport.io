@@ -1,1 +1,0 @@
-'findRule' in CSSKeyframesRule.prototype

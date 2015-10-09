@@ -1,1 +1,0 @@
-'rotateAxisAngle' in DOMMatrixReadOnly.prototype

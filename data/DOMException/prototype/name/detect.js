@@ -1,1 +1,0 @@
-'name' in DOMException.prototype

@@ -1,1 +1,0 @@
-'onresourcetimingbufferfull' in Performance.prototype

@@ -1,1 +1,0 @@
-'initDeviceOrientationEvent' in DeviceOrientationEvent.prototype

@@ -1,1 +1,0 @@
-'textOverflow' in CSSStyleDeclaration.prototype

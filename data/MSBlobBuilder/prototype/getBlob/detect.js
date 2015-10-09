@@ -1,1 +1,0 @@
-'getBlob' in MSBlobBuilder.prototype

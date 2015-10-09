@@ -1,1 +1,0 @@
-'createTreeWalker' in Document.prototype

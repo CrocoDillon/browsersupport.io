@@ -1,1 +1,0 @@
-'flipY' in SVGMatrix.prototype

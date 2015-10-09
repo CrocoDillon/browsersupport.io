@@ -1,1 +1,0 @@
-'textLength' in HTMLTextAreaElement.prototype

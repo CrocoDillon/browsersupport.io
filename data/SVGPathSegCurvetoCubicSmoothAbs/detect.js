@@ -1,1 +1,0 @@
-'SVGPathSegCurvetoCubicSmoothAbs' in this

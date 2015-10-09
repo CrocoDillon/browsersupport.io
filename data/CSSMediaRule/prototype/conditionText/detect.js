@@ -1,1 +1,0 @@
-'conditionText' in CSSMediaRule.prototype

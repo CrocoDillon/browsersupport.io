@@ -1,1 +1,0 @@
-'setPrototypeOf' in Reflect

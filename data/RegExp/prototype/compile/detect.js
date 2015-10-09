@@ -1,1 +1,0 @@
-'compile' in RegExp.prototype

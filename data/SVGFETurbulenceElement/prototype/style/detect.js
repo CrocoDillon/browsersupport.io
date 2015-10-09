@@ -1,1 +1,0 @@
-'style' in SVGFETurbulenceElement.prototype

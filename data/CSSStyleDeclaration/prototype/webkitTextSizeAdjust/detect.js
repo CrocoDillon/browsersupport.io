@@ -1,1 +1,0 @@
-'webkitTextSizeAdjust' in CSSStyleDeclaration.prototype

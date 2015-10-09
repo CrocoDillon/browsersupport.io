@@ -1,1 +1,0 @@
-'onsoundend' in webkitSpeechRecognition.prototype

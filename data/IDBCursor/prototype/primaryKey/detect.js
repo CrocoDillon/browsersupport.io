@@ -1,1 +1,0 @@
-'primaryKey' in IDBCursor.prototype

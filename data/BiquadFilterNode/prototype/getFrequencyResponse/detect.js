@@ -1,1 +1,0 @@
-'getFrequencyResponse' in BiquadFilterNode.prototype

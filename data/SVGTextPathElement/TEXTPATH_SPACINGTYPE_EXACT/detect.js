@@ -1,1 +1,0 @@
-'TEXTPATH_SPACINGTYPE_EXACT' in SVGTextPathElement

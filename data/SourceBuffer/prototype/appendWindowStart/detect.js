@@ -1,1 +1,0 @@
-'appendWindowStart' in SourceBuffer.prototype

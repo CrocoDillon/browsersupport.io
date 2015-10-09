@@ -1,1 +1,0 @@
-'width' in SVGFEConvolveMatrixElement.prototype

@@ -1,1 +1,0 @@
-'commandName' in CommandEvent.prototype

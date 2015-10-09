@@ -1,1 +1,0 @@
-'getCapabilities' in MediaStreamTrack.prototype

@@ -1,1 +1,0 @@
-'DOMError' in this

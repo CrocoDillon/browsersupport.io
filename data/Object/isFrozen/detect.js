@@ -1,1 +1,0 @@
-'isFrozen' in Object

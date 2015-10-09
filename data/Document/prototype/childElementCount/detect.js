@@ -1,1 +1,0 @@
-'childElementCount' in Document.prototype

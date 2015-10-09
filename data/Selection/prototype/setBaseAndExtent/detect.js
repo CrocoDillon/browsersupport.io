@@ -1,1 +1,0 @@
-'setBaseAndExtent' in Selection.prototype

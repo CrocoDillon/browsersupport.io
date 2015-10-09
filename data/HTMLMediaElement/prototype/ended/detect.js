@@ -1,1 +1,0 @@
-'ended' in HTMLMediaElement.prototype

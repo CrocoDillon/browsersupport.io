@@ -1,1 +1,0 @@
-'setMinutes' in Date.prototype

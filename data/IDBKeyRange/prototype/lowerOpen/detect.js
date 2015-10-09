@@ -1,1 +1,0 @@
-'lowerOpen' in IDBKeyRange.prototype

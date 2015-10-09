@@ -1,1 +1,0 @@
-'alignSelf' in CSSStyleDeclaration.prototype

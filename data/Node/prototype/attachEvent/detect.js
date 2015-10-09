@@ -1,1 +1,0 @@
-'attachEvent' in Node.prototype

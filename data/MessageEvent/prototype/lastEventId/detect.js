@@ -1,1 +1,0 @@
-'lastEventId' in MessageEvent.prototype

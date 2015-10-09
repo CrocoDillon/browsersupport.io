@@ -1,1 +1,0 @@
-'onobsolete' in OfflineResourceList.prototype

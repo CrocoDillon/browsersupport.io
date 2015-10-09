@@ -1,1 +1,0 @@
-'getSimpleDuration' in SVGAnimationElement.prototype

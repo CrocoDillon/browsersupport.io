@@ -1,1 +1,0 @@
-'depthRange' in WebGLRenderingContext.prototype

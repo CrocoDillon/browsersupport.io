@@ -1,1 +1,0 @@
-'onmssitemodejumplistitemremoved' in Document.prototype

@@ -1,1 +1,0 @@
-'clipPath' in CSSStyleDeclaration.prototype

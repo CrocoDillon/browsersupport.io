@@ -1,1 +1,0 @@
-'initMSManipulationEvent' in MSManipulationEvent.prototype

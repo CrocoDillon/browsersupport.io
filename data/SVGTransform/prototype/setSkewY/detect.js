@@ -1,1 +1,0 @@
-'setSkewY' in SVGTransform.prototype

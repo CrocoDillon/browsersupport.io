@@ -1,1 +1,0 @@
-'resultType' in XPathResult.prototype

@@ -1,1 +1,0 @@
-'creationTime' in VideoPlaybackQuality.prototype

@@ -1,1 +1,0 @@
-'reverse' in Array.prototype

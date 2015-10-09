@@ -1,1 +1,0 @@
-'globalCompositeOperation' in CanvasRenderingContext2D.prototype

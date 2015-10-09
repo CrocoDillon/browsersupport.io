@@ -1,1 +1,0 @@
-'color' in HTMLFontElement.prototype

@@ -1,1 +1,0 @@
-'onpointerover' in Document.prototype

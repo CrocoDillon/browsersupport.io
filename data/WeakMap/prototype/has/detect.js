@@ -1,1 +1,0 @@
-'has' in WeakMap.prototype

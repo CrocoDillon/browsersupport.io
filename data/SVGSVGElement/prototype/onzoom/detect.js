@@ -1,1 +1,0 @@
-'onzoom' in SVGSVGElement.prototype

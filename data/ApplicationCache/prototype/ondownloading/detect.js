@@ -1,1 +1,0 @@
-'ondownloading' in ApplicationCache.prototype

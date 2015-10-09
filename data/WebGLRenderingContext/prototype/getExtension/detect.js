@@ -1,1 +1,0 @@
-'getExtension' in WebGLRenderingContext.prototype

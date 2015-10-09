@@ -1,1 +1,0 @@
-'xmlbase' in SVGElement.prototype

@@ -1,1 +1,0 @@
-'summary' in HTMLTableElement.prototype

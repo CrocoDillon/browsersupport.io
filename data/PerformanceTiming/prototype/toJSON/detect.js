@@ -1,1 +1,0 @@
-'toJSON' in PerformanceTiming.prototype

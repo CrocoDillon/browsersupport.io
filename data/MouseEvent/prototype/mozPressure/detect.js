@@ -1,1 +1,0 @@
-'mozPressure' in MouseEvent.prototype

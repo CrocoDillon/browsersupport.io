@@ -1,1 +1,0 @@
-'conditionText' in CSSMozDocumentRule.prototype

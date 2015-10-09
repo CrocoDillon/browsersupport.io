@@ -1,1 +1,0 @@
-'onspeechstart' in webkitSpeechRecognition.prototype

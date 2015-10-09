@@ -1,1 +1,0 @@
-'msHyphens' in CSSStyleDeclaration.prototype

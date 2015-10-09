@@ -1,1 +1,0 @@
-'onvolumechange' in Document.prototype

@@ -1,1 +1,0 @@
-'ondragleave' in Window.prototype

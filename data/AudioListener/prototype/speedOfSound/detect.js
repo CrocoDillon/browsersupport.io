@@ -1,1 +1,0 @@
-'speedOfSound' in AudioListener.prototype

@@ -1,1 +1,0 @@
-'attributeNamespace' in MutationRecord.prototype

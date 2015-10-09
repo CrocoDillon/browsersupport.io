@@ -1,1 +1,0 @@
-'getStartTime' in SVGAnimationElement.prototype

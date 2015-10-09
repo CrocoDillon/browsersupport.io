@@ -1,1 +1,0 @@
-'createChannelSplitter' in webkitAudioContext.prototype

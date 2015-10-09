@@ -1,1 +1,0 @@
-'breakBefore' in CSSStyleDeclaration.prototype

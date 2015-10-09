@@ -1,1 +1,0 @@
-'ELEMENT_ARRAY_BUFFER_BINDING' in WebGLRenderingContext.prototype

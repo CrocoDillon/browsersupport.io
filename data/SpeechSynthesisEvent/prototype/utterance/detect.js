@@ -1,1 +1,0 @@
-'utterance' in SpeechSynthesisEvent.prototype

@@ -1,1 +1,0 @@
-'flexGrow' in CSSStyleDeclaration.prototype

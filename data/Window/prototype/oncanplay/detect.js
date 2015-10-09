@@ -1,1 +1,0 @@
-'oncanplay' in Window.prototype

@@ -1,1 +1,0 @@
-'MozSettingsEvent' in this

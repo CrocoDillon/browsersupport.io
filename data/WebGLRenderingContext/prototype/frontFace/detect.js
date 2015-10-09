@@ -1,1 +1,0 @@
-'frontFace' in WebGLRenderingContext.prototype

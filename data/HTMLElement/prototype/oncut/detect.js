@@ -1,1 +1,0 @@
-'oncut' in HTMLElement.prototype

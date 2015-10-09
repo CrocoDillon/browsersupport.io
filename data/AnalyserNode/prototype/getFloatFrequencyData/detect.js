@@ -1,1 +1,0 @@
-'getFloatFrequencyData' in AnalyserNode.prototype

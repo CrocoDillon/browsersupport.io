@@ -1,1 +1,0 @@
-'buffer' in DataView.prototype

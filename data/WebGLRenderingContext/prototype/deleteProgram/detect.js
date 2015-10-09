@@ -1,1 +1,0 @@
-'deleteProgram' in WebGLRenderingContext.prototype

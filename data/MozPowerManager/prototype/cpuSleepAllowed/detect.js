@@ -1,1 +1,0 @@
-'cpuSleepAllowed' in MozPowerManager.prototype

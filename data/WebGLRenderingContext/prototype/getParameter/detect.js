@@ -1,1 +1,0 @@
-'getParameter' in WebGLRenderingContext.prototype

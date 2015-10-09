@@ -1,1 +1,0 @@
-'playbackRate' in HTMLMediaElement.prototype

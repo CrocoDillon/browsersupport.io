@@ -1,1 +1,0 @@
-'appendChild' in Node.prototype

@@ -1,1 +1,0 @@
-'onsuccess' in webkitIDBRequest.prototype

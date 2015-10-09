@@ -1,1 +1,0 @@
-'setRequestHeader' in XMLHttpRequest.prototype

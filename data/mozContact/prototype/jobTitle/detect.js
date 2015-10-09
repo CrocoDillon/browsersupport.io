@@ -1,1 +1,0 @@
-'jobTitle' in mozContact.prototype

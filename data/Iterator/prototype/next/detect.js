@@ -1,1 +1,0 @@
-'next' in Iterator.prototype

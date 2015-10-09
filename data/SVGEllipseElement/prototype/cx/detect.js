@@ -1,1 +1,0 @@
-'cx' in SVGEllipseElement.prototype

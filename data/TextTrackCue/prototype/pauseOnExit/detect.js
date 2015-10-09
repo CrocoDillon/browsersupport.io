@@ -1,1 +1,0 @@
-'pauseOnExit' in TextTrackCue.prototype

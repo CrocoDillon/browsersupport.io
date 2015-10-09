@@ -1,1 +1,0 @@
-'readPixels' in WebGLRenderingContext.prototype

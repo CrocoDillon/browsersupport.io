@@ -1,1 +1,0 @@
-'GEQUAL' in WebGLRenderingContext.prototype

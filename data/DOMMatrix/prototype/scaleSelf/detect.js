@@ -1,1 +1,0 @@
-'scaleSelf' in DOMMatrix.prototype

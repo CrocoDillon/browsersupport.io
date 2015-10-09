@@ -1,1 +1,0 @@
-'getComputedTextLength' in SVGTextContentElement.prototype

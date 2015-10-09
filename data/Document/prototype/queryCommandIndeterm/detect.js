@@ -1,1 +1,0 @@
-'queryCommandIndeterm' in Document.prototype

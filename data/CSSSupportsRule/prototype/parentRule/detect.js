@@ -1,1 +1,0 @@
-'parentRule' in CSSSupportsRule.prototype

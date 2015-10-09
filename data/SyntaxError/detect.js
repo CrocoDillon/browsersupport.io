@@ -1,1 +1,0 @@
-'SyntaxError' in this
