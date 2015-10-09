@@ -1,1 +1,0 @@
-'hostname' in webkitURL.prototype

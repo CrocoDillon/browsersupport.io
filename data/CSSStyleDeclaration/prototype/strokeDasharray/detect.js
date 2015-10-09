@@ -1,1 +1,0 @@
-'strokeDasharray' in CSSStyleDeclaration.prototype

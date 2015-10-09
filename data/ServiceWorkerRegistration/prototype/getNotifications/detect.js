@@ -1,1 +1,0 @@
-'getNotifications' in ServiceWorkerRegistration.prototype

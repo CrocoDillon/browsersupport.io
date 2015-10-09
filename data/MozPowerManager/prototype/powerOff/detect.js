@@ -1,1 +1,0 @@
-'powerOff' in MozPowerManager.prototype

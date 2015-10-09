@@ -1,1 +1,0 @@
-'onselect' in HTMLElement.prototype

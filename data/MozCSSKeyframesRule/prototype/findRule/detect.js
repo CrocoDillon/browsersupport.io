@@ -1,1 +1,0 @@
-'findRule' in MozCSSKeyframesRule.prototype

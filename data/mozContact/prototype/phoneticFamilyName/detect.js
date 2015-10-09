@@ -1,1 +1,0 @@
-'phoneticFamilyName' in mozContact.prototype

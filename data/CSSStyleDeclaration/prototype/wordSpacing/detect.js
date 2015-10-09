@@ -1,1 +1,0 @@
-'wordSpacing' in CSSStyleDeclaration.prototype

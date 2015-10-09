@@ -1,1 +1,0 @@
-'invalidIteratorState' in XPathResult.prototype

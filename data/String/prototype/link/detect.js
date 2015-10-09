@@ -1,1 +1,0 @@
-'link' in String.prototype

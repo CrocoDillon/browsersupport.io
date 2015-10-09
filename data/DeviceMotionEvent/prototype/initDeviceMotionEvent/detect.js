@@ -1,1 +1,0 @@
-'initDeviceMotionEvent' in DeviceMotionEvent.prototype

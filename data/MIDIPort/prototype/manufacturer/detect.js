@@ -1,1 +1,0 @@
-'manufacturer' in MIDIPort.prototype

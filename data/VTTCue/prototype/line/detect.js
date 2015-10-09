@@ -1,1 +1,0 @@
-'line' in VTTCue.prototype

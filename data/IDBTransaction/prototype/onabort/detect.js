@@ -1,1 +1,0 @@
-'onabort' in IDBTransaction.prototype

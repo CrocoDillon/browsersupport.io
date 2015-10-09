@@ -1,1 +1,0 @@
-'addIceCandidate' in webkitRTCPeerConnection.prototype

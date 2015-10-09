@@ -1,1 +1,0 @@
-'videoWidth' in HTMLVideoElement.prototype

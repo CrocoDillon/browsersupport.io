@@ -1,1 +1,0 @@
-'onpointerlockchange' in Document.prototype

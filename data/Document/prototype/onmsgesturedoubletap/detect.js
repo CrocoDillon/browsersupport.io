@@ -1,1 +1,0 @@
-'onmsgesturedoubletap' in Document.prototype

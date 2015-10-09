@@ -1,1 +1,0 @@
-'multiline' in RegExp.prototype

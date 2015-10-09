@@ -1,1 +1,0 @@
-'ondrop' in SVGElement.prototype

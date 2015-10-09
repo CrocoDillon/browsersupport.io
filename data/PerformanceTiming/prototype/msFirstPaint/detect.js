@@ -1,1 +1,0 @@
-'msFirstPaint' in PerformanceTiming.prototype

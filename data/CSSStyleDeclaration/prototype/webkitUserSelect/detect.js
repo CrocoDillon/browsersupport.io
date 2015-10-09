@@ -1,1 +1,0 @@
-'webkitUserSelect' in CSSStyleDeclaration.prototype

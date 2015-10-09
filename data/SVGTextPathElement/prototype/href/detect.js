@@ -1,1 +1,0 @@
-'href' in SVGTextPathElement.prototype

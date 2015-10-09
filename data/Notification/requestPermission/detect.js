@@ -1,1 +1,0 @@
-'requestPermission' in Notification

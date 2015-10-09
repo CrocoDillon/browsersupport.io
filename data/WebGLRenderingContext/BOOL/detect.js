@@ -1,1 +1,0 @@
-'BOOL' in WebGLRenderingContext

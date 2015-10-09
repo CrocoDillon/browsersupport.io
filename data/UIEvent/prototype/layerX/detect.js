@@ -1,1 +1,0 @@
-'layerX' in UIEvent.prototype

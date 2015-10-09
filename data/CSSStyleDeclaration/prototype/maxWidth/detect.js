@@ -1,1 +1,0 @@
-'maxWidth' in CSSStyleDeclaration.prototype

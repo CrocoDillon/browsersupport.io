@@ -1,1 +1,0 @@
-'oninactive' in webkitMediaStream.prototype

@@ -1,1 +1,0 @@
-'SVGPathSegLinetoHorizontalRel' in this

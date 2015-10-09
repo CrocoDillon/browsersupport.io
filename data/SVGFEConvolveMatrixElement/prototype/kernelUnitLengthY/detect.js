@@ -1,1 +1,0 @@
-'kernelUnitLengthY' in SVGFEConvolveMatrixElement.prototype

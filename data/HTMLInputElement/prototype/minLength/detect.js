@@ -1,1 +1,0 @@
-'minLength' in HTMLInputElement.prototype

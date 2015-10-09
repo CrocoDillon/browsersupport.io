@@ -1,1 +1,0 @@
-'rotateAxisAngle' in WebKitCSSMatrix.prototype

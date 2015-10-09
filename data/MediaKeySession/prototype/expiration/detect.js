@@ -1,1 +1,0 @@
-'expiration' in MediaKeySession.prototype

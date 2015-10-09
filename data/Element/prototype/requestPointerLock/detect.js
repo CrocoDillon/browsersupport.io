@@ -1,1 +1,0 @@
-'requestPointerLock' in Element.prototype

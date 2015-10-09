@@ -1,1 +1,0 @@
-'mozUserCancelled' in DataTransfer.prototype

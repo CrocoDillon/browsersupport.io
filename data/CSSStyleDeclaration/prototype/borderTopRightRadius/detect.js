@@ -1,1 +1,0 @@
-'borderTopRightRadius' in CSSStyleDeclaration.prototype

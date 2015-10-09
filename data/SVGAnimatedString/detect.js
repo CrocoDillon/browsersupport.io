@@ -1,1 +1,0 @@
-'SVGAnimatedString' in this

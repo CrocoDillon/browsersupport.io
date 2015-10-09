@@ -1,1 +1,0 @@
-'LOADING' in XMLHttpRequest.prototype

@@ -1,1 +1,0 @@
-'setPosition' in PannerNode.prototype

@@ -1,1 +1,0 @@
-'UNCACHED' in ApplicationCache.prototype

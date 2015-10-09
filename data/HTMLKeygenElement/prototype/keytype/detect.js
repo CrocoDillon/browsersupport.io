@@ -1,1 +1,0 @@
-'keytype' in HTMLKeygenElement.prototype

@@ -1,1 +1,0 @@
-'textShadow' in CSSStyleDeclaration.prototype

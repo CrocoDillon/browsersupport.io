@@ -1,1 +1,0 @@
-'FLOAT' in WebGLRenderingContext.prototype

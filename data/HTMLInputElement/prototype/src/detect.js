@@ -1,1 +1,0 @@
-'src' in HTMLInputElement.prototype

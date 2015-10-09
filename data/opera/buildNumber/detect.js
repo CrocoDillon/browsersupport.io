@@ -1,1 +1,0 @@
-'buildNumber' in opera

@@ -1,1 +1,0 @@
-'select' in HTMLInputElement.prototype

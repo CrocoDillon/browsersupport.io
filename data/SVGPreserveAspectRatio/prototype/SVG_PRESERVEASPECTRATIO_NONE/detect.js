@@ -1,1 +1,0 @@
-'SVG_PRESERVEASPECTRATIO_NONE' in SVGPreserveAspectRatio.prototype

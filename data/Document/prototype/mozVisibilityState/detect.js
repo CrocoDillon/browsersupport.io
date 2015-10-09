@@ -1,1 +1,0 @@
-'mozVisibilityState' in Document.prototype

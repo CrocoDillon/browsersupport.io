@@ -1,1 +1,0 @@
-'getNumberOfChars' in SVGTextContentElement.prototype

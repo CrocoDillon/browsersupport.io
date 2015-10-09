@@ -1,1 +1,0 @@
-'SVG_FECOLORMATRIX_TYPE_LUMINANCETOALPHA' in SVGFEColorMatrixElement.prototype

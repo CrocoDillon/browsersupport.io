@@ -1,1 +1,0 @@
-'reset' in XSLTProcessor.prototype

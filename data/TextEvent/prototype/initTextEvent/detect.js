@@ -1,1 +1,0 @@
-'initTextEvent' in TextEvent.prototype

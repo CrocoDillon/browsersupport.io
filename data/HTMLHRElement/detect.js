@@ -1,1 +1,0 @@
-'HTMLHRElement' in this

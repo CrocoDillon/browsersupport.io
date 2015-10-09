@@ -1,1 +1,0 @@
-'IMPLEMENTATION_COLOR_READ_FORMAT' in WebGLRenderingContext

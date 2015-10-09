@@ -1,1 +1,0 @@
-'onblur' in HTMLFrameSetElement.prototype

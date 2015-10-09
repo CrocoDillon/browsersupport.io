@@ -1,1 +1,0 @@
-'setActive' in HTMLElement.prototype

@@ -1,1 +1,0 @@
-'message' in TypeError.prototype

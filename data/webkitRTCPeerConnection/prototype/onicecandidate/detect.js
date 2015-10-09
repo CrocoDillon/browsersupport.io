@@ -1,1 +1,0 @@
-'onicecandidate' in webkitRTCPeerConnection.prototype

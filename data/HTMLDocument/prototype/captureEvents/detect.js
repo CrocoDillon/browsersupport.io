@@ -1,1 +1,0 @@
-'captureEvents' in HTMLDocument.prototype

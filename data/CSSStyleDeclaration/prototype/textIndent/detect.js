@@ -1,1 +1,0 @@
-'textIndent' in CSSStyleDeclaration.prototype

@@ -1,1 +1,0 @@
-'referrer' in SecurityPolicyViolationEvent.prototype

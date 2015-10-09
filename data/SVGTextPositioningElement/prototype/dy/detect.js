@@ -1,1 +1,0 @@
-'dy' in SVGTextPositioningElement.prototype

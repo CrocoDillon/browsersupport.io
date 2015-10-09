@@ -1,1 +1,0 @@
-'onselectstart' in Document.prototype

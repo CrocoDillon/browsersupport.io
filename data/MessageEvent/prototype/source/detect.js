@@ -1,1 +1,0 @@
-'source' in MessageEvent.prototype

@@ -1,1 +1,0 @@
-'getCurrentTime' in SVGAnimationElement.prototype

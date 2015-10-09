@@ -1,1 +1,0 @@
-'webkitRadiusX' in Touch.prototype

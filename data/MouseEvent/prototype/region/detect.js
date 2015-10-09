@@ -1,1 +1,0 @@
-'region' in MouseEvent.prototype

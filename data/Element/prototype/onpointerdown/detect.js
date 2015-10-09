@@ -1,1 +1,0 @@
-'onpointerdown' in Element.prototype

@@ -1,1 +1,0 @@
-'webkitSpeechRecognitionError' in this

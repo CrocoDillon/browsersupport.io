@@ -1,1 +1,0 @@
-'animationName' in CSSStyleDeclaration.prototype

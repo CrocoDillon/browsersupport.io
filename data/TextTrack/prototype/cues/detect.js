@@ -1,1 +1,0 @@
-'cues' in TextTrack.prototype

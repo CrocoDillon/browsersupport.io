@@ -1,1 +1,0 @@
-'type' in CSSMediaRule.prototype

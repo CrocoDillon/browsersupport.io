@@ -1,1 +1,0 @@
-'removeSiteSpecificTrackingException' in Navigator.prototype

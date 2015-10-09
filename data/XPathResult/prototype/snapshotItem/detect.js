@@ -1,1 +1,0 @@
-'snapshotItem' in XPathResult.prototype

@@ -1,1 +1,0 @@
-'spacing' in SVGTextPathElement.prototype

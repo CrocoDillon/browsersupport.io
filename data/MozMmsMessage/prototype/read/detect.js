@@ -1,1 +1,0 @@
-'read' in MozMmsMessage.prototype

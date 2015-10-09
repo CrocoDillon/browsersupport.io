@@ -1,1 +1,0 @@
-'getAll' in URLSearchParams.prototype

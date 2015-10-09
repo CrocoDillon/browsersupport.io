@@ -1,1 +1,0 @@
-'style' in SVGPathElement.prototype

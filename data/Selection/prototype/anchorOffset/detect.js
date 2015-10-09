@@ -1,1 +1,0 @@
-'anchorOffset' in Selection.prototype

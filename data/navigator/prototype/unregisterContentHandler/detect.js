@@ -1,1 +1,0 @@
-'unregisterContentHandler' in Navigator.prototype

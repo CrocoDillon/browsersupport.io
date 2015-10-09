@@ -1,1 +1,0 @@
-'duration' in MediaSource.prototype

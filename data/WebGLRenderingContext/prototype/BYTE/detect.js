@@ -1,1 +1,0 @@
-'BYTE' in WebGLRenderingContext.prototype

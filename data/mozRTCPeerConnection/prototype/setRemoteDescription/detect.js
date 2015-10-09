@@ -1,1 +1,0 @@
-'setRemoteDescription' in mozRTCPeerConnection.prototype

@@ -1,1 +1,0 @@
-'translate' in DOMMatrixReadOnly.prototype

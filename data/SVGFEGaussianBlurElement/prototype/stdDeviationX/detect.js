@@ -1,1 +1,0 @@
-'stdDeviationX' in SVGFEGaussianBlurElement.prototype

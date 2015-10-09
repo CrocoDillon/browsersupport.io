@@ -1,1 +1,0 @@
-'requiredExtensions' in SVGImageElement.prototype

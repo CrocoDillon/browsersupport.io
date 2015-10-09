@@ -1,1 +1,0 @@
-'mozSystem' in XMLHttpRequest.prototype

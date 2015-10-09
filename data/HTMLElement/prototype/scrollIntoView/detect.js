@@ -1,1 +1,0 @@
-'scrollIntoView' in HTMLElement.prototype

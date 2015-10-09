@@ -1,1 +1,0 @@
-'minHeight' in CSSStyleDeclaration.prototype

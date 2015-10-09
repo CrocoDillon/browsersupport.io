@@ -1,1 +1,0 @@
-'width' in HTMLTableElement.prototype

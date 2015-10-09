@@ -1,1 +1,0 @@
-'pseudoElement' in TransitionEvent.prototype

@@ -1,1 +1,0 @@
-'insertRule' in CSSSupportsRule.prototype

@@ -1,1 +1,0 @@
-'referrer' in Document.prototype

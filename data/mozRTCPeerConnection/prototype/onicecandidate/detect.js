@@ -1,1 +1,0 @@
-'onicecandidate' in mozRTCPeerConnection.prototype

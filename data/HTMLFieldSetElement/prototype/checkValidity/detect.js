@@ -1,1 +1,0 @@
-'checkValidity' in HTMLFieldSetElement.prototype

@@ -1,1 +1,0 @@
-'paddingTop' in CSSStyleDeclaration.prototype

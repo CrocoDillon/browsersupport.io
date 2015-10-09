@@ -1,1 +1,0 @@
-'cookieEnabled' in Navigator.prototype

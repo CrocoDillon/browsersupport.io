@@ -1,1 +1,0 @@
-'position' in CSSStyleDeclaration.prototype

@@ -1,1 +1,0 @@
-'returnValue' in Event.prototype

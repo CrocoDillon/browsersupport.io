@@ -1,1 +1,0 @@
-'PeriodicWave' in this

@@ -1,1 +1,0 @@
-'autofocus' in HTMLKeygenElement.prototype

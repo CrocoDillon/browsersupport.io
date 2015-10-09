@@ -1,1 +1,0 @@
-'rangeParent' in UIEvent.prototype

@@ -1,1 +1,0 @@
-'onmozfullscreenchange' in HTMLElement.prototype

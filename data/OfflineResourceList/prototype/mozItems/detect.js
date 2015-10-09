@@ -1,1 +1,0 @@
-'mozItems' in OfflineResourceList.prototype

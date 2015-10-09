@@ -1,1 +1,0 @@
-'style' in MozCSSKeyframeRule.prototype

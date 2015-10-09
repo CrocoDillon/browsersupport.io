@@ -1,1 +1,0 @@
-'MODE_ASYNCHRONOUS' in DOMImplementationLS

@@ -1,1 +1,0 @@
-'mozCaptureStream' in HTMLMediaElement.prototype

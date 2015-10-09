@@ -1,1 +1,0 @@
-'createTexture' in WebGLRenderingContext.prototype

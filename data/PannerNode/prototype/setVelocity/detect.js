@@ -1,1 +1,0 @@
-'setVelocity' in PannerNode.prototype

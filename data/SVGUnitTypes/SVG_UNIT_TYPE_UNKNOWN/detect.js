@@ -1,1 +1,0 @@
-'SVG_UNIT_TYPE_UNKNOWN' in SVGUnitTypes

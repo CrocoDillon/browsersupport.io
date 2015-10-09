@@ -1,1 +1,0 @@
-'SVGTSpanElement' in this

@@ -1,1 +1,0 @@
-'WebGLObject' in this

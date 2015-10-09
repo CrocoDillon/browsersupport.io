@@ -1,1 +1,0 @@
-'ports' in ServiceWorkerMessageEvent.prototype

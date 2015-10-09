@@ -1,1 +1,0 @@
-'standby' in HTMLObjectElement.prototype

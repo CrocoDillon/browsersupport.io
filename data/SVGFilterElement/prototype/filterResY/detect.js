@@ -1,1 +1,0 @@
-'filterResY' in SVGFilterElement.prototype

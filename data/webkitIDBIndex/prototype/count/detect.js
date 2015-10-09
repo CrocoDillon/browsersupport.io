@@ -1,1 +1,0 @@
-'count' in webkitIDBIndex.prototype

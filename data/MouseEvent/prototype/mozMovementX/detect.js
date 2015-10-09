@@ -1,1 +1,0 @@
-'mozMovementX' in MouseEvent.prototype

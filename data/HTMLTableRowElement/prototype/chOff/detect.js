@@ -1,1 +1,0 @@
-'chOff' in HTMLTableRowElement.prototype

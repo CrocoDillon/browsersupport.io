@@ -1,1 +1,0 @@
-'pushManager' in ServiceWorkerRegistration.prototype

@@ -1,1 +1,0 @@
-'webkitAlignItems' in CSSStyleDeclaration.prototype

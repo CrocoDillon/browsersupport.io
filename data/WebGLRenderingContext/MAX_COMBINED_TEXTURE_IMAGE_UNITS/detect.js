@@ -1,1 +1,0 @@
-'MAX_COMBINED_TEXTURE_IMAGE_UNITS' in WebGLRenderingContext

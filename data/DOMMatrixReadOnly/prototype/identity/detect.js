@@ -1,1 +1,0 @@
-'identity' in DOMMatrixReadOnly.prototype

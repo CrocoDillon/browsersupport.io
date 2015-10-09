@@ -1,1 +1,0 @@
-'detachShader' in WebGLRenderingContext.prototype

@@ -1,1 +1,0 @@
-'LENGTHADJUST_SPACINGANDGLYPHS' in SVGTextContentElement.prototype

@@ -1,1 +1,0 @@
-'onsubmit' in SVGElement.prototype

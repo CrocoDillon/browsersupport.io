@@ -1,1 +1,0 @@
-'orphans' in CSSStyleDeclaration.prototype

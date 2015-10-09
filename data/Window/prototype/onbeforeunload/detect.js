@@ -1,1 +1,0 @@
-'onbeforeunload' in Window.prototype

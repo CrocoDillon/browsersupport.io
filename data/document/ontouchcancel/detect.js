@@ -1,1 +1,0 @@
-'ontouchcancel' in document

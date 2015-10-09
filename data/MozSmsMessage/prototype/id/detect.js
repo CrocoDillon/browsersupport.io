@@ -1,1 +1,0 @@
-'id' in MozSmsMessage.prototype

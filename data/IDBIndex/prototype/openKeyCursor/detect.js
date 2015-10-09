@@ -1,1 +1,0 @@
-'openKeyCursor' in IDBIndex.prototype

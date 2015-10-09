@@ -1,1 +1,0 @@
-'dropEffect' in DataTransfer.prototype

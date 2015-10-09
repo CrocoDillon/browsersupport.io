@@ -1,1 +1,0 @@
-'fftSize' in AnalyserNode.prototype

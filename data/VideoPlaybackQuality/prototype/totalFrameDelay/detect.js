@@ -1,1 +1,0 @@
-'totalFrameDelay' in VideoPlaybackQuality.prototype

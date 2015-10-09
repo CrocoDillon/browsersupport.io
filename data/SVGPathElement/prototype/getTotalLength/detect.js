@@ -1,1 +1,0 @@
-'getTotalLength' in SVGPathElement.prototype

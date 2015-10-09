@@ -1,1 +1,0 @@
-'removeSourceBuffer' in MediaSource.prototype

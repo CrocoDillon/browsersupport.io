@@ -1,1 +1,0 @@
-'srcdoc' in HTMLIFrameElement.prototype

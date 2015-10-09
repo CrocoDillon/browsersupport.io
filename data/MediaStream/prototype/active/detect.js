@@ -1,1 +1,0 @@
-'active' in MediaStream.prototype

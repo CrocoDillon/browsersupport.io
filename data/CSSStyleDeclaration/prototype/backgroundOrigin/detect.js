@@ -1,1 +1,0 @@
-'backgroundOrigin' in CSSStyleDeclaration.prototype

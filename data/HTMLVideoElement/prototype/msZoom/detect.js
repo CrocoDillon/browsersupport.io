@@ -1,1 +1,0 @@
-'msZoom' in HTMLVideoElement.prototype

@@ -1,1 +1,0 @@
-'onseeked' in Document.prototype

@@ -1,1 +1,0 @@
-'webkitTapHighlightColor' in CSSStyleDeclaration.prototype

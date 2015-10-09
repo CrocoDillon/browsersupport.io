@@ -1,1 +1,0 @@
-'msPlayToDisabled' in Image.prototype

@@ -1,1 +1,0 @@
-'responseURL' in XMLHttpRequest.prototype

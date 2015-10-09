@@ -1,1 +1,0 @@
-'redirectEnd' in PerformanceResourceTiming.prototype

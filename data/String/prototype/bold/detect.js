@@ -1,1 +1,0 @@
-'bold' in String.prototype

@@ -1,1 +1,0 @@
-'getSelection' in HTMLDocument.prototype

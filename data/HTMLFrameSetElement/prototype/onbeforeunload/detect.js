@@ -1,1 +1,0 @@
-'onbeforeunload' in HTMLFrameSetElement.prototype

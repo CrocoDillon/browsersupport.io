@@ -1,1 +1,0 @@
-'keyIdentifier' in KeyboardEvent.prototype

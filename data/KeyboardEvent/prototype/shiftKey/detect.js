@@ -1,1 +1,0 @@
-'shiftKey' in KeyboardEvent.prototype

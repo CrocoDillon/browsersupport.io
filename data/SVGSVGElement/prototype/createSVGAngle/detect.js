@@ -1,1 +1,0 @@
-'createSVGAngle' in SVGSVGElement.prototype

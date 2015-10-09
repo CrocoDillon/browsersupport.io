@@ -1,1 +1,0 @@
-'name' in IDBObjectStore.prototype

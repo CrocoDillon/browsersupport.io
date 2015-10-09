@@ -1,1 +1,0 @@
-'isComposing' in KeyboardEvent.prototype

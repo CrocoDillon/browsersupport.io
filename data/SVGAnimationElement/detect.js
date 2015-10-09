@@ -1,1 +1,0 @@
-'SVGAnimationElement' in this

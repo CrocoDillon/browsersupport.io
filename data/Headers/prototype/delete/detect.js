@@ -1,1 +1,0 @@
-'delete' in Headers.prototype

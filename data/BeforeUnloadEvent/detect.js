@@ -1,1 +1,0 @@
-'BeforeUnloadEvent' in this

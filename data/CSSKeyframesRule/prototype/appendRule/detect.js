@@ -1,1 +1,0 @@
-'appendRule' in CSSKeyframesRule.prototype

@@ -1,1 +1,0 @@
-'CHECKING' in ApplicationCache

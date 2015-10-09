@@ -1,1 +1,0 @@
-'querySelector' in Element.prototype

@@ -1,1 +1,0 @@
-'SVGPolygonElement' in this

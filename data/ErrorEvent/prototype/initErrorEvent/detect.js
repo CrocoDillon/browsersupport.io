@@ -1,1 +1,0 @@
-'initErrorEvent' in ErrorEvent.prototype

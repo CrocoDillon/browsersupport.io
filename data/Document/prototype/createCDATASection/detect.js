@@ -1,1 +1,0 @@
-'createCDATASection' in Document.prototype

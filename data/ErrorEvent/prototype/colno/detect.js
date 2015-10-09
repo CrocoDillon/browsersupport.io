@@ -1,1 +1,0 @@
-'colno' in ErrorEvent.prototype

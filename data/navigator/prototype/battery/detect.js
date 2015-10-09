@@ -1,1 +1,0 @@
-'battery' in Navigator.prototype

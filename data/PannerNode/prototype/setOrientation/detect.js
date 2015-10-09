@@ -1,1 +1,0 @@
-'setOrientation' in PannerNode.prototype

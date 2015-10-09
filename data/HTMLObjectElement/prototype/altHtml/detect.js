@@ -1,1 +1,0 @@
-'altHtml' in HTMLObjectElement.prototype

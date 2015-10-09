@@ -1,1 +1,0 @@
-'xmlspace' in SVGClipPathElement.prototype

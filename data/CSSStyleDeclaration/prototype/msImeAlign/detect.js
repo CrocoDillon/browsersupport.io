@@ -1,1 +1,0 @@
-'msImeAlign' in CSSStyleDeclaration.prototype

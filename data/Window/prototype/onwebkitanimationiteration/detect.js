@@ -1,1 +1,0 @@
-'onwebkitanimationiteration' in Window.prototype

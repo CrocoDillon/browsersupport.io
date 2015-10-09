@@ -1,1 +1,0 @@
-'compositionEndOffset' in MSInputMethodContext.prototype

@@ -1,1 +1,0 @@
-'msCapsLockWarningOff' in Document.prototype

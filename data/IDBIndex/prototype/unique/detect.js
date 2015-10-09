@@ -1,1 +1,0 @@
-'unique' in IDBIndex.prototype

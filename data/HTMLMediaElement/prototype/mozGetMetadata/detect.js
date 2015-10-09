@@ -1,1 +1,0 @@
-'mozGetMetadata' in HTMLMediaElement.prototype

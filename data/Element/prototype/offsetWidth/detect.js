@@ -1,1 +1,0 @@
-'offsetWidth' in Element.prototype

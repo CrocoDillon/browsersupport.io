@@ -1,1 +1,0 @@
-'msGridRows' in CSSStyleDeclaration.prototype

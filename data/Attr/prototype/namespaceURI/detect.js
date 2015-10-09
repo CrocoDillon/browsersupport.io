@@ -1,1 +1,0 @@
-'namespaceURI' in Attr.prototype

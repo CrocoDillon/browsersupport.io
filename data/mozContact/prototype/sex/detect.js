@@ -1,1 +1,0 @@
-'sex' in mozContact.prototype

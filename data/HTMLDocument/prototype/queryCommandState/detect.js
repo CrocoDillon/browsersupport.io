@@ -1,1 +1,0 @@
-'queryCommandState' in HTMLDocument.prototype

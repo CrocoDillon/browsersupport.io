@@ -1,1 +1,0 @@
-'DOM_VK_OPEN_BRACKET' in KeyEvent

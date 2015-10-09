@@ -1,1 +1,0 @@
-'open' in IDBMutableFile.prototype

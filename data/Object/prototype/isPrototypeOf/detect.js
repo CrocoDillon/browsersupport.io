@@ -1,1 +1,0 @@
-'isPrototypeOf' in Object.prototype

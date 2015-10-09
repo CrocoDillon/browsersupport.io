@@ -1,1 +1,0 @@
-'style' in SVGSVGElement.prototype

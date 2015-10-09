@@ -1,1 +1,0 @@
-'isPointInFill' in SVGGeometryElement.prototype

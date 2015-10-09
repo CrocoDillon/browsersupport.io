@@ -1,1 +1,0 @@
-'integrity' in HTMLScriptElement.prototype

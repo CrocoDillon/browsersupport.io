@@ -1,1 +1,0 @@
-'FOCUS' in Event.prototype

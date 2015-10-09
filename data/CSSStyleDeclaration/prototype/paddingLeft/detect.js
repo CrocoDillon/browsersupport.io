@@ -1,1 +1,0 @@
-'paddingLeft' in CSSStyleDeclaration.prototype

@@ -1,1 +1,0 @@
-'appMinorVersion' in navigator

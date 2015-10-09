@@ -1,1 +1,0 @@
-'frequency' in BiquadFilterNode.prototype

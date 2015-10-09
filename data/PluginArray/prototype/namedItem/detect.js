@@ -1,1 +1,0 @@
-'namedItem' in PluginArray.prototype

@@ -1,1 +1,0 @@
-'setValueAtTime' in AudioParam.prototype

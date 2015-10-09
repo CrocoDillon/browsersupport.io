@@ -1,1 +1,0 @@
-'transitionTimingFunction' in CSSStyleDeclaration.prototype

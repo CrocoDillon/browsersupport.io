@@ -1,1 +1,0 @@
-'removeRange' in Selection.prototype

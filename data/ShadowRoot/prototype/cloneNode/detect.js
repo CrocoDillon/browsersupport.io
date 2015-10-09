@@ -1,1 +1,0 @@
-'cloneNode' in ShadowRoot.prototype

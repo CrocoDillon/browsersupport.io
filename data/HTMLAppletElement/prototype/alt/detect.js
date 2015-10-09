@@ -1,1 +1,0 @@
-'alt' in HTMLAppletElement.prototype

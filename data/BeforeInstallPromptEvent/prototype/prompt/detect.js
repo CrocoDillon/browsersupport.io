@@ -1,1 +1,0 @@
-'prompt' in BeforeInstallPromptEvent.prototype

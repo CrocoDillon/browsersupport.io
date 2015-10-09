@@ -1,1 +1,0 @@
-'StopIteration' in this

@@ -1,1 +1,0 @@
-'getItem' in SVGPointList.prototype

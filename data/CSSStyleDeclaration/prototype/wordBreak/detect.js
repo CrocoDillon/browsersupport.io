@@ -1,1 +1,0 @@
-'wordBreak' in CSSStyleDeclaration.prototype

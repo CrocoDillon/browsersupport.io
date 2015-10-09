@@ -1,1 +1,0 @@
-'initiatorType' in PerformanceResourceTiming.prototype

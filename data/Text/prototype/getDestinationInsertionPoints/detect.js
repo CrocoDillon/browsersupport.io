@@ -1,1 +1,0 @@
-'getDestinationInsertionPoints' in Text.prototype

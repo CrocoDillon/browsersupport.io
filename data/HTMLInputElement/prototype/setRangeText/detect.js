@@ -1,1 +1,0 @@
-'setRangeText' in HTMLInputElement.prototype

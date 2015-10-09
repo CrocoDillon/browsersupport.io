@@ -1,1 +1,0 @@
-'embeds' in Document.prototype

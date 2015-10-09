@@ -1,1 +1,0 @@
-'type' in StyleMedia.prototype

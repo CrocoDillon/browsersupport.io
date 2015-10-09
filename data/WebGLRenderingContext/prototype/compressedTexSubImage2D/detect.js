@@ -1,1 +1,0 @@
-'compressedTexSubImage2D' in WebGLRenderingContext.prototype

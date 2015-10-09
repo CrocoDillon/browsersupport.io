@@ -1,1 +1,0 @@
-'addStream' in mozRTCPeerConnection.prototype

@@ -1,1 +1,0 @@
-'parentRule' in CSSMozDocumentRule.prototype

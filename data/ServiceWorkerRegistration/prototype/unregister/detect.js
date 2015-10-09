@@ -1,1 +1,0 @@
-'unregister' in ServiceWorkerRegistration.prototype

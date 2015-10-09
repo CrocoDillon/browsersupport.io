@@ -1,1 +1,0 @@
-'removeChild' in Node.prototype

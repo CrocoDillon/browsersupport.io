@@ -1,1 +1,0 @@
-'mozDecodedFrames' in HTMLVideoElement.prototype

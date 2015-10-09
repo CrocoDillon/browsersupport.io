@@ -1,1 +1,0 @@
-'keys' in MIDIInputMap.prototype

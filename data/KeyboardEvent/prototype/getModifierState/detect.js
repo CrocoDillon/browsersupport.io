@@ -1,1 +1,0 @@
-'getModifierState' in KeyboardEvent.prototype

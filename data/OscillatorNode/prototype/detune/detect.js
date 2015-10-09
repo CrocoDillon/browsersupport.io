@@ -1,1 +1,0 @@
-'detune' in OscillatorNode.prototype

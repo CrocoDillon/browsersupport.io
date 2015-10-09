@@ -1,1 +1,0 @@
-'italics' in String.prototype

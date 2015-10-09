@@ -1,1 +1,0 @@
-'statusCode' in SecurityPolicyViolationEvent.prototype

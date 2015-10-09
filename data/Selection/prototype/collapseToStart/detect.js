@@ -1,1 +1,0 @@
-'collapseToStart' in Selection.prototype

@@ -1,1 +1,0 @@
-'prompt' in Window.prototype

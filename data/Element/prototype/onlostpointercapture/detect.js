@@ -1,1 +1,0 @@
-'onlostpointercapture' in Element.prototype

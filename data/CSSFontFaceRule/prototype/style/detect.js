@@ -1,1 +1,0 @@
-'style' in CSSFontFaceRule.prototype

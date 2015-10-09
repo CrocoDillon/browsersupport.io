@@ -1,1 +1,0 @@
-'clear' in Console.prototype

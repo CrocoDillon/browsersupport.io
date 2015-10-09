@@ -1,1 +1,0 @@
-'transformOrigin' in CSSStyleDeclaration.prototype

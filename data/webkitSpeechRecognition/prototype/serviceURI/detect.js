@@ -1,1 +1,0 @@
-'serviceURI' in webkitSpeechRecognition.prototype

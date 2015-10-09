@@ -1,1 +1,0 @@
-'markerStart' in CSSStyleDeclaration.prototype

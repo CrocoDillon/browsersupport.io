@@ -1,1 +1,0 @@
-'target' in HTMLAreaElement.prototype

@@ -1,1 +1,0 @@
-'HTMLAreaElement' in this

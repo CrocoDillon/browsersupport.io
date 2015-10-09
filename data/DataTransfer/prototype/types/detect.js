@@ -1,1 +1,0 @@
-'types' in DataTransfer.prototype

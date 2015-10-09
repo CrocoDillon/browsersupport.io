@@ -1,1 +1,0 @@
-'SVGAnimatedEnumeration' in this

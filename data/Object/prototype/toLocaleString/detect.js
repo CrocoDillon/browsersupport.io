@@ -1,1 +1,0 @@
-'toLocaleString' in Object.prototype

@@ -1,1 +1,0 @@
-'webkitBorderBottomLeftRadius' in CSSStyleDeclaration.prototype

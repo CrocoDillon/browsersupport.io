@@ -1,1 +1,0 @@
-'lineNumber' in SecurityPolicyViolationEvent.prototype

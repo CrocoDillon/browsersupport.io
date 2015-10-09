@@ -1,1 +1,0 @@
-'onnegotiationneeded' in webkitRTCPeerConnection.prototype

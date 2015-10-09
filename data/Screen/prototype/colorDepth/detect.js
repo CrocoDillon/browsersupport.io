@@ -1,1 +1,0 @@
-'colorDepth' in Screen.prototype

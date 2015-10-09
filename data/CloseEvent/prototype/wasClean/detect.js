@@ -1,1 +1,0 @@
-'wasClean' in CloseEvent.prototype

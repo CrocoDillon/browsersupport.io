@@ -1,1 +1,0 @@
-'createProcessingInstruction' in Document.prototype

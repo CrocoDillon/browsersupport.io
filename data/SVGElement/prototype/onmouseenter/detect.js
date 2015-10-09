@@ -1,1 +1,0 @@
-'onmouseenter' in SVGElement.prototype

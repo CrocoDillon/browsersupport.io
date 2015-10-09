@@ -1,1 +1,0 @@
-'onseeking' in HTMLElement.prototype

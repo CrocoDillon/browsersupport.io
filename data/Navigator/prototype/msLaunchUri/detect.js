@@ -1,1 +1,0 @@
-'msLaunchUri' in Navigator.prototype

@@ -1,1 +1,0 @@
-'closed' in MediaKeySession.prototype

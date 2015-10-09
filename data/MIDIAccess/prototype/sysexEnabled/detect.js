@@ -1,1 +1,0 @@
-'sysexEnabled' in MIDIAccess.prototype

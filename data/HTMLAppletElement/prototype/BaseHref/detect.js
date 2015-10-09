@@ -1,1 +1,0 @@
-'BaseHref' in HTMLAppletElement.prototype

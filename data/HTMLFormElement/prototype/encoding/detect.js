@@ -1,1 +1,0 @@
-'encoding' in HTMLFormElement.prototype

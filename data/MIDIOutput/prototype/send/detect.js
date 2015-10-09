@@ -1,1 +1,0 @@
-'send' in MIDIOutput.prototype

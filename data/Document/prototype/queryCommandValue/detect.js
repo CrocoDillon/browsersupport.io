@@ -1,1 +1,0 @@
-'queryCommandValue' in Document.prototype

@@ -1,1 +1,0 @@
-'publicId' in DocumentType.prototype

@@ -1,1 +1,0 @@
-'addTextTrack' in HTMLMediaElement.prototype

@@ -1,1 +1,0 @@
-'getConfiguration' in MediaKeySystemAccess.prototype

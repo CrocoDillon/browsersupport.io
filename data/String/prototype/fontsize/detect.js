@@ -1,1 +1,0 @@
-'fontsize' in String.prototype

@@ -1,1 +1,0 @@
-'createConvolver' in webkitAudioContext.prototype

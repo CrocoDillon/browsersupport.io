@@ -1,1 +1,0 @@
-'mapping' in Gamepad.prototype

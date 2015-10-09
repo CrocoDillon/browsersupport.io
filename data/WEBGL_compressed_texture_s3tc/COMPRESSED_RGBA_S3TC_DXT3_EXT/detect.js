@@ -1,1 +1,0 @@
-'COMPRESSED_RGBA_S3TC_DXT3_EXT' in WEBGL_compressed_texture_s3tc

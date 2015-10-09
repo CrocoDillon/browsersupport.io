@@ -1,1 +1,0 @@
-'requiredFeatures' in SVGEllipseElement.prototype

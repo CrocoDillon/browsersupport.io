@@ -1,1 +1,0 @@
-'getUTCSeconds' in Date.prototype

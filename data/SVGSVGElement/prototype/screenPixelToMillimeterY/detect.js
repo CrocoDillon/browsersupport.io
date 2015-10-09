@@ -1,1 +1,0 @@
-'screenPixelToMillimeterY' in SVGSVGElement.prototype

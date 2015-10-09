@@ -1,1 +1,0 @@
-'username' in webkitURL.prototype

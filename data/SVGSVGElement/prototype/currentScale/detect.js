@@ -1,1 +1,0 @@
-'currentScale' in SVGSVGElement.prototype

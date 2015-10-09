@@ -1,1 +1,0 @@
-'ondevicechange' in MediaDevices.prototype

@@ -1,1 +1,0 @@
-'oncontextmenu' in Window.prototype

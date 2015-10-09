@@ -1,1 +1,0 @@
-'kind' in MediaDeviceInfo.prototype

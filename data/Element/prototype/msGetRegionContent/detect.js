@@ -1,1 +1,0 @@
-'msGetRegionContent' in Element.prototype

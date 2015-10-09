@@ -1,1 +1,0 @@
-'readAsBinaryString' in MSStreamReader.prototype

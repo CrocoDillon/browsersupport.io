@@ -1,1 +1,0 @@
-'numberOfItems' in SVGPathSegList.prototype

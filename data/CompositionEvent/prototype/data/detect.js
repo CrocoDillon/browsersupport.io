@@ -1,1 +1,0 @@
-'data' in CompositionEvent.prototype

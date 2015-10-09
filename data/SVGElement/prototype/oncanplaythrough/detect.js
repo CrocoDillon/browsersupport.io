@@ -1,1 +1,0 @@
-'oncanplaythrough' in SVGElement.prototype

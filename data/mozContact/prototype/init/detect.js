@@ -1,1 +1,0 @@
-'init' in mozContact.prototype

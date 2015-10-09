@@ -1,1 +1,0 @@
-'ignoreBOM' in TextDecoder.prototype

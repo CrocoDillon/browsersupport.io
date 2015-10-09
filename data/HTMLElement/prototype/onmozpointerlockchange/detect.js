@@ -1,1 +1,0 @@
-'onmozpointerlockchange' in HTMLElement.prototype

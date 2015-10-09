@@ -1,1 +1,0 @@
-'name' in RecordErrorEvent.prototype

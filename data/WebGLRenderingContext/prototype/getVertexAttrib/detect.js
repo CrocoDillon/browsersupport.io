@@ -1,1 +1,0 @@
-'getVertexAttrib' in WebGLRenderingContext.prototype

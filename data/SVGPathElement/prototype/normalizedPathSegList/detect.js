@@ -1,1 +1,0 @@
-'normalizedPathSegList' in SVGPathElement.prototype

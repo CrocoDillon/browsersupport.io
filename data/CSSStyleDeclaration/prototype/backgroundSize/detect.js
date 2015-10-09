@@ -1,1 +1,0 @@
-'backgroundSize' in CSSStyleDeclaration.prototype

@@ -1,1 +1,0 @@
-'logicalXDPI' in Screen.prototype

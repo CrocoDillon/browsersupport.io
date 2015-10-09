@@ -1,1 +1,0 @@
-'msHyphenateLimitChars' in CSSStyleDeclaration.prototype

@@ -1,1 +1,0 @@
-'stencilOpSeparate' in WebGLRenderingContext.prototype

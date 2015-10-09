@@ -1,1 +1,0 @@
-'returnValue' in BeforeUnloadEvent.prototype

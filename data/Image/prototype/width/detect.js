@@ -1,1 +1,0 @@
-'width' in Image.prototype

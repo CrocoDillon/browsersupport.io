@@ -1,1 +1,0 @@
-'domInteractive' in PerformanceNavigationTiming.prototype

@@ -1,1 +1,0 @@
-'code' in CloseEvent.prototype

@@ -1,1 +1,0 @@
-'type' in ReferenceError.prototype

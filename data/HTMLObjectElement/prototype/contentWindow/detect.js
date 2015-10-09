@@ -1,1 +1,0 @@
-'contentWindow' in HTMLObjectElement.prototype

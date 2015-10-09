@@ -1,1 +1,0 @@
-'webkitWritingMode' in CSSStyleDeclaration.prototype

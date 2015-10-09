@@ -1,1 +1,0 @@
-'requestData' in MediaRecorder.prototype

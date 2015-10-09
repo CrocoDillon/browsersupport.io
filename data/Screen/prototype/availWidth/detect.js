@@ -1,1 +1,0 @@
-'availWidth' in Screen.prototype

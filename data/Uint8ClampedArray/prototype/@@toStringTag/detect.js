@@ -1,1 +1,0 @@
-Symbol.toStringTag in Uint8ClampedArray.prototype

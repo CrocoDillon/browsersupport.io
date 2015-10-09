@@ -1,1 +1,0 @@
-'continuous' in webkitSpeechRecognition.prototype

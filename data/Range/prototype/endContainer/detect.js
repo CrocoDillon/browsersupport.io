@@ -1,1 +1,0 @@
-'endContainer' in Range.prototype

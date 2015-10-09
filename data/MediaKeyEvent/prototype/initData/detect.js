@@ -1,1 +1,0 @@
-'initData' in MediaKeyEvent.prototype

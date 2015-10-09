@@ -1,1 +1,0 @@
-'tBodies' in HTMLTableElement.prototype

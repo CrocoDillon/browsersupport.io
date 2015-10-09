@@ -1,1 +1,0 @@
-'commonAncestorContainer' in Range.prototype

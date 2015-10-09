@@ -1,1 +1,0 @@
-'cancelAnimationFrame' in this

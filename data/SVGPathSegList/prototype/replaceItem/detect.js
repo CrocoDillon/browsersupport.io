@@ -1,1 +1,0 @@
-'replaceItem' in SVGPathSegList.prototype

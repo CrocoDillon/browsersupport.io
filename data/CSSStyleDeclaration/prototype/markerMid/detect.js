@@ -1,1 +1,0 @@
-'markerMid' in CSSStyleDeclaration.prototype

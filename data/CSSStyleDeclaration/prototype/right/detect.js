@@ -1,1 +1,0 @@
-'right' in CSSStyleDeclaration.prototype

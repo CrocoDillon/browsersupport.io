@@ -1,1 +1,0 @@
-'style' in SVGDescElement.prototype

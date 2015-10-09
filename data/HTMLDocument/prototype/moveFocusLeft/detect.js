@@ -1,1 +1,0 @@
-'moveFocusLeft' in HTMLDocument.prototype

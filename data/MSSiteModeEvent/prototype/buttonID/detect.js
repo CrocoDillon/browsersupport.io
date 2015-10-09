@@ -1,1 +1,0 @@
-'buttonID' in MSSiteModeEvent.prototype

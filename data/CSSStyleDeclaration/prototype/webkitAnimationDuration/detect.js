@@ -1,1 +1,0 @@
-'webkitAnimationDuration' in CSSStyleDeclaration.prototype

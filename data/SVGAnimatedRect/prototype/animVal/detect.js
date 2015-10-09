@@ -1,1 +1,0 @@
-'animVal' in SVGAnimatedRect.prototype

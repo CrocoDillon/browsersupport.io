@@ -1,1 +1,0 @@
-'ondblclick' in Window.prototype

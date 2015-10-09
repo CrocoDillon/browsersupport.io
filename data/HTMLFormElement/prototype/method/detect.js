@@ -1,1 +1,0 @@
-'method' in HTMLFormElement.prototype

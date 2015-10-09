@@ -1,1 +1,0 @@
-'onpopstate' in HTMLFrameSetElement.prototype

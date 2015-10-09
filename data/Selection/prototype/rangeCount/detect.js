@@ -1,1 +1,0 @@
-'rangeCount' in Selection.prototype

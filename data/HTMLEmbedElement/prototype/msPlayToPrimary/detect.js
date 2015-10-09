@@ -1,1 +1,0 @@
-'msPlayToPrimary' in HTMLEmbedElement.prototype

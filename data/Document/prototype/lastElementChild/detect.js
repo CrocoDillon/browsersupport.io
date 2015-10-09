@@ -1,1 +1,0 @@
-'lastElementChild' in Document.prototype

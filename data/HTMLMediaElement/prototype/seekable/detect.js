@@ -1,1 +1,0 @@
-'seekable' in HTMLMediaElement.prototype

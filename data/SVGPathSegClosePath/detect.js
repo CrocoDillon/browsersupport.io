@@ -1,1 +1,0 @@
-'SVGPathSegClosePath' in this

@@ -1,1 +1,0 @@
-'strike' in String.prototype

@@ -1,1 +1,0 @@
-'sizes' in Image.prototype

@@ -1,1 +1,0 @@
-'lastIndex' in RegExp.prototype

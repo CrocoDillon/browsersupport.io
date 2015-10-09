@@ -1,1 +1,0 @@
-'fontFamily' in CSSFontFeatureValuesRule.prototype

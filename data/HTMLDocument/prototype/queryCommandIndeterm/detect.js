@@ -1,1 +1,0 @@
-'queryCommandIndeterm' in HTMLDocument.prototype

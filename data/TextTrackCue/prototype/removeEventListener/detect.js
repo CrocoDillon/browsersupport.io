@@ -1,1 +1,0 @@
-'removeEventListener' in TextTrackCue.prototype

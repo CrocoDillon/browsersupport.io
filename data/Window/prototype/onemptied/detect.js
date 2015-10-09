@@ -1,1 +1,0 @@
-'onemptied' in Window.prototype

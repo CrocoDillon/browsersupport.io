@@ -1,1 +1,0 @@
-'sdpMLineIndex' in mozRTCIceCandidate.prototype

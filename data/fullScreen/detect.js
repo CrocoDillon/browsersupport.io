@@ -1,1 +1,0 @@
-'fullScreen' in this

@@ -1,1 +1,0 @@
-'onwebkitanimationend' in Window.prototype

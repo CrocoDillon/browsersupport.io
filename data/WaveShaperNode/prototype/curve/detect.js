@@ -1,1 +1,0 @@
-'curve' in WaveShaperNode.prototype

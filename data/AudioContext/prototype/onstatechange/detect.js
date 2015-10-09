@@ -1,1 +1,0 @@
-'onstatechange' in AudioContext.prototype

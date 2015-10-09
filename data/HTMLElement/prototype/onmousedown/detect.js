@@ -1,1 +1,0 @@
-'onmousedown' in HTMLElement.prototype

@@ -1,1 +1,0 @@
-'contains' in DOMStringList.prototype

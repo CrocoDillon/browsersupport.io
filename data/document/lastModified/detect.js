@@ -1,1 +1,0 @@
-'lastModified' in document

@@ -1,1 +1,0 @@
-'contentDocument' in HTMLFrameElement.prototype

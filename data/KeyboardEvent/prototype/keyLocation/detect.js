@@ -1,1 +1,0 @@
-'keyLocation' in KeyboardEvent.prototype

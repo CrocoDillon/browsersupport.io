@@ -1,1 +1,0 @@
-'gamepad' in GamepadEvent.prototype

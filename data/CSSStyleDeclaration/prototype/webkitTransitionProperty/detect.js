@@ -1,1 +1,0 @@
-'webkitTransitionProperty' in CSSStyleDeclaration.prototype

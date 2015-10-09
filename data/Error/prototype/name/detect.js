@@ -1,1 +1,0 @@
-'name' in Error.prototype

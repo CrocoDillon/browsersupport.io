@@ -1,1 +1,0 @@
-'nextNode' in TreeWalker.prototype

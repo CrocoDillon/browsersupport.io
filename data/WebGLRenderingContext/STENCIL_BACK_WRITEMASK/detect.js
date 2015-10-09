@@ -1,1 +1,0 @@
-'STENCIL_BACK_WRITEMASK' in WebGLRenderingContext

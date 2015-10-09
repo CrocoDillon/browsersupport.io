@@ -1,1 +1,0 @@
-'snapshotLength' in XPathResult.prototype

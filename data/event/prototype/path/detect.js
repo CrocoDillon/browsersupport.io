@@ -1,1 +1,0 @@
-'path' in Event.prototype

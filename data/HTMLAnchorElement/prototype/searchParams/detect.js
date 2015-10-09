@@ -1,1 +1,0 @@
-'searchParams' in HTMLAnchorElement.prototype

@@ -1,1 +1,0 @@
-'ondrag' in SVGElement.prototype

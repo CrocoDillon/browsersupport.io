@@ -1,1 +1,0 @@
-'getCharNumAtPosition' in SVGTextContentElement.prototype

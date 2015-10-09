@@ -1,1 +1,0 @@
-'stack' in RangeError.prototype

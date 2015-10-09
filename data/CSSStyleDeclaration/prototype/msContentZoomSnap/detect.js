@@ -1,1 +1,0 @@
-'msContentZoomSnap' in CSSStyleDeclaration.prototype

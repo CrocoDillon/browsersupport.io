@@ -1,1 +1,0 @@
-'dataTransfer' in DragEvent.prototype

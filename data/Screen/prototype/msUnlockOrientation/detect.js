@@ -1,1 +1,0 @@
-'msUnlockOrientation' in Screen.prototype

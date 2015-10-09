@@ -1,1 +1,0 @@
-'initialize' in SVGNumberList.prototype

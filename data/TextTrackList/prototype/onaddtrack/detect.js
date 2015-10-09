@@ -1,1 +1,0 @@
-'onaddtrack' in TextTrackList.prototype

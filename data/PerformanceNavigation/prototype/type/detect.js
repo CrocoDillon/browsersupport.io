@@ -1,1 +1,0 @@
-'type' in PerformanceNavigation.prototype

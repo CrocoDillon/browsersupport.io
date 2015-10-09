@@ -1,1 +1,0 @@
-'oniceconnectionstatechange' in mozRTCPeerConnection.prototype

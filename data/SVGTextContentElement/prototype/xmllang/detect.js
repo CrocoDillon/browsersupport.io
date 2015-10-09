@@ -1,1 +1,0 @@
-'xmllang' in SVGTextContentElement.prototype

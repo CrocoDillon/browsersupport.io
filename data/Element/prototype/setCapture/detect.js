@@ -1,1 +1,0 @@
-'setCapture' in Element.prototype

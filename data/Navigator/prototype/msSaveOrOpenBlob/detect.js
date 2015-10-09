@@ -1,1 +1,0 @@
-'msSaveOrOpenBlob' in Navigator.prototype

@@ -1,1 +1,0 @@
-'onbeforepaste' in HTMLElement.prototype

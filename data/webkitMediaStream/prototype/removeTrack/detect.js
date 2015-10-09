@@ -1,1 +1,0 @@
-'removeTrack' in webkitMediaStream.prototype

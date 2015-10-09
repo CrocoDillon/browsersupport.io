@@ -1,1 +1,0 @@
-'defineMagicVariable' in opera

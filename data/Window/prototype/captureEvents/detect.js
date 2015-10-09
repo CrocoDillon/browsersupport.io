@@ -1,1 +1,0 @@
-'captureEvents' in Window.prototype

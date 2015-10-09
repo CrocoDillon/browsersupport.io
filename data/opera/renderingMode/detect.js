@@ -1,1 +1,0 @@
-'renderingMode' in opera

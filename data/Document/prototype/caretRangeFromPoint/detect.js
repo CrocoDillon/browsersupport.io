@@ -1,1 +1,0 @@
-'caretRangeFromPoint' in Document.prototype

@@ -1,1 +1,0 @@
-'setTimeout' in Window.prototype

@@ -1,1 +1,0 @@
-'appendMedium' in MediaList.prototype

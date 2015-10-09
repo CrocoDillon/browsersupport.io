@@ -1,1 +1,0 @@
-'exception' in Console.prototype

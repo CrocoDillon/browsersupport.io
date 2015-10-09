@@ -1,1 +1,0 @@
-'json' in Response.prototype

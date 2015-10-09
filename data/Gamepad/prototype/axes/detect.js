@@ -1,1 +1,0 @@
-'axes' in Gamepad.prototype

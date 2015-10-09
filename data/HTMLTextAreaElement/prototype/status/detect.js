@@ -1,1 +1,0 @@
-'status' in HTMLTextAreaElement.prototype

@@ -1,1 +1,0 @@
-'SVG_EDGEMODE_UNKNOWN' in SVGFEConvolveMatrixElement

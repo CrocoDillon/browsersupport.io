@@ -1,1 +1,0 @@
-'signalingState' in webkitRTCPeerConnection.prototype

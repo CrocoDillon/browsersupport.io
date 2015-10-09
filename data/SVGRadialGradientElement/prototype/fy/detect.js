@@ -1,1 +1,0 @@
-'fy' in SVGRadialGradientElement.prototype

@@ -1,1 +1,0 @@
-'onerror' in IDBTransaction.prototype

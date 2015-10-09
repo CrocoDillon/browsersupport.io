@@ -1,1 +1,0 @@
-'data' in HTMLAppletElement.prototype

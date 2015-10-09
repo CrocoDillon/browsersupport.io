@@ -1,1 +1,0 @@
-'sizes' in HTMLLinkElement.prototype

@@ -1,1 +1,0 @@
-'lowsrc' in Image.prototype

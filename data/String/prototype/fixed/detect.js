@@ -1,1 +1,0 @@
-'fixed' in String.prototype

@@ -1,1 +1,0 @@
-'cy' in SVGCircleElement.prototype

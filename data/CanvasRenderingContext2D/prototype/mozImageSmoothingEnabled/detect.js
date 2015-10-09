@@ -1,1 +1,0 @@
-'mozImageSmoothingEnabled' in CanvasRenderingContext2D.prototype

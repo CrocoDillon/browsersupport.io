@@ -1,1 +1,0 @@
-'createSVGPathSegLinetoVerticalRel' in SVGPathElement.prototype

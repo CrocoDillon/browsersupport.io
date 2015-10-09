@@ -1,1 +1,0 @@
-'videoTracks' in SourceBuffer.prototype

@@ -1,1 +1,0 @@
-'onbeforeunload' in HTMLBodyElement.prototype

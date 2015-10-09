@@ -1,1 +1,0 @@
-'mozItemCount' in DataTransfer.prototype

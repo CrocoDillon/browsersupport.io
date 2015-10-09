@@ -1,1 +1,0 @@
-'cullFace' in WebGLRenderingContext.prototype

@@ -1,1 +1,0 @@
-'language' in VideoTrack.prototype

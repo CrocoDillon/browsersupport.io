@@ -1,1 +1,0 @@
-'onopen' in WebSocket.prototype

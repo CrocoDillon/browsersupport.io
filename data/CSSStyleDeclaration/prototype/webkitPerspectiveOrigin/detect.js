@@ -1,1 +1,0 @@
-'webkitPerspectiveOrigin' in CSSStyleDeclaration.prototype

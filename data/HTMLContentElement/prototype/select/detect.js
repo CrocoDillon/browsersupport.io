@@ -1,1 +1,0 @@
-'select' in HTMLContentElement.prototype

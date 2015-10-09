@@ -1,1 +1,0 @@
-'numberOfOutputs' in AudioNode.prototype

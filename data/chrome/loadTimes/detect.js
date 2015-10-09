@@ -1,1 +1,0 @@
-'loadTimes' in chrome

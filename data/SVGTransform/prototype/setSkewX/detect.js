@@ -1,1 +1,0 @@
-'setSkewX' in SVGTransform.prototype

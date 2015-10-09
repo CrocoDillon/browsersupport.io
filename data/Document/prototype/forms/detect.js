@@ -1,1 +1,0 @@
-'forms' in Document.prototype

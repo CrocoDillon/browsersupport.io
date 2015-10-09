@@ -1,1 +1,0 @@
-'createDynamicsCompressor' in webkitAudioContext.prototype

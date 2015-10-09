@@ -1,1 +1,0 @@
-'border' in CSSStyleDeclaration.prototype

@@ -1,1 +1,0 @@
-'lowerBound' in IDBKeyRange

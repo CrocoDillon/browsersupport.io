@@ -1,1 +1,0 @@
-'updating' in SourceBuffer.prototype

@@ -1,1 +1,0 @@
-'src' in HTMLFrameElement.prototype

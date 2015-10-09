@@ -1,1 +1,0 @@
-'firstChild' in SVGElementInstance.prototype

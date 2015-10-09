@@ -1,1 +1,0 @@
-'labels' in HTMLButtonElement.prototype

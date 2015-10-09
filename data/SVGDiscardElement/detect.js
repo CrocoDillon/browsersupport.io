@@ -1,1 +1,0 @@
-'SVGDiscardElement' in this

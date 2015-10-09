@@ -1,1 +1,0 @@
-'E' in Math

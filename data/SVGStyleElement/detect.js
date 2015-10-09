@@ -1,1 +1,0 @@
-'SVGStyleElement' in this

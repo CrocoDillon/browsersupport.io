@@ -1,1 +1,0 @@
-'rotateFromVector' in SVGMatrix.prototype

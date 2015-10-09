@@ -1,1 +1,0 @@
-'blendFuncSeparate' in WebGLRenderingContext.prototype

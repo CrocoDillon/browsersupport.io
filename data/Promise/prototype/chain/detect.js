@@ -1,1 +1,0 @@
-'chain' in Promise.prototype

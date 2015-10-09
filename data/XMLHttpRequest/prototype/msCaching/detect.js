@@ -1,1 +1,0 @@
-'msCaching' in XMLHttpRequest.prototype

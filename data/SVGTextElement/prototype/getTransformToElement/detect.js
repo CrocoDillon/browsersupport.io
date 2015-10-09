@@ -1,1 +1,0 @@
-'getTransformToElement' in SVGTextElement.prototype

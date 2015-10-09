@@ -1,1 +1,0 @@
-'result' in DOMException.prototype

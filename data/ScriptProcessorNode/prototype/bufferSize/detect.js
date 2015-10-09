@@ -1,1 +1,0 @@
-'bufferSize' in ScriptProcessorNode.prototype

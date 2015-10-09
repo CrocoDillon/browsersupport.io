@@ -1,1 +1,0 @@
-'createDTMFSender' in webkitRTCPeerConnection.prototype

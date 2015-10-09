@@ -1,1 +1,0 @@
-'onwebkittransitionend' in Window.prototype

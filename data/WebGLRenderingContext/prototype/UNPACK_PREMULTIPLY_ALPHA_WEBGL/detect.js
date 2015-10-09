@@ -1,1 +1,0 @@
-'UNPACK_PREMULTIPLY_ALPHA_WEBGL' in WebGLRenderingContext.prototype

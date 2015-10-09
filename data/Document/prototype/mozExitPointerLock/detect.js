@@ -1,1 +1,0 @@
-'mozExitPointerLock' in Document.prototype

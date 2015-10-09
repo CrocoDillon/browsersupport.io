@@ -1,1 +1,0 @@
-'cancelBubble' in Event.prototype

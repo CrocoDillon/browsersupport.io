@@ -1,1 +1,0 @@
-'scrollBy' in Window.prototype

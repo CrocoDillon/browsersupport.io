@@ -1,1 +1,0 @@
-'translationX' in MSGestureEvent.prototype

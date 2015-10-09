@@ -1,1 +1,0 @@
-'textContent' in Node.prototype

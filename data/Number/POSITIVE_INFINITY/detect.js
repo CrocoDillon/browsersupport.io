@@ -1,1 +1,0 @@
-'POSITIVE_INFINITY' in Number

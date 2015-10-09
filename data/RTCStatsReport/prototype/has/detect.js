@@ -1,1 +1,0 @@
-'has' in RTCStatsReport.prototype

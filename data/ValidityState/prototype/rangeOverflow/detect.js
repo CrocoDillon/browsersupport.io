@@ -1,1 +1,0 @@
-'rangeOverflow' in ValidityState.prototype

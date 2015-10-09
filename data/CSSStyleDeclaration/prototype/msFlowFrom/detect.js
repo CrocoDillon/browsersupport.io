@@ -1,1 +1,0 @@
-'msFlowFrom' in CSSStyleDeclaration.prototype

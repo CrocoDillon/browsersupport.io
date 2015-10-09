@@ -1,1 +1,0 @@
-'splice' in Array

@@ -1,1 +1,0 @@
-'currentSrc' in HTMLImageElement.prototype

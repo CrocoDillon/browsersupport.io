@@ -1,1 +1,0 @@
-'title' in StyleSheet.prototype

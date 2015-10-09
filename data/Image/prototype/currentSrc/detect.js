@@ -1,1 +1,0 @@
-'currentSrc' in Image.prototype

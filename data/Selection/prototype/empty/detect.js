@@ -1,1 +1,0 @@
-'empty' in Selection.prototype

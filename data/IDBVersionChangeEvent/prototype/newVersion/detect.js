@@ -1,1 +1,0 @@
-'newVersion' in IDBVersionChangeEvent.prototype

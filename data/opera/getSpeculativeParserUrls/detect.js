@@ -1,1 +1,0 @@
-'getSpeculativeParserUrls' in opera

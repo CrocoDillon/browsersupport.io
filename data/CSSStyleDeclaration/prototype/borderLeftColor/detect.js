@@ -1,1 +1,0 @@
-'borderLeftColor' in CSSStyleDeclaration.prototype

@@ -1,1 +1,0 @@
-'readReportRequested' in MozMmsMessage.prototype

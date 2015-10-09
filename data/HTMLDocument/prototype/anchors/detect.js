@@ -1,1 +1,0 @@
-'anchors' in HTMLDocument.prototype

@@ -1,1 +1,0 @@
-'onmouseup' in document

@@ -1,1 +1,0 @@
-'onfullscreenchange' in Document.prototype

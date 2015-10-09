@@ -1,1 +1,0 @@
-'channelCount' in AudioNode.prototype

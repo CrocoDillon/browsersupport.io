@@ -1,1 +1,0 @@
-'result' in SVGFEDropShadowElement.prototype

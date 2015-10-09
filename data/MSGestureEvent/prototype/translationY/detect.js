@@ -1,1 +1,0 @@
-'translationY' in MSGestureEvent.prototype

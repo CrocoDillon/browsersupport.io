@@ -1,1 +1,0 @@
-'sticky' in RegExp.prototype

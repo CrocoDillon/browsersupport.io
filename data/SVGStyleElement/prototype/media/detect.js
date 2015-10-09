@@ -1,1 +1,0 @@
-'media' in SVGStyleElement.prototype

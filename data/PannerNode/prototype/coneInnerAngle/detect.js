@@ -1,1 +1,0 @@
-'coneInnerAngle' in PannerNode.prototype

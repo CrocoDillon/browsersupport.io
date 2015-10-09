@@ -1,1 +1,0 @@
-'logicalYDPI' in Screen.prototype

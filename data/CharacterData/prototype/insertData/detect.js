@@ -1,1 +1,0 @@
-'insertData' in CharacterData.prototype

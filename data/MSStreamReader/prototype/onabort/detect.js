@@ -1,1 +1,0 @@
-'onabort' in MSStreamReader.prototype

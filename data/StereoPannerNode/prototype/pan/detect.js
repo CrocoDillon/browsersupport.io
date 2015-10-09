@@ -1,1 +1,0 @@
-'pan' in StereoPannerNode.prototype

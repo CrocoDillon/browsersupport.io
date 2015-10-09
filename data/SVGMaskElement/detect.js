@@ -1,1 +1,0 @@
-'SVGMaskElement' in this

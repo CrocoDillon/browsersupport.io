@@ -1,1 +1,0 @@
-'type' in CSSPageRule.prototype

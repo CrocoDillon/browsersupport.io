@@ -1,1 +1,0 @@
-'MOUSEOUT' in Event.prototype

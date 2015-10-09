@@ -1,1 +1,0 @@
-'toPrecision' in Number.prototype

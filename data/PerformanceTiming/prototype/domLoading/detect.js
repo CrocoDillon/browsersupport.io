@@ -1,1 +1,0 @@
-'domLoading' in PerformanceTiming.prototype

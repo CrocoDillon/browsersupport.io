@@ -1,1 +1,0 @@
-'webkitIDBIndex' in this

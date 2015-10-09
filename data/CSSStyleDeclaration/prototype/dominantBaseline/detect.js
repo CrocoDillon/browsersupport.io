@@ -1,1 +1,0 @@
-'dominantBaseline' in CSSStyleDeclaration.prototype

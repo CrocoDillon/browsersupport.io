@@ -1,1 +1,0 @@
-'matches' in MediaQueryList.prototype

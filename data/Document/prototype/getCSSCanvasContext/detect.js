@@ -1,1 +1,0 @@
-'getCSSCanvasContext' in Document.prototype

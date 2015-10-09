@@ -1,1 +1,0 @@
-'QueryInterface' in MozSmsMessage.prototype

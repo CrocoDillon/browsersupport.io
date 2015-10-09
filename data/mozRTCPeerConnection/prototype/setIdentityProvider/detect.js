@@ -1,1 +1,0 @@
-'setIdentityProvider' in mozRTCPeerConnection.prototype

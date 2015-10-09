@@ -1,1 +1,0 @@
-'elevation' in SVGFEDistantLightElement.prototype

@@ -1,1 +1,0 @@
-'ime-mode' in CSS2Properties.prototype

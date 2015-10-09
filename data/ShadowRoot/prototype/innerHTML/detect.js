@@ -1,1 +1,0 @@
-'innerHTML' in ShadowRoot.prototype

@@ -1,1 +1,0 @@
-'onload' in HTMLIFrameElement.prototype

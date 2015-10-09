@@ -1,1 +1,0 @@
-'attachShader' in WebGLRenderingContext.prototype

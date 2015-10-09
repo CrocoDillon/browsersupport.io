@@ -1,1 +1,0 @@
-'mozCursor' in DataTransfer.prototype

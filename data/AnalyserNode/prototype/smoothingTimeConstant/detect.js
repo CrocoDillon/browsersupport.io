@@ -1,1 +1,0 @@
-'smoothingTimeConstant' in AnalyserNode.prototype

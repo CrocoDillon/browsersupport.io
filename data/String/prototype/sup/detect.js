@@ -1,1 +1,0 @@
-'sup' in String.prototype

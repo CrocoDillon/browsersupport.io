@@ -1,1 +1,0 @@
-'connectStart' in PerformanceTiming.prototype

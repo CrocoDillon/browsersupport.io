@@ -1,1 +1,0 @@
-'webkitIndexedDB' in this

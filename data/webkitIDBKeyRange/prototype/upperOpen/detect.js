@@ -1,1 +1,0 @@
-'upperOpen' in webkitIDBKeyRange.prototype

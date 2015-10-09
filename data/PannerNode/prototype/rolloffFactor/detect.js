@@ -1,1 +1,0 @@
-'rolloffFactor' in PannerNode.prototype

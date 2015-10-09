@@ -1,1 +1,0 @@
-'onupdateready' in ApplicationCache.prototype

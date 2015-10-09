@@ -1,1 +1,0 @@
-'stretch' in FontFace.prototype

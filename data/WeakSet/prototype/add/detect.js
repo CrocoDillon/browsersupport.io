@@ -1,1 +1,0 @@
-'add' in WeakSet.prototype

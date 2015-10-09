@@ -1,1 +1,0 @@
-'BatteryManager' in this

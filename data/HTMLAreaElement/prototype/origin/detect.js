@@ -1,1 +1,0 @@
-'origin' in HTMLAreaElement.prototype

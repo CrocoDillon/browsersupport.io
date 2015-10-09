@@ -1,1 +1,0 @@
-'noResize' in HTMLFrameElement.prototype

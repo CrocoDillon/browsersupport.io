@@ -1,1 +1,0 @@
-'webkitAddKey' in HTMLMediaElement.prototype

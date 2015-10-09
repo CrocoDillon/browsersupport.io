@@ -1,1 +1,0 @@
-'farthestViewportElement' in SVGCircleElement.prototype

@@ -1,1 +1,0 @@
-'getIntersectionList' in SVGSVGElement.prototype

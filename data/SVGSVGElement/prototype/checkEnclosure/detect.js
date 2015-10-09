@@ -1,1 +1,0 @@
-'checkEnclosure' in SVGSVGElement.prototype

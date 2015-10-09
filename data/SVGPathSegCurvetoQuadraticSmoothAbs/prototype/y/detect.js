@@ -1,1 +1,0 @@
-'y' in SVGPathSegCurvetoQuadraticSmoothAbs.prototype

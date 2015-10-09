@@ -1,1 +1,0 @@
-'msToBlob' in HTMLCanvasElement.prototype

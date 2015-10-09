@@ -1,1 +1,0 @@
-'initCloseEvent' in CloseEvent.prototype

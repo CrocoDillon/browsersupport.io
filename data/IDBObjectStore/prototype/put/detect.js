@@ -1,1 +1,0 @@
-'put' in IDBObjectStore.prototype

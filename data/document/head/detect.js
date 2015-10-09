@@ -1,1 +1,0 @@
-'head' in document

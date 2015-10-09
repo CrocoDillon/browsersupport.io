@@ -1,1 +1,0 @@
-'complete' in Image.prototype

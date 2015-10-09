@@ -1,1 +1,0 @@
-'TEXTURE_CUBE_MAP_NEGATIVE_X' in WebGLRenderingContext.prototype

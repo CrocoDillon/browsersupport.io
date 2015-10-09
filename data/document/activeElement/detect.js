@@ -1,1 +1,0 @@
-'activeElement' in document

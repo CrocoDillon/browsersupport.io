@@ -1,1 +1,0 @@
-'getCueById' in TextTrackCueList.prototype

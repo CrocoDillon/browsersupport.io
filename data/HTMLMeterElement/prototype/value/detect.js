@@ -1,1 +1,0 @@
-'value' in HTMLMeterElement.prototype

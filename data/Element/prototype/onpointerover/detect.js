@@ -1,1 +1,0 @@
-'onpointerover' in Element.prototype

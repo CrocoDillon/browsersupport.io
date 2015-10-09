@@ -1,1 +1,0 @@
-'ontransitionend' in Window.prototype

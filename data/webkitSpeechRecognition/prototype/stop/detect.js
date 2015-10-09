@@ -1,1 +1,0 @@
-'stop' in webkitSpeechRecognition.prototype

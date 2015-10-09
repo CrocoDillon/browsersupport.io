@@ -1,1 +1,0 @@
-'toSource' in Object.prototype

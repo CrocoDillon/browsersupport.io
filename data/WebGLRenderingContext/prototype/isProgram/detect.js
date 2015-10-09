@@ -1,1 +1,0 @@
-'isProgram' in WebGLRenderingContext.prototype

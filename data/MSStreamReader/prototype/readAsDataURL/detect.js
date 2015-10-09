@@ -1,1 +1,0 @@
-'readAsDataURL' in MSStreamReader.prototype

@@ -1,1 +1,0 @@
-'onmozpointerlockerror' in Document.prototype

@@ -1,1 +1,0 @@
-'objectStore' in IDBIndex.prototype

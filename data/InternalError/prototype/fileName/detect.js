@@ -1,1 +1,0 @@
-'fileName' in InternalError.prototype

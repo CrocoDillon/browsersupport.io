@@ -1,1 +1,0 @@
-'getBoundingClientRect' in Range.prototype

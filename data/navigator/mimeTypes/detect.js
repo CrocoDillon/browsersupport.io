@@ -1,1 +1,0 @@
-'mimeTypes' in navigator

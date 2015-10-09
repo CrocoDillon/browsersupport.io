@@ -1,1 +1,0 @@
-'onerror' in IDBMutableFile.prototype

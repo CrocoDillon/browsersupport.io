@@ -1,1 +1,0 @@
-'rangeMin' in WebGLShaderPrecisionFormat.prototype

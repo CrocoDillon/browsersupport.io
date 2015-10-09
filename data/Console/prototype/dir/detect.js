@@ -1,1 +1,0 @@
-'dir' in Console.prototype

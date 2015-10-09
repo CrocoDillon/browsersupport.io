@@ -1,1 +1,0 @@
-'parentElement' in Node.prototype

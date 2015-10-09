@@ -1,1 +1,0 @@
-'execCommandShowHelp' in Document.prototype

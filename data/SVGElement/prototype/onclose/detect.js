@@ -1,1 +1,0 @@
-'onclose' in SVGElement.prototype

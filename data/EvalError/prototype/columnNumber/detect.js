@@ -1,1 +1,0 @@
-'columnNumber' in EvalError.prototype

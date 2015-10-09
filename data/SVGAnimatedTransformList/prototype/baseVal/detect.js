@@ -1,1 +1,0 @@
-'baseVal' in SVGAnimatedTransformList.prototype

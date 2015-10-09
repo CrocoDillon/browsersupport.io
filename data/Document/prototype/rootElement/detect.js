@@ -1,1 +1,0 @@
-'rootElement' in Document.prototype

@@ -1,1 +1,0 @@
-'lastMessageSubject' in MozMobileMessageThread.prototype

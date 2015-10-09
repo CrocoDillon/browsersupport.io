@@ -1,1 +1,0 @@
-'initPageEvent' in PageChangeEvent.prototype

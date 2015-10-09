@@ -1,1 +1,0 @@
-'onremovestream' in mozRTCPeerConnection.prototype

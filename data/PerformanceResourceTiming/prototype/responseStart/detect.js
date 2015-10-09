@@ -1,1 +1,0 @@
-'responseStart' in PerformanceResourceTiming.prototype

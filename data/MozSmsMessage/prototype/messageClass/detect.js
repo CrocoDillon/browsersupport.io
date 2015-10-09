@@ -1,1 +1,0 @@
-'messageClass' in MozSmsMessage.prototype

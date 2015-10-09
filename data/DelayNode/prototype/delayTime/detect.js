@@ -1,1 +1,0 @@
-'delayTime' in DelayNode.prototype

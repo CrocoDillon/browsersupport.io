@@ -1,1 +1,0 @@
-'msScrollLimit' in CSSStyleDeclaration.prototype

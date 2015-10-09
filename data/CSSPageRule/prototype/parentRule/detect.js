@@ -1,1 +1,0 @@
-'parentRule' in CSSPageRule.prototype

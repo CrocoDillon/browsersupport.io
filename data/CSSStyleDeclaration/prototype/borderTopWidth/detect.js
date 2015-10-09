@@ -1,1 +1,0 @@
-'borderTopWidth' in CSSStyleDeclaration.prototype

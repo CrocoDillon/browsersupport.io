@@ -1,1 +1,0 @@
-'getStreamById' in webkitRTCPeerConnection.prototype

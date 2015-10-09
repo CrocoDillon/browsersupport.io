@@ -1,1 +1,0 @@
-'properties' in HTMLElement.prototype

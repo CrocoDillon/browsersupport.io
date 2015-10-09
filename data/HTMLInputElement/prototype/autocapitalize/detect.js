@@ -1,1 +1,0 @@
-'autocapitalize' in HTMLInputElement.prototype

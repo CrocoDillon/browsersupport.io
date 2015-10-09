@@ -1,1 +1,0 @@
-'cssText' in CSSFontFeatureValuesRule.prototype

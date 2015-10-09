@@ -1,1 +1,0 @@
-'baseOffset' in Selection.prototype

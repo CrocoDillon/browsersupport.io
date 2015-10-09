@@ -1,1 +1,0 @@
-'setData' in DataTransfer.prototype

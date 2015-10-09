@@ -1,1 +1,0 @@
-'borderColor' in HTMLFrameSetElement.prototype

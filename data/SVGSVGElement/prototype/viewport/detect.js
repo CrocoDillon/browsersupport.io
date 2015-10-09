@@ -1,1 +1,0 @@
-'viewport' in SVGSVGElement.prototype

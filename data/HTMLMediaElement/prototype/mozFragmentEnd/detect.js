@@ -1,1 +1,0 @@
-'mozFragmentEnd' in HTMLMediaElement.prototype

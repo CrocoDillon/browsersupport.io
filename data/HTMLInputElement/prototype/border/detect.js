@@ -1,1 +1,0 @@
-'border' in HTMLInputElement.prototype

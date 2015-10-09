@@ -1,1 +1,0 @@
-'clientX' in MouseEvent.prototype

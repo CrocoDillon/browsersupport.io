@@ -1,1 +1,0 @@
-'getActiveUniform' in WebGLRenderingContext.prototype

@@ -1,1 +1,0 @@
-'scoped' in HTMLStyleElement.prototype

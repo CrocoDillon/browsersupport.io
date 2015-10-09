@@ -1,1 +1,0 @@
-'observe' in MutationObserver.prototype

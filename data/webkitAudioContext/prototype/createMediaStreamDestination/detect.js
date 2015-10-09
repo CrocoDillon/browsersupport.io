@@ -1,1 +1,0 @@
-'createMediaStreamDestination' in webkitAudioContext.prototype

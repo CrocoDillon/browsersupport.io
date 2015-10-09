@@ -1,1 +1,0 @@
-'DOM_VK_SEMICOLON' in KeyEvent

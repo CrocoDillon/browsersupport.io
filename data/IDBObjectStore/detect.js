@@ -1,1 +1,0 @@
-'IDBObjectStore' in this

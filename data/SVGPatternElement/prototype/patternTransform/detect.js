@@ -1,1 +1,0 @@
-'patternTransform' in SVGPatternElement.prototype

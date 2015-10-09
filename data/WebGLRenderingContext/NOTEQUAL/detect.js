@@ -1,1 +1,0 @@
-'NOTEQUAL' in WebGLRenderingContext

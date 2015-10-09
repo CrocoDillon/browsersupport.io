@@ -1,1 +1,0 @@
-'prefix' in CSSCounterStyleRule.prototype

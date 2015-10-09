@@ -1,1 +1,0 @@
-'limitingConeAngle' in SVGFESpotLightElement.prototype

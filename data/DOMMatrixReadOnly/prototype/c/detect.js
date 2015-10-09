@@ -1,1 +1,0 @@
-'c' in DOMMatrixReadOnly.prototype

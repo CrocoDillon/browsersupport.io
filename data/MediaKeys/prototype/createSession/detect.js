@@ -1,1 +1,0 @@
-'createSession' in MediaKeys.prototype

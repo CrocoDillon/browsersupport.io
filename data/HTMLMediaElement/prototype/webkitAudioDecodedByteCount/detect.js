@@ -1,1 +1,0 @@
-'webkitAudioDecodedByteCount' in HTMLMediaElement.prototype

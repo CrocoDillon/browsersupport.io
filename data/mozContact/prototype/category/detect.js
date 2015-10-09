@@ -1,1 +1,0 @@
-'category' in mozContact.prototype

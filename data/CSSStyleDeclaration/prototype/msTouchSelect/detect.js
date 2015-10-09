@@ -1,1 +1,0 @@
-'msTouchSelect' in CSSStyleDeclaration.prototype

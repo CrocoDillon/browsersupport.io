@@ -1,1 +1,0 @@
-'scrollTop' in Element.prototype

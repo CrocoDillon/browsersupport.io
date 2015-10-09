@@ -1,1 +1,0 @@
-'locale' in KeyboardEvent.prototype

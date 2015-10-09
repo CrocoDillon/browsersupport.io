@@ -1,1 +1,0 @@
-'markerWidth' in SVGMarkerElement.prototype

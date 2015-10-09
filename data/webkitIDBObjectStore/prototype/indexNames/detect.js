@@ -1,1 +1,0 @@
-'indexNames' in webkitIDBObjectStore.prototype

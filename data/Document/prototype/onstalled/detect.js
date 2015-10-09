@@ -1,1 +1,0 @@
-'onstalled' in Document.prototype

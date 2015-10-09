@@ -1,1 +1,0 @@
-'defaultURL' in MediaKeyEvent.prototype

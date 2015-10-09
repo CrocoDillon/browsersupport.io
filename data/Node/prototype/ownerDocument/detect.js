@@ -1,1 +1,0 @@
-'ownerDocument' in Node.prototype

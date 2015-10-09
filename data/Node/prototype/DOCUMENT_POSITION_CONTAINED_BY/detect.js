@@ -1,1 +1,0 @@
-'DOCUMENT_POSITION_CONTAINED_BY' in Node.prototype

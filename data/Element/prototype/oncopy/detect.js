@@ -1,1 +1,0 @@
-'oncopy' in Element.prototype

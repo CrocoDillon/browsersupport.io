@@ -1,1 +1,0 @@
-'family' in FontFace.prototype

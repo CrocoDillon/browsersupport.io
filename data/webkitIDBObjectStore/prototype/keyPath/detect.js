@@ -1,1 +1,0 @@
-'keyPath' in webkitIDBObjectStore.prototype

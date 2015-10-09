@@ -1,1 +1,0 @@
-'webkitIDBObjectStore' in this

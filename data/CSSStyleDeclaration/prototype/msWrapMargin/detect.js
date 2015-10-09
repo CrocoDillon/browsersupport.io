@@ -1,1 +1,0 @@
-'msWrapMargin' in CSSStyleDeclaration.prototype

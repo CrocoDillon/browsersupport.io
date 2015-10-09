@@ -1,1 +1,0 @@
-'onfinish' in HTMLMarqueeElement.prototype

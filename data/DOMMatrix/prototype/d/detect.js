@@ -1,1 +1,0 @@
-'d' in DOMMatrix.prototype

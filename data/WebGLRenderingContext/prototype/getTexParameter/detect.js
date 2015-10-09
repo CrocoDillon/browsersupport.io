@@ -1,1 +1,0 @@
-'getTexParameter' in WebGLRenderingContext.prototype

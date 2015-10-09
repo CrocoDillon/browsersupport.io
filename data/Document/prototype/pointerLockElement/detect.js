@@ -1,1 +1,0 @@
-'pointerLockElement' in Document.prototype

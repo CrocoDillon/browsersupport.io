@@ -1,1 +1,0 @@
-'KEYFRAME_RULE' in CSSRule

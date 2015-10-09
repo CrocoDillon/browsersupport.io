@@ -1,1 +1,0 @@
-'latitude' in Coordinates.prototype

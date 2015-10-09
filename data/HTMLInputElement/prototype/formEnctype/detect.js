@@ -1,1 +1,0 @@
-'formEnctype' in HTMLInputElement.prototype

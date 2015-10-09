@@ -1,1 +1,0 @@
-'hasExtension' in SVGForeignObjectElement.prototype

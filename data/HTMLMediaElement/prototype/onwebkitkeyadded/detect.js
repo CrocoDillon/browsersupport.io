@@ -1,1 +1,0 @@
-'onwebkitkeyadded' in HTMLMediaElement.prototype

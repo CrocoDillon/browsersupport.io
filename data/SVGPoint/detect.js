@@ -1,1 +1,0 @@
-'SVGPoint' in this

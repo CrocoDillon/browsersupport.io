@@ -1,1 +1,0 @@
-'transformString' in SVGViewSpec.prototype

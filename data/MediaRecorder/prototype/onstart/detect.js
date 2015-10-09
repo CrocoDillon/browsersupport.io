@@ -1,1 +1,0 @@
-'onstart' in MediaRecorder.prototype

@@ -1,1 +1,0 @@
-'createNodeIterator' in Document.prototype

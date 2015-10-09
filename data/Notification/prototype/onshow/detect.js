@@ -1,1 +1,0 @@
-'onshow' in Notification.prototype

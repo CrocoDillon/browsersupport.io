@@ -1,1 +1,0 @@
-'onoffline' in HTMLFrameSetElement.prototype

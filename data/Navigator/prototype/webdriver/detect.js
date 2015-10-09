@@ -1,1 +1,0 @@
-'webdriver' in Navigator.prototype

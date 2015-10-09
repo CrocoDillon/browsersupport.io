@@ -1,1 +1,0 @@
-'pageX' in UIEvent.prototype

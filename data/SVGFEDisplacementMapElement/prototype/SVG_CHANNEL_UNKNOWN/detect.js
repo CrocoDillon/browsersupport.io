@@ -1,1 +1,0 @@
-'SVG_CHANNEL_UNKNOWN' in SVGFEDisplacementMapElement.prototype

@@ -1,1 +1,0 @@
-'enableStyleSheetsForSet' in Document.prototype

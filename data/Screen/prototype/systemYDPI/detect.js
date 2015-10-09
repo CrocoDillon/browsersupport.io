@@ -1,1 +1,0 @@
-'systemYDPI' in Screen.prototype

@@ -1,1 +1,0 @@
-'keyText' in MozCSSKeyframeRule.prototype

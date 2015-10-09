@@ -1,1 +1,0 @@
-'getAttributeNodeNS' in Element.prototype

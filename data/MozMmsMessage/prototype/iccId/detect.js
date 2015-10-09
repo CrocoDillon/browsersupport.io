@@ -1,1 +1,0 @@
-'iccId' in MozMmsMessage.prototype

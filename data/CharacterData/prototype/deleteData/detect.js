@@ -1,1 +1,0 @@
-'deleteData' in CharacterData.prototype

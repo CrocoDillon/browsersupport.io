@@ -1,1 +1,0 @@
-'createElement' in Document.prototype

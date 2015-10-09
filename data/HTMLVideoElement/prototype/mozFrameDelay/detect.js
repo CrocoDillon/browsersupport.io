@@ -1,1 +1,0 @@
-'mozFrameDelay' in HTMLVideoElement.prototype

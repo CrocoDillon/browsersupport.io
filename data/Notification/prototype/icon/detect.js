@@ -1,1 +1,0 @@
-'icon' in Notification.prototype

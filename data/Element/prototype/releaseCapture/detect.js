@@ -1,1 +1,0 @@
-'releaseCapture' in Element.prototype

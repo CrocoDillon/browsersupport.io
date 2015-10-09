@@ -1,1 +1,0 @@
-'oncut' in Document.prototype

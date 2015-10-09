@@ -1,1 +1,0 @@
-'styleSheet' in CSSImportRule.prototype

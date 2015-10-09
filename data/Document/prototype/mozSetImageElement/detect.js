@@ -1,1 +1,0 @@
-'mozSetImageElement' in Document.prototype

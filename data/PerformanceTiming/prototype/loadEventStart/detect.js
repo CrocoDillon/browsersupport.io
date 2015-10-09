@@ -1,1 +1,0 @@
-'loadEventStart' in PerformanceTiming.prototype

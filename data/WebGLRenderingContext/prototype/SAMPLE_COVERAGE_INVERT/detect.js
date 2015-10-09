@@ -1,1 +1,0 @@
-'SAMPLE_COVERAGE_INVERT' in WebGLRenderingContext.prototype

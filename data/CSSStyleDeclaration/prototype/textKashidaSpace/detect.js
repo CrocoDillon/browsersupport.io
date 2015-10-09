@@ -1,1 +1,0 @@
-'textKashidaSpace' in CSSStyleDeclaration.prototype

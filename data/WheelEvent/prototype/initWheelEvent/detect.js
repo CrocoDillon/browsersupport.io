@@ -1,1 +1,0 @@
-'initWheelEvent' in WheelEvent.prototype

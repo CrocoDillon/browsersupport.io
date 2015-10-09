@@ -1,1 +1,0 @@
-'mimeTypes' in Navigator.prototype

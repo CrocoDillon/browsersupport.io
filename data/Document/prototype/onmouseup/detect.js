@@ -1,1 +1,0 @@
-'onmouseup' in Document.prototype

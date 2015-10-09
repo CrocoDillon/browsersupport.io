@@ -1,1 +1,0 @@
-'prevValue' in MutationEvent.prototype

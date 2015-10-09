@@ -1,1 +1,0 @@
-'zoomAndPan' in SVGViewElement.prototype

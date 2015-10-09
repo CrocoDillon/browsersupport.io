@@ -1,1 +1,0 @@
-'appendBuffer' in SourceBuffer.prototype

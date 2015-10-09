@@ -1,1 +1,0 @@
-'checked' in HTMLInputElement.prototype

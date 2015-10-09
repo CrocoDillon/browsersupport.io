@@ -1,1 +1,0 @@
-'hardwareConcurrency' in Navigator.prototype

@@ -1,1 +1,0 @@
-'scale' in DOMMatrixReadOnly.prototype

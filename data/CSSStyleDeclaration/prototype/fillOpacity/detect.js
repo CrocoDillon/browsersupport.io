@@ -1,1 +1,0 @@
-'fillOpacity' in CSSStyleDeclaration.prototype

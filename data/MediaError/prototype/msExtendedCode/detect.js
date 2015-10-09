@@ -1,1 +1,0 @@
-'msExtendedCode' in MediaError.prototype

@@ -1,1 +1,0 @@
-'addPointer' in MSGesture.prototype

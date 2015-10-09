@@ -1,1 +1,0 @@
-'onstorage' in HTMLFrameSetElement.prototype

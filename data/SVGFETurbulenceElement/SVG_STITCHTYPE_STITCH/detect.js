@@ -1,1 +1,0 @@
-'SVG_STITCHTYPE_STITCH' in SVGFETurbulenceElement

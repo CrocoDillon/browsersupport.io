@@ -1,1 +1,0 @@
-'interval' in DeviceMotionEvent.prototype

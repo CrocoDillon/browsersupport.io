@@ -1,1 +1,0 @@
-'hasChildNodes' in Node.prototype

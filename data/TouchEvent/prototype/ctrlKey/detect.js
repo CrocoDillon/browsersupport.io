@@ -1,1 +1,0 @@
-'ctrlKey' in TouchEvent.prototype

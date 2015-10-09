@@ -1,1 +1,0 @@
-'crossOrigin' in HTMLImageElement.prototype

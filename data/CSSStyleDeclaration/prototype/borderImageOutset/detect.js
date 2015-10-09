@@ -1,1 +1,0 @@
-'borderImageOutset' in CSSStyleDeclaration.prototype

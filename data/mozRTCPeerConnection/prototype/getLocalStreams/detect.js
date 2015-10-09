@@ -1,1 +1,0 @@
-'getLocalStreams' in mozRTCPeerConnection.prototype

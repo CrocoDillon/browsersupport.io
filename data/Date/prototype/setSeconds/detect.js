@@ -1,1 +1,0 @@
-'setSeconds' in Date.prototype

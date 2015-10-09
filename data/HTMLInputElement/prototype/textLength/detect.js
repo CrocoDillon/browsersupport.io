@@ -1,1 +1,0 @@
-'textLength' in HTMLInputElement.prototype

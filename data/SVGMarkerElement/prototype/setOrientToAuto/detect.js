@@ -1,1 +1,0 @@
-'setOrientToAuto' in SVGMarkerElement.prototype

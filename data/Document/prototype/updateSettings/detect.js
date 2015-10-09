@@ -1,1 +1,0 @@
-'updateSettings' in Document.prototype

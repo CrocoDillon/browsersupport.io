@@ -1,1 +1,0 @@
-'select' in Console.prototype

@@ -1,1 +1,0 @@
-'RENDERBUFFER_ALPHA_SIZE' in WebGLRenderingContext

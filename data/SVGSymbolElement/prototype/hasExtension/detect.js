@@ -1,1 +1,0 @@
-'hasExtension' in SVGSymbolElement.prototype

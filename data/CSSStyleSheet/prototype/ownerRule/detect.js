@@ -1,1 +1,0 @@
-'ownerRule' in CSSStyleSheet.prototype

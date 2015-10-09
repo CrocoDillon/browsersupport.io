@@ -1,1 +1,0 @@
-'isShader' in WebGLRenderingContext.prototype

@@ -1,1 +1,0 @@
-'translateSelf' in DOMMatrix.prototype

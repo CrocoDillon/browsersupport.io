@@ -1,1 +1,0 @@
-'onversionchange' in IDBDatabase.prototype

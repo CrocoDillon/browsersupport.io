@@ -1,1 +1,0 @@
-'getNamedItemNS' in NamedNodeMap.prototype

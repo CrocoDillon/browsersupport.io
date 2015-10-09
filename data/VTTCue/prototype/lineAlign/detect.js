@@ -1,1 +1,0 @@
-'lineAlign' in VTTCue.prototype

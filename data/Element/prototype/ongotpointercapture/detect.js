@@ -1,1 +1,0 @@
-'ongotpointercapture' in Element.prototype

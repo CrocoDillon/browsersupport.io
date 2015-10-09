@@ -1,1 +1,0 @@
-'currentTarget' in Event.prototype

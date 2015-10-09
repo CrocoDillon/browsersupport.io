@@ -1,1 +1,0 @@
-'msScrollSnapX' in CSSStyleDeclaration.prototype

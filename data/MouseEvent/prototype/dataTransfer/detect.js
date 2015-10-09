@@ -1,1 +1,0 @@
-'dataTransfer' in MouseEvent.prototype

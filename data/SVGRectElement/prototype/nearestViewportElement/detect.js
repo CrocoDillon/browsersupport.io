@@ -1,1 +1,0 @@
-'nearestViewportElement' in SVGRectElement.prototype

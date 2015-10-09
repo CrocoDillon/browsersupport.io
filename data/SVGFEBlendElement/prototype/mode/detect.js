@@ -1,1 +1,0 @@
-'mode' in SVGFEBlendElement.prototype

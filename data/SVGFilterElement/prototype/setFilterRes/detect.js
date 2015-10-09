@@ -1,1 +1,0 @@
-'setFilterRes' in SVGFilterElement.prototype

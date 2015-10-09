@@ -1,1 +1,0 @@
-'alpha' in DeviceRotationRate.prototype

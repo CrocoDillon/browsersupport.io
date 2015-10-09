@@ -1,1 +1,0 @@
-'advance' in webkitIDBCursor.prototype

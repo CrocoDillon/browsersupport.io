@@ -1,1 +1,0 @@
-'mediaElement' in MediaElementAudioSourceNode.prototype

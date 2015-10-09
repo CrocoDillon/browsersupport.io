@@ -1,1 +1,0 @@
-'SVG_PRESERVEASPECTRATIO_XMIDYMAX' in SVGPreserveAspectRatio.prototype

@@ -1,1 +1,0 @@
-'algorithm' in CryptoKey.prototype

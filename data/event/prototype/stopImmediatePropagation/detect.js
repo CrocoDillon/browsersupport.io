@@ -1,1 +1,0 @@
-'stopImmediatePropagation' in Event.prototype

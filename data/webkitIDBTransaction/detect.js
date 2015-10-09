@@ -1,1 +1,0 @@
-'webkitIDBTransaction' in this

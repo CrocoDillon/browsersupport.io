@@ -1,1 +1,0 @@
-'fullscreenElement' in Document.prototype

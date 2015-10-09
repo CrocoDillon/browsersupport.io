@@ -1,1 +1,0 @@
-'cloneNode' in Node.prototype

@@ -1,1 +1,0 @@
-'createPeriodicWave' in webkitAudioContext.prototype

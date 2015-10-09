@@ -1,1 +1,0 @@
-'PROCESSING_INSTRUCTION_NODE' in Node.prototype

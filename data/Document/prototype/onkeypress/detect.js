@@ -1,1 +1,0 @@
-'onkeypress' in Document.prototype

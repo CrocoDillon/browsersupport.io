@@ -1,1 +1,0 @@
-'aLink' in HTMLBodyElement.prototype

@@ -1,1 +1,0 @@
-'rotate' in SVGTextPositioningElement.prototype

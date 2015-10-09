@@ -1,1 +1,0 @@
-'ordered' in DataChannel.prototype

@@ -1,1 +1,0 @@
-'fromCharCode' in String

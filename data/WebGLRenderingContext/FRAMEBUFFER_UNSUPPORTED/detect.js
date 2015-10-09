@@ -1,1 +1,0 @@
-'FRAMEBUFFER_UNSUPPORTED' in WebGLRenderingContext

@@ -1,1 +1,0 @@
-'oncandidatewindowshow' in MSInputMethodContext.prototype

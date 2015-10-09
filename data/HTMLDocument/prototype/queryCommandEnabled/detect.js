@@ -1,1 +1,0 @@
-'queryCommandEnabled' in HTMLDocument.prototype

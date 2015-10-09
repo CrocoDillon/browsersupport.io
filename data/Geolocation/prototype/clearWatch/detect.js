@@ -1,1 +1,0 @@
-'clearWatch' in Geolocation.prototype

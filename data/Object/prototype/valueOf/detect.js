@@ -1,1 +1,0 @@
-'valueOf' in Object.prototype

@@ -1,1 +1,0 @@
-'list' in HTMLInputElement.prototype

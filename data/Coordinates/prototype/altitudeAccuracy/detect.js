@@ -1,1 +1,0 @@
-'altitudeAccuracy' in Coordinates.prototype

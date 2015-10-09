@@ -1,1 +1,0 @@
-'blob' in Request.prototype

@@ -1,1 +1,0 @@
-'mozCaptureStreamUntilEnded' in HTMLMediaElement.prototype

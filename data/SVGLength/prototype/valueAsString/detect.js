@@ -1,1 +1,0 @@
-'valueAsString' in SVGLength.prototype

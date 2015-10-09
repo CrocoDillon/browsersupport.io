@@ -1,1 +1,0 @@
-'key' in IDBCursor.prototype

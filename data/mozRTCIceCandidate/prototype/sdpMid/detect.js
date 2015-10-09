@@ -1,1 +1,0 @@
-'sdpMid' in mozRTCIceCandidate.prototype

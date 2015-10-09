@@ -1,1 +1,0 @@
-'scope' in ServiceWorkerRegistration.prototype

@@ -1,1 +1,0 @@
-'selectorText' in CSSStyleRule.prototype

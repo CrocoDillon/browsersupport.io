@@ -1,1 +1,0 @@
-'onloadeddata' in SVGElement.prototype

@@ -1,1 +1,0 @@
-'borderImageSlice' in CSSStyleDeclaration.prototype

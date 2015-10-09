@@ -1,1 +1,0 @@
-'toSource' in String.prototype

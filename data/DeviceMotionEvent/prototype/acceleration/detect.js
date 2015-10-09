@@ -1,1 +1,0 @@
-'acceleration' in DeviceMotionEvent.prototype

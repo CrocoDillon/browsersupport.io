@@ -1,1 +1,0 @@
-'javaEnabled' in Navigator.prototype

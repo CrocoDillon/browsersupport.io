@@ -1,1 +1,0 @@
-'webkitResolveLocalFileSystemURL' in Window.prototype

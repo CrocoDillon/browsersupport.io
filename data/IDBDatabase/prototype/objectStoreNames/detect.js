@@ -1,1 +1,0 @@
-'objectStoreNames' in IDBDatabase.prototype

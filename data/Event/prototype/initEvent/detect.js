@@ -1,1 +1,0 @@
-'initEvent' in Event.prototype

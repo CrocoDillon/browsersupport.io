@@ -1,1 +1,0 @@
-'close' in webkitAudioContext.prototype

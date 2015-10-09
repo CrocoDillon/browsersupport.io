@@ -1,1 +1,0 @@
-'MS_MANIPULATION_STATE_COMMITTED' in MSManipulationEvent

@@ -1,1 +1,0 @@
-'createSVGMatrix' in SVGSVGElement.prototype

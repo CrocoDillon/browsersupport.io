@@ -1,1 +1,0 @@
-'getUTCMonth' in Date.prototype

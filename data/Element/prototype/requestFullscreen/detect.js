@@ -1,1 +1,0 @@
-'requestFullscreen' in Element.prototype

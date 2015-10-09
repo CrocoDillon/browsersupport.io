@@ -1,1 +1,0 @@
-'getTransformToElement' in SVGSwitchElement.prototype

@@ -1,1 +1,0 @@
-'quotes' in CSSStyleDeclaration.prototype

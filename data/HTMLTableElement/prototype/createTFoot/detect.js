@@ -1,1 +1,0 @@
-'createTFoot' in HTMLTableElement.prototype

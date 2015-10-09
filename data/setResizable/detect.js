@@ -1,1 +1,0 @@
-'setResizable' in this

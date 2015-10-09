@@ -1,1 +1,0 @@
-'reportValidity' in HTMLTextAreaElement.prototype

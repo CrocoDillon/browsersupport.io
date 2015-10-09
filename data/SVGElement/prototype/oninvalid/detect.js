@@ -1,1 +1,0 @@
-'oninvalid' in SVGElement.prototype

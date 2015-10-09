@@ -1,1 +1,0 @@
-'onmsgestureend' in Element.prototype

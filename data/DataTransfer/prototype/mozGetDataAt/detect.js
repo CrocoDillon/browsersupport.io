@@ -1,1 +1,0 @@
-'mozGetDataAt' in DataTransfer.prototype

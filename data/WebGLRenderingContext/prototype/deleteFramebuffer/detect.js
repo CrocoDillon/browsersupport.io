@@ -1,1 +1,0 @@
-'deleteFramebuffer' in WebGLRenderingContext.prototype

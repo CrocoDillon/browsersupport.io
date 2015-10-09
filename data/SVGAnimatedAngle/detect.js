@@ -1,1 +1,0 @@
-'SVGAnimatedAngle' in this

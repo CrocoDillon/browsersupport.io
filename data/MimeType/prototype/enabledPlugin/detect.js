@@ -1,1 +1,0 @@
-'enabledPlugin' in MimeType.prototype

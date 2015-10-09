@@ -1,1 +1,0 @@
-'MS_MANIPULATION_STATE_CANCELLED' in MSManipulationEvent.prototype

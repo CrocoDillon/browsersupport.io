@@ -1,1 +1,0 @@
-'expiryDate' in MozMmsMessage.prototype

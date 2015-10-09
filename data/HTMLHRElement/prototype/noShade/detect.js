@@ -1,1 +1,0 @@
-'noShade' in HTMLHRElement.prototype

@@ -1,1 +1,0 @@
-'xmlStandalone' in Document.prototype

@@ -1,1 +1,0 @@
-'hspace' in HTMLObjectElement.prototype

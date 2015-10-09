@@ -1,1 +1,0 @@
-'onscroll' in Document.prototype

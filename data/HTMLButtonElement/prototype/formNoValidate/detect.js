@@ -1,1 +1,0 @@
-'formNoValidate' in HTMLButtonElement.prototype

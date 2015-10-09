@@ -1,1 +1,0 @@
-'compareDocumentPosition' in Node.prototype

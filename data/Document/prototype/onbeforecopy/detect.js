@@ -1,1 +1,0 @@
-'onbeforecopy' in Document.prototype

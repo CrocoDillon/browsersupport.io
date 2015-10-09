@@ -1,1 +1,0 @@
-'propertyName' in WebKitTransitionEvent.prototype

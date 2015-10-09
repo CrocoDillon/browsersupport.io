@@ -1,1 +1,0 @@
-'sheet' in HTMLStyleElement.prototype

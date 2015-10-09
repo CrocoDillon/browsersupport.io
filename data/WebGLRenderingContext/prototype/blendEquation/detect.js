@@ -1,1 +1,0 @@
-'blendEquation' in WebGLRenderingContext.prototype

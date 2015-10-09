@@ -1,1 +1,0 @@
-'onloadend' in MSStreamReader.prototype

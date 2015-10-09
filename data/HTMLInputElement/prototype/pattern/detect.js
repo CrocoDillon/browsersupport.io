@@ -1,1 +1,0 @@
-'pattern' in HTMLInputElement.prototype

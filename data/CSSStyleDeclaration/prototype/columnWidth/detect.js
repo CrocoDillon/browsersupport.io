@@ -1,1 +1,0 @@
-'columnWidth' in CSSStyleDeclaration.prototype

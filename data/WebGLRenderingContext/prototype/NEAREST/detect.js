@@ -1,1 +1,0 @@
-'NEAREST' in WebGLRenderingContext.prototype

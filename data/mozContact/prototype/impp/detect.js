@@ -1,1 +1,0 @@
-'impp' in mozContact.prototype

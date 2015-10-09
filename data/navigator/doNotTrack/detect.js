@@ -1,1 +1,0 @@
-'doNotTrack' in navigator

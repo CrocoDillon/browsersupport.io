@@ -1,1 +1,0 @@
-'UNSENT' in XMLHttpRequest

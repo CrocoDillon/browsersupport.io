@@ -1,1 +1,0 @@
-'bgColor' in Document.prototype

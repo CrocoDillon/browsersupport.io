@@ -1,1 +1,0 @@
-'ontoggle' in SVGElement.prototype

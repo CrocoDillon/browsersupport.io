@@ -1,1 +1,0 @@
-'inputBuffer' in AudioProcessingEvent.prototype

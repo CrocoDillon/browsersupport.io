@@ -1,1 +1,0 @@
-'copyFromChannel' in AudioBuffer.prototype

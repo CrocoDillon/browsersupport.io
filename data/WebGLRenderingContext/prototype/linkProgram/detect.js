@@ -1,1 +1,0 @@
-'linkProgram' in WebGLRenderingContext.prototype

@@ -1,1 +1,0 @@
-'releasePointerCapture' in Element.prototype

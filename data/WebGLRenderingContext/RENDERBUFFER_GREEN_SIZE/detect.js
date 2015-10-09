@@ -1,1 +1,0 @@
-'RENDERBUFFER_GREEN_SIZE' in WebGLRenderingContext

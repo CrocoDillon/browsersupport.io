@@ -1,1 +1,0 @@
-'abbr' in HTMLTableCellElement.prototype

@@ -1,1 +1,0 @@
-'sampleRate' in AudioBuffer.prototype

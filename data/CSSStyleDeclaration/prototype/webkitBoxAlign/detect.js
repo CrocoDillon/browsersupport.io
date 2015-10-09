@@ -1,1 +1,0 @@
-'webkitBoxAlign' in CSSStyleDeclaration.prototype

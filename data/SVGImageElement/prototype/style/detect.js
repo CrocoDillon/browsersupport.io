@@ -1,1 +1,0 @@
-'style' in SVGImageElement.prototype

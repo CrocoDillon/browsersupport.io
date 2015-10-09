@@ -1,1 +1,0 @@
-'onmessage' in Worker.prototype

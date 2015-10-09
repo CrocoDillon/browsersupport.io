@@ -1,1 +1,0 @@
-'mozRemove' in OfflineResourceList.prototype

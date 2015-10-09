@@ -1,1 +1,0 @@
-'SVGStopElement' in this

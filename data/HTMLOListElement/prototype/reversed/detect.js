@@ -1,1 +1,0 @@
-'reversed' in HTMLOListElement.prototype

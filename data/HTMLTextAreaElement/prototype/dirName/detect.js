@@ -1,1 +1,0 @@
-'dirName' in HTMLTextAreaElement.prototype

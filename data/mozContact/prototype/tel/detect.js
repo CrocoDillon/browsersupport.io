@@ -1,1 +1,0 @@
-'tel' in mozContact.prototype

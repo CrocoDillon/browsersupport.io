@@ -1,1 +1,0 @@
-'cloneRange' in Range.prototype

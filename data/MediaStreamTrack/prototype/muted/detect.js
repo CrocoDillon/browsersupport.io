@@ -1,1 +1,0 @@
-'muted' in MediaStreamTrack.prototype

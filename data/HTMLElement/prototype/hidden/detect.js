@@ -1,1 +1,0 @@
-'hidden' in HTMLElement.prototype

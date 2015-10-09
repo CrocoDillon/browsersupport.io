@@ -1,1 +1,0 @@
-'getReceivers' in mozRTCPeerConnection.prototype

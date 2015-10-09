@@ -1,1 +1,0 @@
-'animatedNormalizedPathSegList' in SVGPathElement.prototype

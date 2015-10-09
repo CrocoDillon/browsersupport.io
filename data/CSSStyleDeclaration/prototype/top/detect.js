@@ -1,1 +1,0 @@
-'top' in CSSStyleDeclaration.prototype

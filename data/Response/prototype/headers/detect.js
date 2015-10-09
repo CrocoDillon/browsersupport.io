@@ -1,1 +1,0 @@
-'headers' in Response.prototype

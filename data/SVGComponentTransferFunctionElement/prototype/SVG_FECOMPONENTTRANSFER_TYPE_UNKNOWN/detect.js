@@ -1,1 +1,0 @@
-'SVG_FECOMPONENTTRANSFER_TYPE_UNKNOWN' in SVGComponentTransferFunctionElement.prototype

@@ -1,1 +1,0 @@
-'mimeType' in MediaRecorder.prototype

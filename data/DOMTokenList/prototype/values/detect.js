@@ -1,1 +1,0 @@
-'values' in DOMTokenList.prototype

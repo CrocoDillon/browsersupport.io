@@ -1,1 +1,0 @@
-'maxLength' in HTMLInputElement.prototype

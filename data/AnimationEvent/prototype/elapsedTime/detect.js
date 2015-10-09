@@ -1,1 +1,0 @@
-'elapsedTime' in AnimationEvent.prototype

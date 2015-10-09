@@ -1,1 +1,0 @@
-'onfocusin' in SVGElement.prototype

@@ -1,1 +1,0 @@
-'multiply' in SVGMatrix.prototype

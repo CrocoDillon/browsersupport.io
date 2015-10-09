@@ -1,1 +1,0 @@
-'onwebkitfullscreenerror' in Document.prototype

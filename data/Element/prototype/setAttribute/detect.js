@@ -1,1 +1,0 @@
-'setAttribute' in Element.prototype

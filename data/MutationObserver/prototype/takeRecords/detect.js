@@ -1,1 +1,0 @@
-'takeRecords' in MutationObserver.prototype

@@ -1,1 +1,0 @@
-'max' in DeviceProximityEvent.prototype

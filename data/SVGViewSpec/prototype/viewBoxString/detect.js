@@ -1,1 +1,0 @@
-'viewBoxString' in SVGViewSpec.prototype

@@ -1,1 +1,0 @@
-'shape' in HTMLAnchorElement.prototype

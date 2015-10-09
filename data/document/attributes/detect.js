@@ -1,1 +1,0 @@
-'attributes' in document

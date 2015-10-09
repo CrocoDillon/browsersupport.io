@@ -1,1 +1,0 @@
-'info' in Console.prototype

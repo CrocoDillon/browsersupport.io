@@ -1,1 +1,0 @@
-'toLocaleTimeString' in Date.prototype

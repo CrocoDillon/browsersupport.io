@@ -1,1 +1,0 @@
-'cssText' in MozCSSKeyframesRule.prototype

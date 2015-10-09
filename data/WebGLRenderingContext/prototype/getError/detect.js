@@ -1,1 +1,0 @@
-'getError' in WebGLRenderingContext.prototype

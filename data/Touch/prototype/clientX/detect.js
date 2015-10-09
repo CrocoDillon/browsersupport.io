@@ -1,1 +1,0 @@
-'clientX' in Touch.prototype

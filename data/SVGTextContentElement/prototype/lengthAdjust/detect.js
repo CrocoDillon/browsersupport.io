@@ -1,1 +1,0 @@
-'lengthAdjust' in SVGTextContentElement.prototype

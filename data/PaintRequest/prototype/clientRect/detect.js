@@ -1,1 +1,0 @@
-'clientRect' in PaintRequest.prototype

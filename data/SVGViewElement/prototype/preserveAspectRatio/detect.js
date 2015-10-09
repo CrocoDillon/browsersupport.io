@@ -1,1 +1,0 @@
-'preserveAspectRatio' in SVGViewElement.prototype

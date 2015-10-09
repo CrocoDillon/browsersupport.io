@@ -1,1 +1,0 @@
-'surfaceScale' in SVGFESpecularLightingElement.prototype

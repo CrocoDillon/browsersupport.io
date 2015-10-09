@@ -1,1 +1,0 @@
-'modify' in Selection.prototype

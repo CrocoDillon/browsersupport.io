@@ -1,1 +1,0 @@
-'defaultValue' in AudioParam.prototype

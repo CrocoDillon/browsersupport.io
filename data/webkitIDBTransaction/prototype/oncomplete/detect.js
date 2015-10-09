@@ -1,1 +1,0 @@
-'oncomplete' in webkitIDBTransaction.prototype

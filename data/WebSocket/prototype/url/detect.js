@@ -1,1 +1,0 @@
-'url' in WebSocket.prototype

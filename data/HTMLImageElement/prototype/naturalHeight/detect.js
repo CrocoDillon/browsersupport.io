@@ -1,1 +1,0 @@
-'naturalHeight' in HTMLImageElement.prototype

@@ -1,1 +1,0 @@
-'className' in SVGFETileElement.prototype

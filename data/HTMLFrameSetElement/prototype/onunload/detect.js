@@ -1,1 +1,0 @@
-'onunload' in HTMLFrameSetElement.prototype

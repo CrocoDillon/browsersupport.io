@@ -1,1 +1,0 @@
-'srcset' in Image.prototype

@@ -1,1 +1,0 @@
-'idpLoginUrl' in mozRTCPeerConnection.prototype

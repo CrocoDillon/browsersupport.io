@@ -1,1 +1,0 @@
-'scriptURL' in ServiceWorker.prototype

@@ -1,1 +1,0 @@
-'createChannelMerger' in AudioContext.prototype

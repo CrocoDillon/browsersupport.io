@@ -1,1 +1,0 @@
-'createChannelMerger' in webkitAudioContext.prototype

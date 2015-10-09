@@ -1,1 +1,0 @@
-'scrollDelay' in HTMLMarqueeElement.prototype

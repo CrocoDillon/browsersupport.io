@@ -1,1 +1,0 @@
-'getTimezoneOffset' in Date.prototype

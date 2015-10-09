@@ -1,1 +1,0 @@
-'red' in RGBColor.prototype

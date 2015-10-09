@@ -1,1 +1,0 @@
-'endOfStream' in MediaSource.prototype

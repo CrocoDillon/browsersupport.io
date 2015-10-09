@@ -1,1 +1,0 @@
-'clientRects' in NotifyPaintEvent.prototype

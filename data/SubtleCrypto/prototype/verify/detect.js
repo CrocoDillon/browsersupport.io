@@ -1,1 +1,0 @@
-'verify' in SubtleCrypto.prototype

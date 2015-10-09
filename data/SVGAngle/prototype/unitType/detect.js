@@ -1,1 +1,0 @@
-'unitType' in SVGAngle.prototype

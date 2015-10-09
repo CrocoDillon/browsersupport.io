@@ -1,1 +1,0 @@
-'createRadialGradient' in CanvasRenderingContext2D.prototype

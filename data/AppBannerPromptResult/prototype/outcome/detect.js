@@ -1,1 +1,0 @@
-'outcome' in AppBannerPromptResult.prototype

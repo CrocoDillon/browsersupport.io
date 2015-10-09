@@ -1,1 +1,0 @@
-'ondragenter' in SVGElement.prototype

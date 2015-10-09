@@ -1,1 +1,0 @@
-'getTime' in Date.prototype

@@ -1,1 +1,0 @@
-'update' in ApplicationCache.prototype

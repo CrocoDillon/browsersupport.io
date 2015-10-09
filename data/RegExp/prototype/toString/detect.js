@@ -1,1 +1,0 @@
-'toString' in RegExp.prototype

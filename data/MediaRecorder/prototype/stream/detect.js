@@ -1,1 +1,0 @@
-'stream' in MediaRecorder.prototype

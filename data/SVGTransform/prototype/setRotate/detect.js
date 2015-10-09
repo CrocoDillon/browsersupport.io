@@ -1,1 +1,0 @@
-'setRotate' in SVGTransform.prototype

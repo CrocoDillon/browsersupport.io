@@ -1,1 +1,0 @@
-'oncanplay' in Document.prototype

@@ -1,1 +1,0 @@
-'createWaveShaper' in AudioContext.prototype

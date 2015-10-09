@@ -1,1 +1,0 @@
-'toLocaleFormat' in Date.prototype

@@ -1,1 +1,0 @@
-'baselineShift' in CSSStyleDeclaration.prototype

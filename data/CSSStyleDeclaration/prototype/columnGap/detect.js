@@ -1,1 +1,0 @@
-'columnGap' in CSSStyleDeclaration.prototype

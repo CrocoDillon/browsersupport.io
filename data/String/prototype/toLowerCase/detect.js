@@ -1,1 +1,0 @@
-'toLowerCase' in String.prototype

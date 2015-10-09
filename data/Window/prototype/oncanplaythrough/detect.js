@@ -1,1 +1,0 @@
-'oncanplaythrough' in Window.prototype

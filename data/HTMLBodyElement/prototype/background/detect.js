@@ -1,1 +1,0 @@
-'background' in HTMLBodyElement.prototype

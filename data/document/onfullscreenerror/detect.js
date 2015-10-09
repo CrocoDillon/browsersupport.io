@@ -1,1 +1,0 @@
-'onfullscreenerror' in document

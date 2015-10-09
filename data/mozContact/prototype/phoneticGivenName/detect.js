@@ -1,1 +1,0 @@
-'phoneticGivenName' in mozContact.prototype

@@ -1,1 +1,0 @@
-'loadEventStart' in PerformanceNavigationTiming.prototype

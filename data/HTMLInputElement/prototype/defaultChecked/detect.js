@@ -1,1 +1,0 @@
-'defaultChecked' in HTMLInputElement.prototype

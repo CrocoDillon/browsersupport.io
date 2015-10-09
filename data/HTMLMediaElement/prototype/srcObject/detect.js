@@ -1,1 +1,0 @@
-'srcObject' in HTMLMediaElement.prototype

@@ -1,1 +1,0 @@
-'status' in XMLHttpRequest.prototype

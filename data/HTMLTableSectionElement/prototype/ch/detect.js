@@ -1,1 +1,0 @@
-'ch' in HTMLTableSectionElement.prototype

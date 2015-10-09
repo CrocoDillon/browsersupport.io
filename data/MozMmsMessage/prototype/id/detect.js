@@ -1,1 +1,0 @@
-'id' in MozMmsMessage.prototype

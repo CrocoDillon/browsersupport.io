@@ -1,1 +1,0 @@
-'initScrollAreaEvent' in ScrollAreaEvent.prototype

@@ -1,1 +1,0 @@
-'onpointerup' in Document.prototype

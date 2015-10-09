@@ -1,1 +1,0 @@
-'whiteSpace' in CSSStyleDeclaration.prototype

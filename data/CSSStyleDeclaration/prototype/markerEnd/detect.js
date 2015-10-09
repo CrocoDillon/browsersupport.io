@@ -1,1 +1,0 @@
-'markerEnd' in CSSStyleDeclaration.prototype

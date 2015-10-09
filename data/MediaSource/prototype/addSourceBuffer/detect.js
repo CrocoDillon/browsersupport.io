@@ -1,1 +1,0 @@
-'addSourceBuffer' in MediaSource.prototype

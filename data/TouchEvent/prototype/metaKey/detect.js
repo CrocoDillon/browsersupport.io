@@ -1,1 +1,0 @@
-'metaKey' in TouchEvent.prototype

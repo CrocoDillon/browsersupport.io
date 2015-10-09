@@ -1,1 +1,0 @@
-'kernelUnitLengthY' in SVGFEDiffuseLightingElement.prototype

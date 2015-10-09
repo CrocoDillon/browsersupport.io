@@ -1,1 +1,0 @@
-'media' in StyleSheet.prototype

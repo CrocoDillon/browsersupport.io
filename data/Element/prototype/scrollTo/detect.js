@@ -1,1 +1,0 @@
-'scrollTo' in Element.prototype

@@ -1,1 +1,0 @@
-'links' in Document.prototype

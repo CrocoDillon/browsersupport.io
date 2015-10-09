@@ -1,1 +1,0 @@
-'objectStore' in IDBTransaction.prototype

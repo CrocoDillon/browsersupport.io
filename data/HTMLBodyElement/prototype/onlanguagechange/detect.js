@@ -1,1 +1,0 @@
-'onlanguagechange' in HTMLBodyElement.prototype

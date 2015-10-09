@@ -1,1 +1,0 @@
-Symbol.unscopables in DocumentFragment.prototype

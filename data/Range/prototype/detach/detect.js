@@ -1,1 +1,0 @@
-'detach' in Range.prototype

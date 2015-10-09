@@ -1,1 +1,0 @@
-'currentScript' in Document.prototype

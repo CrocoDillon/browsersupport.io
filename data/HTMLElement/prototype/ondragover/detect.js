@@ -1,1 +1,0 @@
-'ondragover' in HTMLElement.prototype

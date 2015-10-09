@@ -1,1 +1,0 @@
-'signalingState' in mozRTCPeerConnection.prototype

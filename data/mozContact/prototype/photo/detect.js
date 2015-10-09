@@ -1,1 +1,0 @@
-'photo' in mozContact.prototype

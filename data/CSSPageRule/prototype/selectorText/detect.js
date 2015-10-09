@@ -1,1 +1,0 @@
-'selectorText' in CSSPageRule.prototype

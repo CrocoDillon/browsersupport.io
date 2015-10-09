@@ -1,1 +1,0 @@
-'ontouchmove' in document

@@ -1,1 +1,0 @@
-'onclick' in Document.prototype

@@ -1,1 +1,0 @@
-'initNSMouseEvent' in MouseEvent.prototype

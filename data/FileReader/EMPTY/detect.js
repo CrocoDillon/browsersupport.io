@@ -1,1 +1,0 @@
-'EMPTY' in FileReader

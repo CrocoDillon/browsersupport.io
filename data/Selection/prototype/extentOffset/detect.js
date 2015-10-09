@@ -1,1 +1,0 @@
-'extentOffset' in Selection.prototype

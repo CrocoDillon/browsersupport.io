@@ -1,1 +1,0 @@
-'listener' in webkitAudioContext.prototype

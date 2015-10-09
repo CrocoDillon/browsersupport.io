@@ -1,1 +1,0 @@
-'deleteRule' in CSSMozDocumentRule.prototype

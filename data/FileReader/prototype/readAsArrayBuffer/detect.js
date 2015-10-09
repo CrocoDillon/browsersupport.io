@@ -1,1 +1,0 @@
-'readAsArrayBuffer' in FileReader.prototype

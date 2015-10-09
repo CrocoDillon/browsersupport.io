@@ -1,1 +1,0 @@
-'domContentLoadedEventEnd' in PerformanceNavigationTiming.prototype

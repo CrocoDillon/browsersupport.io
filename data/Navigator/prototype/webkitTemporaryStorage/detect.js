@@ -1,1 +1,0 @@
-'webkitTemporaryStorage' in Navigator.prototype

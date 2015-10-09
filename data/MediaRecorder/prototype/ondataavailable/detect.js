@@ -1,1 +1,0 @@
-'ondataavailable' in MediaRecorder.prototype

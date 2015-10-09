@@ -1,1 +1,0 @@
-'violatedDirective' in SecurityPolicyViolationEvent.prototype

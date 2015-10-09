@@ -1,1 +1,0 @@
-'setMonth' in Date.prototype

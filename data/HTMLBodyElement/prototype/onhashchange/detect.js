@@ -1,1 +1,0 @@
-'onhashchange' in HTMLBodyElement.prototype

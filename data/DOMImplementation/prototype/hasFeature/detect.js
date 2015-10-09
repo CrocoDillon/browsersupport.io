@@ -1,1 +1,0 @@
-'hasFeature' in DOMImplementation.prototype

@@ -1,1 +1,0 @@
-'rows' in HTMLFrameSetElement.prototype

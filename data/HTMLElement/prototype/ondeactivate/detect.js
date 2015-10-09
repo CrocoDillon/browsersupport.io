@@ -1,1 +1,0 @@
-'ondeactivate' in HTMLElement.prototype

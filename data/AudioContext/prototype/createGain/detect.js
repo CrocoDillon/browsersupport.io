@@ -1,1 +1,0 @@
-'createGain' in AudioContext.prototype

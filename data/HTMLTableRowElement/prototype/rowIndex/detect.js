@@ -1,1 +1,0 @@
-'rowIndex' in HTMLTableRowElement.prototype

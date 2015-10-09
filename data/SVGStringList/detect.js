@@ -1,1 +1,0 @@
-'SVGStringList' in this

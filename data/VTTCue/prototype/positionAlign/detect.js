@@ -1,1 +1,0 @@
-'positionAlign' in VTTCue.prototype

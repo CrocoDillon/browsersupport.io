@@ -1,1 +1,0 @@
-'onmsgesturestart' in Document.prototype

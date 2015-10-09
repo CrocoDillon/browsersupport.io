@@ -1,1 +1,0 @@
-'transition' in CSSStyleDeclaration.prototype

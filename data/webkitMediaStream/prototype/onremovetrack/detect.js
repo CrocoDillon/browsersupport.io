@@ -1,1 +1,0 @@
-'onremovetrack' in webkitMediaStream.prototype

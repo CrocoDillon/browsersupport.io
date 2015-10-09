@@ -1,1 +1,0 @@
-'getSVGDocument' in HTMLEmbedElement.prototype

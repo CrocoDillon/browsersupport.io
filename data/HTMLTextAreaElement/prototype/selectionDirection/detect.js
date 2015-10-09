@@ -1,1 +1,0 @@
-'selectionDirection' in HTMLTextAreaElement.prototype

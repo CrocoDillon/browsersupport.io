@@ -1,1 +1,0 @@
-'moveTo' in Window.prototype

@@ -1,1 +1,0 @@
-'appendData' in CharacterData.prototype

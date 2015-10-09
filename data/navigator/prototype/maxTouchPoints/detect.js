@@ -1,1 +1,0 @@
-'maxTouchPoints' in Navigator.prototype

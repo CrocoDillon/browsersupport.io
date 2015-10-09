@@ -1,1 +1,0 @@
-'chargingTime' in BatteryManager.prototype

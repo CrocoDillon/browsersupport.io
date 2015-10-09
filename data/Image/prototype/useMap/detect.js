@@ -1,1 +1,0 @@
-'useMap' in Image.prototype

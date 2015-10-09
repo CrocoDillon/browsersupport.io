@@ -1,1 +1,0 @@
-'initialize' in SVGTransformList.prototype

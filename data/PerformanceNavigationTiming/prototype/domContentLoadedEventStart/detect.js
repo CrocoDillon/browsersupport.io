@@ -1,1 +1,0 @@
-'domContentLoadedEventStart' in PerformanceNavigationTiming.prototype

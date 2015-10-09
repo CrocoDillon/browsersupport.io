@@ -1,1 +1,0 @@
-'getByteTimeDomainData' in AnalyserNode.prototype

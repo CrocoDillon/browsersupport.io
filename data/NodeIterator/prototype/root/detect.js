@@ -1,1 +1,0 @@
-'root' in NodeIterator.prototype

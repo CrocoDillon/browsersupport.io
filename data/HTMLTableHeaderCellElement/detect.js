@@ -1,1 +1,0 @@
-'HTMLTableHeaderCellElement' in this

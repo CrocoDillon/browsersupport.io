@@ -1,1 +1,0 @@
-'getAll' in Headers.prototype

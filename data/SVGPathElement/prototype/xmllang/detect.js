@@ -1,1 +1,0 @@
-'xmllang' in SVGPathElement.prototype

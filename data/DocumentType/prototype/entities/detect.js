@@ -1,1 +1,0 @@
-'entities' in DocumentType.prototype

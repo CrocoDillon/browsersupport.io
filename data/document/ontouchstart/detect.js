@@ -1,1 +1,0 @@
-'ontouchstart' in document

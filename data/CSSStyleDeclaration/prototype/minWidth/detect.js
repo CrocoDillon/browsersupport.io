@@ -1,1 +1,0 @@
-'minWidth' in CSSStyleDeclaration.prototype

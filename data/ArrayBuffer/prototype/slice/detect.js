@@ -1,1 +1,0 @@
-'slice' in ArrayBuffer.prototype

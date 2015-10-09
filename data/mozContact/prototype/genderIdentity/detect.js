@@ -1,1 +1,0 @@
-'genderIdentity' in mozContact.prototype

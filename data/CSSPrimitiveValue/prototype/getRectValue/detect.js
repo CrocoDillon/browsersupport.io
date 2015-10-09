@@ -1,1 +1,0 @@
-'getRectValue' in CSSPrimitiveValue.prototype

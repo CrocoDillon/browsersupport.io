@@ -1,1 +1,0 @@
-'truncate' in IDBFileHandle.prototype

@@ -1,1 +1,0 @@
-'seal' in Object
