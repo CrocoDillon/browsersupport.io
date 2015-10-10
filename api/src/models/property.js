@@ -1,4 +1,5 @@
-var mongoose = require('mongoose');
+var mongoose = require('mongoose'),
+    patch = require('mongoose-json-patch');
 
 var Schema = mongoose.Schema,
     Mixed = mongoose.Schema.Types.Mixed;;
@@ -21,5 +22,7 @@ var PropertySchema = new Schema({
 }, {
   versionKey: false
 });
+
+PropertySchema.plugin(patch);
 
 mongoose.model('Property', PropertySchema, 'properties');
