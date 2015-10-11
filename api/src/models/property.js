@@ -8,20 +8,50 @@ var Schema = mongoose.Schema,
  * Property Schema.
  */
 
-var PropertySchema = new Schema({
-  'name': { type: String, unique: true, required: true },
-  'superclass': { type: String },
-  'descriptor': {
-    'get': { type: Mixed },
-    'set': { type: Mixed },
-    'value': { type: Mixed },
-    'writable': { type: Boolean },
-    'configurable': { type: Boolean },
-    'enumerable': { type: Boolean }
-  }
-}, {
-  versionKey: false
-});
+var BrowserVersionSchema = {
+      'version': String,
+      'in': Boolean,
+      'own': Boolean
+    },
+    BrowserSchema = [
+      // desktop
+      'ie',
+      'edge',
+      'firefox',
+      'chrome',
+      'safari',
+      'opera',
+      // mobile
+      'ie_m',
+      'android',
+      'android_firefox',
+      'android_chrome',
+      'android_uc',
+      'ios_safari',
+      'opera_mini',
+      'opera_m'
+    ].reduce(function (schema, browser) {
+      schema[browser] = [BrowserVersionSchema];
+      return schema;
+    }, {}),
+    PropertySchema = new Schema({
+      'name': { type: String, unique: true, required: true },
+      'superclass': String,
+      'descriptor': {
+        'get': Mixed,
+        'set': Mixed,
+        'value': Mixed,
+        'writable': Boolean,
+        'configurable': Boolean,
+        'enumerable': Boolean
+      },
+      'browsers': BrowserSchema
+    }, {
+      versionKey: false,
+      toObject: {
+        retainKeyOrder: true
+      }
+    });
 
 PropertySchema.plugin(patch);
 
