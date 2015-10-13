@@ -8,12 +8,7 @@ var Schema = mongoose.Schema,
  * Property Schema.
  */
 
-var BrowserVersionSchema = {
-      'version': String,
-      'in': Boolean,
-      'own': Boolean
-    },
-    BrowserSchema = [
+var BrowserSchema = [
       // desktop
       'ie',
       'edge',
@@ -31,7 +26,7 @@ var BrowserVersionSchema = {
       'opera_mini',
       'opera_m'
     ].reduce(function (schema, browser) {
-      schema[browser] = [BrowserVersionSchema];
+      schema[browser] = Mixed;
       return schema;
     }, {}),
     PropertySchema = new Schema({
