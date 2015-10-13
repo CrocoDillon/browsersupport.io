@@ -14,7 +14,7 @@ var index           = require('../src/controllers/index'),
 router.get('/', index.index);
 
 router.get('/scrape', scrapeAndDetect.scrape);
-router.post('/scrape', scrapeAndDetect.scrapePost);
+router.post('/scrape', scrapeAndDetect.scrape);
 router.get('/detect', scrapeAndDetect.detect);
 
 module.exports = function (app) {

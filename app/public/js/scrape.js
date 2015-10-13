@@ -23,7 +23,7 @@
               case 'number':
               case 'string':
               case 'undefined':
-                return value;
+                return undefined;
               case 'symbol':
                 return '[object Symbol]';
               default:
@@ -102,21 +102,21 @@
         var subPropertyString = symbolToString(subProperty);
         scrapedProperties.push(getProperty(globalPropertyName + '[@@' + subPropertyString + ']', globalProperty, subProperty));
       });
+
+      if (prototype = globalProperty.prototype) {
+        // Prototype names
+        forEach(getPropertyNames(prototype), function (subProperty) {
+          scrapedProperties.push(getProperty(globalPropertyName + '.prototype.' + subProperty, prototype, subProperty));
+        });
+
+        // Prototype symbols
+        forEach(getPropertySymbols(prototype), function (subProperty) {
+          var subPropertyString = symbolToString(subProperty);
+          scrapedProperties.push(getProperty(globalPropertyName + '.prototype[@@' + subPropertyString + ']', prototype, subProperty));
+        });
+      }
     } catch (e) {
       window.console && window.console.log(globalPropertyName, e);
-    }
-
-    if (prototype = globalProperty.prototype) {
-      // Prototype names
-      forEach(getPropertyNames(prototype), function (subProperty) {
-        scrapedProperties.push(getProperty(globalPropertyName + '.prototype.' + subProperty, prototype, subProperty));
-      });
-
-      // Prototype symbols
-      forEach(getPropertySymbols(prototype), function (subProperty) {
-        var subPropertyString = symbolToString(subProperty);
-        scrapedProperties.push(getProperty(globalPropertyName + '.prototype[@@' + subPropertyString + ']', prototype, subProperty));
-      });
     }
   });
 

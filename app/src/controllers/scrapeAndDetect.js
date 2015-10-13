@@ -1,14 +1,16 @@
-var http = require('http');
+'use strict';
 
-var config = require('../../config/config'),
-    api = config.api;
+let api = require('../api');
 
 /**
  * Route handlers.
  */
 
 exports.scrape = function *(next) {
-  this.body = `\
+  switch (this.method) {
+    case 'GET':
+      this.body = `\
+<!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
@@ -17,45 +19,19 @@ exports.scrape = function *(next) {
   </head>
   <body>
     <script src="/js/scrape.js"></script>
-    <script src="/js/json2.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="/js/vendor/json2.js"></script>
+    <script src="/js/vendor/jquery.js"></script>
     <script>window.sendDataToServer();</script>
   </body>
 </html>`;
-};
-
-exports.scrapePost = function *(next) {
-  var properties = this.request.body || [],
-      data = JSON.stringify(properties);
-  yield new Promise((resolve, reject) => {
-    var result = '',
-        request = http.request({
-          method: 'POST',
-          protocol: api.protocol,
-          hostname: api.hostname,
-          port: api.port,
-          path: '/properties',
-          headers: {
-            'Content-Type': 'application/json',
-            'Content-Length': data.length
-          }
-        }, (response) => {
-          response.setEncoding('utf8');
-          response.on('data', (chunk) => {
-            result += chunk;
-          });
-          response.on('end', () => {
-            result = JSON.parse(result);
-            this.body = `Stored ${result.inserted} new (out of ${result.total} total) properties! :)`;
-            resolve();
-          })
-        });
-    request.on('error', function(e) {
-      reject(e);
-    });
-    request.write(data);
-    request.end();
-  });
+      break;
+    case 'POST':
+      let properties = this.request.body || [];
+      yield api.request('POST', '/properties', properties).then((response) => {
+        this.body = `Stored ${response.inserted} new (out of ${response.total} total) properties! :)`;
+      });
+      break;
+  }
 };
 
 exports.detect = function *(next) {
