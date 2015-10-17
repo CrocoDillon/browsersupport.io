@@ -1,4 +1,4 @@
-NODE_IMAGE    = node:4.1
+NODE_IMAGE    = node:4.1.2
 DB_IMAGE      = mongo:3.0
 DB_NAME       = browsersupport
 DB_DIRECTORY  = $(CURDIR)/db
