@@ -10,6 +10,9 @@ APP_CONTAINER = browsersupport-app
 
 .PHONY: build run stop
 
+%/secret:
+	@openssl rand -out $@ -base64 192
+
 build:
 	docker rmi $(API_CONTAINER)
 	docker build -t $(API_CONTAINER) $(API_DIRECTORY)

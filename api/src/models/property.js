@@ -2,7 +2,7 @@ var mongoose = require('mongoose'),
     patch = require('mongoose-json-patch');
 
 var Schema = mongoose.Schema,
-    Mixed = mongoose.Schema.Types.Mixed;;
+    Mixed = mongoose.Schema.Types.Mixed;
 
 /**
  * Property Schema.

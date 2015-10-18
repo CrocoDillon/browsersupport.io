@@ -1,11 +1,14 @@
+'use strict';
+
 var fs = require('fs'),
     path = require('path'),
     koa = require('koa'),
     koaBodyParser = require('koa-bodyparser'),
-    mongoose = require('mongoose');
+    mongoose = require('mongoose'),
+    httpStatus = require('http-status');
 
 var app = koa(),
-    config = require('./config/config');
+    config = require('./config/config')[app.env];
 
 /**
  * Mongoose setup.
@@ -43,15 +46,31 @@ fs.readdirSync(models).forEach((file) => {
 
 app.port = config.port;
 
+// 404 and 500
+app.use(function *(next) {
+  try {
+    yield next;
+  } catch (e) {
+    let status = e.status || httpStatus.INTERNAL_SERVER_ERROR,
+        body = {
+          error: httpStatus[status] || true
+        };
+    if (app.env === 'development' && e.message && e.message !== body.error) {
+      body.message = e.message;
+    }
+    this.status = status
+    this.body = body;
+    // emit error for centralized logging
+    this.app.emit('error', e, this);
+  }
+});
+
 // middleware
 app.use(koaBodyParser({ jsonLimit: '2mb' }));
 
 // bootstrap routes
 require('./config/routes')(app);
 
-// 404 and 500
-// TODO
-
 var server = app.listen(app.port, () => {
-  console.log('Koa server listening on port ' + server.address().port);
+  console.log(`Koa ${app.env} server listening on port ${server.address().port}`);
 });
