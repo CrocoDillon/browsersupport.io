@@ -1,6 +1,4 @@
 ;(function() {
-  'use strict'
-
   var scrapedProperties = []
   var feedback = document.getElementById('feedback')
 
