@@ -64,10 +64,10 @@
     feedback.innerHTML = 'Scraped ' + scrapedProperties.length + ' properties'
   })
 
-  feedback.innerHTML =
-    'Ready to send ' + scrapedProperties.length + ' properties'
-
   document.querySelector('[name="properties"]').value = JSON.stringify(
     scrapedProperties
   )
+
+  feedback.innerHTML =
+    'Ready to send ' + scrapedProperties.length + ' properties'
 })()

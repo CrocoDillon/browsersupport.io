@@ -8,6 +8,8 @@ const serve = require('koa-static')
 const database = require('./database')
 const views = require('./views')
 
+const usage = require('../../alt-ww.json')
+
 const app = new Koa()
 const router = new Router()
 
@@ -18,23 +20,63 @@ router.get('/', ctx => {
 })
 
 router.get('/detect', ctx => {
-  ctx.body = views.render('detect')
-})
-router.post('/detect', ctx => {
-  if (ctx.request.body.secret !== process.env.SECRET) {
-    ctx.body = views.render('detect')
-    return
-  }
+  const ua = ctx.headers['user-agent']
 
-  ctx.body = views.render('success', {
-    url: '/detect',
-    label: 'Detect',
+  ctx.body = views.render('detect-1', {
+    ua,
+    browsers: Object.keys(usage.data)
+      .map(browser => `<li><a href="/detect/${browser}">${browser}</a></li>`)
+      .join('\n    '),
   })
 })
+
+router.get('/detect/:browser', ctx => {
+  const ua = ctx.headers['user-agent']
+  const { browser } = ctx.params
+
+  ctx.body = views.render('detect-2', {
+    ua,
+    browser,
+    versions: Object.keys(usage.data[browser])
+      .map(
+        version =>
+          `<li><a href="/detect/${browser}/${version}">${version}</a></li>`
+      )
+      .join('\n    '),
+  })
+})
+
+router.get('/detect/:browser/:version', async ctx => {
+  const ua = ctx.headers['user-agent']
+  const { browser, version } = ctx.params
+
+  const remaining = await database.countProperties(browser, version)
+  const total = await database.countProperties()
+
+  ctx.body = views.render('detect-3', {
+    ua,
+    browser,
+    version,
+    remaining,
+    total,
+  })
+})
+
+// router.post('/detect/:browser/:version', ctx => {
+//   const { browser, version } = ctx.params
+
+//   if (ctx.request.body.secret !== process.env.SECRET) {
+//     ctx.body = views.render('detect')
+//     return
+//   }
+
+//   ctx.body = views.render('detect-success')
+// })
 
 router.get('/scrape', ctx => {
   ctx.body = views.render('scrape')
 })
+
 router.post('/scrape', async ctx => {
   if (ctx.request.body.secret !== process.env.SECRET) {
     ctx.body = views.render('scrape')
@@ -45,10 +87,7 @@ router.post('/scrape', async ctx => {
 
   await database.addProperties(properties)
 
-  ctx.body = views.render('success', {
-    url: '/scrape',
-    label: 'Scrape',
-  })
+  ctx.body = views.render('scrape-success')
 })
 
 app.use(router.routes())

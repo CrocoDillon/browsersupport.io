@@ -39,11 +39,23 @@ PropertySchema.index(
 const Property = mongoose.model('Property', PropertySchema, 'properties')
 
 module.exports = {
-  addProperties: async properties => {
-    await Property.insertMany(properties.map(name => ({ name })), {
+  addProperties: properties =>
+    Property.insertMany(properties.map(name => ({ name })), {
       ordered: false,
     }).catch(error => {
       // ignore duplicate errors
-    })
+    }),
+  countProperties: (browser, version) => {
+    if (browser && version) {
+      // Cannot escape dots in MongoDB yet so replace to make queries easier
+      // https://jira.mongodb.org/browse/SERVER-30575
+      version = version.replace('.', '_')
+
+      return Property.count({
+        [`browsers.${browser}.${version}`]: { $eq: null },
+      })
+    }
+
+    return Property.count()
   },
 }
