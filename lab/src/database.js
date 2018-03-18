@@ -31,6 +31,11 @@ const PropertySchema = new mongoose.Schema({
   },
 })
 
+PropertySchema.index(
+  { name: 1 },
+  { name: 'name_c', collation: { locale: 'en', strength: 1 } }
+)
+
 const Property = mongoose.model('Property', PropertySchema, 'properties')
 
 module.exports = {
