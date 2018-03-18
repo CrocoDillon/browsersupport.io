@@ -61,4 +61,30 @@ module.exports = {
 
     return Property.count()
   },
+  getProperties: (browser, version) => {
+    // Cannot escape dots in MongoDB yet so replace to make queries easier
+    // https://jira.mongodb.org/browse/SERVER-30575
+    version = version.replace('.', '_')
+
+    return Property.find(
+      {
+        [`browsers.${browser}.${version}`]: { $eq: null },
+      },
+      { name: 1 }
+    ).limit(500)
+  },
+  updateProperties: (browser, version, properties) => {
+    // Cannot escape dots in MongoDB yet so replace to make queries easier
+    // https://jira.mongodb.org/browse/SERVER-30575
+    version = version.replace('.', '_')
+
+    return properties.map(property => {
+      const { name, ...rest } = property
+
+      return Property.update(
+        { name },
+        { $set: { [`browsers.${browser}.${version}`]: rest } }
+      ).exec()
+    })
+  },
 }

@@ -64,23 +64,13 @@ router.get('/detect/:browser/:version', async ctx => {
   })
 })
 
-// router.post('/detect/:browser/:version', ctx => {
-//   const { browser, version } = ctx.params
-
-//   if (ctx.request.body.secret !== process.env.SECRET) {
-//     ctx.body = views.render('detect')
-//     return
-//   }
-
-//   ctx.body = views.render('detect-success')
-// })
-
 router.get('/scrape', ctx => {
   ctx.body = views.render('scrape')
 })
 
 router.post('/scrape', async ctx => {
   if (ctx.request.body.secret !== process.env.SECRET) {
+    ctx.status = 401
     ctx.body = views.render('scrape')
     return
   }
@@ -90,6 +80,28 @@ router.post('/scrape', async ctx => {
   await database.addProperties(properties)
 
   ctx.body = views.render('scrape-success')
+})
+
+router.get('/api/:browser/:version/properties', async ctx => {
+  const { browser, version } = ctx.params
+
+  const properties = await database.getProperties(browser, version)
+
+  ctx.body = properties.map(({ name }) => name)
+})
+
+router.post('/api/:browser/:version/properties', async ctx => {
+  if (ctx.request.body.secret !== process.env.SECRET) {
+    ctx.status = 401
+    return
+  }
+
+  const { browser, version } = ctx.params
+  const { properties } = ctx.request.body
+
+  await database.updateProperties(browser, version, properties)
+
+  ctx.status = 204
 })
 
 app.use(router.routes())

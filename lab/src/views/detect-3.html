@@ -18,7 +18,17 @@
   </nav>
   <p>{{ua}}</p>
   <h1>Detect browser: {{browser}} {{version}}</h1>
-  <p>Ready to detect {{remaining}}/{{total}} remaining properties for this browser</p>
+  <p id="feedback">Ready to detect {{remaining}}/{{total}} remaining properties for this browser</p>
+  <form id="detect-form" method="POST">
+    <label>
+      <div>Secret</div>
+      <input id="secret" type="password" name="secret" />
+    </label>
+    <input id="browser" name="browser" value="{{browser}}" hidden />
+    <input id="version" name="version" value="{{version}}" hidden />
+    <button>Detect</button>
+  </form>
+  <script src="/detect.js"></script>
 </body>
 
 </html>

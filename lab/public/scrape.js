@@ -15,7 +15,8 @@
     if (
       globalProperty === undefined ||
       globalProperty === null ||
-      globalProperty === window
+      globalProperty === window ||
+      typeof globalProperty === 'string'
     ) {
       return
     }
