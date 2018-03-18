@@ -29,6 +29,9 @@ const PropertySchema = new mongoose.Schema({
     required: true,
     unique: true,
   },
+  browsers: {
+    type: mongoose.Schema.Types.Mixed,
+  },
 })
 
 PropertySchema.index(
