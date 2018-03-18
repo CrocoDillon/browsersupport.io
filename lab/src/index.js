@@ -53,7 +53,9 @@ router.get('/detect/:browser/:version', async ctx => {
   const remaining = await database.countProperties(browser, version)
   const total = await database.countProperties()
 
-  ctx.body = views.render('detect-3', {
+  const view = remaining > 0 ? 'detect-3' : 'detect-4'
+
+  ctx.body = views.render(view, {
     ua,
     browser,
     version,
