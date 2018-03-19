@@ -25,7 +25,7 @@
     var propProtoSymbol
 
     function detectParent() {
-      if (window[parent]) {
+      if (window[parent] != null) {
         return true
       }
 
@@ -35,7 +35,7 @@
     }
 
     function detectParentProto() {
-      if (window[parent].prototype) {
+      if (window[parent].prototype != null) {
         return true
       }
 
@@ -117,7 +117,15 @@
 
     function batch() {
       var request = new XMLHttpRequest()
-      request.open('GET', '/api/' + browser + '/' + version + '/properties')
+      request.open(
+        'GET',
+        '/api/' +
+          browser +
+          '/' +
+          version +
+          '/properties?' +
+          new Date().getTime()
+      )
       request.setRequestHeader('Content-Type', 'application/json')
       request.onreadystatechange = function() {
         if (request.readyState === XMLHttpRequest.DONE) {

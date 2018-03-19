@@ -17,7 +17,8 @@
     if (
       globalProperty === undefined ||
       globalProperty === null ||
-      globalProperty === window
+      globalProperty === window ||
+      typeof globalProperty === 'string'
     ) {
       return
     }
@@ -25,15 +26,6 @@
     try {
       // Sub-property names
       Object.getOwnPropertyNames(globalProperty).forEach(function(subProperty) {
-        if (
-          (typeof globalProperty === 'string' ||
-            Array.isArray(globalProperty)) &&
-          /^\d+$/.test(subProperty)
-        ) {
-          // ignore array and string indices
-          return
-        }
-
         scrapedProperties.push(globalPropertyName + '.' + subProperty)
       })
       // Sub-property symbols
