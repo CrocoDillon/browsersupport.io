@@ -1,4 +1,6 @@
 ;(function() {
+  var document = window.document
+
   var scrapedProperties = []
   var feedback = document.getElementById('feedback')
 

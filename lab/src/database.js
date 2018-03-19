@@ -45,7 +45,7 @@ module.exports = {
   addProperties: properties =>
     Property.insertMany(properties.map(name => ({ name })), {
       ordered: false,
-    }).catch(error => {
+    }).catch(() => {
       // ignore duplicate errors
     }),
   countProperties: (browser, version) => {

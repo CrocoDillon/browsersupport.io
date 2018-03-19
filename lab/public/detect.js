@@ -1,5 +1,8 @@
 ;(function() {
-  var scrapedProperties = []
+  var document = window.document
+  var Symbol = window.Symbol
+  var XMLHttpRequest = window.XMLHttpRequest
+
   var feedback = document.getElementById('feedback')
   var total = 0
   var form = document.getElementById('detect-form')

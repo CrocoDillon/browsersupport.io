@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node src/index.js",
+    "lint": "eslint ."
   },
   "keywords": [],
   "author": "",
@@ -17,5 +18,9 @@
     "koa-router": "^7.4.0",
     "koa-static": "^4.0.2",
     "mongoose": "^5.0.10"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.2",
+    "eslint": "^4.19.0"
   }
 }
