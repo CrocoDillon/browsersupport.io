@@ -13,7 +13,7 @@ const usage = require('../../alt-ww.json')
 const app = new Koa()
 const router = new Router()
 
-app.use(bodyParser({ formLimit: '2mb' }))
+app.use(bodyParser({ formLimit: '2mb', jsonLimit: '2mb' }))
 
 router.get('/', ctx => {
   ctx.body = views.render('index')
