@@ -17,7 +17,8 @@
     "koa-bodyparser": "^4.2.0",
     "koa-router": "^7.4.0",
     "koa-static": "^4.0.2",
-    "mongoose": "^5.0.10"
+    "mongoose": "^5.0.10",
+    "ua-parser-js": "^0.7.17"
   },
   "devDependencies": {
     "babel-eslint": "^8.2.2",

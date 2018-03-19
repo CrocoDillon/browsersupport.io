@@ -4,6 +4,7 @@ const Koa = require('koa')
 const Router = require('koa-router')
 const bodyParser = require('koa-bodyparser')
 const serve = require('koa-static')
+const Parser = require('ua-parser-js')
 
 const database = require('./database')
 const views = require('./views')
@@ -13,6 +14,17 @@ const usage = require('../../alt-ww.json')
 const app = new Koa()
 const router = new Router()
 
+const parseUseragent = ctx => {
+  const useragent = ctx.headers['user-agent']
+  const { name, version } = new Parser(useragent).getBrowser()
+
+  return {
+    useragent,
+    browserName: name,
+    browserVersion: version,
+  }
+}
+
 app.use(bodyParser({ formLimit: '2mb', jsonLimit: '2mb' }))
 
 router.get('/', ctx => {
@@ -20,10 +32,8 @@ router.get('/', ctx => {
 })
 
 router.get('/detect', ctx => {
-  const ua = ctx.headers['user-agent']
-
   ctx.body = views.render('detect-1', {
-    ua,
+    ...parseUseragent(ctx),
     browsers: Object.keys(usage.data)
       .map(browser => `<li><a href="/detect/${browser}">${browser}</a></li>`)
       .join('\n    '),
@@ -31,11 +41,10 @@ router.get('/detect', ctx => {
 })
 
 router.get('/detect/:browser', ctx => {
-  const ua = ctx.headers['user-agent']
   const { browser } = ctx.params
 
   ctx.body = views.render('detect-2', {
-    ua,
+    ...parseUseragent(ctx),
     browser,
     versions: Object.keys(usage.data[browser])
       .map(
@@ -47,7 +56,6 @@ router.get('/detect/:browser', ctx => {
 })
 
 router.get('/detect/:browser/:version', async ctx => {
-  const ua = ctx.headers['user-agent']
   const { browser, version } = ctx.params
 
   const remaining = await database.countProperties(browser, version)
@@ -56,7 +64,7 @@ router.get('/detect/:browser/:version', async ctx => {
   const view = remaining > 0 ? 'detect-3' : 'detect-4'
 
   ctx.body = views.render(view, {
-    ua,
+    ...parseUseragent(ctx),
     browser,
     version,
     remaining,
