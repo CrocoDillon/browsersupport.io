@@ -1,0 +1,32 @@
+{
+  "parserOptions": {
+    "ecmaVersion": 8,
+    "ecmaFeatures": {
+      "impliedStrict": true,
+      "experimentalObjectRestSpread": true,
+      "jsx": true
+    },
+    "sourceType": "module"
+  },
+  "parser": "babel-eslint",
+  "plugins": ["react"],
+  "env": {
+    "node": true,
+    "browser": true
+  },
+  "globals": {
+    "Promise": true
+  },
+  "rules": {
+    "comma-dangle": [2, "always-multiline"],
+    "no-undef": 2,
+    "no-unused-expressions": 2,
+    "no-unused-vars": 2,
+    "quotes": [2, "single"],
+    "semi": [2, "never"],
+
+    "react/display-name": [2, { "ignoreTranspilerName": true }],
+    "react/jsx-no-undef": 2,
+    "react/jsx-uses-vars": 2
+  }
+}
