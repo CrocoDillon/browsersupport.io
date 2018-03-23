@@ -6,7 +6,8 @@
   "keywords": [],
   "main": "index.js",
   "scripts": {
-    "start": "node ./bin/api-server"
+    "start": "node ./bin/api-server",
+    "build": "babel src --out-dir lib --copy-files"
   },
   "author": "Dillon de Voor (http://crocodillon.com)",
   "license": "Apache-2.0",
@@ -18,6 +19,7 @@
     "mongoose": "^5.0.11"
   },
   "devDependencies": {
+    "babel-cli": "^6.26.0",
     "babel-eslint": "^8.2.2",
     "babel-preset-env": "^1.6.1",
     "babel-preset-stage-0": "^6.24.1",
