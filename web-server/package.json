@@ -13,6 +13,7 @@
   "author": "Dillon de Voor (http://crocodillon.com)",
   "license": "Apache-2.0",
   "dependencies": {
+    "@zeit/next-css": "^0.1.5",
     "dotenv": "^5.0.1",
     "http-proxy": "^1.16.2",
     "isomorphic-unfetch": "^2.0.0",

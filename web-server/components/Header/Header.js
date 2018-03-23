@@ -1,4 +1,8 @@
-const Header = () => <header>browsersupport.io</header>
+import styles from './Header.css'
+
+const Header = () => (
+  <header className={styles.Header}>browsersupport.io</header>
+)
 
 Header.displayName = 'Header'
 
