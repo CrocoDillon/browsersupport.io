@@ -7,7 +7,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node ./bin/api-server",
-    "build": "babel src --out-dir lib --copy-files"
+    "build": "babel src --out-dir lib --copy-files",
+    "lint": "eslint ."
   },
   "author": "Dillon de Voor (http://crocodillon.com)",
   "license": "Apache-2.0",

@@ -6,9 +6,8 @@
   "keywords": [],
   "main": "index.js",
   "scripts": {
-    "dev": "node server.js",
+    "start": "node server.js",
     "build": "next build",
-    "start": "NODE_ENV=production node server.js",
     "lint": "eslint ."
   },
   "author": "Dillon de Voor (http://crocodillon.com)",

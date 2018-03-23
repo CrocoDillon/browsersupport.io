@@ -5,12 +5,28 @@ import 'isomorphic-unfetch'
 class PropertiesPage extends Component {
   static displayName = 'PropertiesPage'
 
-  static async getInitialProps({ asPath }) {
+  static async getInitialProps({ asPath, res }) {
     // TODO: Remove querystring from asPath and do some basic validation
     const response = await fetch(
       `http://localhost:3000/api/properties${asPath}`
     )
-    return response.json()
+    const json = await response.json()
+    const { property, suggestions } = json
+
+    if (res && property === null) {
+      if (suggestions.length === 1) {
+        // Only one suggestion so might as well redirect
+        res.writeHead(302, {
+          Location: `http://localhost:3000/${suggestions[0].name}`,
+        })
+        res.end()
+        res.finished = true
+      }
+
+      res.statusCode = 404
+    }
+
+    return json
   }
 
   render() {
