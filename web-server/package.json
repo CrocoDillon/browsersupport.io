@@ -14,11 +14,13 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@zeit/next-css": "^0.1.5",
+    "classnames": "^2.2.5",
     "dotenv": "^5.0.1",
     "http-proxy": "^1.16.2",
     "isomorphic-unfetch": "^2.0.0",
     "koa": "^2.5.0",
     "koa-router": "^7.4.0",
+    "lodash": "^4.17.5",
     "next": "^5.0.0",
     "prop-types": "^15.6.1",
     "react": "^16.2.0",

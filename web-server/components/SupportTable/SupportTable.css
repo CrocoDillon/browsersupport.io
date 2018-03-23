@@ -1,0 +1,29 @@
+.SupportTable {
+  background: floralwhite;
+}
+
+.browser {
+  vertical-align: bottom;
+  display: inline-block;
+  width: 16.6667%;
+  text-align: center;
+}
+
+.versions {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.version {
+  overflow: hidden;
+  background: slategray;
+}
+
+.supported {
+  background: green;
+}
+
+.unsupported {
+  background: red;
+}
