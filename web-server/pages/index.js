@@ -3,6 +3,7 @@ import Link from 'next/link'
 import Router from 'next/router'
 import 'isomorphic-unfetch'
 
+import Page from '../components/Page'
 import SearchForm from '../components/SearchForm'
 
 class IndexPage extends Component {
@@ -30,7 +31,7 @@ class IndexPage extends Component {
     const { q } = url.query
 
     return (
-      <div>
+      <Page>
         <h1>browsersupport.io</h1>
         <SearchForm defaultValue={q} onSubmit={this.onSearch} />
         {q ? (
@@ -49,7 +50,7 @@ class IndexPage extends Component {
             </ul>
           </div>
         ) : null}
-      </div>
+      </Page>
     )
   }
 }
