@@ -29,6 +29,10 @@ const PropertySchema = new mongoose.Schema({
     required: true,
     unique: true,
   },
+  created: {
+    type: Date,
+    default: Date.now,
+  },
   browsers: {
     type: mongoose.Schema.Types.Mixed,
   },
