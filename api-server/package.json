@@ -1,8 +1,15 @@
 {
   "name": "api-server",
-  "version": "1.0.0",
+  "version": "0.0.1",
+  "private": true,
   "description": "",
+  "keywords": [],
   "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/api-server"
+  },
+  "author": "Dillon de Voor (http://crocodillon.com)",
+  "license": "Apache-2.0",
   "dependencies": {
     "core-js": "^2.5.3",
     "dotenv": "^5.0.1",
@@ -17,11 +24,5 @@
     "babel-register": "^6.26.0",
     "eslint": "^4.19.0",
     "piping": "^1.0.0-rc.4"
-  },
-  "scripts": {
-    "start": "node ./bin/api-server"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  }
 }

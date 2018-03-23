@@ -1,7 +1,9 @@
 {
   "name": "web-server",
-  "version": "1.0.0",
+  "version": "0.0.1",
+  "private": true,
   "description": "",
+  "keywords": [],
   "main": "index.js",
   "scripts": {
     "dev": "node server.js",
@@ -9,9 +11,8 @@
     "start": "NODE_ENV=production node server.js",
     "lint": "eslint ."
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Dillon de Voor (http://crocodillon.com)",
+  "license": "Apache-2.0",
   "dependencies": {
     "dotenv": "^5.0.1",
     "http-proxy": "^1.16.2",
