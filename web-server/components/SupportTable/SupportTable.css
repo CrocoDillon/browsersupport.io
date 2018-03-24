@@ -1,29 +1,73 @@
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+}
+
+html {
+  font: 400 1em/1.5 sans-serif;
+  font-family: medium-content-sans-serif-font, 'Lucida Grande',
+    'Lucida Sans Unicode', 'Lucida Sans', Geneva, Arial, sans-serif;
+}
+
 .SupportTable {
-  background: floralwhite;
+  color: #37474f;
 }
 
 .browser {
   vertical-align: bottom;
+  position: relative;
   display: inline-block;
   width: 16.6667%;
+  padding: 0 4px;
   text-align: center;
+}
+
+.browserName {
+  position: absolute;
+  left: 8px;
+  right: 8px;
+  bottom: 0;
+  margin: 0;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 2;
 }
 
 .versions {
   list-style: none;
-  padding: 0;
+  padding: 8px 8px 32px;
+  border-radius: 4px;
   margin: 0;
+  background: #fff8e1;
 }
 
 .version {
-  overflow: hidden;
-  background: slategray;
+  background: #eeeeee;
+  user-select: none;
+  cursor: help;
+}
+
+.version:hover {
+  background: #e0e0e0;
+}
+
+.hidden {
+  color: transparent;
 }
 
 .supported {
-  background: green;
+  background: #a5d6a7;
+}
+
+.supported:hover {
+  background: #81c784;
 }
 
 .unsupported {
-  background: red;
+  background: #ef9a9a;
+}
+
+.unsupported:hover {
+  background: #e57373;
 }
