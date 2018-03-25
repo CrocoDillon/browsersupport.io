@@ -3,6 +3,8 @@ import Head from 'next/head'
 import Header from '../Header'
 import Footer from '../Footer'
 
+import './Page.css'
+
 const Page = props => {
   const { title, children } = props
 

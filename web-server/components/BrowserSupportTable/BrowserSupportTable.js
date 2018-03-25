@@ -1,63 +1,55 @@
+import { Component } from 'react'
 import { object, shape } from 'prop-types'
-import cn from 'classnames'
 import get from 'lodash/get'
 
-import usage from '../../../alt-ww.json'
+import { data } from '../../../alt-ww.json'
+
 import browsers from './browsers'
+import BrowserSupport from './BrowserSupport'
+
 import styles from './BrowserSupportTable.css'
 
-const BrowserSupportTable = props => {
-  const { property } = props
-  const showAll = false
+class BrowserSupportTable extends Component {
+  static displayName = 'BrowserSupportTable'
 
-  return (
-    <div>
-      {browsers.map(browser => (
-        <div key={browser.id} className={styles.browser}>
-          <h2 className={styles.browserName}>{browser.name}</h2>
-          <ol className={styles.versions}>
-            {Object.keys(usage.data[browser.id])
-              .sort((a, b) => parseFloat(b) - parseFloat(a))
-              .map(version => {
-                const support = get(
-                  property,
-                  `browsers.${browser.id}.${version.replace('.', '_')}`
-                )
-                const height = showAll
-                  ? 20
-                  : 10 * usage.data[browser.id][version]
-                const fontSize = height <= 20 ? 10 : null
-                const lineHeight = `${height}px`
+  static propTypes = {
+    property: shape({
+      browsers: object,
+    }).isRequired,
+  }
 
-                const className = cn(styles.version, {
-                  [styles.hidden]: height < 10,
-                  [styles.supported]: support && support.in,
-                  [styles.unsupported]: support && !support.in,
-                })
+  state = {
+    dynamic: true,
+  }
 
-                return (
-                  <li
-                    key={version}
-                    className={className}
-                    style={{ height, fontSize, lineHeight }}
-                  >
-                    {version === '0' ? 'current' : version}
-                  </li>
-                )
-              })}
-          </ol>
-        </div>
-      ))}
-    </div>
-  )
-}
+  onClick = () => {
+    this.setState({ dynamic: !this.state.dynamic })
+  }
 
-BrowserSupportTable.displayName = 'BrowserSupportTable'
+  render() {
+    const { property } = this.props
+    const { dynamic } = this.state
 
-BrowserSupportTable.propTypes = {
-  property: shape({
-    browsers: object,
-  }).isRequired,
+    return (
+      <div onClick={this.onClick}>
+        {browsers.map(({ id, name }) => {
+          const support = get(property, `browsers.${id}`, {})
+          const usage = data[id]
+
+          return (
+            <div key={id} className={styles.browser}>
+              <BrowserSupport
+                name={name}
+                support={support}
+                usage={usage}
+                dynamic={dynamic}
+              />
+            </div>
+          )
+        })}
+      </div>
+    )
+  }
 }
 
 export default BrowserSupportTable

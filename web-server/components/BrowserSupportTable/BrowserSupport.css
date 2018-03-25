@@ -1,0 +1,49 @@
+.BrowserSupport {
+  padding: 8px;
+  border-radius: 4px;
+  background: #fff8e1;
+  text-align: center;
+}
+
+.name {
+  margin: 0 0 8px;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.25;
+}
+
+.versions {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.version {
+  background: #eeeeee;
+  user-select: none;
+  cursor: help;
+}
+
+.version:hover {
+  background: #e0e0e0;
+}
+
+.supported {
+  background: #a5d6a7;
+}
+
+.supported:hover {
+  background: #81c784;
+}
+
+.unsupported {
+  background: #ef9a9a;
+}
+
+.unsupported:hover {
+  background: #e57373;
+}
+
+.hidden {
+  color: transparent;
+}
