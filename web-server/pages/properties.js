@@ -3,7 +3,7 @@ import Link from 'next/link'
 import 'isomorphic-unfetch'
 
 import Page from '../components/Page'
-import SupportTable from '../components/SupportTable'
+import BrowserSupportTable from '../components/BrowserSupportTable'
 
 class PropertiesPage extends Component {
   static displayName = 'PropertiesPage'
@@ -64,7 +64,7 @@ class PropertiesPage extends Component {
     return (
       <Page title={property.name}>
         <h1>{property.name}</h1>
-        <SupportTable property={property} />
+        <BrowserSupportTable property={property} />
       </Page>
     )
   }

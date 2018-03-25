@@ -8,38 +8,30 @@ html {
   font: 400 1em/1.5 sans-serif;
   font-family: medium-content-sans-serif-font, 'Lucida Grande',
     'Lucida Sans Unicode', 'Lucida Sans', Geneva, Arial, sans-serif;
-}
-
-.SupportTable {
   color: #37474f;
 }
 
 .browser {
-  vertical-align: bottom;
-  position: relative;
+  vertical-align: top;
   display: inline-block;
-  width: 16.6667%;
-  padding: 0 4px;
+  width: 8.3333%;
+  padding: 8px;
+  border-radius: 4px;
+  background: #fff8e1;
   text-align: center;
 }
 
 .browserName {
-  position: absolute;
-  left: 8px;
-  right: 8px;
-  bottom: 0;
-  margin: 0;
+  margin: 0 0 8px;
   font-size: 16px;
   font-weight: 400;
-  line-height: 2;
+  line-height: 1.25;
 }
 
 .versions {
   list-style: none;
-  padding: 8px 8px 32px;
-  border-radius: 4px;
+  padding: 0;
   margin: 0;
-  background: #fff8e1;
 }
 
 .version {
