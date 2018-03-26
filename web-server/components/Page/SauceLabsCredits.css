@@ -10,6 +10,7 @@
   text-transform: uppercase;
 }
 
-.logo {
+.logo svg {
+  display: block;
   fill: #3d4b56;
 }
