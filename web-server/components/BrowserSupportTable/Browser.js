@@ -8,27 +8,30 @@ import styles from './Browser.css'
 const Browser = props => {
   const { name, support, usage, dynamic } = props
 
+  // Versions sorted from newest to oldest
+  const versions = Object.keys(usage).sort(
+    (a, b) => parseFloat(b) - parseFloat(a)
+  )
+
   return (
     <div className={styles.Browser}>
       <h2 className={styles.name}>{name}</h2>
       <ol className={styles.versions}>
-        {Object.keys(usage)
-          .sort((a, b) => parseFloat(b) - parseFloat(a))
-          .map(version => {
-            const versionSupport = get(support, version.replace('.', '_')) // TODO: Get rid of the _
-            const versionUsage = usage[version]
+        {versions.map(version => {
+          const versionSupport = get(support, version.replace('.', '_')) // TODO: Get rid of the _
+          const versionUsage = usage[version]
 
-            return (
-              <Version
-                key={version}
-                browser={name}
-                version={version}
-                support={versionSupport}
-                usage={versionUsage}
-                dynamic={dynamic}
-              />
-            )
-          })}
+          return (
+            <Version
+              key={version}
+              browser={name}
+              version={version}
+              support={versionSupport}
+              usage={versionUsage}
+              dynamic={dynamic}
+            />
+          )
+        })}
       </ol>
     </div>
   )

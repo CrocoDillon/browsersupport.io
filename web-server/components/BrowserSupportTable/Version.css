@@ -1,11 +1,11 @@
 .Version {
-  background: #eeeeee;
+  background: #b0bec5;
   user-select: none;
   cursor: help;
 }
 
 .Version:hover {
-  background: #e0e0e0;
+  background: #90a4ae;
 }
 
 .supported {
@@ -25,5 +25,5 @@
 }
 
 .hidden {
-  color: transparent;
+  font-size: 0;
 }

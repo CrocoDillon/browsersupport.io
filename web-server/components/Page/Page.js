@@ -1,15 +1,14 @@
 import Head from 'next/head'
 
-import Header from '../Header'
 import Footer from '../Footer'
 
-import './Page.css'
+import styles from './Page.css'
 
 const Page = props => {
   const { title, children } = props
 
   return (
-    <div className="Page">
+    <div className={styles.Page}>
       <Head>
         <title>
           {title ? `${title} – browsersupport.io` : 'browsersupport.io'}
@@ -20,8 +19,7 @@ const Page = props => {
           href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css"
         />
       </Head>
-      <Header />
-      <main className="main">{children}</main>
+      <main className={styles.main}>{children}</main>
       <Footer />
     </div>
   )

@@ -2,8 +2,11 @@ import { Component } from 'react'
 import Link from 'next/link'
 import 'isomorphic-unfetch'
 
-import Page from '../components/Page'
 import BrowserSupportTable from '../components/BrowserSupportTable'
+import Heading from '../components/Heading'
+import Page from '../components/Page'
+
+const parentRe = /^(.+?)((?:\.|\[@@).+)$/
 
 class PropertiesPage extends Component {
   static displayName = 'PropertiesPage'
@@ -61,9 +64,20 @@ class PropertiesPage extends Component {
       )
     }
 
+    const parentMatch = property.name.match(parentRe)
+
     return (
       <Page title={property.name}>
-        <h1>{property.name}</h1>
+        {parentMatch ? (
+          <Heading>
+            <Link href={parentMatch[1]}>
+              <a>{parentMatch[1]}</a>
+            </Link>
+            {parentMatch[2]}
+          </Heading>
+        ) : (
+          <Heading>{property.name}</Heading>
+        )}
         <BrowserSupportTable property={property} />
       </Page>
     )

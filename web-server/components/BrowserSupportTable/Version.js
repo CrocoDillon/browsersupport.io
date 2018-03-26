@@ -39,8 +39,8 @@ class Version extends Component {
     const { hovered } = this.state
 
     const height = dynamic ? 10 * usage : 20
-    const fontSize = height <= 20 ? 10 : null
-    const lineHeight = `${height}px`
+    const fontSize = 10 < height && height <= 20 ? 10 : null
+    const lineHeight = 10 < height ? `${height}px` : null
 
     const className = cn(styles.Version, {
       [styles.hidden]: height < 10,

@@ -10,3 +10,23 @@ html {
     Arial, sans-serif;
   color: #37474f;
 }
+
+a {
+  color: #37474f;
+  text-decoration: none;
+}
+
+a:hover,
+a:focus {
+  color: #29b6f6;
+}
+
+.Page {
+  max-width: 1280px;
+  margin: 0 auto;
+}
+
+.main {
+  overflow: hidden;
+  min-height: calc(100vh - 64px);
+}

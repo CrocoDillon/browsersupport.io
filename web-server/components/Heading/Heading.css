@@ -1,0 +1,25 @@
+.Heading {
+  padding: 32px 0;
+}
+
+.Heading h1 {
+  border-bottom: 1px solid currentColor;
+  margin: 0;
+}
+
+.link {
+  vertical-align: top;
+  display: inline-block;
+  padding: 4px 8px;
+  background: #37474f;
+  color: #fff;
+  font-size: 12px;
+  line-height: 1;
+  text-decoration: none;
+}
+
+.link:hover,
+.link:focus {
+  background: #29b6f6;
+  color: #fff;
+}

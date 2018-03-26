@@ -1,7 +1,7 @@
 .Tooltip {
   position: absolute;
   padding: 12px 16px;
-  background: #e0e0e0;
+  background: #90a4ae;
   box-shadow: 0 2px 4px rgba(55, 71, 79, 0.4);
   z-index: 1000;
 }
@@ -9,7 +9,7 @@
 .arrow {
   position: absolute;
   border: 8px solid transparent;
-  color: #e0e0e0;
+  color: #90a4ae;
   pointer-events: none;
 }
 
