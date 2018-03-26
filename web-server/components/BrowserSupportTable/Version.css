@@ -1,0 +1,29 @@
+.Version {
+  background: #eeeeee;
+  user-select: none;
+  cursor: help;
+}
+
+.Version:hover {
+  background: #e0e0e0;
+}
+
+.supported {
+  background: #a5d6a7;
+}
+
+.supported:hover {
+  background: #81c784;
+}
+
+.notSupported {
+  background: #ef9a9a;
+}
+
+.notSupported:hover {
+  background: #e57373;
+}
+
+.hidden {
+  color: transparent;
+}
