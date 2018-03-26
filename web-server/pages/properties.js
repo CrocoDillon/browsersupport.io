@@ -5,6 +5,7 @@ import 'isomorphic-unfetch'
 import BrowserSupportTable from '../components/BrowserSupportTable'
 import Heading from '../components/Heading'
 import Page from '../components/Page'
+import Suggestions from '../components/Suggestions'
 
 const parentRe = /^(.+?)((?:\.|\[@@).+)$/
 
@@ -43,22 +44,7 @@ class PropertiesPage extends Component {
         <Page>
           <Heading>Not Found</Heading>
           {suggestions && suggestions.length > 0 ? (
-            <div>
-              <p>But we may have some suggestions for you</p>
-              <ul>
-                {suggestions.map(suggestion => (
-                  <li key={suggestion._id}>
-                    <Link
-                      href="/properties"
-                      as={`/${suggestion.name}`}
-                      prefetch
-                    >
-                      <a>{suggestion.name}</a>
-                    </Link>
-                  </li>
-                ))}
-              </ul>
-            </div>
+            <Suggestions suggestions={suggestions} />
           ) : (
             <div
               style={{
