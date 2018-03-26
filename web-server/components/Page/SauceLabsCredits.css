@@ -1,0 +1,15 @@
+.powered,
+.logo {
+  vertical-align: top;
+  display: inline-block;
+}
+
+.powered {
+  font-size: 14px;
+  line-height: 48px;
+  text-transform: uppercase;
+}
+
+.logo {
+  fill: #3d4b56;
+}
