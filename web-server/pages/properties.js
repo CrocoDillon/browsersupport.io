@@ -41,8 +41,8 @@ class PropertiesPage extends Component {
     if (property === null) {
       return (
         <Page>
-          <h1>Not found :-(</h1>
-          {suggestions.length > 0 ? (
+          <Heading>Not Found</Heading>
+          {suggestions && suggestions.length > 0 ? (
             <div>
               <p>But we may have some suggestions for you</p>
               <ul>
@@ -59,7 +59,20 @@ class PropertiesPage extends Component {
                 ))}
               </ul>
             </div>
-          ) : null}
+          ) : (
+            <div
+              style={{
+                display: 'flex',
+                flexDirection: 'column',
+                justifyContent: 'center',
+                minHeight: 'calc(100vh - 200px)',
+                textAlign: 'center',
+                fontSize: '64px',
+              }}
+            >
+              404
+            </div>
+          )}
         </Page>
       )
     }
