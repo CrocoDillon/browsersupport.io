@@ -29,6 +29,14 @@
   font-size: 0 !important;
 }
 
+.tooltipBrowser {
+  font-size: 12px;
+}
+
+.tooltipSupport {
+  font-size: 8px;
+}
+
 @media (min-width: 768px) {
   .Version {
     font-size: 14px;
@@ -36,5 +44,15 @@
 
   .smallText {
     font-size: 10px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .tooltipBrowser {
+    font-size: 14px;
+  }
+
+  .tooltipSupport {
+    font-size: 12px;
   }
 }

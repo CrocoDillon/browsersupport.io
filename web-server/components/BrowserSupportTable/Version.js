@@ -42,10 +42,10 @@ class Version extends Component {
     const lineHeight = `${height}px`
 
     const className = cn(styles.Version, {
-      [styles.smallText]: 10 <= height && height < 20,
-      [styles.hideText]: height < 10,
       [styles.supported]: support && support.in,
       [styles.notSupported]: support && !support.in,
+      [styles.smallText]: 10 <= height && height < 20,
+      [styles.hideText]: height < 10,
     })
 
     return (
@@ -65,11 +65,15 @@ class Version extends Component {
           rootClose
         >
           <Tooltip background={support ? (support.in ? 'green' : 'red') : null}>
-            {browser}
-            {version !== '0' ? ` ${version}` : null}{' '}
-            {support
-              ? support.in ? 'supports this' : 'does not support this'
-              : 'has unknown support'}
+            <div className={styles.tooltipBrowser}>
+              {browser}
+              {version !== '0' ? ` ${version}` : null}
+            </div>
+            <div className={styles.tooltipSupport}>
+              {support
+                ? support.in ? 'Supported' : 'Not supported'
+                : 'Support unknown'}
+            </div>
           </Tooltip>
         </Overlay>
       </li>
