@@ -1,5 +1,6 @@
 .SauceLabsLogo {
-  vertical-align: top;
-  display: inline-block;
+  display: block;
+  width: 156px;
+  height: 48px;
   fill: #3d4b56;
 }
