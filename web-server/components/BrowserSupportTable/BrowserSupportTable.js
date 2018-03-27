@@ -74,7 +74,7 @@ class BrowserSupportTable extends Component {
     dynamic: true,
   }
 
-  onClick = () => {
+  toggleDyanmic = () => {
     this.setState({ dynamic: !this.state.dynamic })
   }
 
@@ -83,7 +83,10 @@ class BrowserSupportTable extends Component {
     const { dynamic } = this.state
 
     return (
-      <div onClick={this.onClick}>
+      <div className={styles.BrowserSupportTable}>
+        <button className={styles.toggleDynamic} onClick={this.toggleDyanmic}>
+          {dynamic ? 'show all versions' : 'show usage relative'}
+        </button>
         {browsers.map(({ id, name }) => {
           const browserSupport = get(property, `browsers.${id}`, {})
           const browserUsage = usage.data[id]

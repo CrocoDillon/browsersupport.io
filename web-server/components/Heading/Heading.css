@@ -20,6 +20,6 @@
 
 .link:hover,
 .link:focus {
-  background: #29b6f6;
-  color: #fff;
+  background: none;
+  color: #37474f;
 }
