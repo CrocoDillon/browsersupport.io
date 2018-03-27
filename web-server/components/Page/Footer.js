@@ -1,10 +1,21 @@
-import SauceLabsCredits from './SauceLabsCredits'
+import SauceLabsLogo from './SauceLabsLogo'
 
 import styles from './Footer.css'
 
 const Footer = () => (
   <footer className={styles.Footer}>
-    <SauceLabsCredits />
+    <div className={styles.ownLinks}>
+      made by <a href="https://twitter.com/CrocoDillon">@CrocoDillon</a>
+      {' | '}
+      source on{' '}
+      <a href="https://github.com/CrocoDillon/browsersupport.io">GitHub</a>
+    </div>
+    <div className={styles.sauceLabs}>
+      powered by
+      <a href="https://saucelabs.com/">
+        <SauceLabsLogo />
+      </a>
+    </div>
   </footer>
 )
 

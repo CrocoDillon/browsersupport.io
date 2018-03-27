@@ -1,4 +1,30 @@
 .Footer {
-  height: 64px;
-  padding: 8px;
+  height: 112px;
+  padding: 8px 0;
+  font-size: 12px;
+  line-height: 48px;
+  text-align: center;
+}
+
+.sauceLabs a {
+  vertical-align: top;
+  display: inline-block;
+}
+
+@media (min-width: 768px) {
+  .Footer {
+    display: flex;
+    height: 64px;
+  }
+
+  .ownLinks {
+    flex: 1;
+    text-align: left;
+  }
+}
+
+@media (min-width: 1024px) {
+  .Footer {
+    font-size: 14px;
+  }
 }
