@@ -23,10 +23,17 @@ a:focus {
 
 .Page {
   max-width: 1280px;
+  padding: 0 8px;
   margin: 0 auto;
 }
 
 .main {
   overflow: hidden;
   min-height: calc(100vh - 64px);
+}
+
+@media (min-width: 1024px) {
+  .Page {
+    padding: 0 16px;
+  }
 }

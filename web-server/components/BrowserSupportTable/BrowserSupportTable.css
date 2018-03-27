@@ -1,5 +1,6 @@
 .BrowserSupportTable {
   position: relative;
+  white-space: nowrap;
 }
 
 .toggleDynamic {
@@ -24,4 +25,11 @@
   vertical-align: top;
   display: inline-block;
   width: 8.3333%;
+  white-space: normal;
+}
+
+@media (min-width: 1024px) {
+  .toggleDynamic {
+    font-size: 14px;
+  }
 }

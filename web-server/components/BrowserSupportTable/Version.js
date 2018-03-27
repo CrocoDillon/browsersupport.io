@@ -39,11 +39,11 @@ class Version extends Component {
     const { hovered } = this.state
 
     const height = dynamic ? 10 * usage : 20
-    const fontSize = 10 < height && height <= 20 ? 10 : null
-    const lineHeight = 10 < height ? `${height}px` : null
+    const lineHeight = `${height}px`
 
     const className = cn(styles.Version, {
-      [styles.hidden]: height < 10,
+      [styles.smallText]: 10 <= height && height < 20,
+      [styles.hideText]: height < 10,
       [styles.supported]: support && support.in,
       [styles.notSupported]: support && !support.in,
     })
@@ -51,7 +51,7 @@ class Version extends Component {
     return (
       <li
         className={className}
-        style={{ height, fontSize, lineHeight }}
+        style={{ height, lineHeight }}
         onMouseOver={this.onMouseOver}
         onMouseOut={this.onMouseOut}
       >

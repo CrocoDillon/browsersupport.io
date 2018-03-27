@@ -35,15 +35,15 @@ const browsers = [
   },
   {
     id: 'and_chr',
-    name: 'Chrome for Android',
+    name: 'Android Chrome',
   },
   {
     id: 'and_ff',
-    name: 'Firefox for Android',
+    name: 'Android Firefox',
   },
   {
     id: 'and_uc',
-    name: 'UC for Android',
+    name: 'Android UC',
   },
   {
     id: 'ie_mob',

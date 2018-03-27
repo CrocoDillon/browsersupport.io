@@ -1,10 +1,13 @@
 .Heading {
-  padding: 32px 0;
+  padding: 8px 0 32px;
 }
 
 .Heading h1 {
+  overflow: hidden;
   border-bottom: 1px solid currentColor;
   margin: 0;
+  font-size: 20px;
+  text-overflow: ellipsis;
 }
 
 .link {
@@ -22,4 +25,24 @@
 .link:focus {
   background: none;
   color: #37474f;
+}
+
+@media (min-width: 480px) {
+  .Heading h1 {
+    font-size: 24px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .Heading {
+    padding-top: 32px;
+  }
+
+  .Heading h1 {
+    font-size: 32px;
+  }
+
+  .link {
+    font-size: 14px;
+  }
 }

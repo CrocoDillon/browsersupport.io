@@ -1,5 +1,6 @@
 .Version {
   background: #b0bec5;
+  font-size: 8px;
   user-select: none;
   cursor: help;
 }
@@ -24,6 +25,16 @@
   background: #e57373;
 }
 
-.hidden {
-  font-size: 0;
+.hideText {
+  font-size: 0 !important;
+}
+
+@media (min-width: 768px) {
+  .Version {
+    font-size: 14px;
+  }
+
+  .smallText {
+    font-size: 10px;
+  }
 }
