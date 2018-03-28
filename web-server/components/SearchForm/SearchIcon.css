@@ -1,0 +1,13 @@
+.SearchIcon {
+  display: block;
+  width: 20px;
+  height: 20px;
+  fill: currentColor;
+}
+
+@media (min-width: 1024px) {
+  .SearchIcon {
+    width: 30px;
+    height: 30px;
+  }
+}

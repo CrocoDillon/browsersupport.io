@@ -1,6 +1,6 @@
 import Link from 'next/link'
 
-import SearchIcon from './SearchIcon'
+import SearchForm from '../SearchForm'
 
 import styles from './Heading.css'
 
@@ -10,7 +10,7 @@ const Heading = props => {
   return (
     <header className={styles.Heading}>
       <h1>{children}</h1>
-      <SearchIcon />
+      <SearchForm />
       <Link href="/" prefetch>
         <a className={styles.link}>browsersupport.io</a>
       </Link>

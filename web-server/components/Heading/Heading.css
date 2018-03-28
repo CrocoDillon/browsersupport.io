@@ -8,6 +8,7 @@
   border-bottom: 1px solid currentColor;
   margin: 0;
   font-size: 20px;
+  white-space: nowrap;
   text-overflow: ellipsis;
 }
 
@@ -41,12 +42,19 @@
   }
 }
 
+@media (min-width: 768px) {
+  .Heading h1 {
+    padding-right: 210px; /* SearchForm width */
+  }
+}
+
 @media (min-width: 1024px) {
   .Heading {
     padding-top: 32px;
   }
 
   .Heading h1 {
+    padding-right: 240px; /* SearchForm width */
     font-size: 32px;
   }
 

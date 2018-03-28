@@ -1,6 +1,5 @@
 import { Component } from 'react'
 import Link from 'next/link'
-import Router from 'next/router'
 import 'isomorphic-unfetch'
 
 import Page from '../components/Page'
@@ -22,10 +21,6 @@ class IndexPage extends Component {
     return {}
   }
 
-  onSearch = q => {
-    Router.push(`/?q=${encodeURIComponent(q)}`)
-  }
-
   render() {
     const { url, properties } = this.props
     const { q } = url.query
@@ -33,7 +28,7 @@ class IndexPage extends Component {
     return (
       <Page>
         <h1>browsersupport.io</h1>
-        <SearchForm defaultValue={q} onSubmit={this.onSearch} />
+        <SearchForm defaultValue={q} />
         {q ? (
           <div>
             <p>

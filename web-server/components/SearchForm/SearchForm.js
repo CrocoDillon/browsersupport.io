@@ -1,12 +1,16 @@
 import { Component } from 'react'
-import { func, string } from 'prop-types'
+import Router from 'next/router'
+import { string } from 'prop-types'
+
+import SearchIcon from './SearchIcon'
+
+import styles from './SearchForm.css'
 
 class SearchForm extends Component {
   static displayName = 'SearchForm'
 
   static propTypes = {
     defaultValue: string,
-    onSubmit: func.isRequired,
   }
 
   static defaultProps = {
@@ -26,11 +30,12 @@ class SearchForm extends Component {
   onSubmit = e => {
     e.preventDefault()
 
-    const { onSubmit } = this.props
     const { value } = this.state
 
     if (value) {
-      onSubmit(value)
+      Router.push(`/?q=${encodeURIComponent(value)}`)
+    } else {
+      this.input.focus()
     }
   }
 
@@ -38,12 +43,22 @@ class SearchForm extends Component {
     const { value } = this.state
 
     return (
-      <form action="/" method="get" onSubmit={this.onSubmit}>
-        <label>
-          Query:
-          <input name="q" value={value} onChange={this.onChange} />
-        </label>
-        <button>Search</button>
+      <form
+        className={styles.SearchForm}
+        action="/"
+        method="get"
+        onSubmit={this.onSubmit}
+      >
+        <input
+          ref={ref => (this.input = ref)}
+          className={styles.input}
+          name="q"
+          value={value}
+          onChange={this.onChange}
+        />
+        <button className={styles.button}>
+          <SearchIcon />
+        </button>
       </form>
     )
   }
