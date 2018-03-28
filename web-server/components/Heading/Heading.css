@@ -11,20 +11,27 @@
   text-overflow: ellipsis;
 }
 
+.Heading h1 a {
+  text-decoration: none;
+}
+
 .link {
   vertical-align: top;
   display: inline-block;
   padding: 4px 8px;
+  outline: 0;
   background: #37474f;
   color: #fff;
   font-size: 12px;
   line-height: 1;
-  text-decoration: none;
 }
 
 .link:hover,
 .link:focus {
   background: none;
+}
+
+.link:hover {
   color: #37474f;
 }
 

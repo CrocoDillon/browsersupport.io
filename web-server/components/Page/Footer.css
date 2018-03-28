@@ -9,6 +9,12 @@
 .sauceLabs a {
   vertical-align: top;
   display: inline-block;
+  color: #3d4b56;
+}
+
+.sauceLabs a:hover,
+.sauceLabs a:focus {
+  color: #29b6f6;
 }
 
 @media (min-width: 768px) {

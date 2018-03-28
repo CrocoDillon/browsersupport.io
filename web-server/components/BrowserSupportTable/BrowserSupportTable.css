@@ -10,6 +10,7 @@
   display: inline-block;
   padding: 4px 8px;
   border: 0;
+  outline: 0;
   background: #37474f;
   color: #fff;
   font-size: 12px;
@@ -19,6 +20,10 @@
 .toggleDynamic:hover {
   background: none;
   color: #37474f;
+}
+
+.toggleDynamic:focus {
+  background: #29b6f6;
 }
 
 .browser {

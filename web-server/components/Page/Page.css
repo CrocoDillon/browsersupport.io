@@ -12,6 +12,7 @@ html {
 }
 
 a {
+  outline: 0;
   color: #37474f;
   text-decoration: none;
 }
@@ -19,6 +20,10 @@ a {
 a:hover,
 a:focus {
   color: #29b6f6;
+}
+
+a:focus {
+  text-decoration: underline;
 }
 
 .Page {
