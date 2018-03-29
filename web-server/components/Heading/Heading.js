@@ -10,7 +10,9 @@ const Heading = props => {
   return (
     <header className={styles.Heading}>
       <h1>{children}</h1>
-      <SearchForm />
+      <div className={styles.search}>
+        <SearchForm />
+      </div>
       <Link href="/" prefetch>
         <a className={styles.link}>browsersupport.io</a>
       </Link>

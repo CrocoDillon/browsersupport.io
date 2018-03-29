@@ -16,6 +16,10 @@
   text-decoration: none;
 }
 
+.search {
+  display: none;
+}
+
 .link {
   vertical-align: top;
   display: inline-block;
@@ -44,7 +48,15 @@
 
 @media (min-width: 768px) {
   .Heading h1 {
-    padding-right: 210px; /* SearchForm width */
+    padding-right: 210px;
+  }
+
+  .search {
+    position: absolute;
+    top: 8px;
+    right: 0;
+    display: block;
+    width: 210px;
   }
 }
 
@@ -54,8 +66,13 @@
   }
 
   .Heading h1 {
-    padding-right: 240px; /* SearchForm width */
+    padding-right: 240px;
     font-size: 32px;
+  }
+
+  .search {
+    top: 32px;
+    width: 240px;
   }
 
   .link {

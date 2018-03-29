@@ -1,8 +1,5 @@
 .SearchForm {
-  position: absolute;
-  top: 8px;
-  right: 0;
-  display: none;
+  position: relative;
 }
 
 .input,
@@ -14,8 +11,9 @@
 }
 
 .input {
-  width: 210px;
+  width: 100%;
   padding: 8px 36px 8px 0;
+  border-bottom: 1px solid currentColor;
   font-size: 12px;
   line-height: 20px;
 }
@@ -29,7 +27,7 @@
 }
 
 .input:focus {
-  border-bottom: 1px solid #29b6f6;
+  border-bottom-color: #29b6f6;
 }
 
 .button:hover,
@@ -38,19 +36,8 @@
   color: #29b6f6;
 }
 
-@media (min-width: 768px) {
-  .SearchForm {
-    display: block;
-  }
-}
-
 @media (min-width: 1024px) {
-  .SearchForm {
-    top: 32px;
-  }
-
   .input {
-    width: 240px;
     padding: 9px 48px 9px 0;
     font-size: 14px;
     line-height: 30px;
