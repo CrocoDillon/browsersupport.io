@@ -8,18 +8,26 @@ import Property from './models/property'
 const server = new Koa()
 const router = new Router()
 
-router.get('/properties', async ctx => {
-  const { q } = ctx.query
-  const query = q ? { $text: { $search: q } } : {}
+// TODO: Limit the maximum page for search queries because they eat RAM
+const safePositiveIntegerRe = /^[1-9][0-9]{0,12}$/
 
-  const [properties, count] = await Promise.all([
-    Property.find(query)
-      .limit(10)
+router.get('/properties', async ctx => {
+  const { q, page: sPage } = ctx.query
+
+  const query = q ? { $text: { $search: JSON.stringify(q) } } : {}
+  const page = safePositiveIntegerRe.test(sPage) ? parseInt(sPage, 10) : 1
+  const perPage = 10
+
+  const [properties, totalCount] = await Promise.all([
+    Property.find(query, { name: 1 })
+      .sort({ name: 1 })
+      .skip((page - 1) * perPage)
+      .limit(perPage)
       .exec(),
     Property.count(query).exec(),
   ])
 
-  ctx.body = { properties, count }
+  ctx.body = { properties, page, perPage, totalCount }
 })
 
 router.get('/properties/:name', async ctx => {
