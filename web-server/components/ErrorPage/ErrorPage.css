@@ -1,0 +1,25 @@
+.ErrorPage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  min-height: calc(100vh - 209px);
+  text-align: center;
+}
+
+.status {
+  font-size: 24px;
+}
+
+.description {
+  font-size: 12px;
+}
+
+@media (min-width: 1024px) {
+  .status {
+    font-size: 32px;
+  }
+
+  .description {
+    font-size: 14px;
+  }
+}

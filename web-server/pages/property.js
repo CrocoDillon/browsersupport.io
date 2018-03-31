@@ -3,6 +3,7 @@ import 'isomorphic-unfetch'
 
 import Breadcrumbs from '../components/Breadcrumbs'
 import BrowserSupportTable from '../components/BrowserSupportTable'
+import ErrorPage from '../components/ErrorPage'
 import Heading from '../components/Heading'
 import Page from '../components/Page'
 
@@ -48,34 +49,23 @@ class PropertyPage extends Component {
     const { property, suggestions } = this.props
 
     if (property === null) {
-      return (
-        <Page>
-          <Heading>Not Found</Heading>
-          {suggestions && suggestions.length > 0 ? (
-            suggestions.sort(sort).map(suggestion => (
+      if (suggestions && suggestions.length > 0) {
+        return (
+          <Page>
+            <Heading>Are you looking for...</Heading>
+            {suggestions.sort(sort).map(suggestion => (
               <Fragment key={suggestion._id}>
                 <h2>
                   <Breadcrumbs name={suggestion.name} />
                 </h2>
                 <BrowserSupportTable property={suggestion} />
               </Fragment>
-            ))
-          ) : (
-            <div
-              style={{
-                display: 'flex',
-                flexDirection: 'column',
-                justifyContent: 'center',
-                minHeight: 'calc(100vh - 200px)',
-                textAlign: 'center',
-                fontSize: '64px',
-              }}
-            >
-              404
-            </div>
-          )}
-        </Page>
-      )
+            ))}
+          </Page>
+        )
+      }
+
+      return <ErrorPage status={404} />
     }
 
     return (
