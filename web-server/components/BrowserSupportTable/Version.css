@@ -1,12 +1,12 @@
 .Version {
-  background: #b0bec5;
+  background: #ffe082;
   font-size: 8px;
   user-select: none;
   cursor: help;
 }
 
 .Version:hover {
-  background: #90a4ae;
+  background: #ffd54f;
 }
 
 .supported {

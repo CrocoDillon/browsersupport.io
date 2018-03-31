@@ -68,3 +68,11 @@
 .red > .arrow {
   color: #e57373;
 }
+
+.yellow {
+  background: #ffe082;
+}
+
+.yellow > .arrow {
+  color: #ffd54f;
+}

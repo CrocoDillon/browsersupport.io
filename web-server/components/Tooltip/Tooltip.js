@@ -31,7 +31,7 @@ Tooltip.displayName = 'Tooltip'
 
 Tooltip.propTypes = {
   placement: oneOf(['top', 'left', 'right', 'bottom']),
-  background: oneOf(['green', 'red']),
+  background: oneOf(['green', 'red', 'yellow']),
 }
 
 Tooltip.defaultProps = {

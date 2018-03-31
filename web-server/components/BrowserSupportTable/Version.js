@@ -64,7 +64,9 @@ class Version extends Component {
           containerPadding={8}
           rootClose
         >
-          <Tooltip background={support ? (support.in ? 'green' : 'red') : null}>
+          <Tooltip
+            background={support ? (support.in ? 'green' : 'red') : 'yellow'}
+          >
             <div className={styles.tooltipBrowser}>
               {browser}
               {version !== '0' ? ` ${version}` : null}
