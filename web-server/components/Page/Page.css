@@ -11,6 +11,19 @@ html {
   color: #37474f;
 }
 
+h1,
+h2 {
+  margin: 0.5em 0;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+h2 {
+  font-size: 16px;
+}
+
 a {
   outline: 0;
   color: #37474f;
@@ -20,10 +33,6 @@ a {
 a:hover,
 a:focus {
   color: #29b6f6;
-}
-
-a:focus {
-  text-decoration: underline;
 }
 
 input,
@@ -45,6 +54,16 @@ button {
   min-height: calc(100vh - 112px); /* Footer height */
 }
 
+@media (min-width: 480px) {
+  h1 {
+    font-size: 24px;
+  }
+
+  h2 {
+    font-size: 20px;
+  }
+}
+
 @media (min-width: 768px) {
   .main {
     min-height: calc(100vh - 64px); /* Footer height */
@@ -52,6 +71,14 @@ button {
 }
 
 @media (min-width: 1024px) {
+  h1 {
+    font-size: 32px;
+  }
+
+  h2 {
+    font-size: 24px;
+  }
+
   .Page {
     padding: 0 16px;
   }

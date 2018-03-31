@@ -1,0 +1,9 @@
+.Breadcrumbs:hover a,
+.Breadcrumbs:focus-within a {
+  color: #29b6f6;
+}
+
+.Breadcrumbs a:hover ~ a,
+.Breadcrumbs a:focus ~ a {
+  color: #37474f;
+}

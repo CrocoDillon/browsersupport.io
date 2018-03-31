@@ -1,10 +1,22 @@
-import { Component } from 'react'
+import { Component, Fragment } from 'react'
 import 'isomorphic-unfetch'
 
+import Breadcrumbs from '../components/Breadcrumbs'
 import BrowserSupportTable from '../components/BrowserSupportTable'
 import Heading from '../components/Heading'
 import Page from '../components/Page'
-import Suggestions from '../components/Suggestions'
+
+const sort = (a, b) => {
+  if (a.name > b.name) {
+    return 1
+  }
+
+  if (a.name < b.name) {
+    return -1
+  }
+
+  return 0
+}
 
 class PropertyPage extends Component {
   static displayName = 'PropertyPage'
@@ -40,7 +52,14 @@ class PropertyPage extends Component {
         <Page>
           <Heading>Not Found</Heading>
           {suggestions && suggestions.length > 0 ? (
-            <Suggestions suggestions={suggestions} />
+            suggestions.sort(sort).map(suggestion => (
+              <Fragment key={suggestion._id}>
+                <h2>
+                  <Breadcrumbs name={suggestion.name} />
+                </h2>
+                <BrowserSupportTable property={suggestion} />
+              </Fragment>
+            ))
           ) : (
             <div
               style={{

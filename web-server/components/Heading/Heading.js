@@ -1,71 +1,16 @@
 import { object, shape, string } from 'prop-types'
 import Link from 'next/link'
 
+import Breadcrumbs from '../Breadcrumbs'
 import SearchForm from '../SearchForm'
 
 import styles from './Heading.css'
-
-const propertyRe = /^([a-z]\w*)(?:\.(prototype))?(?:\.([a-z_-][\w-]*)|\[@@([a-z]+)\])?$/i
 
 const Heading = props => {
   let { property, children } = props
 
   if (property) {
-    const destructured = property.name.match(propertyRe)
-
-    if (destructured) {
-      const [, parent, prototype, name, symbol] = destructured
-
-      children = (
-        <span className={styles.breadcrumbs}>
-          <Link href={`/property?name=${parent}`} as={`/${parent}`}>
-            <a>{parent}</a>
-          </Link>
-          {prototype ? (
-            <Link
-              href={`/property?name=${parent}.prototype`}
-              as={`/${parent}.prototype`}
-            >
-              <a>.prototype</a>
-            </Link>
-          ) : null}
-          {name ? (
-            <Link
-              href={
-                prototype
-                  ? `/property?name=${parent}.prototype.${name}`
-                  : `/property?name=${parent}.${name}`
-              }
-              as={
-                prototype
-                  ? `/${parent}.prototype.${name}`
-                  : `/${parent}.${name}`
-              }
-            >
-              <a>.{name}</a>
-            </Link>
-          ) : null}
-          {symbol ? (
-            <Link
-              href={
-                prototype
-                  ? `/property?name=${parent}.prototype[@@${symbol}]`
-                  : `/property?name=${parent}[@@${symbol}]`
-              }
-              as={
-                prototype
-                  ? `/${parent}.prototype[@@${symbol}]`
-                  : `/${parent}[@@${symbol}]`
-              }
-            >
-              <a>[@@{symbol}]</a>
-            </Link>
-          ) : null}
-        </span>
-      )
-    } else {
-      children = property.name
-    }
+    children = <Breadcrumbs name={property.name} />
   }
 
   return (

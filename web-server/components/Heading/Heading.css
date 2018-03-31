@@ -7,23 +7,8 @@
   overflow: hidden;
   border-bottom: 1px solid currentColor;
   margin: 0;
-  font-size: 20px;
   white-space: nowrap;
   text-overflow: ellipsis;
-}
-
-.Heading h1 a {
-  text-decoration: none;
-}
-
-.breadcrumbs:hover a,
-.breadcrumbs:focus-within a {
-  color: #29b6f6;
-}
-
-.breadcrumbs a:hover ~ a,
-.breadcrumbs a:focus ~ a {
-  color: #37474f;
 }
 
 .search {
@@ -50,12 +35,6 @@
   color: #37474f;
 }
 
-@media (min-width: 480px) {
-  .Heading h1 {
-    font-size: 24px;
-  }
-}
-
 @media (min-width: 768px) {
   .Heading h1 {
     padding-right: 210px;
@@ -77,7 +56,6 @@
 
   .Heading h1 {
     padding-right: 240px;
-    font-size: 32px;
   }
 
   .search {
