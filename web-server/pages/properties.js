@@ -1,13 +1,10 @@
 import { Component } from 'react'
-import Link from 'next/link'
 import 'isomorphic-unfetch'
 
 import BrowserSupportTable from '../components/BrowserSupportTable'
 import Heading from '../components/Heading'
 import Page from '../components/Page'
 import Suggestions from '../components/Suggestions'
-
-const parentRe = /^(.+?)((?:\.|\[@@).+)$/
 
 class PropertiesPage extends Component {
   static displayName = 'PropertiesPage'
@@ -63,20 +60,9 @@ class PropertiesPage extends Component {
       )
     }
 
-    const parentMatch = property.name.match(parentRe)
-
     return (
       <Page title={property.name}>
-        {parentMatch ? (
-          <Heading>
-            <Link href={parentMatch[1]}>
-              <a>{parentMatch[1]}</a>
-            </Link>
-            {parentMatch[2]}
-          </Heading>
-        ) : (
-          <Heading>{property.name}</Heading>
-        )}
+        <Heading property={property} />
         <BrowserSupportTable property={property} />
       </Page>
     )

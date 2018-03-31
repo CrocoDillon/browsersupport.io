@@ -16,6 +16,14 @@
   text-decoration: none;
 }
 
+.breadcrumbs:hover a {
+  color: #29b6f6;
+}
+
+.breadcrumbs a:hover ~ a {
+  color: #37474f;
+}
+
 .search {
   display: none;
 }
