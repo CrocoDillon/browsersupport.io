@@ -9,12 +9,16 @@ class IndexPage extends Component {
   static displayName = 'IndexPage'
 
   static async getInitialProps({ query }) {
-    const { q } = query
+    const { q, page } = query
 
     if (q) {
-      const response = await fetch(
-        `http://localhost:3000/api/properties?q=${encodeURIComponent(q)}`
-      )
+      let qs = `q=${encodeURIComponent(q)}`
+
+      if (page) {
+        qs += `&page=${encodeURIComponent(page)}`
+      }
+
+      const response = await fetch(`http://localhost:3000/api/properties?${qs}`)
       return response.json()
     }
 
