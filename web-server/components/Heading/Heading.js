@@ -50,6 +50,8 @@ const Heading = props => {
           ) : null}
         </span>
       )
+    } else {
+      children = property.name
     }
   }
 
