@@ -6,13 +6,12 @@ import Heading from '../components/Heading'
 import Page from '../components/Page'
 import Suggestions from '../components/Suggestions'
 
-class PropertiesPage extends Component {
-  static displayName = 'PropertiesPage'
+class PropertyPage extends Component {
+  static displayName = 'PropertyPage'
 
-  static async getInitialProps({ asPath, res }) {
-    // TODO: Remove querystring from asPath and do some basic validation
+  static async getInitialProps({ query, res }) {
     const response = await fetch(
-      `http://localhost:3000/api/properties${asPath}`
+      `http://localhost:3000/api/properties/${query.name}`
     )
     const json = await response.json()
     const { property, suggestions } = json
@@ -69,4 +68,4 @@ class PropertiesPage extends Component {
   }
 }
 
-export default PropertiesPage
+export default PropertyPage

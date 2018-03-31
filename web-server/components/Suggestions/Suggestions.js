@@ -23,7 +23,11 @@ const Suggestions = props => {
       <ul className={styles.list}>
         {suggestions.sort(sort).map(suggestion => (
           <li key={suggestion._id}>
-            <Link href="/properties" as={`/${suggestion.name}`} prefetch>
+            <Link
+              href={`/property?name=${encodeURIComponent(suggestion.name)}`}
+              as={`/${suggestion.name}`}
+              prefetch
+            >
               <a className={styles.link}>{suggestion.name}</a>
             </Link>
           </li>

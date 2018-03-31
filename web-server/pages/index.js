@@ -41,7 +41,11 @@ class IndexPage extends Component {
             <ul>
               {properties.map(property => (
                 <li key={property._id}>
-                  <Link href="/properties" as={`/${property.name}`} prefetch>
+                  <Link
+                    href={`/property?name=${encodeURIComponent(property.name)}`}
+                    as={`/${property.name}`}
+                    prefetch
+                  >
                     <a>{property.name}</a>
                   </Link>
                 </li>

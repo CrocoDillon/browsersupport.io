@@ -18,17 +18,25 @@ const Heading = props => {
 
       children = (
         <span className={styles.breadcrumbs}>
-          <Link href={`/${parent}`}>
+          <Link href={`/property?name=${parent}`} as={`/${parent}`}>
             <a>{parent}</a>
           </Link>
           {prototype ? (
-            <Link href={`/${parent}.prototype`}>
+            <Link
+              href={`/property?name=${parent}.prototype`}
+              as={`/${parent}.prototype`}
+            >
               <a>.prototype</a>
             </Link>
           ) : null}
           {name ? (
             <Link
               href={
+                prototype
+                  ? `/property?name=${parent}.prototype.${name}`
+                  : `/property?name=${parent}.${name}`
+              }
+              as={
                 prototype
                   ? `/${parent}.prototype.${name}`
                   : `/${parent}.${name}`
@@ -40,6 +48,11 @@ const Heading = props => {
           {symbol ? (
             <Link
               href={
+                prototype
+                  ? `/property?name=${parent}.prototype[@@${symbol}]`
+                  : `/property?name=${parent}[@@${symbol}]`
+              }
+              as={
                 prototype
                   ? `/${parent}.prototype[@@${symbol}]`
                   : `/${parent}[@@${symbol}]`

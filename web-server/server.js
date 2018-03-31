@@ -32,7 +32,13 @@ app.prepare().then(() => {
   })
 
   router.get('/:name', async ctx => {
-    await app.render(ctx.req, ctx.res, '/properties', ctx.query)
+    const { name } = ctx.params
+    const query = {
+      ...ctx.query,
+      name,
+    }
+
+    await app.render(ctx.req, ctx.res, '/property', query)
     ctx.respond = false
   })
 
