@@ -7,6 +7,11 @@ class CustomDocument extends Document {
     return (
       <html>
         <Head>
+          <link
+            rel="shortcut icon"
+            type="image/png"
+            href="/static/favicon.png"
+          />
           <link rel="stylesheet" href="/_next/static/style.css" />
         </Head>
         <body>
