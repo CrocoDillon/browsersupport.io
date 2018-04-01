@@ -8,8 +8,9 @@ import SearchForm from '../components/SearchForm'
 class IndexPage extends Component {
   static displayName = 'IndexPage'
 
-  static async getInitialProps({ query }) {
+  static async getInitialProps({ query, req }) {
     const { q, page } = query
+    const host = req ? req.headers.host : location.host
 
     if (q) {
       let qs = `q=${encodeURIComponent(q)}`
@@ -18,7 +19,7 @@ class IndexPage extends Component {
         qs += `&page=${encodeURIComponent(page)}`
       }
 
-      const response = await fetch(`http://localhost:3000/api/properties?${qs}`)
+      const response = await fetch(`http://${host}/api/properties?${qs}`)
       return response.json()
     }
 
