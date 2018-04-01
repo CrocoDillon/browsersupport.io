@@ -1,6 +1,8 @@
 import Document, { Head, Main, NextScript } from 'next/document'
 
-export default class MyDocument extends Document {
+class CustomDocument extends Document {
+  static displayName = 'CustomDocument'
+
   render() {
     return (
       <html>
@@ -15,3 +17,5 @@ export default class MyDocument extends Document {
     )
   }
 }
+
+export default CustomDocument

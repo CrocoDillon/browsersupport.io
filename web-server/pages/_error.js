@@ -1,9 +1,10 @@
-/* eslint-disable react/display-name */
 import { Component } from 'react'
 
 import ErrorPage from '../components/ErrorPage'
 
-export default class Error extends Component {
+class CustomError extends Component {
+  static displayName = 'CustomError'
+
   static getInitialProps({ res, err }) {
     const status = res ? res.statusCode : err ? err.statusCode : 500
     return { status }
@@ -15,3 +16,5 @@ export default class Error extends Component {
     return <ErrorPage status={status} />
   }
 }
+
+export default CustomError

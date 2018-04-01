@@ -24,7 +24,7 @@ const sort = (a, b) => {
 class PropertyPage extends Component {
   static displayName = 'PropertyPage'
 
-  static async getInitialProps({ query, res }) {
+  static async getInitialProps({ query, req, res }) {
     const response = await fetch(
       `http://localhost:3000/api/properties/${escapePropertyName(query.name)}`
     )
@@ -35,7 +35,7 @@ class PropertyPage extends Component {
       if (suggestions.length === 1) {
         // Only one suggestion so might as well redirect
         res.writeHead(302, {
-          Location: `http://localhost:3000/${escapePropertyName(
+          Location: `http://${req.headers.host}/${escapePropertyName(
             suggestions[0].name
           )}`,
         })
