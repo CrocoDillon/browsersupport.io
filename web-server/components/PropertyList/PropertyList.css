@@ -1,0 +1,72 @@
+.PropertyList {
+  margin: 8px 0;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0 -0.5em -0.5em 0;
+  font-size: 12px;
+}
+
+.list li {
+  display: inline-block;
+  margin: 0 0.5em 0.5em 0;
+}
+
+.list a {
+  display: block;
+  padding: 0.25em 0.5em;
+  background: #37474f;
+  color: #fff;
+}
+
+.list a:hover,
+.list a:focus {
+  background: #29b6f6;
+}
+
+.pagination {
+  margin: 8px 0;
+}
+
+.pagination ol {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.pagination li {
+  display: inline-block;
+  margin: 0 2px;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+.pagination a,
+.pagination span {
+  display: block;
+  min-width: 26px;
+  padding: 4px;
+  border: 1px solid #37474f;
+}
+
+.pagination span {
+  background: #37474f;
+  color: #fff;
+}
+
+@media (min-width: 1024px) {
+  .PropertyList {
+    margin: 16px 0;
+  }
+
+  .list {
+    font-size: 16px;
+  }
+
+  .pagination {
+    margin: 16px 0;
+  }
+}

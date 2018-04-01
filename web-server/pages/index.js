@@ -2,7 +2,7 @@ import { Component } from 'react'
 import 'isomorphic-unfetch'
 
 import Page from '../components/Page'
-import PropertyLink from '../components/PropertyLink'
+import PropertyList from '../components/PropertyList'
 import SearchForm from '../components/SearchForm'
 
 class IndexPage extends Component {
@@ -27,7 +27,7 @@ class IndexPage extends Component {
   }
 
   render() {
-    const { url, properties } = this.props
+    const { url, properties, page, perPage, totalCount } = this.props
     const { q } = url.query
 
     return (
@@ -39,15 +39,13 @@ class IndexPage extends Component {
             <p>
               Results for "<b>{q}</b>"
             </p>
-            <ul>
-              {properties.map(property => (
-                <li key={property._id}>
-                  <PropertyLink name={property.name} prefetch>
-                    <a>{property.name}</a>
-                  </PropertyLink>
-                </li>
-              ))}
-            </ul>
+            <PropertyList
+              properties={properties}
+              page={page}
+              perPage={perPage}
+              totalCount={totalCount}
+              url={url}
+            />
           </div>
         ) : null}
       </Page>

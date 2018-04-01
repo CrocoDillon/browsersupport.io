@@ -1,5 +1,6 @@
-import { object, shape, string } from 'prop-types'
 import Link from 'next/link'
+
+import { propertyType } from '../../utils/propTypes'
 
 import Breadcrumbs from '../Breadcrumbs'
 import SearchForm from '../SearchForm'
@@ -29,11 +30,7 @@ const Heading = props => {
 Heading.displayName = 'Heading'
 
 Heading.propTypes = {
-  property: shape({
-    _id: string.isRequired,
-    name: string.isRequired,
-    browsers: object,
-  }),
+  property: propertyType,
 }
 
 export default Heading

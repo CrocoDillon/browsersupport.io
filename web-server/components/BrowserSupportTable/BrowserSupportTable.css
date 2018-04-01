@@ -18,13 +18,10 @@
   cursor: pointer;
 }
 
-.toggleDynamic:hover {
+.toggleDynamic:hover,
+.toggleDynamic:focus {
   background: none;
   color: #37474f;
-}
-
-.toggleDynamic:focus {
-  background: #29b6f6;
 }
 
 .browser {

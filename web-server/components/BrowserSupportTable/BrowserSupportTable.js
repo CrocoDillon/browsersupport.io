@@ -1,8 +1,8 @@
 import { Component } from 'react'
-import { object, shape, string } from 'prop-types'
 import get from 'lodash/get'
 
 import usage from '../../../alt-ww.json'
+import { propertyType } from '../../utils/propTypes'
 
 import Browser from './Browser'
 
@@ -63,11 +63,7 @@ class BrowserSupportTable extends Component {
   static displayName = 'BrowserSupportTable'
 
   static propTypes = {
-    property: shape({
-      _id: string.isRequired,
-      name: string.isRequired,
-      browsers: object,
-    }).isRequired,
+    property: propertyType.isRequired,
   }
 
   state = {

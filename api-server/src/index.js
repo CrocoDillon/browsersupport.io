@@ -16,7 +16,7 @@ router.get('/properties', async ctx => {
 
   const query = q ? { $text: { $search: JSON.stringify(q) } } : {}
   const page = safePositiveIntegerRe.test(sPage) ? parseInt(sPage, 10) : 1
-  const perPage = 10
+  const perPage = 30
 
   const [properties, totalCount] = await Promise.all([
     Property.find(query, { name: 1 })
