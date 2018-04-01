@@ -7,6 +7,8 @@ import ErrorPage from '../components/ErrorPage'
 import Heading from '../components/Heading'
 import Page from '../components/Page'
 
+import escapePropertyName from '../utils/escapePropertyName'
+
 const sort = (a, b) => {
   if (a.name > b.name) {
     return 1
@@ -24,7 +26,7 @@ class PropertyPage extends Component {
 
   static async getInitialProps({ query, res }) {
     const response = await fetch(
-      `http://localhost:3000/api/properties/${query.name}`
+      `http://localhost:3000/api/properties/${escapePropertyName(query.name)}`
     )
     const json = await response.json()
     const { property, suggestions } = json
@@ -33,7 +35,9 @@ class PropertyPage extends Component {
       if (suggestions.length === 1) {
         // Only one suggestion so might as well redirect
         res.writeHead(302, {
-          Location: `http://localhost:3000/${suggestions[0].name}`,
+          Location: `http://localhost:3000/${escapePropertyName(
+            suggestions[0].name
+          )}`,
         })
         res.end()
         res.finished = true

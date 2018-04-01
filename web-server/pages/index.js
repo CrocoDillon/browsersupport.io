@@ -1,8 +1,8 @@
 import { Component } from 'react'
-import Link from 'next/link'
 import 'isomorphic-unfetch'
 
 import Page from '../components/Page'
+import PropertyLink from '../components/PropertyLink'
 import SearchForm from '../components/SearchForm'
 
 class IndexPage extends Component {
@@ -41,13 +41,9 @@ class IndexPage extends Component {
             <ul>
               {properties.map(property => (
                 <li key={property._id}>
-                  <Link
-                    href={`/property?name=${encodeURIComponent(property.name)}`}
-                    as={`/${property.name}`}
-                    prefetch
-                  >
+                  <PropertyLink name={property.name} prefetch>
                     <a>{property.name}</a>
-                  </Link>
+                  </PropertyLink>
                 </li>
               ))}
             </ul>

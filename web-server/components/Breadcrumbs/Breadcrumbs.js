@@ -1,5 +1,6 @@
 import { string } from 'prop-types'
-import Link from 'next/link'
+
+import PropertyLink from '../PropertyLink'
 
 import styles from './Breadcrumbs.css'
 
@@ -19,44 +20,31 @@ const Breadcrumbs = props => {
 
   return (
     <span className={styles.Breadcrumbs}>
-      <Link href={`/property?name=${parent}`} as={`/${parent}`}>
+      <PropertyLink name={parent}>
         <a>{parent}</a>
-      </Link>
+      </PropertyLink>
       {prototype ? (
-        <Link
-          href={`/property?name=${parent}.prototype`}
-          as={`/${parent}.prototype`}
-        >
+        <PropertyLink name={`${parent}.prototype`}>
           <a>.prototype</a>
-        </Link>
+        </PropertyLink>
       ) : null}
       {name ? (
-        <Link
-          href={
-            prototype
-              ? `/property?name=${parent}.prototype.${name}`
-              : `/property?name=${parent}.${name}`
-          }
-          as={prototype ? `/${parent}.prototype.${name}` : `/${parent}.${name}`}
+        <PropertyLink
+          name={prototype ? `${parent}.prototype.${name}` : `${parent}.${name}`}
         >
           <a>.{name}</a>
-        </Link>
+        </PropertyLink>
       ) : null}
       {symbol ? (
-        <Link
-          href={
+        <PropertyLink
+          name={
             prototype
-              ? `/property?name=${parent}.prototype[@@${symbol}]`
-              : `/property?name=${parent}[@@${symbol}]`
-          }
-          as={
-            prototype
-              ? `/${parent}.prototype[@@${symbol}]`
-              : `/${parent}[@@${symbol}]`
+              ? `${parent}.prototype[@@${symbol}]`
+              : `${parent}[@@${symbol}]`
           }
         >
           <a>[@@{symbol}]</a>
-        </Link>
+        </PropertyLink>
       ) : null}
     </span>
   )
