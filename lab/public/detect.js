@@ -60,7 +60,7 @@
         propProtoSymbol = match[2]
 
         if (detectParent() && detectParentProto() && detectSymbol()) {
-          property.in = Symbol[propProtoSymbol] in window[parent].prototype
+          property['in'] = Symbol[propProtoSymbol] in window[parent].prototype
           property.own = window[parent].prototype.hasOwnProperty(
             Symbol[propProtoSymbol]
           )
@@ -70,7 +70,7 @@
         propProtoName = match[2]
 
         if (detectParent() && detectParentProto()) {
-          property.in = propProtoName in window[parent].prototype
+          property['in'] = propProtoName in window[parent].prototype
           property.own = window[parent].prototype.hasOwnProperty(propProtoName)
         }
       } else if ((match = property.name.match(propSymbolRe))) {
@@ -78,7 +78,7 @@
         propSymbol = match[2]
 
         if (detectParent() && detectSymbol()) {
-          property.in = Symbol[propSymbol] in window[parent]
+          property['in'] = Symbol[propSymbol] in window[parent]
           property.own = window[parent].hasOwnProperty(Symbol[propSymbol])
         }
       } else if ((match = property.name.match(propNameRe))) {
@@ -86,13 +86,13 @@
         propName = match[2]
 
         if (detectParent()) {
-          property.in = propName in window[parent]
+          property['in'] = propName in window[parent]
           property.own = window[parent].hasOwnProperty(propName)
         }
       } else if ((match = property.name.match(propRe))) {
         prop = match[1]
 
-        property.in = prop in window
+        property['in'] = prop in window
         property.own = window.hasOwnProperty(prop)
       }
     } catch (e) {
@@ -102,9 +102,7 @@
     return property
   }
 
-  form.onsubmit = function(e) {
-    e.preventDefault()
-
+  form.onsubmit = function() {
     var browser = document.getElementById('browser').value
     var version = document.getElementById('version').value
     var secret = document.getElementById('secret').value
@@ -128,7 +126,7 @@
       )
       request.setRequestHeader('Content-Type', 'application/json')
       request.onreadystatechange = function() {
-        if (request.readyState === XMLHttpRequest.DONE) {
+        if (request.readyState === 4) {
           var properties = JSON.parse(request.responseText)
 
           if (properties.length === 0) {
@@ -147,7 +145,7 @@
           )
           updateRequest.setRequestHeader('Content-Type', 'application/json')
           updateRequest.onreadystatechange = function() {
-            if (updateRequest.readyState === XMLHttpRequest.DONE) {
+            if (updateRequest.readyState === 4) {
               if (updateRequest.status === 401) {
                 feedback.innerHTML = 'Secret incorrect ;-('
                 form.style.display = 'block'
@@ -174,5 +172,7 @@
 
     // Initial batch
     batch()
+
+    return false
   }
 })()
