@@ -54,10 +54,6 @@ module.exports = {
     }),
   countProperties: (browser, version) => {
     if (browser && version) {
-      // Cannot escape dots in MongoDB yet so replace to make queries easier
-      // https://jira.mongodb.org/browse/SERVER-30575
-      version = version.replace('.', '_')
-
       return Property.count({
         [`browsers.${browser}.${version}`]: { $eq: null },
       })
@@ -66,10 +62,6 @@ module.exports = {
     return Property.count()
   },
   getProperties: (browser, version) => {
-    // Cannot escape dots in MongoDB yet so replace to make queries easier
-    // https://jira.mongodb.org/browse/SERVER-30575
-    version = version.replace('.', '_')
-
     return Property.find(
       {
         [`browsers.${browser}.${version}`]: { $eq: null },
@@ -78,10 +70,6 @@ module.exports = {
     ).limit(500)
   },
   updateProperties: (browser, version, properties) => {
-    // Cannot escape dots in MongoDB yet so replace to make queries easier
-    // https://jira.mongodb.org/browse/SERVER-30575
-    version = version.replace('.', '_')
-
     return properties.map(property => {
       const { name, ...rest } = property
 

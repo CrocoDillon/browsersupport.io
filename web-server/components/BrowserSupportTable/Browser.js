@@ -18,7 +18,7 @@ const Browser = props => {
       <h2 className={styles.name}>{name}</h2>
       <ol className={styles.versions}>
         {versions.map(version => {
-          const versionSupport = get(support, version.replace('.', '_')) // TODO: Get rid of the _
+          const versionSupport = get(support, version)
           const versionUsage = usage[version]
 
           return (
