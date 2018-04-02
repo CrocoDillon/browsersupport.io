@@ -37,7 +37,7 @@ class IndexPage extends Component {
         {q ? (
           <div>
             <p>
-              Results for "<b>{q}</b>"
+              results for "<b>{q}</b>"
             </p>
             <PropertyList
               properties={properties}

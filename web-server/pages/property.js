@@ -55,7 +55,7 @@ class PropertyPage extends Component {
       if (suggestions && suggestions.length > 0) {
         return (
           <Page>
-            <Heading>Are you looking for...</Heading>
+            <Heading>are you looking for...</Heading>
             {suggestions.sort(sort).map(suggestion => (
               <Fragment key={suggestion._id}>
                 <h2>

@@ -31,6 +31,16 @@ app.prepare().then(() => {
     })
   })
 
+  router.get('/', async ctx => {
+    await app.render(ctx.req, ctx.res, '/index', ctx.query)
+    ctx.respond = false
+  })
+
+  router.get('/sitemap', async ctx => {
+    await app.render(ctx.req, ctx.res, '/sitemap', ctx.query)
+    ctx.respond = false
+  })
+
   router.get('/:name', async ctx => {
     const { name } = ctx.params
     const query = {

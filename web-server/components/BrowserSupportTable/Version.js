@@ -73,8 +73,8 @@ class Version extends Component {
             </div>
             <div className={styles.tooltipSupport}>
               {support
-                ? support.in ? 'Supported' : 'Not supported'
-                : 'Support unknown'}
+                ? support.in ? 'supported' : 'not supported'
+                : 'support unknown'}
             </div>
           </Tooltip>
         </Overlay>

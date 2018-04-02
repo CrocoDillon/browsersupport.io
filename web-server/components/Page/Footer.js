@@ -1,3 +1,5 @@
+import Link from 'next/link'
+
 import SauceLabsLogo from './SauceLabsLogo'
 
 import styles from './Footer.css'
@@ -9,6 +11,9 @@ const Footer = () => (
       {' | '}
       source on{' '}
       <a href="https://github.com/CrocoDillon/browsersupport.io">GitHub</a>
+      <Link href="/sitemap">
+        <a hidden>.</a>
+      </Link>
     </div>
     <div className={styles.sauceLabs}>
       powered by
