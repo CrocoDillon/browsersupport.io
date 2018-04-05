@@ -72,7 +72,10 @@ class PropertyPage extends Component {
     }
 
     return (
-      <Page title={property.name}>
+      <Page
+        title={property.name}
+        description={`Browser support for “${property.name}”`}
+      >
         <Heading property={property} />
         <BrowserSupportTable property={property} />
       </Page>

@@ -1,4 +1,5 @@
 import { Component } from 'react'
+import Head from 'next/head'
 import 'isomorphic-unfetch'
 
 import Page from '../components/Page'
@@ -32,6 +33,11 @@ class IndexPage extends Component {
 
     return (
       <Page>
+        {q ? (
+          <Head>
+            <meta name="robots" content="noindex, follow" />
+          </Head>
+        ) : null}
         <h1>browsersupport.io</h1>
         <SearchForm defaultValue={q} />
         {q ? (
