@@ -72,9 +72,11 @@ class Version extends Component {
               {version !== '0' ? ` ${version}` : null}
             </div>
             <div className={styles.tooltipSupport}>
-              {support
-                ? support.in ? 'supported' : 'not supported'
-                : 'support unknown'}
+              {`${
+                support
+                  ? support.in ? 'supported' : 'not supported'
+                  : 'support unknown'
+              } | ${Math.round(100 * usage) / 100} %`}
             </div>
           </Tooltip>
         </Overlay>
