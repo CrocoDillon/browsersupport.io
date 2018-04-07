@@ -1,4 +1,5 @@
 .BrowserSupportTable {
+  overflow: hidden;
   position: relative;
   white-space: nowrap;
 }

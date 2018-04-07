@@ -1,6 +1,5 @@
 import { Component } from 'react'
 import Router from 'next/router'
-import { string } from 'prop-types'
 
 import SearchIcon from './SearchIcon'
 
@@ -9,16 +8,8 @@ import styles from './SearchForm.css'
 class SearchForm extends Component {
   static displayName = 'SearchForm'
 
-  static propTypes = {
-    defaultValue: string,
-  }
-
-  static defaultProps = {
-    defaultValue: '',
-  }
-
   state = {
-    value: this.props.defaultValue,
+    value: '',
   }
 
   onChange = e => {

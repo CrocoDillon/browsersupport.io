@@ -1,10 +1,10 @@
-import { Component } from 'react'
+import { Component, Fragment } from 'react'
 import Head from 'next/head'
 import 'isomorphic-unfetch'
 
+import Header from '../components/Header'
 import Page from '../components/Page'
 import PropertyList from '../components/PropertyList'
-import SearchForm from '../components/SearchForm'
 
 class IndexPage extends Component {
   static displayName = 'IndexPage'
@@ -38,12 +38,17 @@ class IndexPage extends Component {
             <meta name="robots" content="noindex, follow" />
           </Head>
         ) : null}
-        <h1>browsersupport.io</h1>
-        <SearchForm defaultValue={q} />
+        <Header />
         {q ? (
           <div>
-            <p>
-              results for "<b>{q}</b>"
+            <p
+              style={{
+                margin: '32px 0',
+                fontSize: 12,
+              }}
+            >
+              {totalCount === 1 ? '1 result ' : `${totalCount} results `}
+              for “<b>{q}</b>”
             </p>
             <PropertyList
               properties={properties}
@@ -53,7 +58,20 @@ class IndexPage extends Component {
               url={url}
             />
           </div>
-        ) : null}
+        ) : (
+          <Fragment>
+            <p>
+              Find browser compatibility tables for all ECMAScript and
+              JavaScript APIs.
+            </p>
+            <p>
+              Currently in beta. Bug reports and feature requests on{' '}
+              <a href="https://github.com/CrocoDillon/browsersupport.io/issues">
+                GitHub
+              </a>.
+            </p>
+          </Fragment>
+        )}
       </Page>
     )
   }

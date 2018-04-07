@@ -5,7 +5,7 @@
 }
 
 html {
-  font: 400 1em/1.5 sans-serif;
+  font: 400 14px/1.5 sans-serif;
   font-family: 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Geneva,
     Arial, sans-serif;
   color: #37474f;
@@ -50,8 +50,8 @@ button {
 }
 
 .main {
-  overflow: hidden;
   min-height: calc(100vh - 112px); /* Footer height */
+  padding-bottom: 8px;
 }
 
 @media (min-width: 480px) {
@@ -71,6 +71,10 @@ button {
 }
 
 @media (min-width: 1024px) {
+  html {
+    font-size: 16px;
+  }
+
   h1 {
     font-size: 32px;
   }
@@ -81,5 +85,9 @@ button {
 
   .Page {
     padding: 0 16px;
+  }
+
+  .main {
+    padding-bottom: 16px;
   }
 }
