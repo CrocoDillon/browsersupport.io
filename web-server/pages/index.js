@@ -40,15 +40,11 @@ class IndexPage extends Component {
         ) : null}
         <Header />
         {q ? (
-          <div>
-            <p
-              style={{
-                margin: '32px 0',
-                fontSize: 12,
-              }}
-            >
-              {totalCount === 1 ? '1 result ' : `${totalCount} results `}
-              for “<b>{q}</b>”
+          <Fragment>
+            <p>
+              {totalCount === 1 ? '1 result' : `${totalCount} results`} for “<b>
+                {q}
+              </b>”
             </p>
             <PropertyList
               properties={properties}
@@ -57,7 +53,7 @@ class IndexPage extends Component {
               totalCount={totalCount}
               url={url}
             />
-          </div>
+          </Fragment>
         ) : (
           <Fragment>
             <p>
