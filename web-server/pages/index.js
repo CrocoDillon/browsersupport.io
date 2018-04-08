@@ -3,6 +3,7 @@ import Head from 'next/head'
 import 'isomorphic-unfetch'
 
 import Header from '../components/Header'
+import Overview from '../components/Overview'
 import Page from '../components/Page'
 import PropertyList from '../components/PropertyList'
 
@@ -55,18 +56,7 @@ class IndexPage extends Component {
             />
           </Fragment>
         ) : (
-          <Fragment>
-            <p>
-              Find browser compatibility tables for all ECMAScript and
-              JavaScript APIs.
-            </p>
-            <p>
-              Currently in beta. Bug reports and feature requests on{' '}
-              <a href="https://github.com/CrocoDillon/browsersupport.io/issues">
-                GitHub
-              </a>.
-            </p>
-          </Fragment>
+          <Overview />
         )}
       </Page>
     )

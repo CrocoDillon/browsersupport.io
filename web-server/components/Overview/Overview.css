@@ -1,0 +1,54 @@
+.Overview {
+  text-align: center;
+}
+
+.callout {
+  max-width: 20em;
+  margin: 2em auto;
+  font-size: 16px;
+}
+
+.features {
+  margin: 3em 0;
+}
+
+.feature:before {
+  content: '·';
+  display: block;
+}
+
+.feature:first-child:before {
+  display: none;
+}
+
+.github {
+  display: inline-block;
+  max-width: 14em;
+  padding: 4px 10px;
+  background: #81d4fa;
+  color: #37474f;
+}
+
+.github:hover,
+.github:focus {
+  background: #4fc3f7;
+  color: #37474f;
+}
+
+@media (min-width: 480px) {
+  .callout {
+    font-size: 20px;
+  }
+}
+
+@media (min-width: 768px) {
+  .callout {
+    font-size: 24px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .callout {
+    font-size: 32px;
+  }
+}
