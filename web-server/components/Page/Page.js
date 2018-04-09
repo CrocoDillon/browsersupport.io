@@ -1,10 +1,17 @@
 import { string } from 'prop-types'
 import Head from 'next/head'
+import Router from 'next/router'
+
+import * as gtag from '../../utils/gtag'
 
 import Footer from './Footer'
 
 import './normalize.css'
 import styles from './Page.css'
+
+Router.onRouteChangeComplete = url => {
+  gtag.pageview(url)
+}
 
 const defaultDescription =
   'Find browser compatibility tables for all ECMAScript and JavaScript APIs on browsersupport.io'
