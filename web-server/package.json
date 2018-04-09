@@ -7,6 +7,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node server.js",
+    "start:pm2": "pm2 start server.js",
     "build": "next build",
     "lint": "eslint ."
   },

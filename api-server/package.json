@@ -7,6 +7,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node ./bin/api-server",
+    "start:pm2": "pm2 start ./bin/api-server",
     "build": "babel src --out-dir lib --copy-files",
     "lint": "eslint ."
   },
