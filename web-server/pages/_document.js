@@ -16,10 +16,6 @@ class CustomDocument extends Document {
             type="image/png"
             href="/static/favicon.png"
           />
-          <link
-            rel="stylesheet"
-            href="https://cdnjs.cloudflare.com/ajax/libs/normalize/7.0.0/normalize.min.css"
-          />
           <link rel="stylesheet" href="/_next/static/style.css" />
         </Head>
         <body>

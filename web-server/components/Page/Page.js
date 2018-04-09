@@ -3,6 +3,7 @@ import Head from 'next/head'
 
 import Footer from './Footer'
 
+import './normalize.css'
 import styles from './Page.css'
 
 const defaultDescription =
