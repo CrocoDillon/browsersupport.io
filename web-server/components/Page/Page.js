@@ -22,9 +22,7 @@ const Page = props => {
   return (
     <div className={styles.Page}>
       <Head>
-        <title>
-          {title ? `${title} – browsersupport.io` : 'browsersupport.io'}
-        </title>
+        <title>{title ? title : 'browsersupport.io'}</title>
         <meta
           name="description"
           content={
