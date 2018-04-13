@@ -1,4 +1,5 @@
 import { Component, Fragment } from 'react'
+import getConfig from 'next/config'
 import Head from 'next/head'
 import 'isomorphic-unfetch'
 
@@ -7,11 +8,14 @@ import Overview from '../components/Overview'
 import Page from '../components/Page'
 import PropertyList from '../components/PropertyList'
 
+const { publicRuntimeConfig } = getConfig()
+
 class IndexPage extends Component {
   static displayName = 'IndexPage'
 
   static async getInitialProps({ query, req }) {
     const { q, page } = query
+    const protocol = publicRuntimeConfig.https ? 'https' : 'http'
     const host = req ? req.headers.host : location.host
 
     if (q) {
@@ -21,7 +25,7 @@ class IndexPage extends Component {
         qs += `&page=${encodeURIComponent(page)}`
       }
 
-      const response = await fetch(`http://${host}/api/properties?${qs}`)
+      const response = await fetch(`${protocol}://${host}/api/properties?${qs}`)
       return response.json()
     }
 

@@ -1,4 +1,5 @@
 import { Component, Fragment } from 'react'
+import getConfig from 'next/config'
 import 'isomorphic-unfetch'
 
 import Breadcrumbs from '../components/Breadcrumbs'
@@ -8,6 +9,8 @@ import Heading from '../components/Heading'
 import Page from '../components/Page'
 
 import escapePropertyName from '../utils/escapePropertyName'
+
+const { publicRuntimeConfig } = getConfig()
 
 const sort = (a, b) => {
   if (a.name > b.name) {
@@ -25,9 +28,10 @@ class PropertyPage extends Component {
   static displayName = 'PropertyPage'
 
   static async getInitialProps({ query, req, res }) {
+    const protocol = publicRuntimeConfig.https ? 'https' : 'http'
     const host = req ? req.headers.host : location.host
     const response = await fetch(
-      `http://${host}/api/properties/${escapePropertyName(query.name)}`
+      `${protocol}://${host}/api/properties/${escapePropertyName(query.name)}`
     )
     const json = await response.json()
     const { property, suggestions } = json
@@ -36,7 +40,9 @@ class PropertyPage extends Component {
       if (suggestions.length === 1) {
         // Only one suggestion so might as well redirect
         res.writeHead(302, {
-          Location: `http://${host}/${escapePropertyName(suggestions[0].name)}`,
+          Location: `${protocol}://${host}/${escapePropertyName(
+            suggestions[0].name
+          )}`,
         })
         res.end()
         res.finished = true
