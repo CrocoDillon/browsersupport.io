@@ -7,7 +7,7 @@ class CustomDocument extends Document {
 
   render() {
     return (
-      <html>
+      <html lang="en">
         <Head>
           <meta
             name="viewport"
