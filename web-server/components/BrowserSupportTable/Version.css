@@ -19,6 +19,7 @@
 
 .notSupported {
   background: #ef9a9a;
+  color: #263238; /* improved contrast*/
 }
 
 .notSupported:hover {

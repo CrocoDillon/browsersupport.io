@@ -63,6 +63,7 @@
 
 .red {
   background: #e57373;
+  color: #263238; /* improved contrast*/
 }
 
 .red > .arrow {
