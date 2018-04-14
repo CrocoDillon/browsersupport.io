@@ -146,8 +146,8 @@
               entries.push('"parentProto":' + property.parentProto)
             if (typeof property.symbol === 'boolean')
               entries.push('"symbol":' + property.symbol)
-            if (typeof property.in === 'boolean')
-              entries.push('"in":' + property.in)
+            if (typeof property['in'] === 'boolean')
+              entries.push('"in":' + property['in'])
             if (typeof property.own === 'boolean')
               entries.push('"own":' + property.own)
 
