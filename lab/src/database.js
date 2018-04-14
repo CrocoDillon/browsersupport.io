@@ -73,6 +73,24 @@ module.exports = {
     return properties.map(property => {
       const { name, ...rest } = property
 
+      if (typeof name !== 'string') {
+        throw new Error('Invalid or missing property name')
+      }
+
+      Object.keys(rest).forEach(key => {
+        // Whitelist of keys as sanity check
+        if (
+          !(
+            ['parent', 'parentProto', 'symbol', 'in', 'own'].includes(key) &&
+            typeof rest[key] === 'boolean'
+          )
+        ) {
+          throw new Error(
+            `Invalid key "${key}" or value type "${typeof rest[key]}"`
+          )
+        }
+      })
+
       return Property.update(
         { name },
         { $set: { [`browsers.${browser}.${version}`]: rest } }

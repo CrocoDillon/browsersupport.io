@@ -127,15 +127,31 @@
       request.setRequestHeader('Content-Type', 'application/json')
       request.onreadystatechange = function() {
         if (request.readyState === 4) {
-          var properties = JSON.parse(request.responseText)
+          var properties = eval(request.responseText)
 
           if (properties.length === 0) {
             window.location.reload()
             return
           }
 
+          var detectedProperties = []
+
           for (var i = 0; i < properties.length; i++) {
-            properties[i] = detectProperty(properties[i])
+            var property = detectProperty(properties[i])
+
+            var entries = ['"name":"' + property.name + '"']
+            if (typeof property.parent === 'boolean')
+              entries.push('"parent":' + property.parent)
+            if (typeof property.parentProto === 'boolean')
+              entries.push('"parentProto":' + property.parentProto)
+            if (typeof property.symbol === 'boolean')
+              entries.push('"symbol":' + property.symbol)
+            if (typeof property.in === 'boolean')
+              entries.push('"in":' + property.in)
+            if (typeof property.own === 'boolean')
+              entries.push('"own":' + property.own)
+
+            detectedProperties.push('{' + entries.join(',') + '}')
           }
 
           var updateRequest = new XMLHttpRequest()
@@ -160,10 +176,11 @@
             }
           }
           updateRequest.send(
-            JSON.stringify({
-              secret: secret,
-              properties: properties,
-            })
+            '{"secret":"' +
+              secret +
+              '","properties":[' +
+              detectedProperties.join(',') +
+              ']}'
           )
         }
       }
