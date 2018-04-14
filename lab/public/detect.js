@@ -1,7 +1,6 @@
 ;(function() {
   var document = window.document
   var Symbol = window.Symbol
-  var XMLHttpRequest = window.XMLHttpRequest
 
   var feedback = document.getElementById('feedback')
   var form = document.getElementById('detect-form')
@@ -11,6 +10,14 @@
   var propSymbolRe = /^([^.]+)\[@@([^.]+)\]$/
   var propProtoNameRe = /^([^.]+)\.prototype\.([^.]+)$/
   var propProtoSymbolRe = /^([^.]+)\.prototype\[@@([^.]+)\]$/
+
+  function createXMLHttpRequest() {
+    if (window.XMLHttpRequest) {
+      return new window.XMLHttpRequest()
+    } else {
+      return new window.ActiveXObject('Microsoft.XMLHTTP')
+    }
+  }
 
   function detectProperty(name) {
     var property = { name: name }
@@ -114,7 +121,7 @@
     form.style.display = 'none'
 
     function batch() {
-      var request = new XMLHttpRequest()
+      var request = createXMLHttpRequest()
       request.open(
         'GET',
         '/api/' +
@@ -154,7 +161,7 @@
             detectedProperties.push('{' + entries.join(',') + '}')
           }
 
-          var updateRequest = new XMLHttpRequest()
+          var updateRequest = createXMLHttpRequest()
           updateRequest.open(
             'POST',
             '/api/' + browser + '/' + version + '/properties'
