@@ -3,7 +3,7 @@ import styles from './Overview.css'
 const Overview = () => (
   <div className={styles.Overview}>
     <p className={styles.callout}>
-      find browser compatibility tables for all ECMAScript and JavaScript APIs
+      Find browser compatibility tables for all ECMAScript and JavaScript APIs
     </p>
     <div className={styles.features}>
       <div className={styles.feature}>extensive database</div>

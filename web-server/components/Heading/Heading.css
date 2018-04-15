@@ -1,6 +1,6 @@
 .Heading {
   position: relative;
-  padding: 8px 0 32px;
+  padding: 0 0 32px;
 }
 
 .Heading:after {
@@ -11,14 +11,25 @@
 
 .Heading h1 {
   overflow: hidden;
-  border-bottom: 1px solid currentColor;
   margin: 0;
   white-space: nowrap;
   text-overflow: ellipsis;
 }
 
-.search {
-  display: none;
+.index h1 {
+  margin-left: -0.5em;
+}
+
+.loudLink {
+  padding: 0 0.5em;
+  background: #37474f;
+  color: #fff;
+}
+
+.loudLink:hover,
+.loudLink:focus {
+  background: #29b6f6;
+  color: #fff;
 }
 
 .link {
@@ -40,12 +51,17 @@
 
 @media (min-width: 768px) {
   .Heading h1 {
+    border-bottom: 1px solid currentColor;
     padding-right: 210px;
+  }
+
+  .index h1 {
+    border-color: transparent;
   }
 
   .search {
     position: absolute;
-    top: 8px;
+    top: 0;
     right: 0;
     display: block;
     width: 210px;
@@ -53,20 +69,25 @@
 }
 
 @media (min-width: 1024px) {
-  .Heading {
-    padding-top: 32px;
-  }
-
   .Heading h1 {
     padding-right: 240px;
   }
 
   .search {
-    top: 32px;
     width: 240px;
   }
 
   .link {
     font-size: 14px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .Heading {
+    padding-top: 32px;
+  }
+
+  .search {
+    top: 32px;
   }
 }

@@ -16,7 +16,7 @@ const ErrorPage = props => {
 
   return (
     <Page>
-      <Heading>oops, sorry!</Heading>
+      <Heading>Oops, sorry!</Heading>
       <div className={styles.ErrorPage}>
         <div className={styles.status}>{status}</div>
         <div className={styles.description}>{description}</div>

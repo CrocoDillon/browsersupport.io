@@ -31,7 +31,7 @@ class SitemapPage extends Component {
         <Head>
           <meta name="robots" content="noindex, follow" />
         </Head>
-        <Heading>sitemap (not for humans)</Heading>
+        <Heading>Sitemap (not for humans)</Heading>
         <PropertyList
           properties={properties}
           page={page}
