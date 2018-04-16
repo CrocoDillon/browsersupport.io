@@ -1,21 +1,68 @@
+import Icon from '../Icon'
+
 import styles from './Overview.css'
 
 const Overview = () => (
-  <div className={styles.Overview}>
+  <div>
     <p className={styles.callout}>
       Find browser compatibility tables for all ECMAScript and JavaScript APIs
     </p>
-    <div className={styles.features}>
-      <div className={styles.feature}>extensive database</div>
-      <div className={styles.feature}>about 45.000 properties</div>
-      <div className={styles.feature}>currently in beta</div>
-    </div>
-    <a
-      className={styles.github}
-      href="https://github.com/CrocoDillon/browsersupport.io/issues"
-    >
-      bug reports and feature requests on GitHub
-    </a>
+    <h2 id="about">About browsersupport.io</h2>
+    <p>
+      On browsersupport.io you can find browser compatibility tables for all
+      ECMAScript and JavaScript APIs. This means we do not only have tables for
+      popular, modern and well specified APIs but also for browser specific,
+      vendor prefixed and deprecated APIs. Our database currently features about
+      45.000 properties.
+    </p>
+    <p>
+      The goal of browsersupport.io is to be the #1 resource on the internet to
+      find browser compatibility tables for everything JavaScript related. The
+      difference to caniuse.com (and similar websites) is that while
+      browsersupport.io only features JavaScript related properties it does so
+      very extensively. No properties are left out, not even the ones that
+      “everyone” knows works in all browsers or the ones that “everyone” knows
+      works in hardly any browsers at all.
+    </p>
+    <p>
+      Keep in mind that this website is currently in beta and that property
+      tests are shallow. That means that properties are reported as supported
+      when they exist, even if their implementation is buggy. Reporting browser
+      issues is on the roadmap.
+    </p>
+    <h2 id="help">How you can help</h2>
+    <ul className={styles.list}>
+      <li>
+        <span className={styles.icon}>
+          <Icon glyph="bug" />
+        </span>{' '}
+        Submit issues and missing properties on{' '}
+        <a
+          href="https://github.com/CrocoDillon/browsersupport.io/issues"
+          target="_blank"
+        >
+          GitHub
+        </a>
+      </li>
+      <li>
+        <span className={styles.icon}>
+          <Icon glyph="open-source" />
+        </span>{' '}
+        Got an idea for a nice feature? Talk about it on{' '}
+        <a
+          href="https://github.com/CrocoDillon/browsersupport.io/issues"
+          target="_blank"
+        >
+          GitHub
+        </a>
+      </li>
+      <li>
+        <span className={styles.icon}>
+          <Icon glyph="twitter" />
+        </span>{' '}
+        Spread the word!
+      </li>
+    </ul>
   </div>
 )
 
