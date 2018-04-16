@@ -9,20 +9,20 @@ const icons = {
       height="16"
       viewBox="0 0 16 16"
     >
-      <path stroke="currentColor" stroke-linecap="round" d="M9.5 6.5l3-2" />
-      <path stroke="currentColor" stroke-linecap="round" d="M10.5 9.5l3 4" />
-      <path stroke="currentColor" stroke-linecap="round" d="M10.5 7.5l4 2" />
-      <path stroke="currentColor" stroke-linecap="round" d="M5.5 6.5l-3-2" />
-      <path stroke="currentColor" stroke-linecap="round" d="M4.5 9.5l-3 4" />
-      <path stroke="currentColor" stroke-linecap="round" d="M4.5 7.5l-4 2" />
+      <path stroke="currentColor" strokeLinecap="round" d="M9.5 6.5l3-2" />
+      <path stroke="currentColor" strokeLinecap="round" d="M10.5 9.5l3 4" />
+      <path stroke="currentColor" strokeLinecap="round" d="M10.5 7.5l4 2" />
+      <path stroke="currentColor" strokeLinecap="round" d="M5.5 6.5l-3-2" />
+      <path stroke="currentColor" strokeLinecap="round" d="M4.5 9.5l-3 4" />
+      <path stroke="currentColor" strokeLinecap="round" d="M4.5 7.5l-4 2" />
       <path
         stroke="currentColor"
-        stroke-linecap="round"
+        strokeLinecap="round"
         d="M6.5 4s-.5-3.5-2.5-3.5"
       />
       <path
         stroke="currentColor"
-        stroke-linecap="round"
+        strokeLinecap="round"
         d="M8 4s.5-3.5 2.5-3.5"
       />
       <path
