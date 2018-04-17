@@ -1,12 +1,13 @@
 .BrowserSupportTable {
   position: relative;
+  padding-top: 32px;
   overflow: hidden;
   white-space: nowrap;
 }
 
 .toggleDynamic {
   position: absolute;
-  top: -28px;
+  top: 6px;
   right: 0;
   display: inline-block;
   padding: 4px 8px;
