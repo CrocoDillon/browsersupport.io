@@ -1,6 +1,9 @@
+import Breadcrumbs from '../Breadcrumbs'
 import Icon from '../Icon'
 
 import styles from './Overview.css'
+
+const examples = ['NaN', 'Object.entries', 'String.prototype.trimStart']
 
 const Overview = () => (
   <div>
@@ -24,6 +27,17 @@ const Overview = () => (
       “everyone” knows works in all browsers or the ones that “everyone” knows
       works in hardly any browsers at all.
     </p>
+    <p>Some examples:</p>
+    <ol className={styles.examples}>
+      {examples.map(example => (
+        <li className={styles.example}>
+          <h3>
+            <Breadcrumbs name={example} />
+          </h3>
+          <img src={`/static/${example}.png`} />
+        </li>
+      ))}
+    </ol>
     <p>
       Keep in mind that this website is currently in beta and that property
       tests are shallow. That means that properties are reported as supported
