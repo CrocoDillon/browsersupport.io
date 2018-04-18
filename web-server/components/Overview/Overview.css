@@ -19,7 +19,7 @@
 .example h3 {
   overflow: hidden;
   margin: 0 0 0.5em;
-  line-height: 1;
+  line-height: 1.2;
   text-overflow: ellipsis;
   white-space: nowrap;
 }
