@@ -1,3 +1,5 @@
+import { Transform } from 'stream'
+
 import Koa from 'koa'
 import Router from 'koa-router'
 
@@ -16,7 +18,7 @@ router.get('/properties', async ctx => {
 
   const query = q ? { $text: { $search: JSON.stringify(q) } } : {}
   const page = safePositiveIntegerRe.test(sPage) ? parseInt(sPage, 10) : 1
-  const perPage = q ? 30 : 120
+  const perPage = 30
 
   const [properties, totalCount] = await Promise.all([
     Property.find(query, { name: 1 })
@@ -28,6 +30,23 @@ router.get('/properties', async ctx => {
   ])
 
   ctx.body = { properties, page, perPage, totalCount }
+})
+
+router.get('/properties/stream', ctx => {
+  ctx.type = 'application/x-ndjson'
+  ctx.body = Property.find({}, { name: 1 })
+    .sort({ name: 1 })
+    .lean()
+    .cursor()
+    .pipe(
+      new Transform({
+        objectMode: true,
+        transform(chunk, encoding, callback) {
+          this.push(`${JSON.stringify(chunk)}\n`)
+          callback()
+        },
+      })
+    )
 })
 
 router.get('/properties/:name', async ctx => {

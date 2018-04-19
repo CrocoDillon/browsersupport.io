@@ -1,5 +1,8 @@
 require('dotenv').config()
 
+const http = require('http')
+const { URL } = require('url')
+
 const Koa = require('koa')
 const Router = require('koa-router')
 const next = require('next')
@@ -36,9 +39,52 @@ app.prepare().then(() => {
     ctx.respond = false
   })
 
-  router.get('/sitemap', async ctx => {
-    await app.render(ctx.req, ctx.res, '/sitemap', ctx.query)
-    ctx.respond = false
+  let sitemap = null
+
+  router.get('/sitemap.txt', async ctx => {
+    if (sitemap === null) {
+      sitemap = new Promise((resolve, reject) => {
+        const options = new URL(process.env.API_URL)
+        options.pathname = '/properties/stream'
+
+        const req = http.request(options, res => {
+          let data = 'https://browsersupport.io/\n'
+
+          res.setEncoding('utf8')
+
+          res.on('data', chunk => {
+            try {
+              const property = JSON.parse(chunk.toString('utf8'))
+
+              data += `https://browsersupport.io/${property.name}\n`
+            } catch (e) {
+              reject(e)
+            }
+          })
+
+          res.on('error', e => {
+            reject(e)
+          })
+
+          res.on('end', () => {
+            resolve(data)
+          })
+        })
+
+        req.on('error', e => {
+          reject(e)
+        })
+
+        req.end()
+      })
+    }
+
+    try {
+      ctx.body = await sitemap
+    } catch (e) {
+      sitemap = null
+      ctx.status = 500
+    }
   })
 
   router.get('/:name', async ctx => {
