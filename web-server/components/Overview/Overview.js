@@ -30,7 +30,7 @@ const Overview = () => (
     <p>Some examples:</p>
     <ol className={styles.examples}>
       {examples.map(example => (
-        <li className={styles.example}>
+        <li key={example} className={styles.example}>
           <h3>
             <Breadcrumbs name={example} />
           </h3>

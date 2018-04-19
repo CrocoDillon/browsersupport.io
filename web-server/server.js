@@ -48,18 +48,12 @@ app.prepare().then(() => {
         options.pathname = '/properties/stream'
 
         const req = http.request(options, res => {
-          let data = 'https://browsersupport.io/\n'
+          let data = ''
 
           res.setEncoding('utf8')
 
           res.on('data', chunk => {
-            try {
-              const property = JSON.parse(chunk.toString('utf8'))
-
-              data += `https://browsersupport.io/${property.name}\n`
-            } catch (e) {
-              reject(e)
-            }
+            data += chunk
           })
 
           res.on('error', e => {
@@ -67,7 +61,22 @@ app.prepare().then(() => {
           })
 
           res.on('end', () => {
-            resolve(data)
+            let txt = 'https://browsersupport.io/\n'
+
+            data
+              .trim()
+              .split('\n')
+              .forEach(json => {
+                try {
+                  const property = JSON.parse(json)
+
+                  txt += `https://browsersupport.io/${property.name}\n`
+                } catch (e) {
+                  reject(e)
+                }
+              })
+
+            resolve(txt)
           })
         })
 
@@ -82,6 +91,7 @@ app.prepare().then(() => {
     try {
       ctx.body = await sitemap
     } catch (e) {
+      console.error(e)
       sitemap = null
       ctx.status = 500
     }
