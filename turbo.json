@@ -1,0 +1,41 @@
+{
+  "$schema": "./node_modules/turbo/schema.json",
+  "ui": "tui",
+  "globalEnv": ["NODE_ENV"],
+  "globalPassThroughEnv": ["CI", "NODE_USE_SYSTEM_CA", "NODE_OPTIONS"],
+  "tasks": {
+    "build": {
+      "dependsOn": ["^build", "^check-types"],
+      "inputs": ["$TURBO_DEFAULT$", ".env", ".env.*"],
+      "env": [
+        "MONGODB_URI",
+        "MONGODB_DATABASE",
+        "VERCEL_ENV",
+        "VERCEL",
+        "NEXT_DEPLOYMENT_ID"
+      ],
+      "outputs": [".next/**", "!.next/cache/**", "!.next/dev/**"]
+    },
+    "check-types": {
+      "dependsOn": ["^check-types"]
+    },
+    "dev": {
+      "cache": false,
+      "persistent": true,
+      "passThroughEnv": ["MONGODB_URI", "MONGODB_DATABASE"]
+    },
+    "lint": {
+      "dependsOn": ["^lint"]
+    },
+    "test": {
+      "outputs": [],
+      "dependsOn": ["^check-types"]
+    }
+  },
+  "globalDependencies": [
+    "eslint.config.ts",
+    "prettier.config.ts",
+    "tsconfig.json",
+    "pnpm-workspace.yaml"
+  ]
+}

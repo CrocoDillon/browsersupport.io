@@ -1,0 +1,9 @@
+node_modules
+.next
+.turbo
+.vercel
+.qa
+.agents
+pnpm-lock.yaml
+coverage
+

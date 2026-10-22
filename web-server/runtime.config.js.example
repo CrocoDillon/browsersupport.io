@@ -1,6 +1,0 @@
-module.exports = {
-  serverRuntimeConfig: {},
-  publicRuntimeConfig: {
-    https: false,
-  },
-}

@@ -1,0 +1,9 @@
+apps/lab
+.qa
+.agents
+.git
+**/.env*
+**/*.archive*
+**/*.bson
+coverage
+
