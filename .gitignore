@@ -18,4 +18,3 @@ next-env.d.ts
 *.bson
 *.sql
 *.log
-

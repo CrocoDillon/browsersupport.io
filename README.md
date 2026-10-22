@@ -73,3 +73,9 @@ Deploy only apps/web as the browsersupport project. Project settings:
 - Connect the Browsersupport free Atlas resource to development, preview, and production.
 
 A deployment to a Vercel URL does not move browsersupport.io automatically. Verify the deployment before updating the domain’s DNS, and keep the old host until the domain serves the new site correctly. Backups and migration exports belong outside this public repository and must never be uploaded to Vercel.
+
+## Security audit notes
+
+Production dependencies have no reported advisories as of 22 October 2026. The full development audit reports two upstream advisories with no published patched release: [braces through the Next.js ESLint plugin](https://github.com/advisories/GHSA-vfj7-8cjw-p6xm), and [sprintf-js through Jest coverage tooling](https://github.com/advisories/GHSA-hp3w-g68c-fv3c). Both concern denial of service when processing crafted tooling inputs. They are not public request handlers; do not run the tooling against untrusted patterns or formatting inputs. They are recorded here rather than suppressed in pnpm. Recheck upstream fixes when updating the stack.
+
+Property pages are generated and cached on first visit, then revalidated hourly. New lab observations can take up to an hour to appear on an already cached public property page.

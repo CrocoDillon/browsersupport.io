@@ -9,6 +9,10 @@ import { SupportTable } from '../components/support-table'
 import { Search } from '../components/search'
 import { Copy } from '../components/copy'
 export const revalidate = 3600
+// Keep the archive out of build-time generation; cache each path on its first visit.
+export function generateStaticParams() {
+  return []
+}
 type Props = { params: Promise<{ name: string }> }
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { name } = await params
