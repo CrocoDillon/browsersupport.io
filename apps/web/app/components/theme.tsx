@@ -24,7 +24,7 @@ export function ThemeSwitch() {
         type="button"
         aria-label="Toggle light and dark theme"
         title="Toggle light and dark theme"
-        className="hover:bg-leaf rounded-sm p-2 text-muted hover:text-accent"
+        className="rounded-sm p-2 text-muted hover:bg-leaf hover:text-accent"
         onClick={() => setTheme(resolvedTheme === 'dark' ? 'light' : 'dark')}
       >
         <svg
@@ -53,7 +53,7 @@ export function ThemeSwitch() {
         type="button"
         aria-label="Use system theme"
         title="Use system theme"
-        className="hover:bg-leaf rounded-sm px-2 py-2 text-xs text-muted hover:text-accent"
+        className="rounded-sm px-2 py-2 text-xs text-muted hover:bg-leaf hover:text-accent"
         onClick={() => setTheme('system')}
       >
         Auto
