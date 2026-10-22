@@ -4,6 +4,7 @@
   --color-paper: var(--paper);
   --color-ink: var(--ink);
   --color-accent: var(--accent);
+  --color-leaf: var(--leaf);
   --color-muted: var(--muted);
   --font-sans: 'Inter', Arial, sans-serif;
   --font-mono: 'SFMono-Regular', Consolas, 'Liberation Mono', monospace;
@@ -163,14 +164,6 @@ h3 {
   align-items: center;
   border-left: 1px solid var(--rule);
   padding-left: 20px;
-}
-.theme-switch select {
-  background: transparent;
-  border: 0;
-  color: var(--muted);
-  width: 77px;
-  padding-block: 8px;
-  font-size: 12px;
 }
 .skip-link {
   position: fixed;
@@ -968,10 +961,6 @@ h3 {
   }
   .theme-switch {
     padding-left: 12px;
-  }
-  .theme-switch select {
-    width: 65px;
-    font-size: 11px;
   }
   .hero {
     padding-top: 55px;

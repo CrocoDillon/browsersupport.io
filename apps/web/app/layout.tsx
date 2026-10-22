@@ -1,3 +1,4 @@
+import { Analytics } from '@vercel/analytics/next'
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import '@fontsource/inter/400.css'
@@ -72,6 +73,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
             </div>
           </footer>
         </Themes>
+        <Analytics />
       </body>
     </html>
   )
