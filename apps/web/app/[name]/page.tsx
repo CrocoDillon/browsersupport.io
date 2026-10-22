@@ -14,8 +14,18 @@ export function generateStaticParams() {
   return []
 }
 type Props = { params: Promise<{ name: string }> }
-export async function generateMetadata({ params }: Props): Promise<Metadata> {
+async function getPropertyName(params: Props['params']) {
   const { name } = await params
+  try {
+    // Page params retain URL encoding for symbols and other special characters.
+    return validName(decodeURIComponent(name))
+  } catch (error) {
+    if (error instanceof InputError || error instanceof URIError) notFound()
+    throw error
+  }
+}
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const name = await getPropertyName(params)
   return {
     title: name,
     description:
@@ -26,13 +36,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   }
 }
 export default async function PropertyPage({ params }: Props) {
-  const { name } = await params
-  try {
-    validName(name)
-  } catch (error) {
-    if (error instanceof InputError) notFound()
-    throw error
-  }
+  const name = await getPropertyName(params)
   const property = await findProperty(name)
   if (!property) {
     const matches = await suggestions(name)
