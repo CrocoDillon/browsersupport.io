@@ -1,0 +1,36 @@
+{
+  "name": "browsersupport",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@11.25.0",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "build": "turbo run build --filter=@browsersupport/web",
+    "dev": "turbo run dev --filter=@browsersupport/web",
+    "dev:lab": "turbo run dev --filter=@browsersupport/lab",
+    "lint": "turbo run lint",
+    "check-types": "turbo run check-types",
+    "test": "turbo run test",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "db:indexes": "node --env-file=.env.local --experimental-strip-types packages/data/scripts/indexes.ts",
+    "db:check": "node --env-file=.env.local --experimental-strip-types packages/data/scripts/check.ts"
+  },
+  "devDependencies": {
+    "@types/jest": "30.0.0",
+    "@types/node": "24.13.4",
+    "eslint": "9.39.5",
+    "eslint-config-next": "16.4.2",
+    "eslint-config-prettier": "10.1.8",
+    "jiti": "2.7.0",
+    "jest": "30.5.1",
+    "jest-environment-jsdom": "30.5.1",
+    "prettier": "3.9.10",
+    "prettier-plugin-tailwindcss": "0.8.1",
+    "ts-node": "10.9.2",
+    "turbo": "2.10.12",
+    "typescript": "5.9.3"
+  }
+}
