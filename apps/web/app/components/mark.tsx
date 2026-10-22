@@ -7,18 +7,12 @@ export function Mark({ className = '' }: { className?: string }) {
       aria-hidden="true"
     >
       <rect x="2" y="3" width="36" height="34" rx="10" fill="currentColor" />
-      <path d="M3 13h34" stroke="var(--color-paper)" strokeOpacity=".35" />
-      <circle cx="10" cy="8.5" r="1.5" fill="var(--color-paper)" />
-      <circle
-        cx="15"
-        cy="8.5"
-        r="1.5"
-        fill="var(--color-paper)"
-        opacity=".45"
-      />
+      <path d="M3 13h34" stroke="var(--paper)" strokeOpacity=".35" />
+      <circle cx="10" cy="8.5" r="1.5" fill="var(--paper)" />
+      <circle cx="15" cy="8.5" r="1.5" fill="var(--paper)" opacity=".45" />
       <path
         d="m12 24 5 5 11-11"
-        stroke="var(--color-paper)"
+        stroke="var(--paper)"
         strokeWidth="3.2"
         strokeLinecap="round"
         strokeLinejoin="round"

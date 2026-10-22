@@ -1,4 +1,6 @@
 @import 'tailwindcss';
+/* The local lab imports this stylesheet and these shared components. */
+@source './components';
 @custom-variant dark (&:where(.dark, .dark *));
 @theme inline {
   --color-paper: var(--paper);
